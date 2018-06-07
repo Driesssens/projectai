@@ -11,7 +11,7 @@ class Configuration(object):
         with open(folder + '/configuration.json', "a+") as json_file:
             configurations = json.load(json_file)
 
-        return cls(configurations)
+        return cls(**configurations)
 
     def __init__(self, **configurations):
         self.configurations = {}
