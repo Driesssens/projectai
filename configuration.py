@@ -6,6 +6,9 @@ DEFAULTS = {
 
 
 class Configuration(object):
+    MESSY = "messy"
+    CLEAN = "clean"
+
     @classmethod
     def from_json(cls, folder):
         with open(folder + '/configuration.json', "a+") as json_file:

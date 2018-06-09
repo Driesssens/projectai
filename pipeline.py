@@ -23,34 +23,67 @@ def continue_experiment(experiment_name, configuration=None):
     if configuration is None:
         configuration = Configuration.from_json(output_folder)
 
-    if not os.path.exists(output_folder + "/labeled"):
-        if not os.path.exists(output_folder + "/decorated"):
-            os.makedirs(output_folder + "/decorated")
+    if configuration.style == Configuration.CLEAN:
+        clean_experiment(experiment_name, configuration)
+    elif configuration.style == Configuration.MESSY:
+        messy_experiment(experiment_name, configuration)
 
-        for the_file in FileBacklog(output_folder + "/decorated", configuration):
-            decorate(the_file, output_folder, configuration)
+
+def messy_experiment(experiment_name, configuration):
+    output_folder = 'output/{}'.format(experiment_name)
 
     if not os.path.exists(output_folder + "/matrices"):
         if not os.path.exists(output_folder + "/labeled"):
             os.makedirs(output_folder + "/labeled")
 
         files = FileBacklog(output_folder + "/labeled", configuration).backlog
-        label(files, output_folder, configuration)
+        label_messy(files, output_folder, configuration)
 
     if not os.path.exists(output_folder + "/done"):
-        count(output_folder, configuration)
+        count_messy(output_folder, configuration)
 
     open(output_folder + '/done', 'w+')
 
 
-def decorate(the_file, output_folder, configuration):
+def clean_experiment(experiment_name, configuration):
+    output_folder = 'output/{}'.format(experiment_name)
+
+    if not os.path.exists(output_folder + "/labeled"):
+        if not os.path.exists(output_folder + "/decorated"):
+            os.makedirs(output_folder + "/decorated")
+
+        for the_file in FileBacklog(output_folder + "/decorated", configuration):
+            decorate_clean(the_file, output_folder, configuration)
+
+    if not os.path.exists(output_folder + "/matrices"):
+        if not os.path.exists(output_folder + "/labeled"):
+            os.makedirs(output_folder + "/labeled")
+
+        files = FileBacklog(output_folder + "/labeled", configuration).backlog
+        label_clean(files, output_folder, configuration)
+
+    if not os.path.exists(output_folder + "/done"):
+        count_clean(output_folder, configuration)
+
+    open(output_folder + '/done', 'w+')
+
+
+def label_messy(files, output_folder, configuration):
+    pass
+
+
+def count_messy(files, output_folder, configuration):
+    pass
+
+
+def decorate_clean(the_file, output_folder, configuration):
     open(output_folder + '/decorated' + "/{}.json".format(the_file), 'w+')
     pass
 
 
-def label(files, output_folder, configuration):
+def label_clean(files, output_folder, configuration):
     pass
 
 
-def count(coutput_folder, onfiguration):
+def count_clean(output_folder, configuration):
     pass
