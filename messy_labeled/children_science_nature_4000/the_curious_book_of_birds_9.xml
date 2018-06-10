@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="the_curious_book_of_birds_9.txt_1" begin="70" end="75">
+    <text>ended</text>
+    <mainVerb begin="70" end="75">ended</mainVerb>
+    <mainReferent begin="77" end="81">came</mainReferent>
+    <tokens>long after the sorrows of Halcyone , the first Kingfisher , were ended</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_2" begin="77" end="81">
+    <text>came</text>
+    <mainVerb begin="77" end="81">came</mainVerb>
+    <tokens>Long came the great storm</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_3" begin="104" end="110">
+    <text>lasted</text>
+    <mainVerb begin="104" end="110">lasted</mainVerb>
+    <mainReferent begin="92" end="97">storm</mainReferent>
+    <tokens>the great storm lasted forty days forty nights</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_4" begin="141" end="148">
+    <text>causing</text>
+    <mainVerb begin="141" end="148">causing</mainVerb>
+    <mainReferent begin="92" end="97">storm</mainReferent>
+    <tokens>causing the worst flood</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_5" begin="190" end="195">
+    <text>known</text>
+    <mainVerb begin="190" end="195">known</mainVerb>
+    <mainReferent begin="175" end="180">world</mainReferent>
+    <tokens>the worst flood the world has ever known</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_6" begin="202" end="205">
+    <text>was</text>
+    <mainVerb begin="202" end="205">was</mainVerb>
+    <mainReferent begin="197" end="201">That</mainReferent>
+    <tokens>That was a terrible</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_7" begin="241" end="249">
+    <text>hastened</text>
+    <mainVerb begin="241" end="249">hastened</mainVerb>
+    <mainReferent begin="236" end="240">Noah</mainReferent>
+    <tokens>When Father Noah hastened to build his ark</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_8" begin="268" end="276">
+    <text>inviting</text>
+    <mainVerb begin="268" end="276">inviting</mainVerb>
+    <mainReferent begin="236" end="240">Noah</mainReferent>
+    <tokens>inviting the animals birds to take refuge with him</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_9" begin="348" end="351">
+    <text>was</text>
+    <mainVerb begin="348" end="351">was</mainVerb>
+    <mainReferent begin="340" end="347">herself</mainReferent>
+    <tokens>the Kingfisher herself was to go aboard</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_10" begin="386" end="395">
+    <text>protected</text>
+    <mainVerb begin="386" end="395">protected</mainVerb>
+    <mainReferent begin="381" end="384">she</mainReferent>
+    <tokens>protected Æolus from the fury of winds and waters</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_11" begin="441" end="444">
+    <text>was</text>
+    <mainVerb begin="441" end="444">was</mainVerb>
+    <mainReferent begin="381" end="384">she</mainReferent>
+    <tokens>For even she was not</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_12" begin="466" end="469">
+    <text>was</text>
+    <mainVerb begin="466" end="469">was</mainVerb>
+    <mainReferent begin="473" end="478">place</mainReferent>
+    <tokens>while there was no place in all the world for her to rest foot weary wing</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_13" begin="552" end="561">
+    <text>fluttered</text>
+    <mainVerb begin="552" end="561">fluttered</mainVerb>
+    <mainReferent begin="541" end="551">Kingfisher</mainReferent>
+    <tokens>So the Kingfisher fluttered in with the other birds and animals a strange company</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_14" begin="634" end="639">
+    <text>lived</text>
+    <mainVerb begin="634" end="639">lived</mainVerb>
+    <mainReferent begin="629" end="633">they</mainReferent>
+    <tokens>there they lived all together Noah his arkful of pets for many weary days</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_15" begin="723" end="728">
+    <text>raged</text>
+    <mainVerb begin="723" end="728">raged</mainVerb>
+    <mainReferent begin="716" end="722">waters</mainReferent>
+    <tokens>while the waters raged</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_16" begin="743" end="749">
+    <text>howled</text>
+    <mainVerb begin="743" end="749">howled</mainVerb>
+    <mainReferent begin="716" end="722">waters</mainReferent>
+    <tokens>the winds howled outside</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_17" begin="782" end="789">
+    <text>covered</text>
+    <mainVerb begin="782" end="789">covered</mainVerb>
+    <mainReferent begin="629" end="633">they</mainReferent>
+    <tokens>all the earth was covered fathoms deep of sight below the waves</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_18" begin="867" end="873">
+    <text>ceased</text>
+    <mainVerb begin="867" end="873">ceased</mainVerb>
+    <mainReferent begin="861" end="866">storm</mainReferent>
+    <tokens>after long weeks the storm ceased</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_19" begin="891" end="897">
+    <text>opened</text>
+    <mainVerb begin="891" end="897">opened</mainVerb>
+    <mainReferent begin="861" end="866">storm</mainReferent>
+    <tokens>Father Noah opened the little window in the ark</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_20" begin="932" end="936">
+    <text>sent</text>
+    <mainVerb begin="932" end="936">sent</mainVerb>
+    <mainReferent begin="886" end="890">Noah</mainReferent>
+    <tokens>Father Noah sent forth the Dove to see not</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_21" begin="981" end="984">
+    <text>was</text>
+    <mainVerb begin="981" end="984">was</mainVerb>
+    <tokens>whether not there was land visible</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_22" begin="1021" end="1025">
+    <text>find</text>
+    <mainVerb begin="1021" end="1025">find</mainVerb>
+    <mainReferent begin="1011" end="1014">ark</mainReferent>
+    <tokens>which the ark might find rest</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_23" begin="1049" end="1053">
+    <text>sent</text>
+    <mainVerb begin="1049" end="1053">sent</mainVerb>
+    <mainReferent begin="1042" end="1044">he</mainReferent>
+    <tokens>Now after he had sent out the Dove</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_24" begin="1074" end="1080">
+    <text>looked</text>
+    <mainVerb begin="1074" end="1080">looked</mainVerb>
+    <mainReferent begin="1069" end="1073">Noah</mainReferent>
+    <tokens>Noah looked about him at the other birds and animals which crowded around him eagerly</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_25" begin="1129" end="1136">
+    <text>crowded</text>
+    <mainVerb begin="1129" end="1136">crowded</mainVerb>
+    <mainReferent begin="1104" end="1109">birds</mainReferent>
+    <tokens>the other birds animals crowded around him eagerly</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_26" begin="1171" end="1178">
+    <text>growing</text>
+    <mainVerb begin="1171" end="1178">growing</mainVerb>
+    <mainReferent begin="1161" end="1165">they</mainReferent>
+    <tokens>for they were growing very restless from their long confinement</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_27" begin="1230" end="1234">
+    <text>said</text>
+    <mainVerb begin="1230" end="1234">said</mainVerb>
+    <mainReferent begin="1069" end="1073">Noah</mainReferent>
+    <tokens>he said</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_28" begin="1250" end="1252">
+    <text>is</text>
+    <mainVerb begin="1250" end="1252">is</mainVerb>
+    <mainReferent begin="1253" end="1260">bravest</mainReferent>
+    <tokens>" Which of you is bravest</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_29" begin="1272" end="1276">
+    <text>dare</text>
+    <mainVerb begin="1272" end="1276">dare</mainVerb>
+    <mainReferent begin="1227" end="1229">he</mainReferent>
+    <tokens>he will dare</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_30" begin="1277" end="1283">
+    <text>follow</text>
+    <mainVerb begin="1277" end="1283">follow</mainVerb>
+    <tokens>follow our friend the Dove out into the watery world</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_31" begin="1340" end="1342">
+    <text>is</text>
+    <mainVerb begin="1340" end="1342">is</mainVerb>
+    <mainReferent begin="1348" end="1358">Kingfisher</mainReferent>
+    <tokens>Ah here is the Kingfisher</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_32" begin="1389" end="1395">
+    <text>reared</text>
+    <mainVerb begin="1389" end="1395">reared</mainVerb>
+    <mainReferent begin="1367" end="1373">mother</mainReferent>
+    <tokens>you at least reared among the winds and waters</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_33" begin="1434" end="1436">
+    <text>be</text>
+    <mainVerb begin="1434" end="1436">be</mainVerb>
+    <mainReferent begin="1367" end="1373">mother</mainReferent>
+    <tokens>Little mother will not be</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_34" begin="1445" end="1449">
+    <text>Take</text>
+    <mainVerb begin="1445" end="1449">Take</mainVerb>
+    <tokens>Take wing O Kingfisher</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_35" begin="1474" end="1477">
+    <text>see</text>
+    <mainVerb begin="1474" end="1477">see</mainVerb>
+    <tokens>see</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_36" begin="1492" end="1494">
+    <text>be</text>
+    <mainVerb begin="1492" end="1494">be</mainVerb>
+    <mainReferent begin="1486" end="1491">earth</mainReferent>
+    <tokens>if the earth be</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_37" begin="1509" end="1515">
+    <text>return</text>
+    <mainVerb begin="1509" end="1515">return</mainVerb>
+    <tokens>Then return quickly "</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_38" begin="1528" end="1533">
+    <text>bring</text>
+    <mainVerb begin="1528" end="1533">bring</mainVerb>
+    <tokens>bring me faithful word</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_39" begin="1564" end="1568">
+    <text>find</text>
+    <mainVerb begin="1564" end="1568">find</mainVerb>
+    <mainReferent begin="1546" end="1550">word</mainReferent>
+    <tokens>what you find out yonder</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_40" begin="1598" end="1607">
+    <text>beginning</text>
+    <mainVerb begin="1598" end="1607">beginning</mainVerb>
+    <mainReferent begin="1585" end="1588">Day</mainReferent>
+    <tokens>Day was just beginning to dawn</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_41" begin="1641" end="1644">
+    <text>was</text>
+    <mainVerb begin="1641" end="1644">was</mainVerb>
+    <mainReferent begin="1625" end="1635">Kingfisher</mainReferent>
+    <tokens>the Kingfisher was then as as gray</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_42" begin="1668" end="1672">
+    <text>flew</text>
+    <mainVerb begin="1668" end="1672">flew</mainVerb>
+    <mainReferent begin="1625" end="1635">Kingfisher</mainReferent>
+    <tokens>when the Kingfisher flew out from the little window of the ark whence the Dove had preceded her</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_43" begin="1732" end="1740">
+    <text>preceded</text>
+    <mainVerb begin="1732" end="1740">preceded</mainVerb>
+    <mainReferent begin="1722" end="1726">Dove</mainReferent>
+    <tokens>the Dove had preceded her</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_44" begin="1757" end="1760">
+    <text>had</text>
+    <mainVerb begin="1757" end="1760">had</mainVerb>
+    <mainReferent begin="1779" end="1786">shelter</mainReferent>
+    <tokens>But hardly had she left the safe shelter of Father Noah 's floating home</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_45" begin="1831" end="1835">
+    <text>came</text>
+    <mainVerb begin="1831" end="1835">came</mainVerb>
+    <mainReferent begin="1849" end="1858">whirlwind</mainReferent>
+    <tokens>the safe shelter of Father Noah 's floating home when there came a tremendous whirlwind</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_46" begin="1865" end="1869">
+    <text>blew</text>
+    <mainVerb begin="1865" end="1869">blew</mainVerb>
+    <mainReferent begin="1849" end="1858">whirlwind</mainReferent>
+    <tokens>a tremendous whirlwind blew her</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_47" begin="1885" end="1893">
+    <text>buffeted</text>
+    <mainVerb begin="1885" end="1893">buffeted</mainVerb>
+    <mainReferent begin="1849" end="1858">whirlwind</mainReferent>
+    <tokens>a tremendous whirlwind buffeted her</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_48" begin="1919" end="1925">
+    <text>beaten</text>
+    <mainVerb begin="1919" end="1925">beaten</mainVerb>
+    <mainReferent begin="1904" end="1907">she</mainReferent>
+    <tokens>until she was almost beaten into the waves , which rolled endlessly over the face of the whole earth</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_49" begin="1949" end="1955">
+    <text>rolled</text>
+    <mainVerb begin="1949" end="1955">rolled</mainVerb>
+    <mainReferent begin="1935" end="1940">waves</mainReferent>
+    <tokens>the waves rolled endlessly over the face of the whole earth</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_50" begin="2000" end="2008">
+    <text>covering</text>
+    <mainVerb begin="2000" end="2008">covering</mainVerb>
+    <mainReferent begin="1779" end="1786">shelter</mainReferent>
+    <tokens>covering the high hills the very mountains</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_51" begin="2077" end="2087">
+    <text>frightened</text>
+    <mainVerb begin="2077" end="2087">frightened</mainVerb>
+    <mainReferent begin="2053" end="2063">Kingfisher</mainReferent>
+    <tokens>The Kingfisher was greatly frightened</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_52" begin="2103" end="2105">
+    <text>go</text>
+    <mainVerb begin="2103" end="2105">go</mainVerb>
+    <mainReferent begin="2089" end="2092">She</mainReferent>
+    <tokens>She could not go back into the ark , for the little window was closed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_53" begin="2152" end="2158">
+    <text>closed</text>
+    <mainVerb begin="2152" end="2158">closed</mainVerb>
+    <mainReferent begin="2120" end="2123">ark</mainReferent>
+    <tokens>for the little window was closed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_54" begin="2170" end="2173">
+    <text>was</text>
+    <mainVerb begin="2170" end="2173">was</mainVerb>
+    <mainReferent begin="2089" end="2092">She</mainReferent>
+    <tokens>there was no land anywhere</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_55" begin="2210" end="2214">
+    <text>take</text>
+    <mainVerb begin="2210" end="2214">take</mainVerb>
+    <mainReferent begin="2200" end="2203">she</mainReferent>
+    <tokens>no land anywhere she could take refuge</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_56" begin="2229" end="2234">
+    <text>think</text>
+    <mainVerb begin="2229" end="2234">think</mainVerb>
+    <mainReferent begin="2277" end="2280">was</mainReferent>
+    <tokens>Just think for a moment what a dreadful situation</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_57" begin="2277" end="2280">
+    <text>was</text>
+    <mainVerb begin="2277" end="2280">was</mainVerb>
+    <mainReferent begin="2274" end="2276">it</mainReferent>
+    <tokens>it was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_58" begin="2289" end="2292">
+    <text>was</text>
+    <mainVerb begin="2289" end="2292">was</mainVerb>
+    <mainReferent begin="2293" end="2300">nothing</mainReferent>
+    <tokens>There was nothing for her to do but to fly up straight up of reach from the tossing waves and dashing spray</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_59" begin="2417" end="2420">
+    <text>was</text>
+    <mainVerb begin="2417" end="2420">was</mainVerb>
+    <mainReferent begin="2406" end="2416">Kingfisher</mainReferent>
+    <tokens>The Kingfisher was vigorous her wings powerful</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_60" begin="2455" end="2459">
+    <text>were</text>
+    <mainVerb begin="2455" end="2459">were</mainVerb>
+    <mainReferent begin="2449" end="2454">wings</mainReferent>
+    <tokens>her wings were powerful</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_61" begin="2499" end="2506">
+    <text>resting</text>
+    <mainVerb begin="2499" end="2506">resting</mainVerb>
+    <mainReferent begin="2449" end="2454">wings</mainReferent>
+    <tokens>for she had been resting long days in the quiet ark</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_62" begin="2535" end="2541">
+    <text>eating</text>
+    <mainVerb begin="2535" end="2541">eating</mainVerb>
+    <mainReferent begin="2486" end="2489">she</mainReferent>
+    <tokens>eating the provisions</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_63" begin="2593" end="2601">
+    <text>prepared</text>
+    <mainVerb begin="2593" end="2601">prepared</mainVerb>
+    <mainReferent begin="2571" end="2575">Noah</mainReferent>
+    <tokens>the provisions Father Noah had thoughtfully prepared for his many guests</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_64" begin="2638" end="2644">
+    <text>soared</text>
+    <mainVerb begin="2638" end="2644">soared</mainVerb>
+    <mainReferent begin="2634" end="2637">she</mainReferent>
+    <tokens>So up up she soared above the very clouds</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_65" begin="2669" end="2671">
+    <text>on</text>
+    <mainVerb begin="2669" end="2671">on</mainVerb>
+    <tokens>on into the blue ether which lies beyond</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_66" begin="2699" end="2703">
+    <text>lies</text>
+    <mainVerb begin="2699" end="2703">lies</mainVerb>
+    <mainReferent begin="2687" end="2692">ether</mainReferent>
+    <tokens>the blue ether lies beyond</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_67" begin="2727" end="2730">
+    <text>did</text>
+    <mainVerb begin="2727" end="2730">did</mainVerb>
+    <mainReferent begin="2723" end="2726">she</mainReferent>
+    <tokens>as she did so</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_68" begin="2757" end="2763">
+    <text>became</text>
+    <mainVerb begin="2757" end="2763">became</mainVerb>
+    <mainReferent begin="2750" end="2755">dress</mainReferent>
+    <tokens>her sober gray dress became a brilliant blue the color</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_69" begin="2792" end="2798">
+    <text>caught</text>
+    <mainVerb begin="2792" end="2798">caught</mainVerb>
+    <mainReferent begin="2786" end="2791">color</mainReferent>
+    <tokens>caught from the azure of those clear heights</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_70" begin="2861" end="2865">
+    <text>flew</text>
+    <mainVerb begin="2861" end="2865">flew</mainVerb>
+    <mainReferent begin="2857" end="2860">she</mainReferent>
+    <tokens>she flew</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_71" begin="2935" end="2941">
+    <text>forgot</text>
+    <mainVerb begin="2935" end="2941">forgot</mainVerb>
+    <mainReferent begin="2925" end="2928">she</mainReferent>
+    <tokens>that she quite forgot Father Noah the errand</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_72" begin="2994" end="2998">
+    <text>sent</text>
+    <mainVerb begin="2994" end="2998">sent</mainVerb>
+    <mainReferent begin="2925" end="2928">she</mainReferent>
+    <tokens>which she had been sent</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_73" begin="3014" end="3018">
+    <text>went</text>
+    <mainVerb begin="3014" end="3018">went</mainVerb>
+    <mainReferent begin="3010" end="3013">she</mainReferent>
+    <tokens>Up up she went higher than the sun</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_74" begin="3060" end="3063">
+    <text>saw</text>
+    <mainVerb begin="3060" end="3063">saw</mainVerb>
+    <mainReferent begin="3056" end="3059">she</mainReferent>
+    <tokens>until at last she saw him rising far beneath her a beautiful ball of fire more dazzling more wonderful</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_75" begin="3167" end="3174">
+    <text>guessed</text>
+    <mainVerb begin="3167" end="3174">guessed</mainVerb>
+    <mainReferent begin="3154" end="3157">she</mainReferent>
+    <tokens>than she had ever guessed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_76" begin="3180" end="3184">
+    <text>Hola</text>
+    <mainVerb begin="3180" end="3184">Hola</mainVerb>
+    <tokens>" Hola "</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_77" begin="3191" end="3196">
+    <text>cried</text>
+    <mainVerb begin="3191" end="3196">cried</mainVerb>
+    <mainReferent begin="3187" end="3190">she</mainReferent>
+    <tokens>she cried beside herself with joy at the sight</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_78" begin="3243" end="3245">
+    <text>is</text>
+    <mainVerb begin="3243" end="3245">is</mainVerb>
+    <mainReferent begin="3256" end="3259">sun</mainReferent>
+    <tokens>" There is the dear sun</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_79" begin="3277" end="3281">
+    <text>seen</text>
+    <mainVerb begin="3277" end="3281">seen</mainVerb>
+    <mainReferent begin="3266" end="3267">I</mainReferent>
+    <tokens>the dear sun I have not seen for many days</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_80" begin="3329" end="3331">
+    <text>is</text>
+    <mainVerb begin="3329" end="3331">is</mainVerb>
+    <mainReferent begin="3326" end="3328">he</mainReferent>
+    <tokens>And how near how beautiful he is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_81" begin="3340" end="3343">
+    <text>fly</text>
+    <mainVerb begin="3340" end="3343">fly</mainVerb>
+    <mainReferent begin="3333" end="3334">I</mainReferent>
+    <tokens>I will fly closer still now</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_82" begin="3374" end="3378">
+    <text>come</text>
+    <mainVerb begin="3374" end="3378">come</mainVerb>
+    <mainReferent begin="3367" end="3368">I</mainReferent>
+    <tokens>that I have come so near</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_83" begin="3396" end="3403">
+    <text>observe</text>
+    <mainVerb begin="3396" end="3403">observe</mainVerb>
+    <mainReferent begin="3389" end="3390">I</mainReferent>
+    <tokens>I will observe him in all his splendor "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_84" begin="3501" end="3505">
+    <text>seen</text>
+    <mainVerb begin="3501" end="3505">seen</mainVerb>
+    <mainReferent begin="3441" end="3445">bird</mainReferent>
+    <tokens>as no other bird not even the high-flying sharp-eyed Eagle has ever seen him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_85" begin="3552" end="3558">
+    <text>turned</text>
+    <mainVerb begin="3552" end="3558">turned</mainVerb>
+    <mainReferent begin="3541" end="3551">Kingfisher</mainReferent>
+    <tokens>that the foolish Kingfisher turned her course downward with such mad , headlong speed that she had scarcely time to feel what terrible</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_86" begin="3624" end="3632">
+    <text>scarcely</text>
+    <mainVerb begin="3624" end="3632">scarcely</mainVerb>
+    <mainReferent begin="3605" end="3610">speed</mainReferent>
+    <tokens>that she had scarcely time to feel what terrible</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_87" begin="3678" end="3682">
+    <text>shot</text>
+    <mainVerb begin="3678" end="3682">shot</mainVerb>
+    <mainReferent begin="3673" end="3677">heat</mainReferent>
+    <tokens>And with increasing heat shot from the sun 's rays</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_88" begin="3714" end="3717">
+    <text>was</text>
+    <mainVerb begin="3714" end="3717">was</mainVerb>
+    <mainReferent begin="3710" end="3713">she</mainReferent>
+    <tokens>until she was so upon him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_89" begin="3745" end="3748">
+    <text>was</text>
+    <mainVerb begin="3745" end="3748">was</mainVerb>
+    <mainReferent begin="3742" end="3744">it</mainReferent>
+    <tokens>that it was too to escape</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_90" begin="3782" end="3785">
+    <text>was</text>
+    <mainVerb begin="3782" end="3785">was</mainVerb>
+    <mainReferent begin="3777" end="3781">that</mainReferent>
+    <tokens>Oh but that was a dreadful</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_91" begin="3850" end="3858">
+    <text>scorched</text>
+    <mainVerb begin="3850" end="3858">scorched</mainVerb>
+    <mainReferent begin="3810" end="3818">feathers</mainReferent>
+    <tokens>The feathers on her poor little breast were scorched</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_92" begin="3864" end="3867">
+    <text>set</text>
+    <mainVerb begin="3864" end="3867">set</mainVerb>
+    <mainReferent begin="3810" end="3818">feathers</mainReferent>
+    <tokens>The feathers on her poor little breast set afire</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_93" begin="3883" end="3889">
+    <text>seemed</text>
+    <mainVerb begin="3883" end="3889">seemed</mainVerb>
+    <mainReferent begin="3810" end="3818">feathers</mainReferent>
+    <tokens>she seemed in danger not only of spoiling her beautiful new blue dress but of being burned into a wretched little cinder</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_94" begin="3964" end="3970">
+    <text>burned</text>
+    <mainVerb begin="3964" end="3970">burned</mainVerb>
+    <mainReferent begin="3893" end="3899">danger</mainReferent>
+    <tokens>being burned into a wretched little cinder</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_95" begin="4012" end="4022">
+    <text>frightened</text>
+    <mainVerb begin="4012" end="4022">frightened</mainVerb>
+    <tokens>Horribly frightened at her danger</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_96" begin="4053" end="4059">
+    <text>turned</text>
+    <mainVerb begin="4053" end="4059">turned</mainVerb>
+    <mainReferent begin="4042" end="4052">Kingfisher</mainReferent>
+    <tokens>the Kingfisher turned once more this time toward the rolling waters which covered the earth</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_97" begin="4118" end="4125">
+    <text>covered</text>
+    <mainVerb begin="4118" end="4125">covered</mainVerb>
+    <mainReferent begin="4105" end="4111">waters</mainReferent>
+    <tokens>the rolling waters covered the earth</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_98" begin="4153" end="4160">
+    <text>swooped</text>
+    <mainVerb begin="4153" end="4160">swooped</mainVerb>
+    <mainReferent begin="4149" end="4152">she</mainReferent>
+    <tokens>Down down she swooped until with the hiss of burning feathers she splashed into the cold wetness</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_99" begin="4207" end="4215">
+    <text>splashed</text>
+    <mainVerb begin="4207" end="4215">splashed</mainVerb>
+    <mainReferent begin="4202" end="4205">she</mainReferent>
+    <tokens>she splashed into the cold wetness</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_100" begin="4239" end="4246">
+    <text>putting</text>
+    <mainVerb begin="4239" end="4246">putting</mainVerb>
+    <tokens>putting out the fire</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_101" begin="4266" end="4276">
+    <text>threatened</text>
+    <mainVerb begin="4266" end="4276">threatened</mainVerb>
+    <mainReferent begin="4255" end="4259">fire</mainReferent>
+    <tokens>the fire threatened to consume her</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_102" begin="4307" end="4313">
+    <text>thrice</text>
+    <mainVerb begin="4307" end="4313">thrice</mainVerb>
+    <tokens>Once twice thrice</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_103" begin="4319" end="4325">
+    <text>dipped</text>
+    <mainVerb begin="4319" end="4325">dipped</mainVerb>
+    <mainReferent begin="4315" end="4318">she</mainReferent>
+    <tokens>she dipped into the grateful coolness</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_curious_book_of_birds_9.txt_104" begin="4355" end="4363">
+    <text>flirting</text>
+    <mainVerb begin="4355" end="4363">flirting</mainVerb>
+    <tokens>flirting the drops from her blue plumage , now alas</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+</document>

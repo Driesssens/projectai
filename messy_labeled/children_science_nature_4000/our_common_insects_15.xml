@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="our_common_insects_15.txt_1" begin="32" end="38">
+    <text>enable</text>
+    <mainVerb begin="32" end="38">enable</mainVerb>
+    <mainReferent begin="4" end="16">observations</mainReferent>
+    <tokens>The observations of Mr. Emerton enable us still further to clear up the history of this obscure visitor</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_2" begin="109" end="114">
+    <text>found</text>
+    <mainVerb begin="109" end="114">found</mainVerb>
+    <mainReferent begin="106" end="108">He</mainReferent>
+    <tokens>He found both the larva pupa the perfect bee in the cells of both genera</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_3" begin="238" end="245">
+    <text>hatched</text>
+    <mainVerb begin="238" end="245">hatched</mainVerb>
+    <tokens>when hatched from eggs laid in the same cell</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_4" begin="256" end="260">
+    <text>laid</text>
+    <mainVerb begin="256" end="260">laid</mainVerb>
+    <mainReferent begin="251" end="255">eggs</mainReferent>
+    <tokens>laid in the same cell</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_5" begin="279" end="283">
+    <text>feed</text>
+    <mainVerb begin="279" end="283">feed</mainVerb>
+    <mainReferent begin="453" end="456">has</mainReferent>
+    <tokens>so that either both kinds of bee feed on the same pollen mass , which therefore barely suffices for the nourishment of both ; or the hostess</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_6" begin="333" end="341">
+    <text>suffices</text>
+    <mainVerb begin="333" end="341">suffices</mainVerb>
+    <mainReferent begin="304" end="308">mass</mainReferent>
+    <tokens>the same pollen mass therefore barely suffices for the nourishment of both ; or the hostess</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_7" begin="416" end="420">
+    <text>laid</text>
+    <mainVerb begin="416" end="420">laid</mainVerb>
+    <mainReferent begin="412" end="415">egg</mainReferent>
+    <tokens>laid cuckoo-like in her own nest</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_8" begin="453" end="456">
+    <text>has</text>
+    <mainVerb begin="453" end="456">has</mainVerb>
+    <tokens>discovering the strange egg has the forethought to deposit another ball of pollen to secure the safety of her young</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_9" begin="546" end="548">
+    <text>Is</text>
+    <mainVerb begin="546" end="548">Is</mainVerb>
+    <mainReferent begin="557" end="560">act</mainReferent>
+    <tokens>Is such an act the of a blind instinct</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_10" begin="616" end="620">
+    <text>ally</text>
+    <mainVerb begin="616" end="620">ally</mainVerb>
+    <mainReferent begin="601" end="603">it</mainReferent>
+    <tokens>Does it not rather ally our little bee with those higher animals which undoubtedly possess a reasoning power</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_11" begin="680" end="687">
+    <text>possess</text>
+    <mainVerb begin="680" end="687">possess</mainVerb>
+    <mainReferent begin="654" end="661">animals</mainReferent>
+    <tokens>those higher animals undoubtedly possess a reasoning power</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_12" begin="723" end="730">
+    <text>teaches</text>
+    <mainVerb begin="723" end="730">teaches</mainVerb>
+    <mainReferent begin="713" end="721">instinct</mainReferent>
+    <tokens>Its _ instinct _ teaches it to build cells</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_13" begin="754" end="761">
+    <text>prepare</text>
+    <mainVerb begin="754" end="761">prepare</mainVerb>
+    <mainReferent begin="713" end="721">instinct</mainReferent>
+    <tokens>prepare its pollen mass</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_14" begin="784" end="787">
+    <text>lay</text>
+    <mainVerb begin="784" end="787">lay</mainVerb>
+    <mainReferent begin="713" end="721">instinct</mainReferent>
+    <tokens>lay an egg thereon</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_15" begin="817" end="824">
+    <text>enables</text>
+    <mainVerb begin="817" end="824">enables</mainVerb>
+    <mainReferent begin="809" end="815">reason</mainReferent>
+    <tokens>Its _ reason _ enables it in such an instance as this , when the life of the brood is threatened to guard against any such danger by means to which it does not habitually resort</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_16" begin="889" end="899">
+    <text>threatened</text>
+    <mainVerb begin="889" end="899">threatened</mainVerb>
+    <mainReferent begin="868" end="872">life</mainReferent>
+    <tokens>this when the life of the brood is threatened</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_17" begin="977" end="983">
+    <text>resort</text>
+    <mainVerb begin="977" end="983">resort</mainVerb>
+    <mainReferent begin="953" end="955">it</mainReferent>
+    <tokens>by means to which it does not habitually resort</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_18" begin="1002" end="1012">
+    <text>paralleled</text>
+    <mainVerb begin="1002" end="1012">paralleled</mainVerb>
+    <mainReferent begin="990" end="998">instance</mainReferent>
+    <tokens>This instance is paralleled the case of our common summer Yellow bird to the certain destruction of the unwelcome egg in the nest beneath</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_19" begin="1124" end="1130">
+    <text>builds</text>
+    <mainVerb begin="1124" end="1130">builds</mainVerb>
+    <mainReferent begin="1020" end="1024">case</mainReferent>
+    <tokens>the case of our common summer Yellow bird finding an egg of the Cow bunting in its nest often builds a new nest above it</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_20" begin="1301" end="1306">
+    <text>seems</text>
+    <mainVerb begin="1301" end="1306">seems</mainVerb>
+    <mainReferent begin="1292" end="1300">parasite</mainReferent>
+    <tokens>In the structure of the bee , and in all its stages of growth our parasite seems lower in the zoölogical scale than its host</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_21" begin="1359" end="1371">
+    <text>structurally</text>
+    <mainVerb begin="1359" end="1371">structurally</mainVerb>
+    <mainReferent begin="1352" end="1354">It</mainReferent>
+    <tokens>It is structurally a degraded form of Working-bee</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_22" begin="1431" end="1433">
+    <text>is</text>
+    <mainVerb begin="1431" end="1433">is</mainVerb>
+    <mainReferent begin="1412" end="1420">position</mainReferent>
+    <tokens>its position socially is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_23" begin="1449" end="1451">
+    <text>is</text>
+    <mainVerb begin="1449" end="1451">is</mainVerb>
+    <mainReferent begin="1446" end="1448">It</mainReferent>
+    <tokens>It is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_24" begin="1462" end="1468">
+    <text>having</text>
+    <mainVerb begin="1462" end="1468">having</mainVerb>
+    <tokens>not having the provident habits of the Working-bees</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_25" begin="1515" end="1519">
+    <text>aids</text>
+    <mainVerb begin="1515" end="1519">aids</mainVerb>
+    <mainReferent begin="1512" end="1514">it</mainReferent>
+    <tokens>it aids not in the least so far the cross-fertilization of plants -- one great office in the economy of nature which most bees perform</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_26" begin="1551" end="1555">
+    <text>know</text>
+    <mainVerb begin="1551" end="1555">know</mainVerb>
+    <mainReferent begin="1541" end="1544">far</mainReferent>
+    <tokens>as we know</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_27" begin="1652" end="1659">
+    <text>perform</text>
+    <mainVerb begin="1652" end="1659">perform</mainVerb>
+    <mainReferent begin="1647" end="1651">bees</mainReferent>
+    <tokens>nature most bees perform</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_28" begin="1671" end="1673">
+    <text>is</text>
+    <mainVerb begin="1671" end="1673">is</mainVerb>
+    <mainReferent begin="1668" end="1670">it</mainReferent>
+    <tokens>since it is not a</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_29" begin="1718" end="1720">
+    <text>is</text>
+    <mainVerb begin="1718" end="1720">is</mainVerb>
+    <mainReferent begin="1733" end="1737">drag</mainReferent>
+    <tokens>on the contrary is a drag hinderance to the course of nature</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_30" begin="1840" end="1848">
+    <text>provides</text>
+    <mainVerb begin="1840" end="1848">provides</mainVerb>
+    <mainReferent begin="1787" end="1793">nature</mainReferent>
+    <tokens>yet nature kindly as if by a special interposition provides for its maintenance greater joy discovering the cause reason of things that are but a puzzle to the philosophers of this day</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_31" begin="1906" end="1913">
+    <text>exclaim</text>
+    <mainVerb begin="1906" end="1913">exclaim</mainVerb>
+    <mainReferent begin="1787" end="1793">nature</mainReferent>
+    <tokens>the humble naturalist can only exclaim " God his ways mysterious " greater joy discovering the cause reason of things that are but a puzzle to the philosophers of this day</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_32" begin="1920" end="1922">
+    <text>is</text>
+    <mainVerb begin="1920" end="1922">is</mainVerb>
+    <mainReferent begin="1916" end="1919">God</mainReferent>
+    <tokens>God is his ways mysterious</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_33" begin="1961" end="1963">
+    <text>go</text>
+    <mainVerb begin="1961" end="1963">go</mainVerb>
+    <mainReferent begin="1886" end="1896">naturalist</mainReferent>
+    <tokens>the humble naturalist go studying collecting facts leaving to his successors the more difficult task</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_34" begin="2118" end="2121">
+    <text>are</text>
+    <mainVerb begin="2118" end="2121">are</mainVerb>
+    <mainReferent begin="2106" end="2112">things</mainReferent>
+    <tokens>things are but a puzzle</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_35" begin="2199" end="2204">
+    <text>known</text>
+    <mainVerb begin="2199" end="2204">known</mainVerb>
+    <mainReferent begin="2176" end="2181">larva</mainReferent>
+    <tokens>The larva of Nomada may be known from those of its host by its slenderer body smaller head the body more cylindrical</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_36" begin="2285" end="2287">
+    <text>is</text>
+    <mainVerb begin="2285" end="2287">is</mainVerb>
+    <mainReferent begin="2280" end="2284">body</mainReferent>
+    <tokens>while the body is more cylindrical</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_37" begin="2373" end="2378">
+    <text>found</text>
+    <mainVerb begin="2373" end="2378">found</mainVerb>
+    <mainReferent begin="2325" end="2330">sexes</mainReferent>
+    <tokens>Both sexes of Nomada imbricata and N. pulchella were found Mr. Emerton the former in both the Andrena and Halictus nests</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_38" begin="2462" end="2467">
+    <text>found</text>
+    <mainVerb begin="2462" end="2467">found</mainVerb>
+    <mainReferent begin="2325" end="2330">sexes</mainReferent>
+    <tokens>both were found in a single Andrena nest</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_39" begin="2579" end="2582">
+    <text>are</text>
+    <mainVerb begin="2579" end="2582">are</mainVerb>
+    <mainReferent begin="2567" end="2578">bee-keepers</mainReferent>
+    <tokens>Very few bee-keepers are probably</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_40" begin="2624" end="2630">
+    <text>infest</text>
+    <mainVerb begin="2624" end="2630">infest</mainVerb>
+    <mainReferent begin="2614" end="2623">parasites</mainReferent>
+    <tokens>how many insect parasites infest the Honey bee</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_41" begin="2672" end="2676">
+    <text>hear</text>
+    <mainVerb begin="2672" end="2676">hear</mainVerb>
+    <mainReferent begin="2669" end="2671">we</mainReferent>
+    <tokens>In our own literature we hear almost nothing of this subject</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_42" begin="2738" end="2745">
+    <text>written</text>
+    <mainVerb begin="2738" end="2745">written</mainVerb>
+    <mainReferent begin="2669" end="2671">we</mainReferent>
+    <tokens>in Europe much has been written on bee parasites</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_43" begin="2843" end="2848">
+    <text>glean</text>
+    <mainVerb begin="2843" end="2848">glean</mainVerb>
+    <mainReferent begin="2839" end="2841">we</mainReferent>
+    <tokens>From Dr. Edward Assmuss ' little work on the " Parasites of the Honey Bee " we glean</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_44" begin="2871" end="2880">
+    <text>presented</text>
+    <mainVerb begin="2871" end="2880">presented</mainVerb>
+    <mainReferent begin="2849" end="2853">some</mainReferent>
+    <tokens>some of the facts now presented</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_45" begin="2899" end="2903">
+    <text>fail</text>
+    <mainVerb begin="2899" end="2903">fail</mainVerb>
+    <mainReferent begin="2849" end="2853">some</mainReferent>
+    <tokens>which can not fail to interest the general reader the owner of bees</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_46" begin="3025" end="3031">
+    <text>gained</text>
+    <mainVerb begin="3025" end="3031">gained</mainVerb>
+    <mainReferent begin="2973" end="2978">study</mainReferent>
+    <tokens>The study of the habits of animal parasites has of late gained much attention among naturalists</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_47" begin="3100" end="3106">
+    <text>afford</text>
+    <mainVerb begin="3100" end="3106">afford</mainVerb>
+    <mainReferent begin="2973" end="2978">study</mainReferent>
+    <tokens>both the honey wild bees afford good examples of the singular relation between the host and the parasites which live upon it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_48" begin="3189" end="3193">
+    <text>live</text>
+    <mainVerb begin="3189" end="3193">live</mainVerb>
+    <mainReferent begin="3173" end="3182">parasites</mainReferent>
+    <tokens>the parasites live upon it</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_49" begin="3234" end="3237">
+    <text>are</text>
+    <mainVerb begin="3234" end="3237">are</mainVerb>
+    <mainReferent begin="3247" end="3254">species</mainReferent>
+    <tokens>Among insects generally there are certain species</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_50" begin="3261" end="3267">
+    <text>devour</text>
+    <mainVerb begin="3261" end="3267">devour</mainVerb>
+    <mainReferent begin="3247" end="3254">species</mainReferent>
+    <tokens>certain species devour the contents of the egg of the victim</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_51" begin="3325" end="3327">
+    <text>is</text>
+    <mainVerb begin="3325" end="3327">is</mainVerb>
+    <mainReferent begin="3320" end="3324">this</mainReferent>
+    <tokens>and this is the most common of parasitism</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_52" begin="3364" end="3370">
+    <text>attack</text>
+    <mainVerb begin="3364" end="3370">attack</mainVerb>
+    <mainReferent begin="3307" end="3313">Others</mainReferent>
+    <tokens>Others attack the insect in its larva state ; others , in the pupa state , and still others in the perfect , or imago state</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_53" begin="3494" end="3499">
+    <text>shown</text>
+    <mainVerb begin="3494" end="3499">shown</mainVerb>
+    <mainReferent begin="3484" end="3489">Leidy</mainReferent>
+    <tokens>Dr. Leidy has shown</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_54" begin="3603" end="3606">
+    <text>are</text>
+    <mainVerb begin="3603" end="3606">are</mainVerb>
+    <mainReferent begin="3524" end="3531">species</mainReferent>
+    <tokens>that the wood-devouring species of beetle , Passalus cornutus , and some Myriopods , or " thousand legs , " are in some cases filling out their bodies sending out shoots into the air</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_55" begin="3624" end="3632">
+    <text>tenanted</text>
+    <mainVerb begin="3624" end="3632">tenanted</mainVerb>
+    <mainReferent begin="3603" end="3606">are</mainReferent>
+    <tokens>tenanted by myriads of microscopic plants and worms which luxuriate in the alimentary canal , while the " caterpillar-fungus " attacks sickly caterpillars filling out their bodies sending out shoots into the air</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_56" begin="3683" end="3692">
+    <text>luxuriate</text>
+    <mainVerb begin="3683" end="3692">luxuriate</mainVerb>
+    <mainReferent begin="3659" end="3665">plants</mainReferent>
+    <tokens>microscopic plants worms luxuriate in the alimentary canal</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_57" begin="3750" end="3757">
+    <text>attacks</text>
+    <mainVerb begin="3750" end="3757">attacks</mainVerb>
+    <mainReferent begin="3729" end="3747">caterpillar-fungus</mainReferent>
+    <tokens>while the " caterpillar-fungus " attacks sickly caterpillars</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_58" begin="3862" end="3867">
+    <text>looks</text>
+    <mainVerb begin="3862" end="3867">looks</mainVerb>
+    <mainReferent begin="3855" end="3861">insect</mainReferent>
+    <tokens>that the insect looks</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_59" begin="3874" end="3885">
+    <text>transformed</text>
+    <mainVerb begin="3874" end="3885">transformed</mainVerb>
+    <tokens>as if transformed into a vegetable</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_60" begin="3944" end="3947">
+    <text>are</text>
+    <mainVerb begin="3944" end="3947">are</mainVerb>
+    <mainReferent begin="3978" end="3985">species</mainReferent>
+    <tokens>The Ichneumon flies there are undoubtedly several thousand species in this country</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_61" begin="4003" end="4006">
+    <text>are</text>
+    <mainVerb begin="4003" end="4006">are</mainVerb>
+    <mainReferent begin="3922" end="3927">flies</mainReferent>
+    <tokens>The Ichneumon flies are the most common insect parasites</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_62" begin="4056" end="4059">
+    <text>are</text>
+    <mainVerb begin="4056" end="4059">are</mainVerb>
+    <mainReferent begin="4108" end="4114">genera</mainReferent>
+    <tokens>Next to these are the different species of Tachina its allied genera</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_63" begin="4141" end="4145">
+    <text>live</text>
+    <mainVerb begin="4141" end="4145">live</mainVerb>
+    <mainReferent begin="4116" end="4121">These</mainReferent>
+    <tokens>These like Ichneumons live in the bodies of their hosts</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_64" begin="4176" end="4185">
+    <text>consuming</text>
+    <mainVerb begin="4176" end="4185">consuming</mainVerb>
+    <tokens>consuming the fatty parts</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_65" begin="4208" end="4217">
+    <text>finishing</text>
+    <mainVerb begin="4208" end="4217">finishing</mainVerb>
+    <tokens>finishing their transformations</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_66" begin="4268" end="4270">
+    <text>is</text>
+    <mainVerb begin="4268" end="4270">is</mainVerb>
+    <mainReferent begin="4262" end="4266">host</mainReferent>
+    <tokens>just as the exhausted host is to die</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_67" begin="4285" end="4290">
+    <text>issue</text>
+    <mainVerb begin="4285" end="4290">issue</mainVerb>
+    <mainReferent begin="4280" end="4283">die</mainReferent>
+    <tokens>issue from their bodies as flies</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_15.txt_68" begin="4327" end="4337">
+    <text>resembling</text>
+    <mainVerb begin="4327" end="4337">resembling</mainVerb>
+    <mainReferent begin="4262" end="4266">host</mainReferent>
+    <tokens>closely resembling the common housefly</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+</document>

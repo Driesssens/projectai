@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="wild_animals_i_have_known_63.txt_1" begin="25" end="33">
+    <text>sheathed</text>
+    <mainVerb begin="25" end="33">sheathed</mainVerb>
+    <mainReferent begin="15" end="20">world</mainReferent>
+    <tokens>The whole wide world was sheathed in ice</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_2" begin="62" end="67">
+    <text>awoke</text>
+    <mainVerb begin="62" end="67">awoke</mainVerb>
+    <mainReferent begin="55" end="61">grouse</mainReferent>
+    <tokens>when the grouse awoke to quit their beds</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_3" begin="94" end="99">
+    <text>found</text>
+    <mainVerb begin="94" end="99">found</mainVerb>
+    <mainReferent begin="15" end="20">world</mainReferent>
+    <tokens>they found</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_4" begin="111" end="117">
+    <text>sealed</text>
+    <mainVerb begin="111" end="117">sealed</mainVerb>
+    <mainReferent begin="94" end="99">found</mainReferent>
+    <tokens>themselves sealed in with a great cruel sheet of edgeless ice</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_5" begin="180" end="183">
+    <text>was</text>
+    <mainVerb begin="180" end="183">was</mainVerb>
+    <mainReferent begin="175" end="179">snow</mainReferent>
+    <tokens>The deeper snow was still quite</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_6" begin="215" end="220">
+    <text>bored</text>
+    <mainVerb begin="215" end="220">bored</mainVerb>
+    <mainReferent begin="175" end="179">snow</mainReferent>
+    <tokens>Redruff bored his way to the top</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_7" begin="273" end="279">
+    <text>defied</text>
+    <mainVerb begin="273" end="279">defied</mainVerb>
+    <mainReferent begin="175" end="179">snow</mainReferent>
+    <tokens>there the hard white sheet defied his strength</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_8" begin="295" end="301">
+    <text>Hammer</text>
+    <mainVerb begin="295" end="301">Hammer</mainVerb>
+    <mainReferent begin="336" end="340">make</mainReferent>
+    <tokens>Hammer</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_9" begin="306" end="314">
+    <text>struggle</text>
+    <mainVerb begin="306" end="314">struggle</mainVerb>
+    <mainReferent begin="336" end="340">make</mainReferent>
+    <tokens>struggle</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_10" begin="321" end="326">
+    <text>might</text>
+    <mainVerb begin="321" end="326">might</mainVerb>
+    <mainReferent begin="318" end="320">he</mainReferent>
+    <tokens>as he might</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_11" begin="336" end="340">
+    <text>make</text>
+    <mainVerb begin="336" end="340">make</mainVerb>
+    <mainReferent begin="327" end="329">he</mainReferent>
+    <tokens>he could make no impression</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_12" begin="366" end="373">
+    <text>bruised</text>
+    <mainVerb begin="366" end="373">bruised</mainVerb>
+    <mainReferent begin="327" end="329">he</mainReferent>
+    <tokens>he only bruised his wings head</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_13" begin="412" end="416">
+    <text>made</text>
+    <mainVerb begin="412" end="416">made</mainVerb>
+    <mainReferent begin="398" end="402">life</mainReferent>
+    <tokens>His life had been made up of keen joys and dull hardships with frequent sudden desperate straits</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_14" begin="504" end="510">
+    <text>seemed</text>
+    <mainVerb begin="504" end="510">seemed</mainVerb>
+    <mainReferent begin="398" end="402">life</mainReferent>
+    <tokens>this seemed the hardest brunt of all</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_15" begin="555" end="559">
+    <text>wore</text>
+    <mainVerb begin="555" end="559">wore</mainVerb>
+    <mainReferent begin="549" end="554">hours</mainReferent>
+    <tokens>as the slow hours wore on</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_16" begin="568" end="573">
+    <text>found</text>
+    <mainVerb begin="568" end="573">found</mainVerb>
+    <mainReferent begin="549" end="554">hours</mainReferent>
+    <tokens>the slow hours found him weakening with his struggles no nearer to freedom</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_17" begin="644" end="648">
+    <text>hear</text>
+    <mainVerb begin="644" end="648">hear</mainVerb>
+    <mainReferent begin="634" end="636">He</mainReferent>
+    <tokens>He could hear the struggling of his family too</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_18" begin="697" end="702">
+    <text>heard</text>
+    <mainVerb begin="697" end="702">heard</mainVerb>
+    <mainReferent begin="634" end="636">He</mainReferent>
+    <tokens>He sometimes heard them calling to him for help with their long-drawn plaintive ' p-e-e-e-e-e-t-e p-e-e-e-e-e-t-e</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_19" begin="815" end="821">
+    <text>hidden</text>
+    <mainVerb begin="815" end="821">hidden</mainVerb>
+    <mainReferent begin="805" end="809">They</mainReferent>
+    <tokens>They were hidden from many of their enemies not the pangs of hunger</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_20" begin="904" end="908">
+    <text>came</text>
+    <mainVerb begin="904" end="908">came</mainVerb>
+    <mainReferent begin="898" end="903">night</mainReferent>
+    <tokens>when the night came down the weary prisoners</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_21" begin="935" end="939">
+    <text>worn</text>
+    <mainVerb begin="935" end="939">worn</mainVerb>
+    <mainReferent begin="975" end="979">grew</mainReferent>
+    <tokens>worn out with hunger useless toil</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_22" begin="975" end="979">
+    <text>grew</text>
+    <mainVerb begin="975" end="979">grew</mainVerb>
+    <mainReferent begin="805" end="809">They</mainReferent>
+    <tokens>They useless toil grew quiet in despair</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_23" begin="1016" end="1020">
+    <text>been</text>
+    <mainVerb begin="1016" end="1020">been</mainVerb>
+    <mainReferent begin="1007" end="1011">they</mainReferent>
+    <tokens>At first they had been</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_24" begin="1043" end="1047">
+    <text>come</text>
+    <mainVerb begin="1043" end="1047">come</mainVerb>
+    <mainReferent begin="1033" end="1036">fox</mainReferent>
+    <tokens>the fox would come</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_25" begin="1052" end="1056">
+    <text>find</text>
+    <mainVerb begin="1052" end="1056">find</mainVerb>
+    <mainReferent begin="1033" end="1036">fox</mainReferent>
+    <tokens>the fox find</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_26" begin="1062" end="1072">
+    <text>imprisoned</text>
+    <mainVerb begin="1062" end="1072">imprisoned</mainVerb>
+    <mainReferent begin="1052" end="1056">find</mainReferent>
+    <tokens>them imprisoned there at his mercy</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_27" begin="1118" end="1122">
+    <text>went</text>
+    <mainVerb begin="1118" end="1122">went</mainVerb>
+    <mainReferent begin="1033" end="1036">fox</mainReferent>
+    <tokens>as the second night went slowly</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_28" begin="1148" end="1153">
+    <text>cared</text>
+    <mainVerb begin="1148" end="1153">cared</mainVerb>
+    <mainReferent begin="1112" end="1117">night</mainReferent>
+    <tokens>they no longer cared</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_29" begin="1165" end="1171">
+    <text>wished</text>
+    <mainVerb begin="1165" end="1171">wished</mainVerb>
+    <mainReferent begin="1112" end="1117">night</mainReferent>
+    <tokens>the second night even wished</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_30" begin="1181" end="1185">
+    <text>come</text>
+    <mainVerb begin="1181" end="1185">come</mainVerb>
+    <mainReferent begin="1172" end="1174">he</mainReferent>
+    <tokens>he would come the crusted snow</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_31" begin="1190" end="1195">
+    <text>break</text>
+    <mainVerb begin="1190" end="1195">break</mainVerb>
+    <mainReferent begin="1172" end="1174">he</mainReferent>
+    <tokens>he break</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_32" begin="1221" end="1225">
+    <text>give</text>
+    <mainVerb begin="1221" end="1225">give</mainVerb>
+    <mainReferent begin="1172" end="1174">he</mainReferent>
+    <tokens>he give them at least a fighting chance for life</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_33" begin="1300" end="1304">
+    <text>come</text>
+    <mainVerb begin="1300" end="1304">come</mainVerb>
+    <mainReferent begin="1285" end="1288">fox</mainReferent>
+    <tokens>when the fox really did come padding over the frozen drift</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_34" begin="1364" end="1371">
+    <text>revived</text>
+    <mainVerb begin="1364" end="1371">revived</mainVerb>
+    <mainReferent begin="1351" end="1355">love</mainReferent>
+    <tokens>the deep-laid love of life revived</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_35" begin="1382" end="1390">
+    <text>crouched</text>
+    <mainVerb begin="1382" end="1390">crouched</mainVerb>
+    <mainReferent begin="1351" end="1355">love</mainReferent>
+    <tokens>they crouched in utter stillness</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_36" begin="1419" end="1425">
+    <text>passed</text>
+    <mainVerb begin="1419" end="1425">passed</mainVerb>
+    <mainReferent begin="1416" end="1418">he</mainReferent>
+    <tokens>till he passed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_37" begin="1442" end="1445">
+    <text>was</text>
+    <mainVerb begin="1442" end="1445">was</mainVerb>
+    <mainReferent begin="1438" end="1441">day</mainReferent>
+    <tokens>The second day was of driving storm</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_38" begin="1453" end="1460">
+    <text>driving</text>
+    <mainVerb begin="1453" end="1460">driving</mainVerb>
+    <tokens>driving</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_39" begin="1484" end="1488">
+    <text>sent</text>
+    <mainVerb begin="1484" end="1488">sent</mainVerb>
+    <mainReferent begin="1479" end="1483">wind</mainReferent>
+    <tokens>The north wind sent his snow-horses hissing careering over the white earth tossing curling their white manes kicking up more snow</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_40" begin="1623" end="1629">
+    <text>dashed</text>
+    <mainVerb begin="1623" end="1629">dashed</mainVerb>
+    <mainReferent begin="1617" end="1621">they</mainReferent>
+    <tokens>as they dashed on</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_41" begin="1679" end="1685">
+    <text>seemed</text>
+    <mainVerb begin="1679" end="1685">seemed</mainVerb>
+    <mainReferent begin="1649" end="1657">grinding</mainReferent>
+    <tokens>The long hard grinding of the granular snow seemed to be thinning the snow-crust</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_42" begin="1753" end="1757">
+    <text>kept</text>
+    <mainVerb begin="1753" end="1757">kept</mainVerb>
+    <mainReferent begin="1750" end="1752">it</mainReferent>
+    <tokens>for though far from dark below it kept growing lighter</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_43" begin="1791" end="1797">
+    <text>pecked</text>
+    <mainVerb begin="1791" end="1797">pecked</mainVerb>
+    <mainReferent begin="1779" end="1786">Redruff</mainReferent>
+    <tokens>Redruff had pecked at the under side all day</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_44" begin="1802" end="1808">
+    <text>pecked</text>
+    <mainVerb begin="1802" end="1808">pecked</mainVerb>
+    <mainReferent begin="1779" end="1786">Redruff</mainReferent>
+    <tokens>Redruff pecked</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_45" begin="1851" end="1856">
+    <text>ached</text>
+    <mainVerb begin="1851" end="1856">ached</mainVerb>
+    <mainReferent begin="1846" end="1850">head</mainReferent>
+    <tokens>till his head ached</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_46" begin="1874" end="1881">
+    <text>wearing</text>
+    <mainVerb begin="1874" end="1881">wearing</mainVerb>
+    <mainReferent begin="1846" end="1850">head</mainReferent>
+    <tokens>his bill was wearing blunt</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_47" begin="1907" end="1911">
+    <text>went</text>
+    <mainVerb begin="1907" end="1911">went</mainVerb>
+    <mainReferent begin="1903" end="1906">sun</mainReferent>
+    <tokens>when the sun went down</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_48" begin="1920" end="1926">
+    <text>seemed</text>
+    <mainVerb begin="1920" end="1926">seemed</mainVerb>
+    <mainReferent begin="1779" end="1786">Redruff</mainReferent>
+    <tokens>he seemed as far as ever from escape</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_49" begin="1965" end="1971">
+    <text>passed</text>
+    <mainVerb begin="1965" end="1971">passed</mainVerb>
+    <mainReferent begin="1959" end="1964">night</mainReferent>
+    <tokens>passed like the others</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_50" begin="2004" end="2008">
+    <text>went</text>
+    <mainVerb begin="2004" end="2008">went</mainVerb>
+    <mainReferent begin="1959" end="1964">night</mainReferent>
+    <tokens>The night except no fox went</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_51" begin="2009" end="2017">
+    <text>trotting</text>
+    <mainVerb begin="2009" end="2017">trotting</mainVerb>
+    <tokens>trotting overhead</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_52" begin="2047" end="2054">
+    <text>renewed</text>
+    <mainVerb begin="2047" end="2054">renewed</mainVerb>
+    <mainReferent begin="2043" end="2045">he</mainReferent>
+    <tokens>In the morning he renewed his pecking though now with scarcely any force</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_53" begin="2160" end="2165">
+    <text>heard</text>
+    <mainVerb begin="2160" end="2165">heard</mainVerb>
+    <mainReferent begin="2043" end="2045">he</mainReferent>
+    <tokens>the voices struggles of the others were no more heard</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_54" begin="2183" end="2187">
+    <text>grew</text>
+    <mainVerb begin="2183" end="2187">grew</mainVerb>
+    <mainReferent begin="2174" end="2182">daylight</mainReferent>
+    <tokens>As the daylight grew stronger</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_55" begin="2207" end="2210">
+    <text>see</text>
+    <mainVerb begin="2207" end="2210">see</mainVerb>
+    <mainReferent begin="2198" end="2200">he</mainReferent>
+    <tokens>he could see</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_56" begin="2237" end="2241">
+    <text>made</text>
+    <mainVerb begin="2237" end="2241">made</mainVerb>
+    <mainReferent begin="2225" end="2232">efforts</mainReferent>
+    <tokens>that his long efforts had made a brighter spot above him in the snow</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_57" begin="2289" end="2298">
+    <text>continued</text>
+    <mainVerb begin="2289" end="2298">continued</mainVerb>
+    <mainReferent begin="2225" end="2232">efforts</mainReferent>
+    <tokens>he continued feebly pecking</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_58" begin="2342" end="2346">
+    <text>kept</text>
+    <mainVerb begin="2342" end="2346">kept</mainVerb>
+    <mainReferent begin="2329" end="2341">storm-horses</mainReferent>
+    <tokens>Outside the storm-horses kept trampling all day</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_59" begin="2390" end="2397">
+    <text>growing</text>
+    <mainVerb begin="2390" end="2397">growing</mainVerb>
+    <mainReferent begin="2329" end="2341">storm-horses</mainReferent>
+    <tokens>the crust was really growing thin under their heels</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_60" begin="2456" end="2460">
+    <text>went</text>
+    <mainVerb begin="2456" end="2460">went</mainVerb>
+    <mainReferent begin="2329" end="2341">storm-horses</mainReferent>
+    <tokens>late that afternoon his bill went through into the open air</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_61" begin="2498" end="2502">
+    <text>came</text>
+    <mainVerb begin="2498" end="2502">came</mainVerb>
+    <mainReferent begin="2493" end="2497">life</mainReferent>
+    <tokens>New life came with this gain</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_62" begin="2526" end="2532">
+    <text>pecked</text>
+    <mainVerb begin="2526" end="2532">pecked</mainVerb>
+    <mainReferent begin="2493" end="2497">life</mainReferent>
+    <tokens>he pecked away</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_63" begin="2565" end="2569">
+    <text>went</text>
+    <mainVerb begin="2565" end="2569">went</mainVerb>
+    <mainReferent begin="2561" end="2564">sun</mainReferent>
+    <tokens>just before the sun went down</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_64" begin="2582" end="2586">
+    <text>made</text>
+    <mainVerb begin="2582" end="2586">made</mainVerb>
+    <mainReferent begin="2575" end="2577">he</mainReferent>
+    <tokens>till he had made a hole</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_65" begin="2655" end="2659">
+    <text>pass</text>
+    <mainVerb begin="2655" end="2659">pass</mainVerb>
+    <mainReferent begin="2589" end="2593">hole</mainReferent>
+    <tokens>that his head his neck his ever-beautiful ruffs could pass</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_66" begin="2688" end="2692">
+    <text>were</text>
+    <mainVerb begin="2688" end="2692">were</mainVerb>
+    <mainReferent begin="2677" end="2686">shoulders</mainReferent>
+    <tokens>His great broad shoulders were too</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_67" begin="2721" end="2727">
+    <text>strike</text>
+    <mainVerb begin="2721" end="2727">strike</mainVerb>
+    <mainReferent begin="2677" end="2686">shoulders</mainReferent>
+    <tokens>he could now strike downward</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_68" begin="2744" end="2748">
+    <text>gave</text>
+    <mainVerb begin="2744" end="2748">gave</mainVerb>
+    <mainReferent begin="2738" end="2743">which</mainReferent>
+    <tokens>which gave him fourfold force</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_69" begin="2785" end="2793">
+    <text>crumbled</text>
+    <mainVerb begin="2785" end="2793">crumbled</mainVerb>
+    <mainReferent begin="2774" end="2784">snow-crust</mainReferent>
+    <tokens>the snow-crust crumbled quickly</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_70" begin="2829" end="2835">
+    <text>sprang</text>
+    <mainVerb begin="2829" end="2835">sprang</mainVerb>
+    <mainReferent begin="2774" end="2784">snow-crust</mainReferent>
+    <tokens>in a little while he sprang from his icy prison once more free</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_71" begin="2903" end="2907">
+    <text>flew</text>
+    <mainVerb begin="2903" end="2907">flew</mainVerb>
+    <mainReferent begin="2895" end="2902">Redruff</mainReferent>
+    <tokens>Redruff flew to the nearest bank</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_72" begin="2937" end="2945">
+    <text>gathered</text>
+    <mainVerb begin="2937" end="2945">gathered</mainVerb>
+    <mainReferent begin="2903" end="2907">flew</mainReferent>
+    <tokens>hastily gathered a few red hips to stay his gnawing hunger</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_73" begin="2995" end="3003">
+    <text>returned</text>
+    <mainVerb begin="2995" end="3003">returned</mainVerb>
+    <mainReferent begin="2903" end="2907">flew</mainReferent>
+    <tokens>then returned to the prison-drift</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_74" begin="3029" end="3036">
+    <text>clucked</text>
+    <mainVerb begin="3029" end="3036">clucked</mainVerb>
+    <mainReferent begin="2903" end="2907">flew</mainReferent>
+    <tokens>clucked</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_75" begin="3041" end="3048">
+    <text>stamped</text>
+    <mainVerb begin="3041" end="3048">stamped</mainVerb>
+    <tokens>stamped</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_76" begin="3053" end="3056">
+    <text>got</text>
+    <mainVerb begin="3053" end="3056">got</mainVerb>
+    <mainReferent begin="3050" end="3052">He</mainReferent>
+    <tokens>He got only one reply a feeble peete peete</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_77" begin="3174" end="3179">
+    <text>broke</text>
+    <mainVerb begin="3174" end="3179">broke</mainVerb>
+    <mainReferent begin="3050" end="3052">He</mainReferent>
+    <tokens>scratching with his sharp claws on the thinned granular sheet he soon broke through</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_78" begin="3209" end="3216">
+    <text>crawled</text>
+    <mainVerb begin="3209" end="3216">crawled</mainVerb>
+    <mainReferent begin="3166" end="3168">he</mainReferent>
+    <tokens>Graytail feebly crawled of the hole</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_79" begin="3217" end="3220">
+    <text>out</text>
+    <mainVerb begin="3217" end="3220">out</mainVerb>
+    <tokens>out</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_80" begin="3244" end="3247">
+    <text>was</text>
+    <mainVerb begin="3244" end="3247">was</mainVerb>
+    <mainReferent begin="3239" end="3243">that</mainReferent>
+    <tokens>But that was all</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_81" begin="3265" end="3274">
+    <text>scattered</text>
+    <mainVerb begin="3265" end="3274">scattered</mainVerb>
+    <mainReferent begin="3257" end="3263">others</mainReferent>
+    <tokens>scattered</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_82" begin="3288" end="3292">
+    <text>tell</text>
+    <mainVerb begin="3288" end="3292">tell</mainVerb>
+    <mainReferent begin="3275" end="3277">he</mainReferent>
+    <tokens>he could not tell</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_83" begin="3314" end="3318">
+    <text>made</text>
+    <mainVerb begin="3314" end="3318">made</mainVerb>
+    <tokens>where in the drift made no reply</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_84" begin="3329" end="3333">
+    <text>gave</text>
+    <mainVerb begin="3329" end="3333">gave</mainVerb>
+    <mainReferent begin="3257" end="3263">others</mainReferent>
+    <tokens>the others gave no sign of life</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_85" begin="3363" end="3369">
+    <text>forced</text>
+    <mainVerb begin="3363" end="3369">forced</mainVerb>
+    <mainReferent begin="3257" end="3263">others</mainReferent>
+    <tokens>he was forced to leave them</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_86" begin="3399" end="3405">
+    <text>melted</text>
+    <mainVerb begin="3399" end="3405">melted</mainVerb>
+    <mainReferent begin="3394" end="3398">snow</mainReferent>
+    <tokens>When the snow melted in the spring</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_87" begin="3434" end="3438">
+    <text>came</text>
+    <mainVerb begin="3434" end="3438">came</mainVerb>
+    <mainReferent begin="3426" end="3432">bodies</mainReferent>
+    <tokens>their bodies came to view , skin , bones , and feathers -- nothing more</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_88" begin="3502" end="3505">
+    <text>was</text>
+    <mainVerb begin="3502" end="3505">was</mainVerb>
+    <mainReferent begin="3499" end="3501">It</mainReferent>
+    <tokens>VII It was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_89" begin="3545" end="3554">
+    <text>recovered</text>
+    <mainVerb begin="3545" end="3554">recovered</mainVerb>
+    <mainReferent begin="3530" end="3538">Graytail</mainReferent>
+    <tokens>before Redruff Graytail fully recovered</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_90" begin="3585" end="3588">
+    <text>are</text>
+    <mainVerb begin="3585" end="3588">are</mainVerb>
+    <mainReferent begin="3570" end="3574">rest</mainReferent>
+    <tokens>food rest in plenty are sure</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_91" begin="3642" end="3645">
+    <text>had</text>
+    <mainVerb begin="3642" end="3645">had</mainVerb>
+    <mainReferent begin="3594" end="3603">cure-alls</mainReferent>
+    <tokens>a bright clear day in midwinter had the usual effect setting the vigorous Redruff drumming on the log</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_92" begin="3720" end="3723">
+    <text>Was</text>
+    <mainVerb begin="3720" end="3723">Was</mainVerb>
+    <mainReferent begin="3724" end="3726">it</mainReferent>
+    <tokens>Was it the the tell-tale tracks of their snow-shoes on the omnipresent snow , that betrayed them to Cuddy</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_93" begin="3816" end="3824">
+    <text>betrayed</text>
+    <mainVerb begin="3816" end="3824">betrayed</mainVerb>
+    <mainReferent begin="3805" end="3809">snow</mainReferent>
+    <tokens>the omnipresent snow betrayed them to Cuddy</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_94" begin="3843" end="3847">
+    <text>came</text>
+    <mainVerb begin="3843" end="3847">came</mainVerb>
+    <mainReferent begin="3840" end="3842">He</mainReferent>
+    <tokens>He came</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_95" begin="3848" end="3856">
+    <text>prowling</text>
+    <mainVerb begin="3848" end="3856">prowling</mainVerb>
+    <tokens>prowling again again up the ravine with dog and gun intent to hunt the partridges down</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_96" begin="3949" end="3953">
+    <text>knew</text>
+    <mainVerb begin="3949" end="3953">knew</mainVerb>
+    <mainReferent begin="3944" end="3948">They</mainReferent>
+    <tokens>They knew him of old</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_97" begin="3977" end="3983">
+    <text>coming</text>
+    <mainVerb begin="3977" end="3983">coming</mainVerb>
+    <mainReferent begin="3944" end="3948">They</mainReferent>
+    <tokens>he was coming now to know them well</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_98" begin="4042" end="4050">
+    <text>becoming</text>
+    <mainVerb begin="4042" end="4050">becoming</mainVerb>
+    <mainReferent begin="4033" end="4037">cock</mainReferent>
+    <tokens>That great copper-ruffed cock was becoming famous up and down the valley</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_99" begin="4121" end="4126">
+    <text>tried</text>
+    <mainVerb begin="4121" end="4126">tried</mainVerb>
+    <mainReferent begin="4113" end="4116">one</mainReferent>
+    <tokens>During the Gunner Moon many a one had tried to end his splendid life</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_100" begin="4188" end="4194">
+    <text>sought</text>
+    <mainVerb begin="4188" end="4194">sought</mainVerb>
+    <mainReferent begin="4174" end="4180">wretch</mainReferent>
+    <tokens>just as a worthless wretch of old sought fame burning the Ephesian wonder of the world</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_101" begin="4258" end="4261">
+    <text>was</text>
+    <mainVerb begin="4258" end="4261">was</mainVerb>
+    <mainReferent begin="4250" end="4257">Redruff</mainReferent>
+    <tokens>But Redruff was in woodcraft</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_102" begin="4285" end="4289">
+    <text>knew</text>
+    <mainVerb begin="4285" end="4289">knew</mainVerb>
+    <mainReferent begin="4281" end="4283">He</mainReferent>
+    <tokens>He knew just where to hide</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_103" begin="4385" end="4389">
+    <text>rise</text>
+    <mainVerb begin="4385" end="4389">rise</mainVerb>
+    <mainReferent begin="4281" end="4283">He</mainReferent>
+    <tokens>He when to rise on silent wing when to squat till overstepped then rise on thunder wing within a yard to shield himself at once behind some mighty tree-trunk and speed away</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_63.txt_104" begin="4481" end="4486">
+    <text>speed</text>
+    <mainVerb begin="4481" end="4486">speed</mainVerb>
+    <mainReferent begin="4415" end="4419">yard</mainReferent>
+    <tokens>speed away</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+</document>

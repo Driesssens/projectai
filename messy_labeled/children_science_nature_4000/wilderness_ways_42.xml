@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="wilderness_ways_42.txt_1" begin="8" end="11">
+    <text>saw</text>
+    <mainVerb begin="8" end="11">saw</mainVerb>
+    <mainReferent begin="6" end="7">I</mainReferent>
+    <tokens>Later I saw to set</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_2" begin="16" end="21">
+    <text>bring</text>
+    <mainVerb begin="16" end="21">bring</mainVerb>
+    <mainReferent begin="12" end="15">her</mainReferent>
+    <tokens>her bring little fish</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_3" begin="58" end="65">
+    <text>wounded</text>
+    <mainVerb begin="58" end="65">wounded</mainVerb>
+    <mainReferent begin="41" end="44">she</mainReferent>
+    <tokens>little fish she had slightly wounded</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_4" begin="68" end="72">
+    <text>turn</text>
+    <mainVerb begin="68" end="72">turn</mainVerb>
+    <mainReferent begin="12" end="15">her</mainReferent>
+    <tokens>her turn</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_5" begin="78" end="83">
+    <text>loose</text>
+    <mainVerb begin="78" end="83">loose</mainVerb>
+    <mainReferent begin="73" end="77">them</mainReferent>
+    <tokens>them loose in shallow water</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_6" begin="125" end="130">
+    <text>bring</text>
+    <mainVerb begin="125" end="130">bring</mainVerb>
+    <mainReferent begin="12" end="15">her</mainReferent>
+    <tokens>her with a sharp cluck bring the young loons out of their hiding</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_7" begin="181" end="188">
+    <text>chasing</text>
+    <mainVerb begin="181" end="188">chasing</mainVerb>
+    <mainReferent begin="176" end="180">them</mainReferent>
+    <tokens>them chasing</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_8" begin="193" end="199">
+    <text>diving</text>
+    <mainVerb begin="193" end="199">diving</mainVerb>
+    <mainReferent begin="176" end="180">them</mainReferent>
+    <tokens>them diving wildly for their own dinners</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_9" begin="247" end="255">
+    <text>happened</text>
+    <mainVerb begin="247" end="255">happened</mainVerb>
+    <mainReferent begin="242" end="246">that</mainReferent>
+    <tokens>before that happened</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_10" begin="262" end="265">
+    <text>was</text>
+    <mainVerb begin="262" end="265">was</mainVerb>
+    <mainReferent begin="276" end="283">tragedy</mainReferent>
+    <tokens>But there was almost a tragedy</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_11" begin="318" end="322">
+    <text>gone</text>
+    <mainVerb begin="318" end="322">gone</mainVerb>
+    <mainReferent begin="307" end="313">mother</mainReferent>
+    <tokens>while the mother was gone fishing</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_12" begin="348" end="352">
+    <text>came</text>
+    <mainVerb begin="348" end="352">came</mainVerb>
+    <mainReferent begin="343" end="347">ones</mainReferent>
+    <tokens>One day the little ones came of their hiding among the grasses</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_13" begin="397" end="405">
+    <text>ventured</text>
+    <mainVerb begin="397" end="405">ventured</mainVerb>
+    <mainReferent begin="343" end="347">ones</mainReferent>
+    <tokens>the little ones ventured out some distance into the bay</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_14" begin="442" end="445">
+    <text>was</text>
+    <mainVerb begin="442" end="445">was</mainVerb>
+    <mainReferent begin="439" end="441">It</mainReferent>
+    <tokens>It was their first alone into the world</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_15" begin="493" end="497">
+    <text>were</text>
+    <mainVerb begin="493" end="497">were</mainVerb>
+    <mainReferent begin="488" end="492">they</mainReferent>
+    <tokens>they were of the wonder and importance of it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_16" begin="555" end="562">
+    <text>watched</text>
+    <mainVerb begin="555" end="562">watched</mainVerb>
+    <mainReferent begin="553" end="554">I</mainReferent>
+    <tokens>as I watched</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_17" begin="570" end="575">
+    <text>began</text>
+    <mainVerb begin="570" end="575">began</mainVerb>
+    <mainReferent begin="564" end="568">they</mainReferent>
+    <tokens>Suddenly they began to dart about wildly</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_18" begin="598" end="604">
+    <text>moving</text>
+    <mainVerb begin="598" end="604">moving</mainVerb>
+    <tokens>moving with astonishing rapidity for such little fellows</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_19" begin="661" end="670">
+    <text>whistling</text>
+    <mainVerb begin="661" end="670">whistling</mainVerb>
+    <tokens>whistling loudly</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_20" begin="720" end="723">
+    <text>cut</text>
+    <mainVerb begin="720" end="723">cut</mainVerb>
+    <mainReferent begin="709" end="715">ripple</mainReferent>
+    <tokens>From the bank above a swift ripple had cut out into the water between them and the only bit of bog with which they were familiar</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_21" begin="797" end="801">
+    <text>were</text>
+    <mainVerb begin="797" end="801">were</mainVerb>
+    <mainReferent begin="792" end="796">they</mainReferent>
+    <tokens>between them and the only bit of bog with which they were familiar</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_22" begin="835" end="839">
+    <text>were</text>
+    <mainVerb begin="835" end="839">were</mainVerb>
+    <mainReferent begin="851" end="855">nose</mainReferent>
+    <tokens>Just behind the ripple were the sharp nose the beady eyes of Musquash , who is always in some mischief of this kind</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_23" begin="892" end="894">
+    <text>is</text>
+    <mainVerb begin="892" end="894">is</mainVerb>
+    <mainReferent begin="878" end="886">Musquash</mainReferent>
+    <tokens>Musquash is always in some mischief of this kind</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_24" begin="965" end="975">
+    <text>discovered</text>
+    <mainVerb begin="965" end="975">discovered</mainVerb>
+    <mainReferent begin="958" end="960">he</mainReferent>
+    <tokens>In one of his prowlings he had discovered the little brood</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_25" begin="1006" end="1017">
+    <text>manœuvering</text>
+    <mainVerb begin="1006" end="1017">manœuvering</mainVerb>
+    <mainReferent begin="999" end="1001">he</mainReferent>
+    <tokens>now he was manœuvering craftily to keep the frightened youngsters moving</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_26" begin="1086" end="1088">
+    <text>be</text>
+    <mainVerb begin="1086" end="1088">be</mainVerb>
+    <mainReferent begin="1074" end="1078">they</mainReferent>
+    <tokens>till they should be out</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_27" begin="1117" end="1122">
+    <text>crept</text>
+    <mainVerb begin="1117" end="1122">crept</mainVerb>
+    <mainReferent begin="1106" end="1108">he</mainReferent>
+    <tokens>while he himself crept carefully between them and the shore</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_28" begin="1174" end="1179">
+    <text>knows</text>
+    <mainVerb begin="1174" end="1179">knows</mainVerb>
+    <mainReferent begin="1165" end="1173">Musquash</mainReferent>
+    <tokens>Musquash knows well</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_29" begin="1247" end="1253">
+    <text>caught</text>
+    <mainVerb begin="1247" end="1253">caught</mainVerb>
+    <mainReferent begin="1203" end="1207">loon</mainReferent>
+    <tokens>when a young loon a shelldrake a black duck is caught in the open like that</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_30" begin="1287" end="1292">
+    <text>tries</text>
+    <mainVerb begin="1287" end="1292">tries</mainVerb>
+    <mainReferent begin="1277" end="1279">he</mainReferent>
+    <tokens>that he always tries to get back</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_31" begin="1323" end="1326">
+    <text>hid</text>
+    <mainVerb begin="1323" end="1326">hid</mainVerb>
+    <mainReferent begin="1316" end="1322">mother</mainReferent>
+    <tokens>where his mother hid him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_32" begin="1340" end="1344">
+    <text>went</text>
+    <mainVerb begin="1340" end="1344">went</mainVerb>
+    <mainReferent begin="1336" end="1339">she</mainReferent>
+    <tokens>when she went away</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_33" begin="1356" end="1358">
+    <text>is</text>
+    <mainVerb begin="1356" end="1358">is</mainVerb>
+    <mainReferent begin="1351" end="1355">That</mainReferent>
+    <tokens>That is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_34" begin="1394" end="1400">
+    <text>trying</text>
+    <mainVerb begin="1394" end="1400">trying</mainVerb>
+    <mainReferent begin="1381" end="1388">fellows</mainReferent>
+    <tokens>what the poor little fellows were trying to do now only to be driven back</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_35" begin="1440" end="1444">
+    <text>kept</text>
+    <mainVerb begin="1440" end="1444">kept</mainVerb>
+    <mainReferent begin="1381" end="1388">fellows</mainReferent>
+    <tokens>the poor little fellows kept</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_36" begin="1445" end="1451">
+    <text>moving</text>
+    <mainVerb begin="1445" end="1451">moving</mainVerb>
+    <tokens>moving wildly by the muskrat , who lifted himself now and then from the water</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_37" begin="1479" end="1485">
+    <text>lifted</text>
+    <mainVerb begin="1479" end="1485">lifted</mainVerb>
+    <mainReferent begin="1466" end="1473">muskrat</mainReferent>
+    <tokens>the muskrat lifted himself now then from the water</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_38" begin="1528" end="1535">
+    <text>wiggled</text>
+    <mainVerb begin="1528" end="1535">wiggled</mainVerb>
+    <mainReferent begin="1381" end="1388">fellows</mainReferent>
+    <tokens>the poor little fellows wiggled his ugly jaws in anticipation of the feast</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_39" begin="1588" end="1594">
+    <text>missed</text>
+    <mainVerb begin="1588" end="1594">missed</mainVerb>
+    <mainReferent begin="1581" end="1583">He</mainReferent>
+    <tokens>He had missed the eggs in his search young loon more of it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_40" begin="1640" end="1642">
+    <text>be</text>
+    <mainVerb begin="1640" end="1642">be</mainVerb>
+    <mainReferent begin="1629" end="1633">loon</mainReferent>
+    <tokens>young loon would be more of it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_41" begin="1680" end="1683">
+    <text>are</text>
+    <mainVerb begin="1680" end="1683">are</mainVerb>
+    <mainReferent begin="1676" end="1679">you</mainReferent>
+    <tokens>" There you are "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_42" begin="1689" end="1696">
+    <text>snapped</text>
+    <mainVerb begin="1689" end="1696">snapped</mainVerb>
+    <mainReferent begin="1686" end="1688">he</mainReferent>
+    <tokens>he snapped viciously</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_43" begin="1709" end="1716">
+    <text>lunging</text>
+    <mainVerb begin="1709" end="1716">lunging</mainVerb>
+    <mainReferent begin="1686" end="1688">he</mainReferent>
+    <tokens>lunging at the nearest loon , which flashed under water and barely escaped</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_44" begin="1744" end="1751">
+    <text>flashed</text>
+    <mainVerb begin="1744" end="1751">flashed</mainVerb>
+    <mainReferent begin="1732" end="1736">loon</mainReferent>
+    <tokens>the nearest loon flashed under water</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_45" begin="1776" end="1783">
+    <text>escaped</text>
+    <mainVerb begin="1776" end="1783">escaped</mainVerb>
+    <mainReferent begin="1732" end="1736">loon</mainReferent>
+    <tokens>the nearest loon barely escaped</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_46" begin="1794" end="1801">
+    <text>started</text>
+    <mainVerb begin="1794" end="1801">started</mainVerb>
+    <mainReferent begin="1788" end="1789">I</mainReferent>
+    <tokens>I had started up to interfere for</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_47" begin="1829" end="1834">
+    <text>grown</text>
+    <mainVerb begin="1829" end="1834">grown</mainVerb>
+    <mainReferent begin="1823" end="1824">I</mainReferent>
+    <tokens>I had grown fond of the little wild things</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_48" begin="1886" end="1893">
+    <text>watched</text>
+    <mainVerb begin="1886" end="1893">watched</mainVerb>
+    <mainReferent begin="1880" end="1881">I</mainReferent>
+    <tokens>fond of the little wild things growth I had watched from the beginning</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_49" begin="1938" end="1943">
+    <text>began</text>
+    <mainVerb begin="1938" end="1943">began</mainVerb>
+    <mainReferent begin="1928" end="1937">splashing</mainReferent>
+    <tokens>when a great splashing began on my left</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_50" begin="1962" end="1965">
+    <text>saw</text>
+    <mainVerb begin="1962" end="1965">saw</mainVerb>
+    <mainReferent begin="1788" end="1789">I</mainReferent>
+    <tokens>I saw the old mother bird</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_51" begin="1986" end="1992">
+    <text>coming</text>
+    <mainVerb begin="1986" end="1992">coming</mainVerb>
+    <mainReferent begin="1981" end="1985">bird</mainReferent>
+    <tokens>coming like a fury</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_52" begin="2011" end="2014">
+    <text>was</text>
+    <mainVerb begin="2011" end="2014">was</mainVerb>
+    <mainReferent begin="2007" end="2010">She</mainReferent>
+    <tokens>She was half swimming half</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_53" begin="2043" end="2050">
+    <text>tearing</text>
+    <mainVerb begin="2043" end="2050">tearing</mainVerb>
+    <mainReferent begin="2035" end="2041">flying</mainReferent>
+    <tokens>tearing over the water at a great pace , a foamy white wake behind her</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_54" begin="2143" end="2147">
+    <text>take</text>
+    <mainVerb begin="2143" end="2147">take</mainVerb>
+    <mainReferent begin="2122" end="2125">you</mainReferent>
+    <tokens>" Now you little villain take your medicine</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_55" begin="2168" end="2174">
+    <text>coming</text>
+    <mainVerb begin="2168" end="2174">coming</mainVerb>
+    <mainReferent begin="2163" end="2165">It</mainReferent>
+    <tokens>It 's coming</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_56" begin="2181" end="2187">
+    <text>coming</text>
+    <mainVerb begin="2181" end="2187">coming</mainVerb>
+    <mainReferent begin="2176" end="2178">it</mainReferent>
+    <tokens>it 's coming "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_57" begin="2192" end="2197">
+    <text>cried</text>
+    <mainVerb begin="2192" end="2197">cried</mainVerb>
+    <mainReferent begin="2190" end="2191">I</mainReferent>
+    <tokens>I cried excitedly</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_58" begin="2214" end="2220">
+    <text>dodged</text>
+    <mainVerb begin="2214" end="2220">dodged</mainVerb>
+    <mainReferent begin="2190" end="2191">I</mainReferent>
+    <tokens>I dodged back to watch</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_59" begin="2280" end="2283">
+    <text>has</text>
+    <mainVerb begin="2280" end="2283">has</mainVerb>
+    <mainReferent begin="2277" end="2279">he</mainReferent>
+    <tokens>( he has no need whatever to turn flesh-eater )</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_60" begin="2323" end="2327">
+    <text>kept</text>
+    <mainVerb begin="2323" end="2327">kept</mainVerb>
+    <mainReferent begin="2240" end="2248">Musquash</mainReferent>
+    <tokens>But Musquash intent on his evil doing ( he has no need whatever to turn flesh-eater ) kept on viciously after the exhausted little ones</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_61" begin="2375" end="2381">
+    <text>paying</text>
+    <mainVerb begin="2375" end="2381">paying</mainVerb>
+    <tokens>paying no heed to his rear</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_62" begin="2467" end="2474">
+    <text>flashed</text>
+    <mainVerb begin="2467" end="2474">flashed</mainVerb>
+    <mainReferent begin="2435" end="2439">bird</mainReferent>
+    <tokens>Twenty yards away the mother bird to my great astonishment flashed of sight under water</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_63" begin="2476" end="2479">
+    <text>out</text>
+    <mainVerb begin="2476" end="2479">out</mainVerb>
+    <tokens>out</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_64" begin="2516" end="2520">
+    <text>mean</text>
+    <mainVerb begin="2516" end="2520">mean</mainVerb>
+    <mainReferent begin="2513" end="2515">it</mainReferent>
+    <tokens>What could it mean</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_65" begin="2532" end="2535">
+    <text>was</text>
+    <mainVerb begin="2532" end="2535">was</mainVerb>
+    <mainReferent begin="2544" end="2548">time</mainReferent>
+    <tokens>But there was little time to wonder</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_66" begin="2580" end="2586">
+    <text>seemed</text>
+    <mainVerb begin="2580" end="2586">seemed</mainVerb>
+    <mainReferent begin="2571" end="2579">catapult</mainReferent>
+    <tokens>Suddenly a catapult seemed to strike the muskrat from beneath</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_67" begin="2627" end="2631">
+    <text>lift</text>
+    <mainVerb begin="2627" end="2631">lift</mainVerb>
+    <mainReferent begin="2571" end="2579">catapult</mainReferent>
+    <tokens>a catapult lift him clear from the water</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_68" begin="2702" end="2706">
+    <text>came</text>
+    <mainVerb begin="2702" end="2706">came</mainVerb>
+    <mainReferent begin="2694" end="2701">Hukweem</mainReferent>
+    <tokens>Hukweem came out beneath him</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_69" begin="2747" end="2753">
+    <text>driven</text>
+    <mainVerb begin="2747" end="2753">driven</mainVerb>
+    <mainReferent begin="2742" end="2746">bill</mainReferent>
+    <tokens>With a tremendous rush and sputter Hukweem came out beneath him her great pointed bill driven through to his spine</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_70" begin="2784" end="2788">
+    <text>need</text>
+    <mainVerb begin="2784" end="2788">need</mainVerb>
+    <mainReferent begin="2777" end="2783">Little</mainReferent>
+    <tokens>Little need of my help now</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_71" begin="2872" end="2877">
+    <text>flung</text>
+    <mainVerb begin="2872" end="2877">flung</mainVerb>
+    <mainReferent begin="2868" end="2871">she</mainReferent>
+    <tokens>With another straight hard drive , this time at eye and brain she flung him aside disdainfully</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_72" begin="2906" end="2912">
+    <text>rushed</text>
+    <mainVerb begin="2906" end="2912">rushed</mainVerb>
+    <mainReferent begin="2868" end="2871">she</mainReferent>
+    <tokens>she rushed her shivering little ones questioning chiding praising them all in the same breath fluttering cackling low in an hysteric wave of tenderness</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_73" begin="3078" end="3082">
+    <text>swam</text>
+    <mainVerb begin="3078" end="3082">swam</mainVerb>
+    <mainReferent begin="3074" end="3077">she</mainReferent>
+    <tokens>Then she swam twice around the dead muskrat</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_74" begin="3118" end="3121">
+    <text>led</text>
+    <mainVerb begin="3118" end="3121">led</mainVerb>
+    <mainReferent begin="3074" end="3077">she</mainReferent>
+    <tokens>she led her brood from the place</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_75" begin="3167" end="3170">
+    <text>was</text>
+    <mainVerb begin="3167" end="3170">was</mainVerb>
+    <mainReferent begin="3164" end="3166">it</mainReferent>
+    <tokens>Perhaps it was to one of those same little ones</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_76" begin="3211" end="3214">
+    <text>owe</text>
+    <mainVerb begin="3211" end="3214">owe</mainVerb>
+    <mainReferent begin="3209" end="3210">I</mainReferent>
+    <tokens>that I owe a service</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_77" begin="3238" end="3240">
+    <text>am</text>
+    <mainVerb begin="3238" end="3240">am</mainVerb>
+    <mainReferent begin="3236" end="3237">I</mainReferent>
+    <tokens>a service I am than grateful</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_78" begin="3264" end="3267">
+    <text>was</text>
+    <mainVerb begin="3264" end="3267">was</mainVerb>
+    <mainReferent begin="3261" end="3263">It</mainReferent>
+    <tokens>It was in September , when I was at a lake ten miles away -- the same lake into which a score of frolicking young loons gathered before moving south , and swam a race or two for my benefit</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_79" begin="3289" end="3292">
+    <text>was</text>
+    <mainVerb begin="3289" end="3292">was</mainVerb>
+    <mainReferent begin="3287" end="3288">I</mainReferent>
+    <tokens>September when I was at a lake ten miles away the same lake moving south</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_80" begin="3380" end="3388">
+    <text>gathered</text>
+    <mainVerb begin="3380" end="3388">gathered</mainVerb>
+    <mainReferent begin="3347" end="3352">score</mainReferent>
+    <tokens>in September , when I was at a lake ten miles away -- the same lake into which a score of frolicking young loons gathered before moving south , and swam a race or two for my benefit</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_81" begin="3414" end="3418">
+    <text>swam</text>
+    <mainVerb begin="3414" end="3418">swam</mainVerb>
+    <mainReferent begin="3287" end="3288">I</mainReferent>
+    <tokens>I swam a race two for my benefit</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_82" begin="3456" end="3460">
+    <text>lost</text>
+    <mainVerb begin="3456" end="3460">lost</mainVerb>
+    <mainReferent begin="3450" end="3451">I</mainReferent>
+    <tokens>I was lost one day trying to make my way from a wild little lake where I had been fishing to the large lake where my camp was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_83" begin="3481" end="3485">
+    <text>lost</text>
+    <mainVerb begin="3481" end="3485">lost</mainVerb>
+    <tokens>hopelessly lost</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_84" begin="3554" end="3561">
+    <text>fishing</text>
+    <mainVerb begin="3554" end="3561">fishing</mainVerb>
+    <mainReferent begin="3543" end="3544">I</mainReferent>
+    <tokens>where I had been fishing</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_85" begin="3596" end="3599">
+    <text>was</text>
+    <mainVerb begin="3596" end="3599">was</mainVerb>
+    <mainReferent begin="3591" end="3595">camp</mainReferent>
+    <tokens>where my camp was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_86" begin="3604" end="3607">
+    <text>was</text>
+    <mainVerb begin="3604" end="3607">was</mainVerb>
+    <mainReferent begin="3601" end="3603">It</mainReferent>
+    <tokens>It was late</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_87" begin="3683" end="3687">
+    <text>come</text>
+    <mainVerb begin="3683" end="3687">come</mainVerb>
+    <mainReferent begin="3677" end="3678">I</mainReferent>
+    <tokens>which I had come in the early morning</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_88" begin="3713" end="3722">
+    <text>attempted</text>
+    <mainVerb begin="3713" end="3722">attempted</mainVerb>
+    <mainReferent begin="3710" end="3711">I</mainReferent>
+    <tokens>To avoid the long hard tramp down a river up I attempted to cut across through unbroken forest without a compass</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_89" begin="3827" end="3829">
+    <text>is</text>
+    <mainVerb begin="3827" end="3829">is</mainVerb>
+    <mainReferent begin="3781" end="3790">Traveling</mainReferent>
+    <tokens>Traveling through a northern forest in summer is desperately hard</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_90" begin="3863" end="3865">
+    <text>is</text>
+    <mainVerb begin="3863" end="3865">is</mainVerb>
+    <mainReferent begin="3893" end="3898">thick</mainReferent>
+    <tokens>The moss is ankle the underbrush thick</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_91" begin="3912" end="3915">
+    <text>lie</text>
+    <mainVerb begin="3912" end="3915">lie</mainVerb>
+    <mainReferent begin="3907" end="3911">logs</mainReferent>
+    <tokens>fallen logs lie across each other in hopeless confusion , through and under and over which one must make his laborious way , stung and pestered by hordes of black flies and mosquitoes</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_92" begin="4001" end="4005">
+    <text>make</text>
+    <mainVerb begin="4001" end="4005">make</mainVerb>
+    <mainReferent begin="3992" end="3995">one</mainReferent>
+    <tokens>which one must make his laborious way</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_93" begin="4025" end="4030">
+    <text>stung</text>
+    <mainVerb begin="4025" end="4030">stung</mainVerb>
+    <mainReferent begin="3924" end="3928">each</mainReferent>
+    <tokens>stung hordes of black flies and mosquitoes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_94" begin="4035" end="4043">
+    <text>pestered</text>
+    <mainVerb begin="4035" end="4043">pestered</mainVerb>
+    <mainReferent begin="3924" end="3928">each</mainReferent>
+    <tokens>pestered</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_95" begin="4106" end="4110">
+    <text>have</text>
+    <mainVerb begin="4106" end="4110">have</mainVerb>
+    <mainReferent begin="4102" end="4105">you</mainReferent>
+    <tokens>unless you have a strong instinct of direction</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wilderness_ways_42.txt_96" begin="4147" end="4149">
+    <text>is</text>
+    <mainVerb begin="4147" end="4149">is</mainVerb>
+    <mainReferent begin="4086" end="4088">So</mainReferent>
+    <tokens>So that it is almost to hold your course without a compass , or a bright sun , to guide you</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+</document>

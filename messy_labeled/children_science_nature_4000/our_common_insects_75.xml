@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="our_common_insects_75.txt_1" begin="32" end="38">
+    <text>appear</text>
+    <mainVerb begin="32" end="38">appear</mainVerb>
+    <mainReferent begin="14" end="25">butterflies</mainReferent>
+    <tokens>the butterflies appear</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_2" begin="50" end="53">
+    <text>are</text>
+    <mainVerb begin="50" end="53">are</mainVerb>
+    <mainReferent begin="44" end="49">month</mainReferent>
+    <tokens>Among the butterflies which appear this month are the Turnip ( Pontia oleracea Fig. 238 )</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_3" begin="111" end="115">
+    <text>lays</text>
+    <mainVerb begin="111" end="115">lays</mainVerb>
+    <mainReferent begin="65" end="74">butterfly</mainReferent>
+    <tokens>lays its eggs the last of the month</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_4" begin="158" end="163">
+    <text>hatch</text>
+    <mainVerb begin="158" end="163">hatch</mainVerb>
+    <mainReferent begin="153" end="157">eggs</mainReferent>
+    <tokens>The eggs hatch in a week or ten days</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_5" begin="221" end="228">
+    <text>changes</text>
+    <mainVerb begin="221" end="228">changes</mainVerb>
+    <mainReferent begin="153" end="157">eggs</mainReferent>
+    <tokens>in about two weeks the larva changes to a chrysalis</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_6" begin="253" end="262">
+    <text>junevalis</text>
+    <mainVerb begin="253" end="262">junevalis</mainVerb>
+    <mainReferent begin="245" end="252">Thanaos</mainReferent>
+    <tokens>Thanaos junevalis</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_7" begin="276" end="279">
+    <text>fly</text>
+    <mainVerb begin="276" end="279">fly</mainVerb>
+    <mainReferent begin="245" end="252">Thanaos</mainReferent>
+    <tokens>T. Brizo fly late in May</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_8" begin="311" end="315">
+    <text>live</text>
+    <mainVerb begin="311" end="315">live</mainVerb>
+    <mainReferent begin="298" end="310">caterpillars</mainReferent>
+    <tokens>The caterpillars live on the pea and other papilionaceous plants</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_9" begin="409" end="412">
+    <text>fly</text>
+    <mainVerb begin="409" end="412">fly</mainVerb>
+    <mainReferent begin="368" end="378">Auburniana</mainReferent>
+    <tokens>Thecla Auburniana T. Niphon other species fly in dry , sunny fields some in April</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_10" begin="467" end="472">
+    <text>flies</text>
+    <mainVerb begin="467" end="472">flies</mainVerb>
+    <mainReferent begin="460" end="466">Myrina</mainReferent>
+    <tokens>Argynnis Myrina flies from the last of May through June</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_11" begin="528" end="535">
+    <text>appears</text>
+    <mainVerb begin="528" end="535">appears</mainVerb>
+    <mainReferent begin="460" end="466">Myrina</mainReferent>
+    <tokens>a second brood appears in August and September</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_12" begin="601" end="607">
+    <text>appear</text>
+    <mainVerb begin="601" end="607">appear</mainVerb>
+    <mainReferent begin="585" end="600">interrogationis</mainReferent>
+    <tokens>Vanessa J-album V. interrogationis appear in May again in August and September</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_13" begin="691" end="695">
+    <text>live</text>
+    <mainVerb begin="691" end="695">live</mainVerb>
+    <mainReferent begin="656" end="668">caterpillars</mainReferent>
+    <tokens>The caterpillars of the latter species live on the elm , lime and hop-vine</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_14" begin="746" end="751">
+    <text>feeds</text>
+    <mainVerb begin="746" end="751">feeds</mainVerb>
+    <mainReferent begin="735" end="740">comma</mainReferent>
+    <tokens>Grapta comma also feeds on the hop</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_15" begin="792" end="797">
+    <text>flies</text>
+    <mainVerb begin="792" end="797">flies</mainVerb>
+    <mainReferent begin="771" end="781">8-maculata</mainReferent>
+    <tokens>Alypia 8-maculata ( Fig. 49 ) flies at this time</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_16" begin="837" end="842">
+    <text>feeds</text>
+    <mainVerb begin="837" end="842">feeds</mainVerb>
+    <mainReferent begin="771" end="781">8-maculata</mainReferent>
+    <tokens>in August its larva feeds on the grape</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_17" begin="954" end="960">
+    <text>appear</text>
+    <mainVerb begin="954" end="960">appear</mainVerb>
+    <mainReferent begin="864" end="871">gordius</mainReferent>
+    <tokens>Sphinx gordius S. 5-maculata ( Fig. 239 ) other Sphinges Sesia ( the Clear-winged moth ) appear the last of May</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_18" begin="1033" end="1036">
+    <text>fly</text>
+    <mainVerb begin="1033" end="1036">fly</mainVerb>
+    <mainReferent begin="1025" end="1032">species</mainReferent>
+    <tokens>Arctia Arge A. virgo A. phalerata other species fly from the last of May through the summer</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_19" begin="1118" end="1123">
+    <text>found</text>
+    <mainVerb begin="1118" end="1123">found</mainVerb>
+    <mainReferent begin="1090" end="1096">textor</mainReferent>
+    <tokens>Hyphantria textor the Fall-weaver is found in May or June</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_20" begin="1180" end="1187">
+    <text>appears</text>
+    <mainVerb begin="1180" end="1187">appears</mainVerb>
+    <mainReferent begin="1144" end="1148">moth</mainReferent>
+    <tokens>The moth of the Salt-marsh caterpillar appears at this time</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_21" begin="1245" end="1251">
+    <text>abound</text>
+    <mainVerb begin="1245" end="1251">abound</mainVerb>
+    <mainReferent begin="1144" end="1148">moth</mainReferent>
+    <tokens>various Cut worms ( Agrotis Fig. 240 ) abound</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_22" begin="1253" end="1259">
+    <text>hiding</text>
+    <mainVerb begin="1253" end="1259">hiding</mainVerb>
+    <tokens>hiding in the daytime under stones and sticks , etc.</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_23" begin="1375" end="1380">
+    <text>begin</text>
+    <mainVerb begin="1375" end="1380">begin</mainVerb>
+    <mainReferent begin="1321" end="1328">Tineids</mainReferent>
+    <tokens>while various Tineids Tortrices Leaf-rolling caterpillars begin to devour tender leaves buds</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_24" begin="1418" end="1425">
+    <text>opening</text>
+    <mainVerb begin="1418" end="1425">opening</mainVerb>
+    <tokens>opening blossoms of flowers and fruit trees</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_25" begin="1493" end="1498">
+    <text>flies</text>
+    <mainVerb begin="1493" end="1498">flies</mainVerb>
+    <mainReferent begin="1486" end="1492">weevil</mainReferent>
+    <tokens>The White-pine weevil flies about in warm days</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_26" begin="1527" end="1532">
+    <text>found</text>
+    <mainVerb begin="1527" end="1532">found</mainVerb>
+    <mainReferent begin="1519" end="1521">We</mainReferent>
+    <tokens>We have found</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_27" begin="1546" end="1553">
+    <text>winding</text>
+    <mainVerb begin="1546" end="1553">winding</mainVerb>
+    <mainReferent begin="1538" end="1545">burrows</mainReferent>
+    <tokens>its burrows winding irregularly over the inner surface of the bark</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_28" begin="1606" end="1613">
+    <text>leading</text>
+    <mainVerb begin="1606" end="1613">leading</mainVerb>
+    <mainReferent begin="1538" end="1545">burrows</mainReferent>
+    <tokens>its burrows leading into the sap-wood</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_29" begin="1656" end="1666">
+    <text>hibernates</text>
+    <mainVerb begin="1656" end="1666">hibernates</mainVerb>
+    <mainReferent begin="1653" end="1655">it</mainReferent>
+    <tokens>Each cell it hibernates in the middle of March</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_30" begin="1693" end="1701">
+    <text>contains</text>
+    <mainVerb begin="1693" end="1701">contains</mainVerb>
+    <mainReferent begin="1638" end="1642">cell</mainReferent>
+    <tokens>Each cell in the middle of March contains the yellowish white footless grub</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_31" begin="1756" end="1763">
+    <text>changes</text>
+    <mainVerb begin="1756" end="1763">changes</mainVerb>
+    <mainReferent begin="1753" end="1755">it</mainReferent>
+    <tokens>Early in April it changes to a pupa</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_32" begin="1804" end="1811">
+    <text>appears</text>
+    <mainVerb begin="1804" end="1811">appears</mainVerb>
+    <mainReferent begin="1753" end="1755">it</mainReferent>
+    <tokens>a month after the beetle appears</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_33" begin="1832" end="1840">
+    <text>deposits</text>
+    <mainVerb begin="1832" end="1840">deposits</mainVerb>
+    <mainReferent begin="1781" end="1786">month</mainReferent>
+    <tokens>a month after the beetle in a few days deposits its egg under the bark of old pine trees</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_34" begin="1892" end="1901">
+    <text>oviposits</text>
+    <mainVerb begin="1892" end="1901">oviposits</mainVerb>
+    <mainReferent begin="1883" end="1885">It</mainReferent>
+    <tokens>It also oviposits in the terminal shoots of pine saplings , dwarfing and permanently deforming the tree</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_35" begin="2026" end="2031">
+    <text>found</text>
+    <mainVerb begin="2026" end="2031">found</mainVerb>
+    <mainReferent begin="1989" end="1999">Associated</mainReferent>
+    <tokens>Associated with this weevil we have found the smaller rounder more cylindrical whitish grubs of the Hylurgus terebrans , which mines the inner layers of the bark</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_36" begin="2120" end="2125">
+    <text>mines</text>
+    <mainVerb begin="2120" end="2125">mines</mainVerb>
+    <mainReferent begin="2103" end="2112">terebrans</mainReferent>
+    <tokens>the Hylurgus terebrans mines the inner layers of the bark</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_37" begin="2166" end="2174">
+    <text>grooving</text>
+    <mainVerb begin="2166" end="2174">grooving</mainVerb>
+    <mainReferent begin="1989" end="1999">Associated</mainReferent>
+    <tokens>slightly grooving the sap-wood</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_38" begin="2207" end="2214">
+    <text>pupates</text>
+    <mainVerb begin="2207" end="2214">pupates</mainVerb>
+    <mainReferent begin="2204" end="2206">it</mainReferent>
+    <tokens>Later in April it pupates its habits accord in general with those of Pissodes strobi</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_39" begin="2307" end="2314">
+    <text>abounds</text>
+    <mainVerb begin="2307" end="2314">abounds</mainVerb>
+    <mainReferent begin="2294" end="2300">weevil</mainReferent>
+    <tokens>Another Pine weevil also abounds at this time , as well as Otiorhynchus picipes ( Fig. 241 ) , which injures beans , etc</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_40" begin="2380" end="2387">
+    <text>injures</text>
+    <mainVerb begin="2380" end="2387">injures</mainVerb>
+    <mainReferent begin="2353" end="2360">picipes</mainReferent>
+    <tokens>Otiorhynchus picipes ( Fig. 241 ) injures beans etc</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_41" begin="2436" end="2439">
+    <text>are</text>
+    <mainVerb begin="2436" end="2439">are</mainVerb>
+    <mainReferent begin="2417" end="2428">bark-borers</mainReferent>
+    <tokens>Cylindrical bark-borers are little round weevil-like</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_42" begin="2485" end="2491">
+    <text>flying</text>
+    <mainVerb begin="2485" end="2491">flying</mainVerb>
+    <mainReferent begin="2417" end="2428">bark-borers</mainReferent>
+    <tokens>Cylindrical bark-borers are now flying about fruit trees to lay their eggs in the bark</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_43" begin="2543" end="2553">
+    <text>Associated</text>
+    <mainVerb begin="2543" end="2553">Associated</mainVerb>
+    <mainReferent begin="2573" end="2575">we</mainReferent>
+    <tokens>Associated with the Pissodes</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_44" begin="2580" end="2584">
+    <text>find</text>
+    <mainVerb begin="2580" end="2584">find</mainVerb>
+    <mainReferent begin="2573" end="2575">we</mainReferent>
+    <tokens>we may find in April the galleries of Tomicus pini</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_45" begin="2626" end="2635">
+    <text>branching</text>
+    <mainVerb begin="2626" end="2635">branching</mainVerb>
+    <mainReferent begin="2573" end="2575">we</mainReferent>
+    <tokens>branching out from a common centre</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_46" begin="2671" end="2677">
+    <text>filled</text>
+    <mainVerb begin="2671" end="2677">filled</mainVerb>
+    <mainReferent begin="2662" end="2666">They</mainReferent>
+    <tokens>They are filled up with fine sawdust "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_47" begin="2734" end="2741">
+    <text>notched</text>
+    <mainVerb begin="2734" end="2741">notched</mainVerb>
+    <mainReferent begin="2662" end="2666">They</mainReferent>
+    <tokens>according to Dr. Fitch are notched in the sides " in which the eggs have been placed</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_48" begin="2785" end="2791">
+    <text>placed</text>
+    <mainVerb begin="2785" end="2791">placed</mainVerb>
+    <mainReferent begin="2770" end="2774">eggs</mainReferent>
+    <tokens>in the sides " in which the eggs have been placed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_49" begin="2810" end="2816">
+    <text>remain</text>
+    <mainVerb begin="2810" end="2816">remain</mainVerb>
+    <mainReferent begin="2799" end="2803">they</mainReferent>
+    <tokens>where they would remain undisturbed by the beetle</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_50" begin="2850" end="2857">
+    <text>crawled</text>
+    <mainVerb begin="2850" end="2857">crawled</mainVerb>
+    <mainReferent begin="2847" end="2849">it</mainReferent>
+    <tokens>as it crawled backwards forth through the gallery</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_51" begin="2922" end="2926">
+    <text>have</text>
+    <mainVerb begin="2922" end="2926">have</mainVerb>
+    <mainReferent begin="2914" end="2921">beetles</mainReferent>
+    <tokens>These little beetles have not the long snouts of the weevils</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_52" begin="2982" end="2986">
+    <text>bore</text>
+    <mainVerb begin="2982" end="2986">bore</mainVerb>
+    <mainReferent begin="2969" end="2973">they</mainReferent>
+    <tokens>hence they can not bore through the outer bark</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_53" begin="3015" end="3020">
+    <text>enter</text>
+    <mainVerb begin="3015" end="3020">enter</mainVerb>
+    <mainReferent begin="2969" end="2973">they</mainReferent>
+    <tokens>they enter into the burrows made the preceding year</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_54" begin="3038" end="3042">
+    <text>made</text>
+    <mainVerb begin="3038" end="3042">made</mainVerb>
+    <mainReferent begin="3030" end="3037">burrows</mainReferent>
+    <tokens>made the preceding year</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_55" begin="3068" end="3078">
+    <text>distribute</text>
+    <mainVerb begin="3068" end="3078">distribute</mainVerb>
+    <mainReferent begin="2969" end="2973">they</mainReferent>
+    <tokens>they distribute the eggs along the sides ( Fitch )</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_56" begin="3166" end="3171">
+    <text>feeds</text>
+    <mainVerb begin="3166" end="3171">feeds</mainVerb>
+    <mainReferent begin="3122" end="3129">Tomicus</mainReferent>
+    <tokens>Another Tomicus more dangerous than the preceding feeds exclusively in the sap-wood</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_57" begin="3202" end="3209">
+    <text>running</text>
+    <mainVerb begin="3202" end="3209">running</mainVerb>
+    <tokens>running solitary galleries for a distance of two inches towards the centre of the tree</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_58" begin="3294" end="3300">
+    <text>figure</text>
+    <mainVerb begin="3294" end="3300">figure</mainVerb>
+    <mainReferent begin="3291" end="3293">We</mainReferent>
+    <tokens>We figure</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_59" begin="3321" end="3324">
+    <text>Say</text>
+    <mainVerb begin="3321" end="3324">Say</mainVerb>
+    <mainReferent begin="3309" end="3320">xylographus</mainReferent>
+    <tokens>Tomicus xylographus Say ( Fig. 242 enlarged )</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_60" begin="3351" end="3353">
+    <text>is</text>
+    <mainVerb begin="3351" end="3353">is</mainVerb>
+    <mainReferent begin="3348" end="3350">It</mainReferent>
+    <tokens>It is the most formidable to the white pine in the North</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_61" begin="3428" end="3432">
+    <text>pine</text>
+    <mainVerb begin="3428" end="3432">pine</mainVerb>
+    <mainReferent begin="3374" end="3379">enemy</mainReferent>
+    <tokens>the yellow pine in the South</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_62" begin="3454" end="3458">
+    <text>have</text>
+    <mainVerb begin="3454" end="3458">have</mainVerb>
+    <mainReferent begin="3451" end="3453">we</mainReferent>
+    <tokens>that we have</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_63" begin="3468" end="3473">
+    <text>flies</text>
+    <mainVerb begin="3468" end="3473">flies</mainVerb>
+    <mainReferent begin="3460" end="3462">It</mainReferent>
+    <tokens>It also flies in May</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_64" begin="3527" end="3532">
+    <text>found</text>
+    <mainVerb begin="3527" end="3532">found</mainVerb>
+    <mainReferent begin="3490" end="3493">fur</mainReferent>
+    <tokens>Ptinus fur ( Fig. 243 much enlarged ) is now found in out-houses</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_65" begin="3553" end="3555">
+    <text>is</text>
+    <mainVerb begin="3553" end="3555">is</mainVerb>
+    <mainReferent begin="3490" end="3493">fur</mainReferent>
+    <tokens>Ptinus fur ( Fig. 243 much enlarged ) is to cloth , furs , etc.</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_66" begin="3590" end="3600">
+    <text>resembling</text>
+    <mainVerb begin="3590" end="3600">resembling</mainVerb>
+    <tokens>resembling the Larder-beetle ( Dermestes ) in its habits</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_67" begin="3650" end="3652">
+    <text>is</text>
+    <mainVerb begin="3650" end="3652">is</mainVerb>
+    <mainReferent begin="3647" end="3649">It</mainReferent>
+    <tokens>It is fourteen of an inch in length</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_68" begin="3798" end="3802">
+    <text>seen</text>
+    <mainVerb begin="3798" end="3802">seen</mainVerb>
+    <mainReferent begin="3726" end="3727">_</mainReferent>
+    <tokens>_ Early in the month the Parsnip butterfly ( Papilio Asterias ) may be seen</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_69" begin="3804" end="3810">
+    <text>flying</text>
+    <mainVerb begin="3804" end="3810">flying</mainVerb>
+    <tokens>flying about laying its eggs for the brood of caterpillars which appear in August</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_70" begin="3886" end="3892">
+    <text>appear</text>
+    <mainVerb begin="3886" end="3892">appear</mainVerb>
+    <mainReferent begin="3857" end="3862">brood</mainReferent>
+    <tokens>the brood of caterpillars appear in August</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_71" begin="4049" end="4054">
+    <text>found</text>
+    <mainVerb begin="4049" end="4054">found</mainVerb>
+    <mainReferent begin="3977" end="3982">larva</mainReferent>
+    <tokens>At the time of the flowering of the raspberry and blackberry the young larva of Vanessa Antiopa , one of our most abundant butterflies , may be found living socially on the leaves of the willow</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_72" begin="4256" end="4261">
+    <text>found</text>
+    <mainVerb begin="4256" end="4261">found</mainVerb>
+    <mainReferent begin="4118" end="4123">larva</mainReferent>
+    <tokens>while the mature larva of another much smaller butterfly , the little Copper skipper ( Chrysophanus Americans ) , so abundant at this time , may sometimes be found on the clover</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_73" begin="4280" end="4282">
+    <text>is</text>
+    <mainVerb begin="4280" end="4282">is</mainVerb>
+    <mainReferent begin="4277" end="4279">It</mainReferent>
+    <tokens>It is a short oval greenish with very short legs</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_74" begin="4373" end="4379">
+    <text>abound</text>
+    <mainVerb begin="4373" end="4379">abound</mainVerb>
+    <mainReferent begin="4352" end="4360">skippers</mainReferent>
+    <tokens>The dun-colored skippers ( Hesperia ) abound towards the middle of the month</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_75.txt_75" begin="4413" end="4420">
+    <text>darting</text>
+    <mainVerb begin="4413" end="4420">darting</mainVerb>
+    <tokens>darting over the flowers of the blueberry and blackberry , in sunny openings in the forests</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+</document>

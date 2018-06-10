@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="our_common_insects_22.txt_1" begin="4" end="12">
+    <text>imported</text>
+    <mainVerb begin="4" end="12">imported</mainVerb>
+    <tokens>imported</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_2" begin="55" end="65">
+    <text>introduced</text>
+    <mainVerb begin="55" end="65">introduced</mainVerb>
+    <mainReferent begin="21" end="30">butterfly</mainReferent>
+    <tokens>recently introduced from Europe</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_3" begin="83" end="92">
+    <text>estimated</text>
+    <mainVerb begin="83" end="92">estimated</mainVerb>
+    <mainReferent begin="21" end="30">butterfly</mainReferent>
+    <tokens>The cabbage butterfly ( Pieris rapæ ) is estimated the Abbé Provatncher a Canadian entomologist to destroy annually two hundred</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_4" begin="180" end="185">
+    <text>forty</text>
+    <mainVerb begin="180" end="185">forty</mainVerb>
+    <mainReferent begin="21" end="30">butterfly</mainReferent>
+    <tokens>The cabbage butterfly ( Pieris rapæ ) forty thousand dollars worth of cabbages around Quebec</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_5" begin="280" end="289">
+    <text>destroyed</text>
+    <mainVerb begin="280" end="289">destroyed</mainVerb>
+    <mainReferent begin="250" end="253">fly</mainReferent>
+    <tokens>The Hessian fly to Dr. Fitch destroyed fifteen million dollars worth of wheat in New York State in one year ( 1854 )</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_6" begin="425" end="428">
+    <text>was</text>
+    <mainVerb begin="425" end="428">was</mainVerb>
+    <mainReferent begin="378" end="382">worm</mainReferent>
+    <tokens>The army worm of the North ( Leucania unipuncta ) was so in 1861 from New England to Kansas</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_7" begin="482" end="490">
+    <text>reported</text>
+    <mainVerb begin="482" end="490">reported</mainVerb>
+    <mainReferent begin="378" end="382">worm</mainReferent>
+    <tokens>The army worm of the North ( Leucania unipuncta ) was reported to have done damage that year Eastern Massachusetts exceeding half a million of dollars</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_8" begin="633" end="637">
+    <text>cuts</text>
+    <mainVerb begin="633" end="637">cuts</mainVerb>
+    <mainReferent begin="595" end="599">worm</mainReferent>
+    <tokens>The joint worm ( Isosoma hordei ) alone sometimes cuts off whole fields of grain in Virginia and northward</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_9" begin="732" end="738">
+    <text>moving</text>
+    <mainVerb begin="732" end="738">moving</mainVerb>
+    <mainReferent begin="713" end="719">beetle</mainReferent>
+    <tokens>The Colorado potato beetle is steadily moving eastward now ravaging the fields in Indiana and Ohio</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_10" begin="878" end="887">
+    <text>resulting</text>
+    <mainVerb begin="878" end="887">resulting</mainVerb>
+    <mainReferent begin="808" end="819">forethought</mainReferent>
+    <tokens>resulting from a thorough study of its habits</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_11" begin="931" end="938">
+    <text>deliver</text>
+    <mainVerb begin="931" end="938">deliver</mainVerb>
+    <mainReferent begin="713" end="719">beetle</mainReferent>
+    <tokens>only the forethought ingenuity devising means checking its attacks will deliver our wasted fields from its direful assaults</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_12" begin="993" end="996">
+    <text>are</text>
+    <mainVerb begin="993" end="996">are</mainVerb>
+    <mainReferent begin="987" end="992">These</mainReferent>
+    <tokens>These are the</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_13" begin="1010" end="1014">
+    <text>done</text>
+    <mainVerb begin="1010" end="1014">done</mainVerb>
+    <mainReferent begin="1001" end="1009">injuries</mainReferent>
+    <tokens>done the more abundant kinds of insects injurious to crops</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_14" begin="1088" end="1094">
+    <text>forget</text>
+    <mainVerb begin="1088" end="1094">forget</mainVerb>
+    <mainReferent begin="1074" end="1076">We</mainReferent>
+    <tokens>We should not forget</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_15" begin="1154" end="1157">
+    <text>has</text>
+    <mainVerb begin="1154" end="1157">has</mainVerb>
+    <mainReferent begin="1120" end="1124">tree</mainReferent>
+    <tokens>that each fruit shade tree garden shrub vegetable has a host of insects peculiar to it</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_16" begin="1221" end="1226">
+    <text>renew</text>
+    <mainVerb begin="1221" end="1226">renew</mainVerb>
+    <mainReferent begin="1120" end="1124">tree</mainReferent>
+    <tokens>which year after year renew their attacks</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_17" begin="1250" end="1259">
+    <text>enumerate</text>
+    <mainVerb begin="1250" end="1259">enumerate</mainVerb>
+    <mainReferent begin="1242" end="1243">I</mainReferent>
+    <tokens>I could enumerate upwards of fifty species of insects which prey upon cereals and grass , and as many which infest our field crops</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_18" begin="1303" end="1307">
+    <text>prey</text>
+    <mainVerb begin="1303" end="1307">prey</mainVerb>
+    <mainReferent begin="1289" end="1296">insects</mainReferent>
+    <tokens>insects prey upon cereals and grass as many which infest our field crops</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_19" begin="1351" end="1357">
+    <text>infest</text>
+    <mainVerb begin="1351" end="1357">infest</mainVerb>
+    <mainReferent begin="1340" end="1344">many</mainReferent>
+    <tokens>many infest our field crops</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_20" begin="1406" end="1412">
+    <text>ravage</text>
+    <mainVerb begin="1406" end="1412">ravage</mainVerb>
+    <mainReferent begin="1398" end="1405">species</mainReferent>
+    <tokens>Some thirty well known species ravage our garden vegetables</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_21" begin="1443" end="1446">
+    <text>are</text>
+    <mainVerb begin="1443" end="1446">are</mainVerb>
+    <mainReferent begin="1460" end="1467">species</mainReferent>
+    <tokens>There are nearly fifty species</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_22" begin="1474" end="1480">
+    <text>attack</text>
+    <mainVerb begin="1474" end="1480">attack</mainVerb>
+    <mainReferent begin="1460" end="1467">species</mainReferent>
+    <tokens>nearly fifty species attack the grape vine</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_23" begin="1526" end="1536">
+    <text>increasing</text>
+    <mainVerb begin="1526" end="1536">increasing</mainVerb>
+    <mainReferent begin="1460" end="1467">species</mainReferent>
+    <tokens>their number is rapidly increasing</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_24" begin="1566" end="1570">
+    <text>make</text>
+    <mainVerb begin="1566" end="1570">make</mainVerb>
+    <mainReferent begin="1558" end="1565">species</mainReferent>
+    <tokens>About seventy-five species make their annual onset upon the apple tree</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_25" begin="1646" end="1651">
+    <text>found</text>
+    <mainVerb begin="1646" end="1651">found</mainVerb>
+    <mainReferent begin="1558" end="1565">species</mainReferent>
+    <tokens>nearly an equal number may be found upon the plum , pear , peach and cherry</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_26" begin="1772" end="1784">
+    <text>seventy-five</text>
+    <mainVerb begin="1772" end="1784">seventy-five</mainVerb>
+    <mainReferent begin="1745" end="1748">oak</mainReferent>
+    <tokens>Among our shade trees over fifty species infest the oak twenty-five the elm seventy-five the walnut</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_27" begin="1837" end="1841">
+    <text>prey</text>
+    <mainVerb begin="1837" end="1841">prey</mainVerb>
+    <mainReferent begin="1745" end="1748">oak</mainReferent>
+    <tokens>over one hundred species of insects prey upon the pine</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_28" begin="1887" end="1896">
+    <text>calculate</text>
+    <mainVerb begin="1887" end="1896">calculate</mainVerb>
+    <mainReferent begin="1869" end="1871">we</mainReferent>
+    <tokens>Indeed we may reasonably calculate the annual loss in our country alone from noxious animals and the lower forms of plants , such as rust , smut and mildew as ( at a low estimate ) not far from five hundred million dollars annually</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_29" begin="2177" end="2182">
+    <text>saved</text>
+    <mainVerb begin="2177" end="2182">saved</mainVerb>
+    <mainReferent begin="2121" end="2130">one-tenth</mainReferent>
+    <tokens>Of this amount at least one-tenth fifty million dollars could probably be saved human exertions</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_30" begin="2287" end="2289">
+    <text>be</text>
+    <mainVerb begin="2287" end="2289">be</mainVerb>
+    <mainReferent begin="2271" end="2277">lumber</mainReferent>
+    <tokens>To save a portion of this annual loss of food stuffs fruits lumber should be the first of farmers and gardeners</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_31" begin="2354" end="2358">
+    <text>made</text>
+    <mainVerb begin="2354" end="2358">made</mainVerb>
+    <mainReferent begin="2343" end="2349">saving</mainReferent>
+    <tokens>When this saving is made</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_32" begin="2373" end="2379">
+    <text>become</text>
+    <mainVerb begin="2373" end="2379">become</mainVerb>
+    <mainReferent begin="2360" end="2367">farming</mainReferent>
+    <tokens>farming will become a profitable safe profession</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_33" begin="2431" end="2434">
+    <text>are</text>
+    <mainVerb begin="2431" end="2434">are</mainVerb>
+    <mainReferent begin="2427" end="2430">few</mainReferent>
+    <tokens>while a few are well to the losses</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_34" begin="2466" end="2475">
+    <text>sustained</text>
+    <mainVerb begin="2466" end="2475">sustained</mainVerb>
+    <mainReferent begin="2459" end="2465">losses</mainReferent>
+    <tokens>sustained injurious insects</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_35" begin="2507" end="2512">
+    <text>means</text>
+    <mainVerb begin="2507" end="2512">means</mainVerb>
+    <mainReferent begin="2427" end="2430">few</mainReferent>
+    <tokens>use means to ward off their attacks</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_36" begin="2554" end="2557">
+    <text>are</text>
+    <mainVerb begin="2554" end="2557">are</mainVerb>
+    <tokens>are</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_37" begin="2618" end="2629">
+    <text>illustrated</text>
+    <mainVerb begin="2618" end="2629">illustrated</mainVerb>
+    <tokens>As illustrated so well by the history of the incursions of the army worm and canker worm</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_38" begin="2709" end="2711">
+    <text>is</text>
+    <mainVerb begin="2709" end="2711">is</mainVerb>
+    <mainReferent begin="2706" end="2708">it</mainReferent>
+    <tokens>it is only by a combination between farmers and orchardists that these and other pests can be kept under</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_39" begin="2802" end="2806">
+    <text>kept</text>
+    <mainVerb begin="2802" end="2806">kept</mainVerb>
+    <mainReferent begin="2723" end="2734">combination</mainReferent>
+    <tokens>that these other pests can be kept under</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_40" begin="2837" end="2844">
+    <text>reached</text>
+    <mainVerb begin="2837" end="2844">reached</mainVerb>
+    <mainReferent begin="2818" end="2824">matter</mainReferent>
+    <tokens>The matter can be best reached legislation</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_41" begin="2865" end="2869">
+    <text>have</text>
+    <mainVerb begin="2865" end="2869">have</mainVerb>
+    <mainReferent begin="2862" end="2864">We</mainReferent>
+    <tokens>We have fish game laws</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_42" begin="2894" end="2900">
+    <text>should</text>
+    <mainVerb begin="2894" end="2900">should</mainVerb>
+    <tokens>why should</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_43" begin="2908" end="2912">
+    <text>have</text>
+    <mainVerb begin="2908" end="2912">have</mainVerb>
+    <mainReferent begin="2901" end="2903">we</mainReferent>
+    <tokens>we not have an insect law</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_44" begin="2947" end="2952">
+    <text>frame</text>
+    <mainVerb begin="2947" end="2952">frame</mainVerb>
+    <mainReferent begin="2940" end="2942">we</mainReferent>
+    <tokens>Why should we not frame a law in the autumn</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_45" begin="2959" end="2968">
+    <text>providing</text>
+    <mainVerb begin="2959" end="2968">providing</mainVerb>
+    <mainReferent begin="2955" end="2958">law</mainReferent>
+    <tokens>providing</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_46" begin="2992" end="2998">
+    <text>owning</text>
+    <mainVerb begin="2992" end="2998">owning</mainVerb>
+    <mainReferent begin="2988" end="2991">all</mainReferent>
+    <tokens>owning a garden orchard</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_47" begin="3027" end="3036">
+    <text>cooperate</text>
+    <mainVerb begin="3027" end="3036">cooperate</mainVerb>
+    <mainReferent begin="2988" end="2991">all</mainReferent>
+    <tokens>that farmers all should cooperate taking preventive measures against injurious insects such as early or late planting of cereals to avert the attacks of the wheat midge</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_48" begin="3191" end="3194">
+    <text>fly</text>
+    <mainVerb begin="3191" end="3194">fly</mainVerb>
+    <mainReferent begin="2974" end="2981">farmers</mainReferent>
+    <tokens>Hessian fly the burning of stubble</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_49" begin="3238" end="3244">
+    <text>spring</text>
+    <mainVerb begin="3238" end="3244">spring</mainVerb>
+    <mainReferent begin="2940" end="2942">we</mainReferent>
+    <tokens>we spring to destroy the joint worm the use of proper remedies against the canker worm the various cut worms other noxious caterpillars</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_50" begin="3277" end="3285">
+    <text>combined</text>
+    <mainVerb begin="3277" end="3285">combined</mainVerb>
+    <tokens>combined</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_51" begin="3396" end="3403">
+    <text>carried</text>
+    <mainVerb begin="3396" end="3403">carried</mainVerb>
+    <mainReferent begin="3392" end="3395">law</mainReferent>
+    <tokens>carried out a proper State entomological constabulary</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_52" begin="3471" end="3481">
+    <text>designated</text>
+    <mainVerb begin="3471" end="3481">designated</mainVerb>
+    <mainReferent begin="3458" end="3460">it</mainReferent>
+    <tokens>if it may be so designated</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_53" begin="3490" end="3496">
+    <text>compel</text>
+    <mainVerb begin="3490" end="3496">compel</mainVerb>
+    <mainReferent begin="3392" end="3395">law</mainReferent>
+    <tokens>A law would compel the idle shiftless to clear their farms gardens of noxious animals</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_54" begin="3615" end="3623">
+    <text>reported</text>
+    <mainVerb begin="3615" end="3623">reported</mainVerb>
+    <mainReferent begin="3607" end="3614">insects</mainReferent>
+    <tokens>reported on Mr. Riley</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_55" begin="3678" end="3680">
+    <text>is</text>
+    <mainVerb begin="3678" end="3680">is</mainVerb>
+    <mainReferent begin="3652" end="3664">Entomologist</mainReferent>
+    <tokens>Among some of the injurious insects reported on by Mr. Riley the State Entomologist of Missouri is a new to the cucumber in the West , the Pickle worm ( Phacellura nitidalis , Fig. 46 )</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_56" begin="3776" end="3778">
+    <text>is</text>
+    <mainVerb begin="3776" end="3778">is</mainVerb>
+    <mainReferent begin="3771" end="3775">This</mainReferent>
+    <tokens>This is a</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_57" begin="3800" end="3805">
+    <text>bores</text>
+    <mainVerb begin="3800" end="3805">bores</mainVerb>
+    <mainReferent begin="3781" end="3792">caterpillar</mainReferent>
+    <tokens>bores into the cucumbers when large enough to pickle , and which is occasionally found in pickles</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_58" begin="3881" end="3886">
+    <text>found</text>
+    <mainVerb begin="3881" end="3886">found</mainVerb>
+    <mainReferent begin="3836" end="3842">enough</mainReferent>
+    <tokens>the cucumbers when large enough to pickle is occasionally found in pickles</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_59" begin="3929" end="3934">
+    <text>occur</text>
+    <mainVerb begin="3929" end="3934">occur</mainVerb>
+    <mainReferent begin="3913" end="3918">worms</mainReferent>
+    <tokens>Three four worms sometimes occur in a cucumber</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_60" begin="3987" end="3992">
+    <text>cause</text>
+    <mainVerb begin="3987" end="3992">cause</mainVerb>
+    <mainReferent begin="3913" end="3918">worms</mainReferent>
+    <tokens>in the garden a single one will cause it to rot</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_61" begin="4060" end="4062">
+    <text>is</text>
+    <mainVerb begin="4060" end="4062">is</mainVerb>
+    <mainReferent begin="4004" end="4007">One</mainReferent>
+    <tokens>One of the most troublesome intruders in our graperies is the Vine ( Choerocampa pampinatrix Fig. 47 larva pupa Fig. 48 adult ) a single caterpillar</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_62" begin="4196" end="4201">
+    <text>strip</text>
+    <mainVerb begin="4196" end="4201">strip</mainVerb>
+    <mainReferent begin="4159" end="4170">caterpillar</mainReferent>
+    <tokens>which will sometimes " strip a small vine of its leaves in a few nights "</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_22.txt_63" begin="4265" end="4269">
+    <text>nips</text>
+    <mainVerb begin="4265" end="4269">nips</mainVerb>
+    <mainReferent begin="4159" end="4170">caterpillar</mainReferent>
+    <tokens>which occasionally nips off bunches of half-grown grapes</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+</document>

@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="a_book_of_natural_history_57.txt_1" begin="10" end="15">
+    <text>leave</text>
+    <mainVerb begin="10" end="15">leave</mainVerb>
+    <mainReferent begin="7" end="9">we</mainReferent>
+    <tokens>Before we leave</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_2" begin="29" end="32">
+    <text>let</text>
+    <mainVerb begin="29" end="32">let</mainVerb>
+    <mainReferent begin="21" end="28">subject</mainReferent>
+    <tokens>this subject let us</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_3" begin="56" end="60">
+    <text>stop</text>
+    <mainVerb begin="56" end="60">stop</mainVerb>
+    <tokens>only for a minute stop to consider the wonderful mysterious way</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_4" begin="125" end="129">
+    <text>make</text>
+    <mainVerb begin="125" end="129">make</mainVerb>
+    <mainReferent begin="120" end="124">bees</mainReferent>
+    <tokens>the wonderful mysterious way the bees make their plans</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_5" begin="147" end="151">
+    <text>work</text>
+    <mainVerb begin="147" end="151">work</mainVerb>
+    <mainReferent begin="120" end="124">bees</mainReferent>
+    <tokens>the bees work together on both sides of the comb , where neither can see the other</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_6" begin="175" end="183">
+    <text>occupied</text>
+    <mainVerb begin="175" end="183">occupied</mainVerb>
+    <mainReferent begin="166" end="170">they</mainReferent>
+    <tokens>when they are occupied carving out their cells</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_7" begin="258" end="261">
+    <text>see</text>
+    <mainVerb begin="258" end="261">see</mainVerb>
+    <mainReferent begin="246" end="253">neither</mainReferent>
+    <tokens>where neither can see the other</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_8" begin="274" end="278">
+    <text>Look</text>
+    <mainVerb begin="274" end="278">Look</mainVerb>
+    <tokens>Look through one of these transparent combs</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_9" begin="332" end="335">
+    <text>see</text>
+    <mainVerb begin="332" end="335">see</mainVerb>
+    <mainReferent begin="323" end="326">you</mainReferent>
+    <tokens>you will see clearly a network of prisms arranged in so perfectly fitting a manner that one might think they were stamped out of steel</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_10" begin="357" end="360">
+    <text>cut</text>
+    <mainVerb begin="357" end="360">cut</mainVerb>
+    <mainReferent begin="323" end="326">you</mainReferent>
+    <tokens>you sharply cut out in this diaphanous wax</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_11" begin="409" end="417">
+    <text>arranged</text>
+    <mainVerb begin="409" end="417">arranged</mainVerb>
+    <mainReferent begin="401" end="407">prisms</mainReferent>
+    <tokens>arranged in so perfectly fitting a manner that one might think they were stamped out of steel</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_12" begin="466" end="471">
+    <text>think</text>
+    <mainVerb begin="466" end="471">think</mainVerb>
+    <mainReferent begin="444" end="450">manner</mainReferent>
+    <tokens>that one might think</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_13" begin="483" end="490">
+    <text>stamped</text>
+    <mainVerb begin="483" end="490">stamped</mainVerb>
+    <mainReferent begin="472" end="476">they</mainReferent>
+    <tokens>they were stamped of steel</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_14" begin="491" end="494">
+    <text>out</text>
+    <mainVerb begin="491" end="494">out</mainVerb>
+    <tokens>out</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_15" begin="529" end="533">
+    <text>seen</text>
+    <mainVerb begin="529" end="533">seen</mainVerb>
+    <mainReferent begin="508" end="513">Those</mainReferent>
+    <tokens>Those have never seen the inside of a hive</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_16" begin="559" end="563">
+    <text>have</text>
+    <mainVerb begin="559" end="563">have</mainVerb>
+    <mainReferent begin="508" end="513">Those</mainReferent>
+    <tokens>Those can have little idea of the appearance of these honeycombs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_17" begin="616" end="619">
+    <text>Let</text>
+    <mainVerb begin="616" end="619">Let</mainVerb>
+    <tokens>Let</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_18" begin="623" end="627">
+    <text>take</text>
+    <mainVerb begin="623" end="627">take</mainVerb>
+    <mainReferent begin="620" end="622">us</mainReferent>
+    <tokens>us take a countryman hive</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_19" begin="675" end="679">
+    <text>left</text>
+    <mainVerb begin="675" end="679">left</mainVerb>
+    <mainReferent begin="662" end="665">bee</mainReferent>
+    <tokens>a countryman the bee has been left free to work</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_20" begin="699" end="706">
+    <text>pleases</text>
+    <mainVerb begin="699" end="706">pleases</mainVerb>
+    <mainReferent begin="696" end="698">he</mainReferent>
+    <tokens>as he pleases</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_21" begin="733" end="740">
+    <text>divided</text>
+    <mainVerb begin="733" end="740">divided</mainVerb>
+    <mainReferent begin="724" end="729">shape</mainReferent>
+    <tokens>This bell-like shape is divided from top to bottom five six eight sometimes ten slices of wax so to speak</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_22" begin="839" end="847">
+    <text>parallel</text>
+    <mainVerb begin="839" end="847">parallel</mainVerb>
+    <tokens>perfectly parallel with each other , which take the exact shape of the curve of the walls of the hive</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_23" begin="872" end="876">
+    <text>take</text>
+    <mainVerb begin="872" end="876">take</mainVerb>
+    <mainReferent begin="859" end="864">other</mainReferent>
+    <tokens>each other take the exact shape of the curve of the walls of the hive</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_24" begin="966" end="968">
+    <text>is</text>
+    <mainVerb begin="966" end="968">is</mainVerb>
+    <mainReferent begin="946" end="949">one</mainReferent>
+    <tokens>Between each one of these slices is a of about half an inch in which the bees move about</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_25" begin="1018" end="1022">
+    <text>move</text>
+    <mainVerb begin="1018" end="1022">move</mainVerb>
+    <mainReferent begin="1013" end="1017">bees</mainReferent>
+    <tokens>of about half an inch in which the bees move about</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_26" begin="1040" end="1045">
+    <text>begin</text>
+    <mainVerb begin="1040" end="1045">begin</mainVerb>
+    <mainReferent begin="1035" end="1039">they</mainReferent>
+    <tokens>When they begin to build one of these slices at the top of the hive</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_27" begin="1116" end="1118">
+    <text>is</text>
+    <mainVerb begin="1116" end="1118">is</mainVerb>
+    <mainReferent begin="1104" end="1108">wall</mainReferent>
+    <tokens>the wall of wax is quite</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_28" begin="1137" end="1142">
+    <text>hides</text>
+    <mainVerb begin="1137" end="1142">hides</mainVerb>
+    <mainReferent begin="1104" end="1108">wall</mainReferent>
+    <tokens>the wall of wax hides entirely the fifty sixty bees from the fifty or sixty at work on the other</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_29" begin="1184" end="1191">
+    <text>working</text>
+    <mainVerb begin="1184" end="1191">working</mainVerb>
+    <mainReferent begin="1171" end="1175">bees</mainReferent>
+    <tokens>the fifty sixty bees are working on one side</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_30" begin="1263" end="1267">
+    <text>have</text>
+    <mainVerb begin="1263" end="1267">have</mainVerb>
+    <mainReferent begin="1258" end="1262">they</mainReferent>
+    <tokens>Unless they have a sight</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_31" begin="1287" end="1293">
+    <text>pierce</text>
+    <mainVerb begin="1287" end="1293">pierce</mainVerb>
+    <mainReferent begin="1270" end="1275">sight</mainReferent>
+    <tokens>a sight can pierce the most opaque bodies</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_32" begin="1330" end="1333">
+    <text>see</text>
+    <mainVerb begin="1330" end="1333">see</mainVerb>
+    <mainReferent begin="1318" end="1325">neither</mainReferent>
+    <tokens>neither can see</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_33" begin="1342" end="1347">
+    <text>doing</text>
+    <mainVerb begin="1342" end="1347">doing</mainVerb>
+    <mainReferent begin="1334" end="1338">what</mainReferent>
+    <tokens>what is doing on the other side</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_34" begin="1409" end="1412">
+    <text>dig</text>
+    <mainVerb begin="1409" end="1412">dig</mainVerb>
+    <mainReferent begin="1384" end="1387">bee</mainReferent>
+    <tokens>Nevertheless a bee on one side does not dig a hole</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_35" begin="1424" end="1427">
+    <text>add</text>
+    <mainVerb begin="1424" end="1427">add</mainVerb>
+    <mainReferent begin="1384" end="1387">bee</mainReferent>
+    <tokens>a bee on one side add a fragment of wax</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_36" begin="1461" end="1471">
+    <text>correspond</text>
+    <mainVerb begin="1461" end="1471">correspond</mainVerb>
+    <mainReferent begin="1430" end="1438">fragment</mainReferent>
+    <tokens>a fragment of wax does not correspond exactly with a protuberance or a cavity on the other side</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_37" begin="1544" end="1552">
+    <text>contrive</text>
+    <mainVerb begin="1544" end="1552">contrive</mainVerb>
+    <mainReferent begin="1539" end="1543">they</mainReferent>
+    <tokens>How do they contrive to do this</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_38" begin="1578" end="1584">
+    <text>happen</text>
+    <mainVerb begin="1578" end="1584">happen</mainVerb>
+    <mainReferent begin="1575" end="1577">it</mainReferent>
+    <tokens>How does it happen one the other not far enough</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_39" begin="1603" end="1606">
+    <text>dig</text>
+    <mainVerb begin="1603" end="1606">dig</mainVerb>
+    <mainReferent begin="1590" end="1593">one</mainReferent>
+    <tokens>that one does not dig too far the other not far enough</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_40" begin="1654" end="1656">
+    <text>is</text>
+    <mainVerb begin="1654" end="1656">is</mainVerb>
+    <mainReferent begin="1657" end="1659">it</mainReferent>
+    <tokens>How is it</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_41" begin="1677" end="1686">
+    <text>coincides</text>
+    <mainVerb begin="1677" end="1686">coincides</mainVerb>
+    <mainReferent begin="1671" end="1676">angle</mainReferent>
+    <tokens>it every angle coincides in such magnificent perfection</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_42" begin="1724" end="1729">
+    <text>tells</text>
+    <mainVerb begin="1724" end="1729">tells</mainVerb>
+    <mainReferent begin="1720" end="1723">Who</mainReferent>
+    <tokens>Who tells the bee to begin here to end there</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_43" begin="1790" end="1792">
+    <text>be</text>
+    <mainVerb begin="1790" end="1792">be</mainVerb>
+    <mainReferent begin="1781" end="1783">we</mainReferent>
+    <tokens>Once again we must be with the reply that does not answer " "</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_44" begin="1832" end="1838">
+    <text>answer</text>
+    <mainVerb begin="1832" end="1838">answer</mainVerb>
+    <mainReferent begin="1812" end="1817">reply</mainReferent>
+    <tokens>the reply does not answer</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_45" begin="1844" end="1846">
+    <text>is</text>
+    <mainVerb begin="1844" end="1846">is</mainVerb>
+    <mainReferent begin="1841" end="1843">It</mainReferent>
+    <tokens>It is of the mysteries of the hive</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_46" begin="1893" end="1898">
+    <text>tried</text>
+    <mainVerb begin="1893" end="1898">tried</mainVerb>
+    <mainReferent begin="1883" end="1888">Huber</mainReferent>
+    <tokens>Huber has tried to explain it saying</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_47" begin="2003" end="2010">
+    <text>produce</text>
+    <mainVerb begin="2003" end="2010">produce</mainVerb>
+    <mainReferent begin="1998" end="2002">they</mainReferent>
+    <tokens>that at certain intervals by the pressure of their feet or their teeth they produce a slight projection of the wax on the other side of the comb</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_48" begin="2091" end="2100">
+    <text>determine</text>
+    <mainVerb begin="2091" end="2100">determine</mainVerb>
+    <mainReferent begin="1998" end="2002">they</mainReferent>
+    <tokens>that they can determine the thickness of the block of wax by its flexibility , its elasticity , or some other physical property</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_49" begin="2218" end="2225">
+    <text>possess</text>
+    <mainVerb begin="2218" end="2225">possess</mainVerb>
+    <mainReferent begin="2211" end="2213">it</mainReferent>
+    <tokens>which it may possess again</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_50" begin="2257" end="2260">
+    <text>are</text>
+    <mainVerb begin="2257" end="2260">are</mainVerb>
+    <mainReferent begin="2249" end="2256">antennæ</mainReferent>
+    <tokens>that their antennæ are to serve as compasses enabling them to examine</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_51" begin="2325" end="2330">
+    <text>going</text>
+    <mainVerb begin="2325" end="2330">going</mainVerb>
+    <mainReferent begin="2309" end="2316">examine</mainReferent>
+    <tokens>what is going on in the darkness of the other side</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_52" begin="2390" end="2398">
+    <text>suggests</text>
+    <mainVerb begin="2390" end="2398">suggests</mainVerb>
+    <mainReferent begin="2325" end="2330">going</mainReferent>
+    <tokens>last of all he suggests</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_53" begin="2434" end="2440">
+    <text>derive</text>
+    <mainVerb begin="2434" end="2440">derive</mainVerb>
+    <mainReferent begin="2412" end="2417">cells</mainReferent>
+    <tokens>that all the cells mathematically derive their shape dimensions from those of the first row</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_54" begin="2507" end="2512">
+    <text>built</text>
+    <mainVerb begin="2507" end="2512">built</mainVerb>
+    <mainReferent begin="2317" end="2321">what</mainReferent>
+    <tokens>which is built without the need of further concert on the part of the workers</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_55" begin="2597" end="2600">
+    <text>see</text>
+    <mainVerb begin="2597" end="2600">see</mainVerb>
+    <mainReferent begin="2582" end="2585">one</mainReferent>
+    <tokens>But one can easily see</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_56" begin="2626" end="2629">
+    <text>are</text>
+    <mainVerb begin="2626" end="2629">are</mainVerb>
+    <mainReferent begin="2612" end="2624">explanations</mainReferent>
+    <tokens>that these explanations are not</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_57" begin="2656" end="2659">
+    <text>are</text>
+    <mainVerb begin="2656" end="2659">are</mainVerb>
+    <mainReferent begin="2650" end="2655">first</mainReferent>
+    <tokens>the first are</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_58" begin="2684" end="2692">
+    <text>verified</text>
+    <mainVerb begin="2684" end="2692">verified</mainVerb>
+    <mainReferent begin="2660" end="2667">guesses</mainReferent>
+    <tokens>can not be verified</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_59" begin="2713" end="2719">
+    <text>change</text>
+    <mainVerb begin="2713" end="2719">change</mainVerb>
+    <mainReferent begin="2699" end="2705">others</mainReferent>
+    <tokens>the others simply change</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_60" begin="2731" end="2737">
+    <text>remove</text>
+    <mainVerb begin="2731" end="2737">remove</mainVerb>
+    <mainReferent begin="2699" end="2705">others</mainReferent>
+    <tokens>the others do not remove the mystery</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_61" begin="2761" end="2763">
+    <text>is</text>
+    <mainVerb begin="2761" end="2763">is</mainVerb>
+    <mainReferent begin="2758" end="2760">it</mainReferent>
+    <tokens>if it is to change a mystery as often as possible</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_62" begin="2815" end="2817">
+    <text>is</text>
+    <mainVerb begin="2815" end="2817">is</mainVerb>
+    <mainReferent begin="2812" end="2814">it</mainReferent>
+    <tokens>But it is never to flatter one self to change</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_63" begin="2870" end="2875">
+    <text>means</text>
+    <mainVerb begin="2870" end="2875">means</mainVerb>
+    <mainReferent begin="2867" end="2869">it</mainReferent>
+    <tokens>it means to remove it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_64" begin="3006" end="3009">
+    <text>saw</text>
+    <mainVerb begin="3006" end="3009">saw</mainVerb>
+    <mainReferent begin="3002" end="3005">day</mainReferent>
+    <tokens>I one day saw a small black yellow banded wasp hunting for spiders</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_65" begin="3072" end="3082">
+    <text>approached</text>
+    <mainVerb begin="3072" end="3082">approached</mainVerb>
+    <mainReferent begin="3069" end="3071">it</mainReferent>
+    <tokens>it approached a web</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_66" begin="3108" end="3117">
+    <text>stationed</text>
+    <mainVerb begin="3108" end="3117">stationed</mainVerb>
+    <mainReferent begin="3097" end="3103">spider</mainReferent>
+    <tokens>where a spider was stationed in the centre , made a dart towards it -- apparently a feint to frighten the spider clear of its web</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_67" begin="3134" end="3138">
+    <text>made</text>
+    <mainVerb begin="3134" end="3138">made</mainVerb>
+    <mainReferent begin="3126" end="3132">centre</mainReferent>
+    <tokens>made a dart towards it apparently a feint to frighten the spider clear</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_68" begin="3234" end="3237">
+    <text>had</text>
+    <mainVerb begin="3234" end="3237">had</mainVerb>
+    <mainReferent begin="3231" end="3233">it</mainReferent>
+    <tokens>at any rate it had that effect</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_69" begin="3258" end="3262">
+    <text>fell</text>
+    <mainVerb begin="3258" end="3262">fell</mainVerb>
+    <mainReferent begin="3255" end="3257">it</mainReferent>
+    <tokens>for it fell to the ground</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_70" begin="3299" end="3305">
+    <text>seized</text>
+    <mainVerb begin="3299" end="3305">seized</mainVerb>
+    <mainReferent begin="3255" end="3257">it</mainReferent>
+    <tokens>it was immediately seized the wasp</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_71" begin="3323" end="3328">
+    <text>stung</text>
+    <mainVerb begin="3323" end="3328">stung</mainVerb>
+    <mainReferent begin="3313" end="3317">wasp</mainReferent>
+    <tokens>the wasp stung it</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_72" begin="3339" end="3342">
+    <text>ran</text>
+    <mainVerb begin="3339" end="3342">ran</mainVerb>
+    <mainReferent begin="2960" end="2964">BELT</mainReferent>
+    <tokens>BY THOMAS G. BELT F.G.S. [ Illustration ] then ran quickly backwards</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_73" begin="3362" end="3370">
+    <text>dragging</text>
+    <mainVerb begin="3362" end="3370">dragging</mainVerb>
+    <tokens>dragging the spider after it up a branch reaching to the ground</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_74" begin="3437" end="3440">
+    <text>got</text>
+    <mainVerb begin="3437" end="3440">got</mainVerb>
+    <mainReferent begin="3434" end="3436">it</mainReferent>
+    <tokens>until it got high enough</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_75" begin="3462" end="3466">
+    <text>flew</text>
+    <mainVerb begin="3462" end="3466">flew</mainVerb>
+    <mainReferent begin="3459" end="3461">it</mainReferent>
+    <tokens>when it flew heavily off with it</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_76" begin="3492" end="3495">
+    <text>was</text>
+    <mainVerb begin="3492" end="3495">was</mainVerb>
+    <mainReferent begin="3489" end="3491">It</mainReferent>
+    <tokens>It was so the spider so heavy</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_77" begin="3564" end="3570">
+    <text>raised</text>
+    <mainVerb begin="3564" end="3570">raised</mainVerb>
+    <mainReferent begin="3489" end="3491">It</mainReferent>
+    <tokens>that it probably could not have raised it from the ground by flight</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_78" begin="3627" end="3630">
+    <text>are</text>
+    <mainVerb begin="3627" end="3630">are</mainVerb>
+    <mainReferent begin="3601" end="3604">All</mainReferent>
+    <tokens>All over the world there are</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_79" begin="3642" end="3647">
+    <text>store</text>
+    <mainVerb begin="3642" end="3647">store</mainVerb>
+    <mainReferent begin="3631" end="3636">wasps</mainReferent>
+    <tokens>store their nests with the bodies of spiders for their young to feed on</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_80" begin="3738" end="3747">
+    <text>witnessed</text>
+    <mainVerb begin="3738" end="3747">witnessed</mainVerb>
+    <mainReferent begin="3730" end="3731">I</mainReferent>
+    <tokens>In Australia I often witnessed a wasp</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_81" begin="3756" end="3765">
+    <text>combating</text>
+    <mainVerb begin="3756" end="3765">combating</mainVerb>
+    <mainReferent begin="3751" end="3755">wasp</mainReferent>
+    <tokens>combating with a large flat spider that is found on the bark of trees</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_82" begin="3799" end="3804">
+    <text>found</text>
+    <mainVerb begin="3799" end="3804">found</mainVerb>
+    <mainReferent begin="3784" end="3790">spider</mainReferent>
+    <tokens>a large flat spider is found on the bark of trees</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_83" begin="3837" end="3841">
+    <text>fall</text>
+    <mainVerb begin="3837" end="3841">fall</mainVerb>
+    <mainReferent begin="3828" end="3830">It</mainReferent>
+    <tokens>It would fall to the ground</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_84" begin="3861" end="3864">
+    <text>lie</text>
+    <mainVerb begin="3861" end="3864">lie</mainVerb>
+    <mainReferent begin="3828" end="3830">It</mainReferent>
+    <tokens>It lie on its back</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_85" begin="3939" end="3942">
+    <text>was</text>
+    <mainVerb begin="3939" end="3942">was</mainVerb>
+    <mainReferent begin="3934" end="3938">wasp</mainReferent>
+    <tokens>the wasp was always the in the encounters I saw</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_86" begin="3982" end="3985">
+    <text>saw</text>
+    <mainVerb begin="3982" end="3985">saw</mainVerb>
+    <mainReferent begin="3980" end="3981">I</mainReferent>
+    <tokens>I saw</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_87" begin="4014" end="4021">
+    <text>allowed</text>
+    <mainVerb begin="4014" end="4021">allowed</mainVerb>
+    <mainReferent begin="3996" end="3998">it</mainReferent>
+    <tokens>although it was not always allowed to carry off its prey in peace</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_88" begin="4064" end="4071">
+    <text>sitting</text>
+    <mainVerb begin="4064" end="4071">sitting</mainVerb>
+    <mainReferent begin="4120" end="4121">I</mainReferent>
+    <tokens>sitting on the sandbanks on the coast of Hobson 's Bay</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_89" begin="4122" end="4125">
+    <text>saw</text>
+    <mainVerb begin="4122" end="4125">saw</mainVerb>
+    <mainReferent begin="4120" end="4121">I</mainReferent>
+    <tokens>One day I saw one</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_90" begin="4130" end="4138">
+    <text>dragging</text>
+    <mainVerb begin="4130" end="4138">dragging</mainVerb>
+    <tokens>dragging along a large spider</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_91" begin="4192" end="4199">
+    <text>hovered</text>
+    <mainVerb begin="4192" end="4199">hovered</mainVerb>
+    <mainReferent begin="4176" end="4182">inches</mainReferent>
+    <tokens>Three four inches above it hovered two minute flies keeping a little behind advancing with it</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_92" begin="4276" end="4282">
+    <text>seemed</text>
+    <mainVerb begin="4276" end="4282">seemed</mainVerb>
+    <mainReferent begin="4271" end="4275">wasp</mainReferent>
+    <tokens>The wasp seemed much disturbed by the presence of the tiny flies</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_93" begin="4344" end="4348">
+    <text>left</text>
+    <mainVerb begin="4344" end="4348">left</mainVerb>
+    <mainReferent begin="4271" end="4275">wasp</mainReferent>
+    <tokens>The wasp twice left its prey to fly up towards them</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_94" begin="4392" end="4398">
+    <text>darted</text>
+    <mainVerb begin="4392" end="4398">darted</mainVerb>
+    <mainReferent begin="4271" end="4275">wasp</mainReferent>
+    <tokens>they darted away with it</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_95" begin="4433" end="4441">
+    <text>returned</text>
+    <mainVerb begin="4433" end="4441">returned</mainVerb>
+    <mainReferent begin="4428" end="4432">wasp</mainReferent>
+    <tokens>as the wasp returned to the spider</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_96" begin="4474" end="4482">
+    <text>hovering</text>
+    <mainVerb begin="4474" end="4482">hovering</mainVerb>
+    <mainReferent begin="4502" end="4504">it</mainReferent>
+    <tokens>As soon there they were hovering over following it again</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_97" begin="4574" end="4581">
+    <text>reached</text>
+    <mainVerb begin="4574" end="4581">reached</mainVerb>
+    <mainReferent begin="4569" end="4573">wasp</mainReferent>
+    <tokens>At last unable to drive away its small tormentors the wasp reached its burrow</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_98" begin="4598" end="4602">
+    <text>took</text>
+    <mainVerb begin="4598" end="4602">took</mainVerb>
+    <mainReferent begin="4569" end="4573">wasp</mainReferent>
+    <tokens>the wasp took down the spider</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_99" begin="4632" end="4637">
+    <text>flies</text>
+    <mainVerb begin="4632" end="4637">flies</mainVerb>
+    <mainReferent begin="4569" end="4573">wasp</mainReferent>
+    <tokens>the two flies</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_100" begin="4638" end="4647">
+    <text>stationed</text>
+    <mainVerb begin="4638" end="4647">stationed</mainVerb>
+    <mainReferent begin="4632" end="4637">flies</mainReferent>
+    <tokens>stationed themselves one on each side the entrance</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_101" begin="4695" end="4700">
+    <text>would</text>
+    <mainVerb begin="4695" end="4700">would</mainVerb>
+    <mainReferent begin="4632" end="4637">flies</mainReferent>
+    <tokens>would doubtless</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_102" begin="4728" end="4732">
+    <text>went</text>
+    <mainVerb begin="4728" end="4732">went</mainVerb>
+    <mainReferent begin="4723" end="4727">wasp</mainReferent>
+    <tokens>when the wasp went away to seek another victim</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_103" begin="4762" end="4769">
+    <text>descend</text>
+    <mainVerb begin="4762" end="4769">descend</mainVerb>
+    <mainReferent begin="4628" end="4631">two</mainReferent>
+    <tokens>the two descend</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_57.txt_104" begin="4774" end="4777">
+    <text>lay</text>
+    <mainVerb begin="4774" end="4777">lay</mainVerb>
+    <mainReferent begin="4628" end="4631">two</mainReferent>
+    <tokens>the two lay their own eggs in the nest</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+</document>

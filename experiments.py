@@ -13,4 +13,9 @@ def test_labeler():
     run_labeler(input_folder=["input/only_blobfish"], output_folder=["output/testing_this_bitch"])
 
 
-test_labeler()
+def big_run():
+    for i in range(0, 19):
+        run_labeler(input_folder=["input/csn_chopped/csn{}".format(i)], output_folder=["output/csn_chopped/csn{}".format(i)])
+
+
+big_run()

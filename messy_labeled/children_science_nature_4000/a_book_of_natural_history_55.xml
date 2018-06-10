@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="a_book_of_natural_history_55.txt_1" begin="22" end="26">
+    <text>know</text>
+    <mainVerb begin="22" end="26">know</mainVerb>
+    <mainReferent begin="1" end="9">Students</mainReferent>
+    <tokens>" Students of geometry know</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_2" begin="29" end="33">
+    <text>says</text>
+    <mainVerb begin="29" end="33">says</mainVerb>
+    <mainReferent begin="38" end="42">Reid</mainReferent>
+    <tokens>" says Dr. Reid "</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_3" begin="56" end="59">
+    <text>are</text>
+    <mainVerb begin="56" end="59">are</mainVerb>
+    <mainReferent begin="72" end="78">shapes</mainReferent>
+    <tokens>that there are only three shapes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_4" begin="91" end="99">
+    <text>employed</text>
+    <mainVerb begin="91" end="99">employed</mainVerb>
+    <mainReferent begin="72" end="78">shapes</mainReferent>
+    <tokens>only three shapes can be employed to divide a surface uniform spaces , that shall be regular in shape without interstices</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_5" begin="154" end="156">
+    <text>be</text>
+    <mainVerb begin="154" end="156">be</mainVerb>
+    <mainReferent begin="134" end="140">spaces</mainReferent>
+    <tokens>uniform spaces shall be</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_6" begin="266" end="269">
+    <text>are</text>
+    <mainVerb begin="266" end="269">are</mainVerb>
+    <mainReferent begin="261" end="265">They</mainReferent>
+    <tokens>They are the equilateral the square the regular hexagon</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_7" begin="384" end="386">
+    <text>is</text>
+    <mainVerb begin="384" end="386">is</mainVerb>
+    <mainReferent begin="340" end="346">latter</mainReferent>
+    <tokens>the regular hexagon latter in the matter of cell construction is to the two first both from the point of view of strength and utility</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_8" begin="475" end="477">
+    <text>is</text>
+    <mainVerb begin="475" end="477">is</mainVerb>
+    <mainReferent begin="472" end="474">it</mainReferent>
+    <tokens>it is just this</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_9" begin="512" end="519">
+    <text>adopted</text>
+    <mainVerb begin="512" end="519">adopted</mainVerb>
+    <mainReferent begin="502" end="506">bees</mainReferent>
+    <tokens>that the bees have adopted</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_10" begin="557" end="561">
+    <text>were</text>
+    <mainVerb begin="557" end="561">were</mainVerb>
+    <mainReferent begin="546" end="556">advantages</mainReferent>
+    <tokens>precisely as though its advantages were to them</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_11" begin="622" end="626">
+    <text>form</text>
+    <mainVerb begin="622" end="626">form</mainVerb>
+    <mainReferent begin="601" end="608">bottoms</mainReferent>
+    <tokens>" Furthermore the bottoms of the cells form three planes</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_12" begin="640" end="647">
+    <text>meeting</text>
+    <mainVerb begin="640" end="647">meeting</mainVerb>
+    <mainReferent begin="633" end="639">planes</mainReferent>
+    <tokens>meeting at one point</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_13" begin="679" end="691">
+    <text>demonstrated</text>
+    <mainVerb begin="679" end="691">demonstrated</mainVerb>
+    <mainReferent begin="601" end="608">bottoms</mainReferent>
+    <tokens>it has been demonstrated</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_14" begin="764" end="766">
+    <text>is</text>
+    <mainVerb begin="764" end="766">is</mainVerb>
+    <mainReferent begin="741" end="747">system</mainReferent>
+    <tokens>that both in economy of labor and material this system of construction is the</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_15" begin="828" end="835">
+    <text>affects</text>
+    <mainVerb begin="828" end="835">affects</mainVerb>
+    <mainReferent begin="771" end="775">best</mainReferent>
+    <tokens>again the angle of the inclination of the planes affects this question of economy</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_16" begin="885" end="891">
+    <text>solved</text>
+    <mainVerb begin="885" end="891">solved</mainVerb>
+    <mainReferent begin="868" end="875">problem</mainReferent>
+    <tokens>this problem has been solved the bees</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_17" begin="908" end="917">
+    <text>confirmed</text>
+    <mainVerb begin="908" end="917">confirmed</mainVerb>
+    <mainReferent begin="868" end="875">problem</mainReferent>
+    <tokens>this problem confirmed by Maclaurin by abstruse mathematical calculations published in the " Transactions of the Royal Society of London</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_18" begin="970" end="979">
+    <text>published</text>
+    <mainVerb begin="970" end="979">published</mainVerb>
+    <mainReferent begin="957" end="969">calculations</mainReferent>
+    <tokens>published in the " Transactions of the Royal Society of London</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_19" begin="1058" end="1065">
+    <text>suppose</text>
+    <mainVerb begin="1058" end="1065">suppose</mainVerb>
+    <mainReferent begin="1049" end="1050">I</mainReferent>
+    <tokens>I do not suppose for a moment</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_20" begin="1110" end="1114">
+    <text>made</text>
+    <mainVerb begin="1110" end="1114">made</mainVerb>
+    <mainReferent begin="1088" end="1092">bees</mainReferent>
+    <tokens>" Of course the bees themselves have made these calculations</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_21" begin="1166" end="1173">
+    <text>believe</text>
+    <mainVerb begin="1166" end="1173">believe</mainVerb>
+    <mainReferent begin="1088" end="1092">bees</mainReferent>
+    <tokens>on the other hand I do not believe that chance</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_22" begin="1191" end="1201">
+    <text>accidental</text>
+    <mainVerb begin="1191" end="1201">accidental</mainVerb>
+    <mainReferent begin="1042" end="1048">course</mainReferent>
+    <tokens>accidental circumstance</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_23" begin="1219" end="1226">
+    <text>brought</text>
+    <mainVerb begin="1219" end="1226">brought</mainVerb>
+    <mainReferent begin="1042" end="1048">course</mainReferent>
+    <tokens>" " Of course has brought about these results</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_24" begin="1280" end="1285">
+    <text>built</text>
+    <mainVerb begin="1280" end="1285">built</mainVerb>
+    <mainReferent begin="1254" end="1259">wasps</mainReferent>
+    <tokens>The wasps for instance have built hexagonal cells</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_25" begin="1322" end="1331">
+    <text>displayed</text>
+    <mainVerb begin="1322" end="1331">displayed</mainVerb>
+    <mainReferent begin="1254" end="1259">wasps</mainReferent>
+    <tokens>they have not displayed such ingenuity</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_26" begin="1364" end="1368">
+    <text>done</text>
+    <mainVerb begin="1364" end="1368">done</mainVerb>
+    <mainReferent begin="1354" end="1358">bees</mainReferent>
+    <tokens>as the bees have done</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_27" begin="1382" end="1386">
+    <text>have</text>
+    <mainVerb begin="1382" end="1386">have</mainVerb>
+    <mainReferent begin="1376" end="1381">combs</mainReferent>
+    <tokens>Their combs have only one course of cells</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_28" begin="1423" end="1427">
+    <text>have</text>
+    <mainVerb begin="1423" end="1427">have</mainVerb>
+    <mainReferent begin="1376" end="1381">combs</mainReferent>
+    <tokens>they have not the foundation</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_29" begin="1453" end="1459">
+    <text>serves</text>
+    <mainVerb begin="1453" end="1459">serves</mainVerb>
+    <mainReferent begin="1436" end="1446">foundation</mainReferent>
+    <tokens>the foundation serves the bees for their double rows</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_30" begin="1505" end="1507">
+    <text>is</text>
+    <mainVerb begin="1505" end="1507">is</mainVerb>
+    <mainReferent begin="1529" end="1541">irregularity</mainReferent>
+    <tokens>Hence there is less strength more irregularity a loss of time of material , and of room , which really means that a quarter of the labor employed and a third of the space occupied is lost</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_31" begin="1603" end="1608">
+    <text>means</text>
+    <mainVerb begin="1603" end="1608">means</mainVerb>
+    <mainReferent begin="1580" end="1582">of</mainReferent>
+    <tokens>which really means</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_32" begin="1637" end="1645">
+    <text>employed</text>
+    <mainVerb begin="1637" end="1645">employed</mainVerb>
+    <mainReferent begin="1631" end="1636">labor</mainReferent>
+    <tokens>employed and a third of the space</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_33" begin="1672" end="1680">
+    <text>occupied</text>
+    <mainVerb begin="1672" end="1680">occupied</mainVerb>
+    <mainReferent begin="1616" end="1623">quarter</mainReferent>
+    <tokens>that a quarter of the labor employed and a third of the space occupied</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_34" begin="1684" end="1688">
+    <text>lost</text>
+    <mainVerb begin="1684" end="1688">lost</mainVerb>
+    <tokens>is lost</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_35" begin="1698" end="1702">
+    <text>find</text>
+    <mainVerb begin="1698" end="1702">find</mainVerb>
+    <mainReferent begin="1690" end="1692">We</mainReferent>
+    <tokens>We also find certain other domesticated bees</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_36" begin="1748" end="1758">
+    <text>progressed</text>
+    <mainVerb begin="1748" end="1758">progressed</mainVerb>
+    <mainReferent begin="1730" end="1734">bees</mainReferent>
+    <tokens>not so far progressed in civilization</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_37" begin="1787" end="1792">
+    <text>build</text>
+    <mainVerb begin="1787" end="1792">build</mainVerb>
+    <mainReferent begin="1730" end="1734">bees</mainReferent>
+    <tokens>certain other domesticated bees only build one row of cells rearing their young</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_38" begin="1865" end="1870">
+    <text>combs</text>
+    <mainVerb begin="1865" end="1870">combs</mainVerb>
+    <mainReferent begin="1730" end="1734">bees</mainReferent>
+    <tokens>which support horizontal combs one above another on costly columns of wax</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_39" begin="1940" end="1943">
+    <text>are</text>
+    <mainVerb begin="1940" end="1943">are</mainVerb>
+    <mainReferent begin="1927" end="1938">store-cells</mainReferent>
+    <tokens>Their food store-cells are like a row of round pots</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_40" begin="1984" end="1988">
+    <text>make</text>
+    <mainVerb begin="1984" end="1988">make</mainVerb>
+    <mainReferent begin="1927" end="1938">store-cells</mainReferent>
+    <tokens>the bees make but a clumsy use of the spaces between them</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_41" begin="2051" end="2058">
+    <text>compare</text>
+    <mainVerb begin="2051" end="2058">compare</mainVerb>
+    <mainReferent begin="2048" end="2050">we</mainReferent>
+    <tokens>when we compare their City with the Wonderful City of the bees of which we are speaking</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_42" begin="2123" end="2131">
+    <text>speaking</text>
+    <mainVerb begin="2123" end="2131">speaking</mainVerb>
+    <mainReferent begin="2116" end="2118">we</mainReferent>
+    <tokens>with the Wonderful City of the bees of which we are speaking</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_43" begin="2136" end="2138">
+    <text>is</text>
+    <mainVerb begin="2136" end="2138">is</mainVerb>
+    <mainReferent begin="2133" end="2135">it</mainReferent>
+    <tokens>Indeed it is comparing a row of huts with a modern laid out city</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_44" begin="2183" end="2187">
+    <text>laid</text>
+    <mainVerb begin="2183" end="2187">laid</mainVerb>
+    <mainReferent begin="2176" end="2182">modern</mainReferent>
+    <tokens>laid out city</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_45" begin="2212" end="2214">
+    <text>is</text>
+    <mainVerb begin="2212" end="2214">is</mainVerb>
+    <mainReferent begin="2205" end="2211">result</mainReferent>
+    <tokens>If the result is not</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_46" begin="2233" end="2235">
+    <text>is</text>
+    <mainVerb begin="2233" end="2235">is</mainVerb>
+    <mainReferent begin="2230" end="2232">it</mainReferent>
+    <tokens>it is severely</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_47" begin="2258" end="2270">
+    <text>demonstrates</text>
+    <mainVerb begin="2258" end="2270">demonstrates</mainVerb>
+    <mainReferent begin="2230" end="2232">it</mainReferent>
+    <tokens>it demonstrates the genius of the race which is forever fighting to get the most out of matter , space , and time</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_48" begin="2312" end="2320">
+    <text>fighting</text>
+    <mainVerb begin="2312" end="2320">fighting</mainVerb>
+    <mainReferent begin="2290" end="2294">race</mainReferent>
+    <tokens>the race is forever fighting to get the most out of matter , space , and time</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_49" begin="2380" end="2383">
+    <text>had</text>
+    <mainVerb begin="2380" end="2383">had</mainVerb>
+    <mainReferent begin="2373" end="2379">Buffon</mainReferent>
+    <tokens>Buffon had a theory</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_50" begin="2408" end="2415">
+    <text>revived</text>
+    <mainVerb begin="2408" end="2415">revived</mainVerb>
+    <mainReferent begin="2386" end="2392">theory</mainReferent>
+    <tokens>a theory has been revived once more</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_51" begin="2450" end="2456">
+    <text>intend</text>
+    <mainVerb begin="2450" end="2456">intend</mainVerb>
+    <mainReferent begin="2436" end="2440">bees</mainReferent>
+    <tokens>that the bees did not intend to make hexagonal cells round ones</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_52" begin="2515" end="2520">
+    <text>owing</text>
+    <mainVerb begin="2515" end="2520">owing</mainVerb>
+    <mainReferent begin="2574" end="2578">ones</mainReferent>
+    <tokens>owing to the crowding of the workers all around</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_53" begin="2580" end="2586">
+    <text>became</text>
+    <mainVerb begin="2580" end="2586">became</mainVerb>
+    <mainReferent begin="2436" end="2440">bees</mainReferent>
+    <tokens>that the round ones became hexagonal</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_54" begin="2604" end="2608">
+    <text>said</text>
+    <mainVerb begin="2604" end="2608">said</mainVerb>
+    <mainReferent begin="2598" end="2600">It</mainReferent>
+    <tokens>It is said also Buffon advances this experiment to prove it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_55" begin="2680" end="2686">
+    <text>follow</text>
+    <mainVerb begin="2680" end="2686">follow</mainVerb>
+    <mainReferent begin="2619" end="2627">crystals</mainReferent>
+    <tokens>that crystals fish-scales of certain kinds , soap-bubbles , etc. follow the same law Buffon advances this experiment to prove it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_56" begin="2752" end="2756">
+    <text>Take</text>
+    <mainVerb begin="2752" end="2756">Take</mainVerb>
+    <tokens>" Take a vessel</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_57" begin="2770" end="2774">
+    <text>fill</text>
+    <mainVerb begin="2770" end="2774">fill</mainVerb>
+    <tokens>fill it full with peas or any other round grains</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_58" begin="2821" end="2825">
+    <text>pour</text>
+    <mainVerb begin="2821" end="2825">pour</mainVerb>
+    <mainReferent begin="2752" end="2756">Take</mainReferent>
+    <tokens>pour as much water upon them</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_59" begin="2859" end="2863">
+    <text>fill</text>
+    <mainVerb begin="2859" end="2863">fill</mainVerb>
+    <tokens>as will fill the spaces between them</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_60" begin="2889" end="2894">
+    <text>close</text>
+    <mainVerb begin="2889" end="2894">close</mainVerb>
+    <tokens>close the vessel tightly</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_61" begin="2919" end="2923">
+    <text>boil</text>
+    <mainVerb begin="2919" end="2923">boil</mainVerb>
+    <tokens>boil the water</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_62" begin="2947" end="2952">
+    <text>found</text>
+    <mainVerb begin="2947" end="2952">found</mainVerb>
+    <mainReferent begin="2936" end="2938">It</mainReferent>
+    <tokens>It will be found</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_63" begin="2978" end="2984">
+    <text>become</text>
+    <mainVerb begin="2978" end="2984">become</mainVerb>
+    <mainReferent begin="2968" end="2972">peas</mainReferent>
+    <tokens>that the round peas have become</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_64" begin="2985" end="2994">
+    <text>six-sided</text>
+    <mainVerb begin="2985" end="2994">six-sided</mainVerb>
+    <tokens>six-sided</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_65" begin="3001" end="3005">
+    <text>sees</text>
+    <mainVerb begin="3001" end="3005">sees</mainVerb>
+    <mainReferent begin="2997" end="3000">One</mainReferent>
+    <tokens>One sees clearly</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_66" begin="3029" end="3031">
+    <text>be</text>
+    <mainVerb begin="3029" end="3031">be</mainVerb>
+    <mainReferent begin="3019" end="3023">this</mainReferent>
+    <tokens>that this must be from purely mechanical causes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_67" begin="3096" end="3101">
+    <text>tends</text>
+    <mainVerb begin="3096" end="3101">tends</mainVerb>
+    <mainReferent begin="3072" end="3075">one</mainReferent>
+    <tokens>each one of the round grains tends in the course of swelling</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_68" begin="3135" end="3140">
+    <text>boils</text>
+    <mainVerb begin="3135" end="3140">boils</mainVerb>
+    <mainReferent begin="3131" end="3133">it</mainReferent>
+    <tokens>as it boils to fill up the utmost space</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_69" begin="3177" end="3180">
+    <text>can</text>
+    <mainVerb begin="3177" end="3180">can</mainVerb>
+    <mainReferent begin="3163" end="3168">space</mainReferent>
+    <tokens>that it can</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_70" begin="3235" end="3241">
+    <text>become</text>
+    <mainVerb begin="3235" end="3241">become</mainVerb>
+    <mainReferent begin="3072" end="3075">one</mainReferent>
+    <tokens>by the extension and pressure of all alike they become hexagonal</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_71" begin="3262" end="3268">
+    <text>wishes</text>
+    <mainVerb begin="3262" end="3268">wishes</mainVerb>
+    <mainReferent begin="3258" end="3261">bee</mainReferent>
+    <tokens>Each bee wishes to occupy as much room "</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_72" begin="3403" end="3409">
+    <text>become</text>
+    <mainVerb begin="3403" end="3409">become</mainVerb>
+    <mainReferent begin="3369" end="3374">round</mainReferent>
+    <tokens>as possible in its allotted space therefore as the bodies of the bees are round cylindrical their cells become hexagonal because of the extension and pressure of all alike</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_73" begin="3490" end="3493">
+    <text>see</text>
+    <mainVerb begin="3490" end="3493">see</mainVerb>
+    <mainReferent begin="3487" end="3489">we</mainReferent>
+    <tokens>Here then we see reciprocal obstacles working a wonder</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_74" begin="3587" end="3592">
+    <text>bring</text>
+    <mainVerb begin="3587" end="3592">bring</mainVerb>
+    <mainReferent begin="3574" end="3579">vices</mainReferent>
+    <tokens>somewhat in the same way perhaps as the vices of men bring about a general virtue</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_75" begin="3671" end="3674">
+    <text>are</text>
+    <mainVerb begin="3671" end="3674">are</mainVerb>
+    <mainReferent begin="3659" end="3670">individuals</mainReferent>
+    <tokens>often so far as individuals are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_76" begin="3686" end="3688">
+    <text>is</text>
+    <mainVerb begin="3686" end="3688">is</mainVerb>
+    <mainReferent begin="3635" end="3641">odious</mainReferent>
+    <tokens>that the race odious is in the mass</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_77" begin="3753" end="3758">
+    <text>claim</text>
+    <mainVerb begin="3753" end="3758">claim</mainVerb>
+    <mainReferent begin="3735" end="3741">Spence</mainReferent>
+    <tokens>Broughman Kirby Spence others claim</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_78" begin="3807" end="3812">
+    <text>prove</text>
+    <mainVerb begin="3807" end="3812">prove</mainVerb>
+    <mainReferent begin="3769" end="3781">observations</mainReferent>
+    <tokens>that the observations of soap-bubbles and peas prove nothing in this connection</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_79" begin="3872" end="3874">
+    <text>is</text>
+    <mainVerb begin="3872" end="3874">is</mainVerb>
+    <mainReferent begin="3850" end="3856">effect</mainReferent>
+    <tokens>for the effect of compression is to produce irregular hexagonal forms</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_80" begin="3932" end="3939">
+    <text>explain</text>
+    <mainVerb begin="3932" end="3939">explain</mainVerb>
+    <mainReferent begin="3769" end="3781">observations</mainReferent>
+    <tokens>the observations of soap-bubbles and peas does not explain the earlier form of the base of the cells</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_81" begin="4005" end="4011">
+    <text>rejoin</text>
+    <mainVerb begin="4005" end="4011">rejoin</mainVerb>
+    <tokens>might rejoin</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_82" begin="4023" end="4026">
+    <text>are</text>
+    <mainVerb begin="4023" end="4026">are</mainVerb>
+    <mainReferent begin="4032" end="4036">ways</mainReferent>
+    <tokens>this one there are more ways than one of dealing with the blind law of necessity</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_83" begin="4204" end="4210">
+    <text>arrive</text>
+    <mainVerb begin="4204" end="4210">arrive</mainVerb>
+    <tokens>To this one might rejoin that there are more ways than one of dealing with the blind law of necessity for the wasp and the bumble-bee and many other species in similar circumstances with the same end in view arrive at very different , and manifestly inferior , results</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_84" begin="4284" end="4288">
+    <text>said</text>
+    <mainVerb begin="4284" end="4288">said</mainVerb>
+    <mainReferent begin="4272" end="4274">it</mainReferent>
+    <tokens>Indeed it might be said further</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_85" begin="4328" end="4335">
+    <text>conform</text>
+    <mainVerb begin="4328" end="4335">conform</mainVerb>
+    <mainReferent begin="4314" end="4323">bee-cells</mainReferent>
+    <tokens>even if the bee-cells did conform to the laws of crystallization as in the case of snow , or Buffon 's soap-bubbles , or boiled peas</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_86" begin="4440" end="4444">
+    <text>show</text>
+    <mainVerb begin="4440" end="4444">show</mainVerb>
+    <mainReferent begin="4435" end="4439">they</mainReferent>
+    <tokens>that they show also in their general symmetry in their well-determined angle of inclination , etc. ,</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_87" begin="4543" end="4546">
+    <text>are</text>
+    <mainVerb begin="4543" end="4546">are</mainVerb>
+    <mainReferent begin="4558" end="4562">laws</mainReferent>
+    <tokens>that there are many other laws</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_88" begin="4567" end="4575">
+    <text>followed</text>
+    <mainVerb begin="4567" end="4575">followed</mainVerb>
+    <mainReferent begin="4558" end="4562">laws</mainReferent>
+    <tokens>not followed inert matter</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_55.txt_89" begin="4612" end="4619">
+    <text>conform</text>
+    <mainVerb begin="4612" end="4619">conform</mainVerb>
+    <mainReferent begin="4601" end="4605">they</mainReferent>
+    <tokens>by inert matter to which they also conform</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+</document>

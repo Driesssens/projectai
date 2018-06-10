@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="the_history_of_insects_1.txt_1" begin="16" end="22">
+    <text>called</text>
+    <mainVerb begin="16" end="22">called</mainVerb>
+    <mainReferent begin="1" end="8">Insects</mainReferent>
+    <tokens>Insects are so called from a separation in the middle of their bodies</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_2" begin="83" end="86">
+    <text>cut</text>
+    <mainVerb begin="83" end="86">cut</mainVerb>
+    <mainReferent begin="1" end="8">Insects</mainReferent>
+    <tokens>Insects seemingly cut into two parts</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_3" begin="107" end="113">
+    <text>joined</text>
+    <mainVerb begin="107" end="113">joined</mainVerb>
+    <mainReferent begin="1" end="8">Insects</mainReferent>
+    <tokens>Insects joined together by a small ligature</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_4" begin="151" end="154">
+    <text>see</text>
+    <mainVerb begin="151" end="154">see</mainVerb>
+    <mainReferent begin="148" end="150">we</mainReferent>
+    <tokens>as we see in wasps and common flies</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_5" begin="241" end="247">
+    <text>appear</text>
+    <mainVerb begin="241" end="247">appear</mainVerb>
+    <mainReferent begin="221" end="226">class</mainReferent>
+    <tokens>However small contemptible this class of beings may appear at first thought yet</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_6" begin="281" end="285">
+    <text>come</text>
+    <mainVerb begin="281" end="285">come</mainVerb>
+    <mainReferent begin="278" end="280">we</mainReferent>
+    <tokens>when we come to reflect</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_7" begin="312" end="323">
+    <text>investigate</text>
+    <mainVerb begin="312" end="323">investigate</mainVerb>
+    <mainReferent begin="221" end="226">class</mainReferent>
+    <tokens>small contemptible this class of beings carefully investigate</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_8" begin="338" end="344">
+    <text>struck</text>
+    <mainVerb begin="338" end="344">struck</mainVerb>
+    <mainReferent begin="325" end="327">we</mainReferent>
+    <tokens>we shall be struck with wonder and astonishment</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_9" begin="385" end="393">
+    <text>discover</text>
+    <mainVerb begin="385" end="393">discover</mainVerb>
+    <mainReferent begin="325" end="327">we</mainReferent>
+    <tokens>we shall discover</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_10" begin="424" end="430">
+    <text>buzzes</text>
+    <mainVerb begin="424" end="430">buzzes</mainVerb>
+    <mainReferent begin="414" end="418">gnat</mainReferent>
+    <tokens>the smallest gnat buzzes in the meadow</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_11" begin="446" end="448">
+    <text>is</text>
+    <mainVerb begin="446" end="448">is</mainVerb>
+    <mainReferent begin="414" end="418">gnat</mainReferent>
+    <tokens>that the smallest gnat is as much a of admiration as the largest elephant that ranges the forest , or the hugest whale which ploughs the deep</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_12" begin="511" end="517">
+    <text>ranges</text>
+    <mainVerb begin="511" end="517">ranges</mainVerb>
+    <mainReferent begin="497" end="505">elephant</mainReferent>
+    <tokens>the largest elephant ranges the forest the hugest whale</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_13" begin="557" end="564">
+    <text>ploughs</text>
+    <mainVerb begin="557" end="564">ploughs</mainVerb>
+    <mainReferent begin="545" end="550">whale</mainReferent>
+    <tokens>the hugest whale ploughs the deep</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_14" begin="587" end="595">
+    <text>consider</text>
+    <mainVerb begin="587" end="595">consider</mainVerb>
+    <mainReferent begin="584" end="586">we</mainReferent>
+    <tokens>when we consider the least creature</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_15" begin="628" end="635">
+    <text>imagine</text>
+    <mainVerb begin="628" end="635">imagine</mainVerb>
+    <mainReferent begin="621" end="623">we</mainReferent>
+    <tokens>that we can imagine</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_16" begin="654" end="657">
+    <text>are</text>
+    <mainVerb begin="654" end="657">are</mainVerb>
+    <mainReferent begin="648" end="653">which</mainReferent>
+    <tokens>which are too to be discovered without the help of glasses</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_17" begin="749" end="753">
+    <text>made</text>
+    <mainVerb begin="749" end="753">made</mainVerb>
+    <mainReferent begin="637" end="644">myriads</mainReferent>
+    <tokens>that each of their bodies is made up of different organs or parts</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_18" begin="801" end="808">
+    <text>receive</text>
+    <mainVerb begin="801" end="808">receive</mainVerb>
+    <mainReferent begin="796" end="800">they</mainReferent>
+    <tokens>myriads they receive nourishment c. with the power of action how natural the exclamation</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_19" begin="812" end="818">
+    <text>retain</text>
+    <mainVerb begin="812" end="818">retain</mainVerb>
+    <mainReferent begin="796" end="800">they</mainReferent>
+    <tokens>they retain</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_20" begin="893" end="894">
+    <text>O</text>
+    <mainVerb begin="893" end="894">O</mainVerb>
+    <mainReferent begin="221" end="226">class</mainReferent>
+    <tokens>myriads the exclamation O " Lord</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_21" begin="915" end="918">
+    <text>are</text>
+    <mainVerb begin="915" end="918">are</mainVerb>
+    <mainReferent begin="906" end="914">manifold</mainReferent>
+    <tokens>how manifold are thy</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_22" begin="950" end="954">
+    <text>made</text>
+    <mainVerb begin="950" end="954">made</mainVerb>
+    <mainReferent begin="945" end="949">thou</mainReferent>
+    <tokens>in wisdom hast thou made them all "</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_23" begin="1005" end="1008">
+    <text>are</text>
+    <mainVerb begin="1005" end="1008">are</mainVerb>
+    <mainReferent begin="1000" end="1004">they</mainReferent>
+    <tokens>that they are the of the same great , good , and Almighty hand that formed us</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_24" begin="1067" end="1073">
+    <text>formed</text>
+    <mainVerb begin="1067" end="1073">formed</mainVerb>
+    <mainReferent begin="1057" end="1061">hand</mainReferent>
+    <tokens>the same great good Almighty hand formed us</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_25" begin="1092" end="1095">
+    <text>are</text>
+    <mainVerb begin="1092" end="1095">are</mainVerb>
+    <mainReferent begin="1087" end="1091">they</mainReferent>
+    <tokens>that they are all feeling pleasure pain</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_26" begin="1192" end="1197">
+    <text>ought</text>
+    <mainVerb begin="1192" end="1197">ought</mainVerb>
+    <mainReferent begin="1184" end="1190">person</mainReferent>
+    <tokens>Under these considerations surely every little child older person ought carefully to avoid every kind of cruelty to any kind of creature , great or small</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_27" begin="1326" end="1334">
+    <text>punished</text>
+    <mainVerb begin="1326" end="1334">punished</mainVerb>
+    <mainReferent begin="1296" end="1301">court</mainReferent>
+    <tokens>The supreme court of Judicature at Athens punished a boy putting out the eyes of a poor bird</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_28" begin="1420" end="1428">
+    <text>overlook</text>
+    <mainVerb begin="1420" end="1428">overlook</mainVerb>
+    <mainReferent begin="1296" end="1301">court</mainReferent>
+    <tokens>parents masters should never overlook an instance of cruelty to any thing that has life , however minute , and seemingly contemptible the object may be</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_29" begin="1471" end="1474">
+    <text>has</text>
+    <mainVerb begin="1471" end="1474">has</mainVerb>
+    <mainReferent begin="1460" end="1465">thing</mainReferent>
+    <tokens>any thing has life</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_30" begin="1540" end="1542">
+    <text>be</text>
+    <mainVerb begin="1540" end="1542">be</mainVerb>
+    <mainReferent begin="1529" end="1535">object</mainReferent>
+    <tokens>the object may be</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_31" begin="1562" end="1567">
+    <text>enter</text>
+    <mainVerb begin="1562" end="1567">enter</mainVerb>
+    <mainReferent begin="1550" end="1551">I</mainReferent>
+    <tokens>" I would not enter on my list of friends the man "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_32" begin="1619" end="1621">
+    <text>'d</text>
+    <mainVerb begin="1619" end="1621">'d</mainVerb>
+    <mainReferent begin="1605" end="1607">'d</mainReferent>
+    <tokens>( Though grac 'd with polish 'd manners fine sense )</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_33" begin="1654" end="1661">
+    <text>wanting</text>
+    <mainVerb begin="1654" end="1661">wanting</mainVerb>
+    <mainReferent begin="1605" end="1607">'d</mainReferent>
+    <tokens>Yet wanting sensibility</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_34" begin="1701" end="1705">
+    <text>sets</text>
+    <mainVerb begin="1701" end="1705">sets</mainVerb>
+    <mainReferent begin="1679" end="1682">man</mainReferent>
+    <tokens>the man needlessly sets foot upon a worm</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_35" begin="1789" end="1791">
+    <text>is</text>
+    <mainVerb begin="1789" end="1791">is</mainVerb>
+    <mainReferent begin="1773" end="1788">elephant-beetle</mainReferent>
+    <tokens>The elephant-beetle is the of this kind hitherto</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_36" begin="1826" end="1831">
+    <text>known</text>
+    <mainVerb begin="1826" end="1831">known</mainVerb>
+    <mainReferent begin="1773" end="1788">elephant-beetle</mainReferent>
+    <tokens>known</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_37" begin="1841" end="1846">
+    <text>found</text>
+    <mainVerb begin="1841" end="1846">found</mainVerb>
+    <mainReferent begin="1773" end="1788">elephant-beetle</mainReferent>
+    <tokens>The elephant-beetle is found in South America particularly in Guiana about the rivers Surinam Oroonoko</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_38" begin="1932" end="1934">
+    <text>is</text>
+    <mainVerb begin="1932" end="1934">is</mainVerb>
+    <mainReferent begin="1929" end="1931">It</mainReferent>
+    <tokens>It is of a black colour the whole body full as thick as strong as that of a small crab</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_39" begin="1973" end="1975">
+    <text>is</text>
+    <mainVerb begin="1973" end="1975">is</mainVerb>
+    <mainReferent begin="1968" end="1972">body</mainReferent>
+    <tokens>the whole body is with a shell full as thick as strong as that of a small crab</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_40" begin="2059" end="2061">
+    <text>is</text>
+    <mainVerb begin="2059" end="2061">is</mainVerb>
+    <mainReferent begin="2062" end="2065">one</mainReferent>
+    <tokens>There is one</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_41" begin="2066" end="2075">
+    <text>preserved</text>
+    <mainVerb begin="2066" end="2075">preserved</mainVerb>
+    <tokens>preserved in the museum that measures more than six inches</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_42" begin="2095" end="2103">
+    <text>measures</text>
+    <mainVerb begin="2095" end="2103">measures</mainVerb>
+    <mainReferent begin="2083" end="2089">museum</mainReferent>
+    <tokens>the museum measures more than six inches</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_43" begin="2168" end="2171">
+    <text>are</text>
+    <mainVerb begin="2168" end="2171">are</mainVerb>
+    <mainReferent begin="2155" end="2167">Grasshoppers</mainReferent>
+    <tokens>Grasshoppers are too to need description</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_44" begin="2212" end="2218">
+    <text>abound</text>
+    <mainVerb begin="2212" end="2218">abound</mainVerb>
+    <mainReferent begin="2207" end="2211">they</mainReferent>
+    <tokens>as they abound</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_45" begin="2242" end="2244">
+    <text>is</text>
+    <mainVerb begin="2242" end="2244">is</mainVerb>
+    <mainReferent begin="2251" end="2256">grass</mainReferent>
+    <tokens>almost wherever there is green grass</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_46" begin="2274" end="2276">
+    <text>is</text>
+    <mainVerb begin="2274" end="2276">is</mainVerb>
+    <mainReferent begin="2262" end="2268">summer</mainReferent>
+    <tokens>One summer only is their of life die in the fall ; previous to which , they deposite their eggs in the earth , which the genial warmth of the next season brings to life</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_47" begin="2309" end="2316">
+    <text>hatched</text>
+    <mainVerb begin="2309" end="2316">hatched</mainVerb>
+    <mainReferent begin="2300" end="2304">they</mainReferent>
+    <tokens>they are hatched in the spring die in the fall ; previous to which , they deposite their eggs in the earth , which the genial warmth of the next season brings to life</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_48" begin="2378" end="2386">
+    <text>deposite</text>
+    <mainVerb begin="2378" end="2386">deposite</mainVerb>
+    <mainReferent begin="2373" end="2377">they</mainReferent>
+    <tokens>in the fall ; previous to which , they deposite their eggs in the earth , which the genial warmth of the next season brings to life</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_49" begin="2456" end="2462">
+    <text>brings</text>
+    <mainVerb begin="2456" end="2462">brings</mainVerb>
+    <mainReferent begin="2429" end="2435">warmth</mainReferent>
+    <tokens>the fall the genial warmth of the next season brings to life</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_50" begin="2477" end="2480">
+    <text>are</text>
+    <mainVerb begin="2477" end="2480">are</mainVerb>
+    <mainReferent begin="2472" end="2476">They</mainReferent>
+    <tokens>They are for many of the feathered race</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_51" begin="2550" end="2553">
+    <text>are</text>
+    <mainVerb begin="2550" end="2553">are</mainVerb>
+    <mainReferent begin="2558" end="2565">classes</mainReferent>
+    <tokens>There are two classes of crickets viz</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_52" begin="2638" end="2646">
+    <text>inhabits</text>
+    <mainVerb begin="2638" end="2646">inhabits</mainVerb>
+    <mainReferent begin="2594" end="2601">cricket</mainReferent>
+    <tokens>the latter inhabits warm places the holes of the hearth &amp; c. from whence we hear its notes</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_53" begin="2705" end="2709">
+    <text>hear</text>
+    <mainVerb begin="2705" end="2709">hear</mainVerb>
+    <mainReferent begin="2702" end="2704">we</mainReferent>
+    <tokens>we hear its notes</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_54" begin="2727" end="2730">
+    <text>are</text>
+    <mainVerb begin="2727" end="2730">are</mainVerb>
+    <mainReferent begin="2652" end="2658">places</mainReferent>
+    <tokens>warm places the holes of the hearth &amp; c. from whence we hear its notes are</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_55" begin="2748" end="2752">
+    <text>said</text>
+    <mainVerb begin="2748" end="2752">said</mainVerb>
+    <mainReferent begin="2742" end="2744">it</mainReferent>
+    <tokens>it is said for the sake of their music</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_56" begin="2769" end="2778">
+    <text>purchased</text>
+    <mainVerb begin="2769" end="2778">purchased</mainVerb>
+    <mainReferent begin="2760" end="2764">they</mainReferent>
+    <tokens>that they are purchased some</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_57" begin="2792" end="2796">
+    <text>kept</text>
+    <mainVerb begin="2792" end="2796">kept</mainVerb>
+    <mainReferent begin="2760" end="2764">they</mainReferent>
+    <tokens>they kept in a kind of cage</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_58" begin="2861" end="2868">
+    <text>inhabit</text>
+    <mainVerb begin="2861" end="2868">inhabit</mainVerb>
+    <mainReferent begin="2852" end="2860">crickets</mainReferent>
+    <tokens>Field crickets inhabit the meadows</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_59" begin="2886" end="2893">
+    <text>subsist</text>
+    <mainVerb begin="2886" end="2893">subsist</mainVerb>
+    <mainReferent begin="2852" end="2860">crickets</mainReferent>
+    <tokens>Field crickets subsist on roots , &amp; c.</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_60" begin="2912" end="2916">
+    <text>does</text>
+    <mainVerb begin="2912" end="2916">does</mainVerb>
+    <tokens>as does another species</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_61" begin="2934" end="2940">
+    <text>called</text>
+    <mainVerb begin="2934" end="2940">called</mainVerb>
+    <mainReferent begin="2852" end="2860">crickets</mainReferent>
+    <tokens>Field crickets called the mole cricket</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_62" begin="2989" end="2992">
+    <text>are</text>
+    <mainVerb begin="2989" end="2992">are</mainVerb>
+    <mainReferent begin="3003" end="3008">kinds</mainReferent>
+    <tokens>There are different kinds of the locust</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_63" begin="3037" end="3047">
+    <text>acquainted</text>
+    <mainVerb begin="3037" end="3047">acquainted</mainVerb>
+    <mainReferent begin="3030" end="3032">we</mainReferent>
+    <tokens>those we are acquainted</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_64" begin="3076" end="3087">
+    <text>represented</text>
+    <mainVerb begin="3076" end="3087">represented</mainVerb>
+    <mainReferent begin="3024" end="3029">those</mainReferent>
+    <tokens>those in this country are represented in the above cut</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_65" begin="3142" end="3147">
+    <text>heard</text>
+    <mainVerb begin="3142" end="3147">heard</mainVerb>
+    <mainReferent begin="3123" end="3127">they</mainReferent>
+    <tokens>In some seasons they are scarcely heard at all</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_66" begin="3172" end="3175">
+    <text>are</text>
+    <mainVerb begin="3172" end="3175">are</mainVerb>
+    <mainReferent begin="3167" end="3171">they</mainReferent>
+    <tokens>in others they are more</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_67" begin="3238" end="3242">
+    <text>hear</text>
+    <mainVerb begin="3238" end="3242">hear</mainVerb>
+    <mainReferent begin="3235" end="3237">we</mainReferent>
+    <tokens>About the middle or latter part of summer we hear them among the leaves of the trees</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_68" begin="3303" end="3312">
+    <text>continued</text>
+    <mainVerb begin="3303" end="3312">continued</mainVerb>
+    <mainReferent begin="3286" end="3291">notes</mainReferent>
+    <tokens>their notes are continued about the space of one minute</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_69" begin="3345" end="3348">
+    <text>are</text>
+    <mainVerb begin="3345" end="3348">are</mainVerb>
+    <mainReferent begin="3286" end="3291">notes</mainReferent>
+    <tokens>their notes are at the beginning</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_70" begin="3376" end="3380">
+    <text>grow</text>
+    <mainVerb begin="3376" end="3380">grow</mainVerb>
+    <mainReferent begin="3286" end="3291">notes</mainReferent>
+    <tokens>their notes grow lower lower</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_71" begin="3408" end="3413">
+    <text>cease</text>
+    <mainVerb begin="3408" end="3413">cease</mainVerb>
+    <mainReferent begin="3286" end="3291">notes</mainReferent>
+    <tokens>till they cease</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_72" begin="3438" end="3441">
+    <text>fly</text>
+    <mainVerb begin="3438" end="3441">fly</mainVerb>
+    <mainReferent begin="3421" end="3425">they</mainReferent>
+    <tokens>when they immediately fly to another tree</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_73" begin="3459" end="3464">
+    <text>begin</text>
+    <mainVerb begin="3459" end="3464">begin</mainVerb>
+    <mainReferent begin="3421" end="3425">they</mainReferent>
+    <tokens>they begin again</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_74" begin="3476" end="3479">
+    <text>end</text>
+    <mainVerb begin="3476" end="3479">end</mainVerb>
+    <mainReferent begin="3421" end="3425">they</mainReferent>
+    <tokens>they end in the same way so on</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_75" begin="3593" end="3597">
+    <text>been</text>
+    <mainVerb begin="3593" end="3597">been</mainVerb>
+    <mainReferent begin="3548" end="3553">kinds</mainReferent>
+    <tokens>In the eastern countries a kind kinds of locust at different periods have been very</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_76" begin="3622" end="3626">
+    <text>done</text>
+    <mainVerb begin="3622" end="3626">done</mainVerb>
+    <mainReferent begin="3540" end="3544">kind</mainReferent>
+    <tokens>a kind kinds of locust have done abundance of damage</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_77" begin="3686" end="3693">
+    <text>entered</text>
+    <mainVerb begin="3686" end="3693">entered</mainVerb>
+    <mainReferent begin="3669" end="3674">cloud</mainReferent>
+    <tokens>In the year 1650 a cloud of locusts entered Russia in three different places from thence spread over Poland and Lithuania the trees bent with heir weight</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_78" begin="3793" end="3801">
+    <text>darkened</text>
+    <mainVerb begin="3793" end="3801">darkened</mainVerb>
+    <mainReferent begin="3669" end="3674">cloud</mainReferent>
+    <tokens>the air was darkened</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_79" begin="3817" end="3824">
+    <text>covered</text>
+    <mainVerb begin="3817" end="3824">covered</mainVerb>
+    <mainReferent begin="3669" end="3674">cloud</mainReferent>
+    <tokens>the earth covered in some places to the depth of four feet</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_80" begin="3918" end="3927">
+    <text>sustained</text>
+    <mainVerb begin="3918" end="3927">sustained</mainVerb>
+    <mainReferent begin="3911" end="3917">damage</mainReferent>
+    <tokens>sustained</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_81" begin="3928" end="3936">
+    <text>exceeded</text>
+    <mainVerb begin="3928" end="3936">exceeded</mainVerb>
+    <mainReferent begin="3669" end="3674">cloud</mainReferent>
+    <tokens>the damage exceeded computation</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_82" begin="3959" end="3963">
+    <text>were</text>
+    <mainVerb begin="3959" end="3963">were</mainVerb>
+    <mainReferent begin="3951" end="3958">Locusts</mainReferent>
+    <tokens>Locusts were among the plagues of Egypt : sec Exodus , x. 15</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_83" begin="4069" end="4079">
+    <text>multiplies</text>
+    <mainVerb begin="4069" end="4079">multiplies</mainVerb>
+    <mainReferent begin="4062" end="4068">animal</mainReferent>
+    <tokens>This very troublesome little animal multiplies very fast among old rags , dirt , straw , and litter , where hogs , cats , or dogs sleep</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_84" begin="4158" end="4163">
+    <text>sleep</text>
+    <mainVerb begin="4158" end="4163">sleep</mainVerb>
+    <mainReferent begin="4153" end="4157">dogs</mainReferent>
+    <tokens>where hogs cats dogs sleep</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_85" begin="4311" end="4318">
+    <text>scrapes</text>
+    <mainVerb begin="4311" end="4318">scrapes</mainVerb>
+    <mainReferent begin="4062" end="4068">animal</mainReferent>
+    <tokens>in the hair and bristles of those creatures : therefore , as a means of avoiding such unwelcome neighbours , in the springs the cleanly farmer scrapes up the rubbish about his woodpile around his house and barn</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_86" begin="4391" end="4398">
+    <text>removes</text>
+    <mainVerb begin="4391" end="4398">removes</mainVerb>
+    <mainReferent begin="4304" end="4310">farmer</mainReferent>
+    <tokens>the cleanly farmer removes it into his field , where it also repays him by manuring his lands</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_87" begin="4432" end="4438">
+    <text>repays</text>
+    <mainVerb begin="4432" end="4438">repays</mainVerb>
+    <mainReferent begin="4424" end="4426">it</mainReferent>
+    <tokens>where it also repays him manuring his lands</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_history_of_insects_1.txt_88" begin="4472" end="4478">
+    <text>abound</text>
+    <mainVerb begin="4472" end="4478">abound</mainVerb>
+    <mainReferent begin="4467" end="4471">They</mainReferent>
+    <tokens>They abound in warm countries particularly in the southern parts of France and Italy</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+</document>

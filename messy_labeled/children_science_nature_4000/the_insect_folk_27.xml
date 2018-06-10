@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="the_insect_folk_27.txt_1" begin="21" end="24">
+    <text>are</text>
+    <mainVerb begin="21" end="24">are</mainVerb>
+    <mainReferent begin="16" end="20">bugs</mainReferent>
+    <tokens>The giant water bugs are the of living bugs</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_2" begin="67" end="71">
+    <text>kill</text>
+    <mainVerb begin="67" end="71">kill</mainVerb>
+    <mainReferent begin="16" end="20">bugs</mainReferent>
+    <tokens>they even kill fish</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_3" begin="77" end="80">
+    <text>eat</text>
+    <mainVerb begin="77" end="80">eat</mainVerb>
+    <mainReferent begin="57" end="61">they</mainReferent>
+    <tokens>they eat</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_4" begin="110" end="114">
+    <text>shut</text>
+    <mainVerb begin="110" end="114">shut</mainVerb>
+    <mainReferent begin="101" end="105">legs</mainReferent>
+    <tokens>Their fore legs can shut up like a jackknife</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_5" begin="146" end="151">
+    <text>shuts</text>
+    <mainVerb begin="146" end="151">shuts</mainVerb>
+    <mainReferent begin="140" end="145">tibia</mainReferent>
+    <tokens>The tibia shuts into a groove in the femur</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_6" begin="198" end="200">
+    <text>is</text>
+    <mainVerb begin="198" end="200">is</mainVerb>
+    <mainReferent begin="194" end="197">bug</mainReferent>
+    <tokens>thus the bug is to seize its prey</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_7" begin="219" end="223">
+    <text>hold</text>
+    <mainVerb begin="219" end="223">hold</mainVerb>
+    <mainReferent begin="194" end="197">bug</mainReferent>
+    <tokens>the bug hold</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_8" begin="241" end="247">
+    <text>clasps</text>
+    <mainVerb begin="241" end="247">clasps</mainVerb>
+    <mainReferent begin="238" end="240">It</mainReferent>
+    <tokens>It clasps its victim in its arms</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_9" begin="278" end="282">
+    <text>were</text>
+    <mainVerb begin="278" end="282">were</mainVerb>
+    <mainReferent begin="275" end="277">it</mainReferent>
+    <tokens>as it were</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_10" begin="295" end="303">
+    <text>proceeds</text>
+    <mainVerb begin="295" end="303">proceeds</mainVerb>
+    <mainReferent begin="238" end="240">It</mainReferent>
+    <tokens>calmly proceeds to suck out its blood</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_11" begin="391" end="396">
+    <text>leave</text>
+    <mainVerb begin="391" end="396">leave</mainVerb>
+    <mainReferent begin="375" end="381">female</mainReferent>
+    <tokens>In some species of the giant water bugs the female does not leave her eggs in the pond to take care of themselves</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_12" begin="451" end="455">
+    <text>puts</text>
+    <mainVerb begin="451" end="455">puts</mainVerb>
+    <mainReferent begin="447" end="450">she</mainReferent>
+    <tokens>she puts them on the back of her mate , who is obliged to carry all of his progeny about with him until they relieve him by hatching out and swimming off to see life for themselves</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_13" begin="494" end="501">
+    <text>obliged</text>
+    <mainVerb begin="494" end="501">obliged</mainVerb>
+    <mainReferent begin="481" end="485">mate</mainReferent>
+    <tokens>her mate is obliged to carry all of his progeny about with him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_14" begin="557" end="564">
+    <text>relieve</text>
+    <mainVerb begin="557" end="564">relieve</mainVerb>
+    <mainReferent begin="552" end="556">they</mainReferent>
+    <tokens>until they relieve him hatching out swimming off to see life for themselves</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_15" begin="673" end="677">
+    <text>says</text>
+    <mainVerb begin="673" end="677">says</mainVerb>
+    <mainReferent begin="658" end="661">BUG</mainReferent>
+    <tokens>LITTLE MRS. SHORE BUG May says</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_16" begin="682" end="687">
+    <text>wants</text>
+    <mainVerb begin="682" end="687">wants</mainVerb>
+    <mainReferent begin="678" end="681">she</mainReferent>
+    <tokens>she wants to hear more about bugs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_17" begin="725" end="727">
+    <text>is</text>
+    <mainVerb begin="725" end="727">is</mainVerb>
+    <mainReferent begin="747" end="750">Bug</mainReferent>
+    <tokens>Well there is little Mrs. Shore Bug</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_18" begin="754" end="759">
+    <text>think</text>
+    <mainVerb begin="754" end="759">think</mainVerb>
+    <mainReferent begin="752" end="753">I</mainReferent>
+    <tokens>I think</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_19" begin="773" end="777">
+    <text>know</text>
+    <mainVerb begin="773" end="777">know</mainVerb>
+    <mainReferent begin="760" end="763">you</mainReferent>
+    <tokens>you must all know her</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_20" begin="790" end="792">
+    <text>is</text>
+    <mainVerb begin="790" end="792">is</mainVerb>
+    <mainReferent begin="786" end="789">She</mainReferent>
+    <tokens>She is the little</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_21" begin="813" end="818">
+    <text>flies</text>
+    <mainVerb begin="813" end="818">flies</mainVerb>
+    <mainReferent begin="804" end="807">bug</mainReferent>
+    <tokens>flies along of you on the seashore indeed on the edge of any body of water</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_22" begin="912" end="917">
+    <text>flits</text>
+    <mainVerb begin="912" end="917">flits</mainVerb>
+    <mainReferent begin="908" end="911">She</mainReferent>
+    <tokens>She flits along just of you</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_23" begin="950" end="952">
+    <text>is</text>
+    <mainVerb begin="950" end="952">is</mainVerb>
+    <mainReferent begin="908" end="911">She</mainReferent>
+    <tokens>She is so in her motions</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_24" begin="1004" end="1009">
+    <text>catch</text>
+    <mainVerb begin="1004" end="1009">catch</mainVerb>
+    <mainReferent begin="983" end="986">you</mainReferent>
+    <tokens>that you will hardly ever catch her</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_25" begin="1031" end="1034">
+    <text>fly</text>
+    <mainVerb begin="1031" end="1034">fly</mainVerb>
+    <mainReferent begin="1018" end="1021">She</mainReferent>
+    <tokens>She does not fly far to make</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_26" begin="1044" end="1051">
+    <text>alights</text>
+    <mainVerb begin="1044" end="1051">alights</mainVerb>
+    <mainReferent begin="1035" end="1038">far</mainReferent>
+    <tokens>she alights just far enough ahead</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_27" begin="1086" end="1089">
+    <text>try</text>
+    <mainVerb begin="1086" end="1089">try</mainVerb>
+    <mainReferent begin="1082" end="1085">you</mainReferent>
+    <tokens>you try again to capture her</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_28" begin="1126" end="1131">
+    <text>think</text>
+    <mainVerb begin="1126" end="1131">think</mainVerb>
+    <mainReferent begin="1122" end="1125">you</mainReferent>
+    <tokens>when you think</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_29" begin="1136" end="1140">
+    <text>have</text>
+    <mainVerb begin="1136" end="1140">have</mainVerb>
+    <mainReferent begin="1132" end="1135">you</mainReferent>
+    <tokens>you have her</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_30" begin="1150" end="1152">
+    <text>is</text>
+    <mainVerb begin="1150" end="1152">is</mainVerb>
+    <mainReferent begin="1018" end="1021">She</mainReferent>
+    <tokens>she is n't there</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_31" begin="1176" end="1180">
+    <text>sped</text>
+    <mainVerb begin="1176" end="1180">sped</mainVerb>
+    <mainReferent begin="1168" end="1171">She</mainReferent>
+    <tokens>She has sped off on one of her short flights so</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_32" begin="1230" end="1238">
+    <text>continue</text>
+    <mainVerb begin="1230" end="1238">continue</mainVerb>
+    <mainReferent begin="1221" end="1224">she</mainReferent>
+    <tokens>she will continue to do as long</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_33" begin="1261" end="1269">
+    <text>continue</text>
+    <mainVerb begin="1261" end="1269">continue</mainVerb>
+    <mainReferent begin="1257" end="1260">you</mainReferent>
+    <tokens>as you continue to chase her</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_34" begin="1322" end="1326">
+    <text>Then</text>
+    <mainVerb begin="1322" end="1326">Then</mainVerb>
+    <mainReferent begin="1308" end="1316">STRIDERS</mainReferent>
+    <tokens>THE AIRY WATER STRIDERS Then</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_35" begin="1333" end="1336">
+    <text>are</text>
+    <mainVerb begin="1333" end="1336">are</mainVerb>
+    <mainReferent begin="1347" end="1355">striders</mainReferent>
+    <tokens>there are the water striders</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_36" begin="1365" end="1368">
+    <text>are</text>
+    <mainVerb begin="1365" end="1368">are</mainVerb>
+    <mainReferent begin="1360" end="1364">They</mainReferent>
+    <tokens>They are</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_37" begin="1382" end="1384">
+    <text>is</text>
+    <mainVerb begin="1382" end="1384">is</mainVerb>
+    <mainReferent begin="1379" end="1381">it</mainReferent>
+    <tokens>it is to guess</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_38" begin="1408" end="1411">
+    <text>got</text>
+    <mainVerb begin="1408" end="1411">got</mainVerb>
+    <mainReferent begin="1403" end="1407">they</mainReferent>
+    <tokens>how they got their name</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_39" begin="1438" end="1446">
+    <text>remember</text>
+    <mainVerb begin="1438" end="1446">remember</mainVerb>
+    <mainReferent begin="1427" end="1430">You</mainReferent>
+    <tokens>You surely remember the longlegged dark fellows</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_40" begin="1468" end="1475">
+    <text>colored</text>
+    <mainVerb begin="1468" end="1475">colored</mainVerb>
+    <tokens>colored</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_41" begin="1489" end="1497">
+    <text>straddle</text>
+    <mainVerb begin="1489" end="1497">straddle</mainVerb>
+    <mainReferent begin="1476" end="1483">fellows</mainReferent>
+    <tokens>the longlegged dark fellows straddle about on top of the water , in ponds or in still pools in streams</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_42" begin="1580" end="1585">
+    <text>tried</text>
+    <mainVerb begin="1580" end="1585">tried</mainVerb>
+    <mainReferent begin="1568" end="1571">Who</mainReferent>
+    <tokens>Who has not tried to catch them</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_43" begin="1632" end="1640">
+    <text>succeeds</text>
+    <mainVerb begin="1632" end="1640">succeeds</mainVerb>
+    <mainReferent begin="1628" end="1631">one</mainReferent>
+    <tokens>And how very seldom any one succeeds</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_44" begin="1649" end="1654">
+    <text>knows</text>
+    <mainVerb begin="1649" end="1654">knows</mainVerb>
+    <mainReferent begin="1645" end="1648">May</mainReferent>
+    <tokens>May knows</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_45" begin="1668" end="1671">
+    <text>see</text>
+    <mainVerb begin="1668" end="1671">see</mainVerb>
+    <mainReferent begin="1661" end="1663">we</mainReferent>
+    <tokens>where we can see some water striders close at hand</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_46" begin="1715" end="1718">
+    <text>are</text>
+    <mainVerb begin="1715" end="1718">are</mainVerb>
+    <mainReferent begin="1710" end="1714">They</mainReferent>
+    <tokens>They are on the pond in the meadow</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_47" begin="1746" end="1749">
+    <text>Let</text>
+    <mainVerb begin="1746" end="1749">Let</mainVerb>
+    <tokens>Let</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_48" begin="1753" end="1755">
+    <text>go</text>
+    <mainVerb begin="1753" end="1755">go</mainVerb>
+    <mainReferent begin="1750" end="1752">us</mainReferent>
+    <tokens>us go</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_49" begin="1791" end="1794">
+    <text>are</text>
+    <mainVerb begin="1791" end="1794">are</mainVerb>
+    <mainReferent begin="1787" end="1790">you</mainReferent>
+    <tokens>you are</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_50" begin="1796" end="1806">
+    <text>scampering</text>
+    <mainVerb begin="1796" end="1806">scampering</mainVerb>
+    <tokens>There scampering over the water on your airy , fairy feet</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_51" begin="1863" end="1867">
+    <text>were</text>
+    <mainVerb begin="1863" end="1867">were</mainVerb>
+    <mainReferent begin="1859" end="1862">you</mainReferent>
+    <tokens>as though you were on dry land</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_52" begin="1895" end="1900">
+    <text>flash</text>
+    <mainVerb begin="1895" end="1900">flash</mainVerb>
+    <mainReferent begin="1890" end="1894">they</mainReferent>
+    <tokens>How they flash about</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_53" begin="1925" end="1932">
+    <text>dimples</text>
+    <mainVerb begin="1925" end="1932">dimples</mainVerb>
+    <mainReferent begin="1917" end="1924">cunning</mainReferent>
+    <tokens>what cunning dimples their little feet</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_54" begin="1951" end="1955">
+    <text>make</text>
+    <mainVerb begin="1951" end="1955">make</mainVerb>
+    <mainReferent begin="1925" end="1932">dimples</mainReferent>
+    <tokens>And make on the water when they stand still</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_55" begin="1980" end="1985">
+    <text>stand</text>
+    <mainVerb begin="1980" end="1985">stand</mainVerb>
+    <mainReferent begin="1975" end="1979">they</mainReferent>
+    <tokens>the water when they stand still</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_56" begin="2002" end="2006">
+    <text>keep</text>
+    <mainVerb begin="2002" end="2006">keep</mainVerb>
+    <mainReferent begin="1999" end="2001">we</mainReferent>
+    <tokens>If we keep very quiet</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_57" begin="2029" end="2033">
+    <text>stop</text>
+    <mainVerb begin="2029" end="2033">stop</mainVerb>
+    <mainReferent begin="2019" end="2023">they</mainReferent>
+    <tokens>they will stop</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_58" begin="2034" end="2041">
+    <text>darting</text>
+    <mainVerb begin="2034" end="2041">darting</mainVerb>
+    <tokens>darting about in that wild way</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_59" begin="2078" end="2081">
+    <text>see</text>
+    <mainVerb begin="2078" end="2081">see</mainVerb>
+    <mainReferent begin="2019" end="2023">they</mainReferent>
+    <tokens>we can see them better</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_60" begin="2130" end="2136">
+    <text>behave</text>
+    <mainVerb begin="2130" end="2136">behave</mainVerb>
+    <mainReferent begin="2126" end="2129">you</mainReferent>
+    <tokens>Now water striders why do you behave so</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_61" begin="2157" end="2160">
+    <text>eat</text>
+    <mainVerb begin="2157" end="2160">eat</mainVerb>
+    <mainReferent begin="2126" end="2129">you</mainReferent>
+    <tokens>what do you eat</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_62" begin="2229" end="2235">
+    <text>wonder</text>
+    <mainVerb begin="2229" end="2235">wonder</mainVerb>
+    <mainReferent begin="2215" end="2219">they</mainReferent>
+    <tokens>And to behavior they may well wonder more at ours than we at theirs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_63" begin="2277" end="2282">
+    <text>skate</text>
+    <mainVerb begin="2277" end="2282">skate</mainVerb>
+    <mainReferent begin="2272" end="2276">They</mainReferent>
+    <tokens>They skate about on the surface of the water all summer</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_64" begin="2346" end="2351">
+    <text>comes</text>
+    <mainVerb begin="2346" end="2351">comes</mainVerb>
+    <mainReferent begin="2277" end="2282">skate</mainReferent>
+    <tokens>when winter comes</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_65" begin="2357" end="2361">
+    <text>hide</text>
+    <mainVerb begin="2357" end="2361">hide</mainVerb>
+    <mainReferent begin="2352" end="2356">they</mainReferent>
+    <tokens>they hide away at the bottom of the pond right under the water along the edges of the banks</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_66" begin="2484" end="2489">
+    <text>wakes</text>
+    <mainVerb begin="2484" end="2489">wakes</mainVerb>
+    <mainReferent begin="2475" end="2483">sunshine</mainReferent>
+    <tokens>When the warm spring sunshine wakes up the sleeping plants</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_67" begin="2546" end="2550">
+    <text>wake</text>
+    <mainVerb begin="2546" end="2550">wake</mainVerb>
+    <mainReferent begin="2537" end="2545">striders</mainReferent>
+    <tokens>then the little water striders wake up too</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_68" begin="2571" end="2575">
+    <text>come</text>
+    <mainVerb begin="2571" end="2575">come</mainVerb>
+    <mainReferent begin="2566" end="2570">they</mainReferent>
+    <tokens>Out they come to resume their endless skating</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_69" begin="2613" end="2619">
+    <text>insect</text>
+    <mainVerb begin="2613" end="2619">insect</mainVerb>
+    <mainReferent begin="2566" end="2570">they</mainReferent>
+    <tokens>they insect</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_70" begin="2620" end="2628">
+    <text>catching</text>
+    <mainVerb begin="2620" end="2628">catching</mainVerb>
+    <tokens>catching</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_71" begin="2644" end="2647">
+    <text>lay</text>
+    <mainVerb begin="2644" end="2647">lay</mainVerb>
+    <mainReferent begin="2566" end="2570">they</mainReferent>
+    <tokens>now they lay their eggs</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_72" begin="2660" end="2666">
+    <text>gluing</text>
+    <mainVerb begin="2660" end="2666">gluing</mainVerb>
+    <mainReferent begin="2639" end="2643">they</mainReferent>
+    <tokens>gluing them fast to water weeds</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_73" begin="2721" end="2725">
+    <text>look</text>
+    <mainVerb begin="2721" end="2725">look</mainVerb>
+    <mainReferent begin="2712" end="2720">striders</mainReferent>
+    <tokens>The young water striders look like their parents</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_74" begin="2761" end="2765">
+    <text>like</text>
+    <mainVerb begin="2761" end="2765">like</mainVerb>
+    <mainReferent begin="2712" end="2720">striders</mainReferent>
+    <tokens>they too like to go</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_75" begin="2773" end="2781">
+    <text>circling</text>
+    <mainVerb begin="2773" end="2781">circling</mainVerb>
+    <tokens>circling over the top of the water</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_76" begin="2786" end="2794">
+    <text>flashing</text>
+    <mainVerb begin="2786" end="2794">flashing</mainVerb>
+    <tokens>flashing</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_77" begin="2844" end="2850">
+    <text>spread</text>
+    <mainVerb begin="2844" end="2850">spread</mainVerb>
+    <mainReferent begin="2838" end="2842">legs</mainReferent>
+    <tokens>with their long legs spread out</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_78" begin="2890" end="2892">
+    <text>do</text>
+    <mainVerb begin="2890" end="2892">do</mainVerb>
+    <mainReferent begin="2873" end="2879">FELLOW</mainReferent>
+    <tokens>A QUEER FELLOW do you</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_79" begin="2905" end="2907">
+    <text>is</text>
+    <mainVerb begin="2905" end="2907">is</mainVerb>
+    <mainReferent begin="2873" end="2879">FELLOW</mainReferent>
+    <tokens>A QUEER FELLOW suppose is in this box</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_80" begin="2940" end="2944">
+    <text>open</text>
+    <mainVerb begin="2940" end="2944">open</mainVerb>
+    <mainReferent begin="2931" end="2935">Nell</mainReferent>
+    <tokens>Little Nell may open it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_81" begin="2966" end="2971">
+    <text>comes</text>
+    <mainVerb begin="2966" end="2971">comes</mainVerb>
+    <mainReferent begin="2963" end="2965">he</mainReferent>
+    <tokens>There out he comes he thinking about it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_82" begin="2973" end="2979">
+    <text>slowly</text>
+    <mainVerb begin="2973" end="2979">slowly</mainVerb>
+    <mainReferent begin="2966" end="2971">comes</mainReferent>
+    <tokens>slowly</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_83" begin="2999" end="3006">
+    <text>looking</text>
+    <mainVerb begin="2999" end="3006">looking</mainVerb>
+    <mainReferent begin="2991" end="2993">he</mainReferent>
+    <tokens>as though he were looking around thinking about it</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_84" begin="3047" end="3051">
+    <text>says</text>
+    <mainVerb begin="3047" end="3051">says</mainVerb>
+    <mainReferent begin="3043" end="3046">May</mainReferent>
+    <tokens>May says " Hello Mr. Walking Stick you here again "</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_85" begin="3142" end="3146">
+    <text>look</text>
+    <mainVerb begin="3142" end="3146">look</mainVerb>
+    <mainReferent begin="3138" end="3141">You</mainReferent>
+    <tokens>You look again</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_86" begin="3164" end="3170">
+    <text>thinks</text>
+    <mainVerb begin="3164" end="3170">thinks</mainVerb>
+    <mainReferent begin="3157" end="3163">Mollie</mainReferent>
+    <tokens>Mollie thinks</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_87" begin="3184" end="3189">
+    <text>going</text>
+    <mainVerb begin="3184" end="3189">going</mainVerb>
+    <mainReferent begin="3175" end="3178">she</mainReferent>
+    <tokens>if she were going to name it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_88" begin="3212" end="3216">
+    <text>call</text>
+    <mainVerb begin="3212" end="3216">call</mainVerb>
+    <mainReferent begin="3202" end="3205">she</mainReferent>
+    <tokens>she would call it Mr. Walking Threads</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_89" begin="3253" end="3255">
+    <text>is</text>
+    <mainVerb begin="3253" end="3255">is</mainVerb>
+    <mainReferent begin="3250" end="3252">it</mainReferent>
+    <tokens>Yes it is more than even the walking stick</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_90" begin="3306" end="3308">
+    <text>is</text>
+    <mainVerb begin="3306" end="3308">is</mainVerb>
+    <mainReferent begin="3309" end="3313">that</mainReferent>
+    <tokens>is that John</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_91" begin="3325" end="3332">
+    <text>thought</text>
+    <mainVerb begin="3325" end="3332">thought</mainVerb>
+    <mainReferent begin="3321" end="3324">You</mainReferent>
+    <tokens>You thought</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_92" begin="3341" end="3344">
+    <text>had</text>
+    <mainVerb begin="3341" end="3344">had</mainVerb>
+    <mainReferent begin="3333" end="3340">insects</mainReferent>
+    <tokens>insects had six legs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_93" begin="3364" end="3367">
+    <text>has</text>
+    <mainVerb begin="3364" end="3367">has</mainVerb>
+    <mainReferent begin="3321" end="3324">You</mainReferent>
+    <tokens>this has only four</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_94" begin="3393" end="3395">
+    <text>is</text>
+    <mainVerb begin="3393" end="3395">is</mainVerb>
+    <mainReferent begin="3388" end="3392">here</mainReferent>
+    <tokens>Now here is for us to think about</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_95" begin="3436" end="3440">
+    <text>says</text>
+    <mainVerb begin="3436" end="3440">says</mainVerb>
+    <mainReferent begin="3432" end="3435">Ned</mainReferent>
+    <tokens>Ned says</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_96" begin="3444" end="3447">
+    <text>has</text>
+    <mainVerb begin="3444" end="3447">has</mainVerb>
+    <mainReferent begin="3436" end="3440">says</mainReferent>
+    <tokens>it has six long threads</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_97" begin="3476" end="3478">
+    <text>be</text>
+    <mainVerb begin="3476" end="3478">be</mainVerb>
+    <mainReferent begin="3457" end="3464">threads</mainReferent>
+    <tokens>six long threads might be</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_98" begin="3502" end="3506">
+    <text>walk</text>
+    <mainVerb begin="3502" end="3506">walk</mainVerb>
+    <mainReferent begin="3441" end="3443">it</mainReferent>
+    <tokens>it does not walk on the two front ones</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_99" begin="3536" end="3541">
+    <text>seems</text>
+    <mainVerb begin="3536" end="3541">seems</mainVerb>
+    <mainReferent begin="3533" end="3535">It</mainReferent>
+    <tokens>It seems to use them as antennæ</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_100" begin="3575" end="3579">
+    <text>says</text>
+    <mainVerb begin="3575" end="3579">says</mainVerb>
+    <mainReferent begin="3571" end="3574">Ned</mainReferent>
+    <tokens>Ned says</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_101" begin="3597" end="3601">
+    <text>look</text>
+    <mainVerb begin="3597" end="3601">look</mainVerb>
+    <mainReferent begin="3592" end="3596">ones</mainReferent>
+    <tokens>those front ones look to him to be jointed just like the others</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_102" begin="3653" end="3659">
+    <text>thinks</text>
+    <mainVerb begin="3653" end="3659">thinks</mainVerb>
+    <mainReferent begin="3571" end="3574">Ned</mainReferent>
+    <tokens>he thinks</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_103" begin="3665" end="3668">
+    <text>are</text>
+    <mainVerb begin="3665" end="3668">are</mainVerb>
+    <mainReferent begin="3660" end="3664">they</mainReferent>
+    <tokens>they are</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_104" begin="3685" end="3689">
+    <text>says</text>
+    <mainVerb begin="3685" end="3689">says</mainVerb>
+    <mainReferent begin="3678" end="3684">Mollie</mainReferent>
+    <tokens>Mollie says</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_105" begin="3695" end="3699">
+    <text>have</text>
+    <mainVerb begin="3695" end="3699">have</mainVerb>
+    <mainReferent begin="3690" end="3694">they</mainReferent>
+    <tokens>they have no little feet like the others</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_106" begin="3740" end="3746">
+    <text>thinks</text>
+    <mainVerb begin="3740" end="3746">thinks</mainVerb>
+    <mainReferent begin="3678" end="3684">Mollie</mainReferent>
+    <tokens>she thinks</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_107" begin="3753" end="3756">
+    <text>are</text>
+    <mainVerb begin="3753" end="3756">are</mainVerb>
+    <mainReferent begin="3748" end="3752">they</mainReferent>
+    <tokens>they are</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_108" begin="3786" end="3789">
+    <text>are</text>
+    <mainVerb begin="3786" end="3789">are</mainVerb>
+    <mainReferent begin="3775" end="3779">well</mainReferent>
+    <tokens>Well well are we to do</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_109" begin="3800" end="3805">
+    <text>Think</text>
+    <mainVerb begin="3800" end="3805">Think</mainVerb>
+    <tokens>Think its having feelers</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_110" begin="3833" end="3837">
+    <text>look</text>
+    <mainVerb begin="3833" end="3837">look</mainVerb>
+    <mainReferent begin="3828" end="3832">that</mainReferent>
+    <tokens>that look like legs or legs that look like feelers</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_111" begin="3862" end="3866">
+    <text>look</text>
+    <mainVerb begin="3862" end="3866">look</mainVerb>
+    <mainReferent begin="3844" end="3848">legs</mainReferent>
+    <tokens>legs legs look like feelers</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_112" begin="3900" end="3904">
+    <text>tell</text>
+    <mainVerb begin="3900" end="3904">tell</mainVerb>
+    <mainReferent begin="3889" end="3892">you</mainReferent>
+    <tokens>that you can not tell</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_113" begin="3917" end="3920">
+    <text>are</text>
+    <mainVerb begin="3917" end="3920">are</mainVerb>
+    <mainReferent begin="3912" end="3916">they</mainReferent>
+    <tokens>which they are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_114" begin="3935" end="3944">
+    <text>beginning</text>
+    <mainVerb begin="3935" end="3944">beginning</mainVerb>
+    <mainReferent begin="3929" end="3931">it</mainReferent>
+    <tokens>Now it is beginning to move</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_115" begin="3991" end="3993">
+    <text>is</text>
+    <mainVerb begin="3991" end="3993">is</mainVerb>
+    <mainReferent begin="3963" end="3965">ho</mainReferent>
+    <tokens>Oh ho that long part in front is not its</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_116" begin="4022" end="4031">
+    <text>separates</text>
+    <mainVerb begin="4022" end="4031">separates</mainVerb>
+    <mainReferent begin="4019" end="4021">it</mainReferent>
+    <tokens>See it separates into two -- what ?</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_117" begin="4078" end="4081">
+    <text>See</text>
+    <mainVerb begin="4078" end="4081">See</mainVerb>
+    <tokens>See</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_118" begin="4093" end="4099">
+    <text>folded</text>
+    <mainVerb begin="4093" end="4099">folded</mainVerb>
+    <mainReferent begin="4083" end="4087">they</mainReferent>
+    <tokens>they were folded up somewhat like the front legs of the mantis</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_insect_folk_27.txt_119" begin="4166" end="4170">
+    <text>fold</text>
+    <mainVerb begin="4166" end="4170">fold</mainVerb>
+    <mainReferent begin="4154" end="4159">these</mainReferent>
+    <tokens>only these could fold close together</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+</document>

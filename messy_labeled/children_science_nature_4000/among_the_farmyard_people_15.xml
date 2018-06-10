@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="among_the_farmyard_people_15.txt_1" begin="3" end="5">
+    <text>'s</text>
+    <mainVerb begin="3" end="5">'s</mainVerb>
+    <mainReferent begin="1" end="3">It</mainReferent>
+    <tokens>It 's too</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_2" begin="16" end="24">
+    <text>whinnied</text>
+    <mainVerb begin="16" end="24">whinnied</mainVerb>
+    <mainReferent begin="34" end="38">Colt</mainReferent>
+    <tokens>" " whinnied the Gray Colt</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_3" begin="42" end="44">
+    <text>'m</text>
+    <mainVerb begin="42" end="44">'m</mainVerb>
+    <mainReferent begin="41" end="42">I</mainReferent>
+    <tokens>" I 'm very for you "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_4" begin="86" end="91">
+    <text>think</text>
+    <mainVerb begin="86" end="91">think</mainVerb>
+    <mainReferent begin="82" end="85">you</mainReferent>
+    <tokens>" And what do you think "</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_5" begin="94" end="98">
+    <text>said</text>
+    <mainVerb begin="94" end="98">said</mainVerb>
+    <mainReferent begin="103" end="106">Bay</mainReferent>
+    <tokens>said the Bay Colt</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_6" begin="116" end="121">
+    <text>heard</text>
+    <mainVerb begin="116" end="121">heard</mainVerb>
+    <mainReferent begin="114" end="115">I</mainReferent>
+    <tokens>" I heard this morning</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_7" begin="140" end="143">
+    <text>say</text>
+    <mainVerb begin="140" end="143">say</mainVerb>
+    <mainReferent begin="134" end="138">Gray</mainReferent>
+    <tokens>the Dappled Gray say</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_8" begin="164" end="167">
+    <text>was</text>
+    <mainVerb begin="164" end="167">was</mainVerb>
+    <mainReferent begin="162" end="163">I</mainReferent>
+    <tokens>that I was like a Pig</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_9" begin="180" end="187">
+    <text>Imagine</text>
+    <mainVerb begin="180" end="187">Imagine</mainVerb>
+    <tokens>Imagine a Colt being like a Pig</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_10" begin="217" end="221">
+    <text>said</text>
+    <mainVerb begin="217" end="221">said</mainVerb>
+    <mainReferent begin="214" end="216">He</mainReferent>
+    <tokens>He said "</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_11" begin="237" end="241">
+    <text>make</text>
+    <mainVerb begin="237" end="241">make</mainVerb>
+    <mainReferent begin="227" end="229">it</mainReferent>
+    <tokens>that it did n't make any difference</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_12" begin="288" end="292">
+    <text>were</text>
+    <mainVerb begin="288" end="292">were</mainVerb>
+    <mainReferent begin="282" end="286">Pigs</mainReferent>
+    <tokens>any difference side of a fence Pigs were</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_13" begin="306" end="312">
+    <text>wanted</text>
+    <mainVerb begin="306" end="312">wanted</mainVerb>
+    <mainReferent begin="294" end="298">they</mainReferent>
+    <tokens>they always wanted to be on the other side</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_14" begin="349" end="352">
+    <text>was</text>
+    <mainVerb begin="349" end="352">was</mainVerb>
+    <mainReferent begin="347" end="348">I</mainReferent>
+    <tokens>that I was just as</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_15" begin="379" end="382">
+    <text>was</text>
+    <mainVerb begin="379" end="382">was</mainVerb>
+    <mainReferent begin="374" end="378">This</mainReferent>
+    <tokens>This was all in the fall</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_16" begin="428" end="432">
+    <text>sent</text>
+    <mainVerb begin="428" end="432">sent</mainVerb>
+    <mainReferent begin="416" end="423">weather</mainReferent>
+    <tokens>before the cold weather had sent them to live in the barn</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_17" begin="487" end="494">
+    <text>wearing</text>
+    <mainVerb begin="487" end="494">wearing</mainVerb>
+    <mainReferent begin="478" end="482">Colt</mainReferent>
+    <tokens>while the Bay Colt was wearing the poke</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_18" begin="523" end="529">
+    <text>forget</text>
+    <mainVerb begin="523" end="529">forget</mainVerb>
+    <mainReferent begin="374" end="378">This</mainReferent>
+    <tokens>he could not well forget the lesson</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_19" begin="548" end="555">
+    <text>learned</text>
+    <mainVerb begin="548" end="555">learned</mainVerb>
+    <mainReferent begin="541" end="543">he</mainReferent>
+    <tokens>he had learned jumping running away</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_20" begin="600" end="604">
+    <text>grew</text>
+    <mainVerb begin="600" end="604">grew</mainVerb>
+    <mainReferent begin="593" end="599">mother</mainReferent>
+    <tokens>His mother grew quite proud of him</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_21" begin="655" end="660">
+    <text>heard</text>
+    <mainVerb begin="655" end="660">heard</mainVerb>
+    <mainReferent begin="593" end="599">mother</mainReferent>
+    <tokens>the Dappled Gray had been heard to say</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_22" begin="683" end="689">
+    <text>amount</text>
+    <mainVerb begin="683" end="689">amount</mainVerb>
+    <mainReferent begin="674" end="676">he</mainReferent>
+    <tokens>that he might amount to something yet</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_23" begin="713" end="716">
+    <text>was</text>
+    <mainVerb begin="713" end="716">was</mainVerb>
+    <mainReferent begin="708" end="712">That</mainReferent>
+    <tokens>That was a great for the Dappled Gray to say</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_24" begin="776" end="779">
+    <text>had</text>
+    <mainVerb begin="776" end="779">had</mainVerb>
+    <mainReferent begin="773" end="775">he</mainReferent>
+    <tokens>although he had a very kind heart</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_25" begin="817" end="823">
+    <text>praise</text>
+    <mainVerb begin="817" end="823">praise</mainVerb>
+    <mainReferent begin="799" end="801">he</mainReferent>
+    <tokens>for he did not often praise people</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_26" begin="848" end="852">
+    <text>said</text>
+    <mainVerb begin="848" end="852">said</mainVerb>
+    <mainReferent begin="799" end="801">he</mainReferent>
+    <tokens>he hardly ever said such things about two-year-olds</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_27" begin="892" end="896">
+    <text>made</text>
+    <mainVerb begin="892" end="896">made</mainVerb>
+    <mainReferent begin="887" end="891">That</mainReferent>
+    <tokens>That made</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_28" begin="942" end="948">
+    <text>became</text>
+    <mainVerb begin="942" end="948">became</mainVerb>
+    <mainReferent begin="936" end="940">Colt</mainReferent>
+    <tokens>it all the harder for him when the Bay Colt became cross</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_29" begin="966" end="970">
+    <text>told</text>
+    <mainVerb begin="966" end="970">told</mainVerb>
+    <mainReferent begin="897" end="899">it</mainReferent>
+    <tokens>being told to stop cribbing</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_30" begin="996" end="1000">
+    <text>know</text>
+    <mainVerb begin="996" end="1000">know</mainVerb>
+    <mainReferent begin="992" end="995">You</mainReferent>
+    <tokens>You know another to stop cribbing another to stop kicking so on all through their Colthood</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_31" begin="1007" end="1010">
+    <text>are</text>
+    <mainVerb begin="1007" end="1010">are</mainVerb>
+    <mainReferent begin="1016" end="1021">Colts</mainReferent>
+    <tokens>there are some Colts</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_32" begin="1026" end="1031">
+    <text>learn</text>
+    <mainVerb begin="1026" end="1031">learn</mainVerb>
+    <mainReferent begin="1016" end="1021">Colts</mainReferent>
+    <tokens>some Colts learn obedience easily</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_33" begin="1060" end="1063">
+    <text>are</text>
+    <mainVerb begin="1060" end="1063">are</mainVerb>
+    <mainReferent begin="992" end="995">You</mainReferent>
+    <tokens>there are others</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_34" begin="1076" end="1080">
+    <text>have</text>
+    <mainVerb begin="1076" end="1080">have</mainVerb>
+    <mainReferent begin="1065" end="1071">others</mainReferent>
+    <tokens>others have one hard struggle to stop</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_35" begin="1107" end="1114">
+    <text>jumping</text>
+    <mainVerb begin="1107" end="1114">jumping</mainVerb>
+    <tokens>jumping</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_36" begin="1233" end="1236">
+    <text>are</text>
+    <mainVerb begin="1233" end="1236">are</mainVerb>
+    <mainReferent begin="1274" end="1277">for</mainReferent>
+    <tokens>The older Horses are for them for</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_37" begin="1256" end="1259">
+    <text>try</text>
+    <mainVerb begin="1256" end="1259">try</mainVerb>
+    <mainReferent begin="1226" end="1232">Horses</mainReferent>
+    <tokens>The older Horses try to help them</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_38" begin="1284" end="1288">
+    <text>know</text>
+    <mainVerb begin="1284" end="1288">know</mainVerb>
+    <mainReferent begin="1279" end="1283">they</mainReferent>
+    <tokens>they know</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_39" begin="1328" end="1333">
+    <text>enjoy</text>
+    <mainVerb begin="1328" end="1333">enjoy</mainVerb>
+    <mainReferent begin="1311" end="1316">Horse</mainReferent>
+    <tokens>that neither Colt Horse can really enjoy life</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_40" begin="1352" end="1358">
+    <text>trying</text>
+    <mainVerb begin="1352" end="1358">trying</mainVerb>
+    <mainReferent begin="1345" end="1347">he</mainReferent>
+    <tokens>until he is trying to do right</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_41" begin="1401" end="1403">
+    <text>do</text>
+    <mainVerb begin="1401" end="1403">do</mainVerb>
+    <mainReferent begin="1384" end="1390">people</mainReferent>
+    <tokens>people sometimes do wrong even then</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_42" begin="1439" end="1443">
+    <text>take</text>
+    <mainVerb begin="1439" end="1443">take</mainVerb>
+    <mainReferent begin="1429" end="1433">they</mainReferent>
+    <tokens>if they will take advice</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_43" begin="1455" end="1459">
+    <text>keep</text>
+    <mainVerb begin="1455" end="1459">keep</mainVerb>
+    <mainReferent begin="1429" end="1433">they</mainReferent>
+    <tokens>they keep trying</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_44" begin="1475" end="1478">
+    <text>are</text>
+    <mainVerb begin="1475" end="1478">are</mainVerb>
+    <mainReferent begin="1470" end="1474">they</mainReferent>
+    <tokens>they are to turn out well</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_45" begin="1536" end="1542">
+    <text>seemed</text>
+    <mainVerb begin="1536" end="1542">seemed</mainVerb>
+    <mainReferent begin="1531" end="1535">Colt</mainReferent>
+    <tokens>when the Bay Colt seemed to have forgotten the lesson</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_46" begin="1575" end="1578">
+    <text>had</text>
+    <mainVerb begin="1575" end="1578">had</mainVerb>
+    <mainReferent begin="1572" end="1574">he</mainReferent>
+    <tokens>he had in the fall</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_47" begin="1610" end="1614">
+    <text>told</text>
+    <mainVerb begin="1610" end="1614">told</mainVerb>
+    <mainReferent begin="1531" end="1535">Colt</mainReferent>
+    <tokens>after he had told the other Horses to let him alone</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_48" begin="1671" end="1676">
+    <text>began</text>
+    <mainVerb begin="1671" end="1676">began</mainVerb>
+    <mainReferent begin="1664" end="1670">things</mainReferent>
+    <tokens>And now very strange things began to happen</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_49" begin="1699" end="1703">
+    <text>took</text>
+    <mainVerb begin="1699" end="1703">took</mainVerb>
+    <mainReferent begin="1692" end="1698">farmer</mainReferent>
+    <tokens>The farmer took him from his stall</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_50" begin="1728" end="1732">
+    <text>made</text>
+    <mainVerb begin="1728" end="1732">made</mainVerb>
+    <mainReferent begin="1692" end="1698">farmer</mainReferent>
+    <tokens>The farmer made</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_51" begin="1737" end="1741">
+    <text>open</text>
+    <mainVerb begin="1737" end="1741">open</mainVerb>
+    <mainReferent begin="1733" end="1736">him</mainReferent>
+    <tokens>him open his mouth</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_52" begin="1778" end="1785">
+    <text>slipped</text>
+    <mainVerb begin="1778" end="1785">slipped</mainVerb>
+    <mainReferent begin="1760" end="1765">piece</mainReferent>
+    <tokens>Then a piece of iron was slipped into it , which lay on top of his tongue and fitted into the place on each side of his jaw where there were no teeth</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_53" begin="1802" end="1805">
+    <text>lay</text>
+    <mainVerb begin="1802" end="1805">lay</mainVerb>
+    <mainReferent begin="1791" end="1793">it</mainReferent>
+    <tokens>it lay of his tongue</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_54" begin="1831" end="1837">
+    <text>fitted</text>
+    <mainVerb begin="1831" end="1837">fitted</mainVerb>
+    <mainReferent begin="1791" end="1793">it</mainReferent>
+    <tokens>it fitted into the place on each side of his jaw where there were no teeth</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_55" begin="1890" end="1894">
+    <text>were</text>
+    <mainVerb begin="1890" end="1894">were</mainVerb>
+    <mainReferent begin="1898" end="1903">teeth</mainReferent>
+    <tokens>where there were no teeth</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_56" begin="1921" end="1929">
+    <text>fastened</text>
+    <mainVerb begin="1921" end="1929">fastened</mainVerb>
+    <mainReferent begin="1910" end="1915">lines</mainReferent>
+    <tokens>Long lines were fastened to this iron on either side</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_57" begin="1972" end="1978">
+    <text>tossed</text>
+    <mainVerb begin="1972" end="1978">tossed</mainVerb>
+    <mainReferent begin="1969" end="1971">he</mainReferent>
+    <tokens>when he tossed his head</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_58" begin="1992" end="1998">
+    <text>sidled</text>
+    <mainVerb begin="1992" end="1998">sidled</mainVerb>
+    <mainReferent begin="1969" end="1971">he</mainReferent>
+    <tokens>he sidled around</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_59" begin="2032" end="2038">
+    <text>pulled</text>
+    <mainVerb begin="2032" end="2038">pulled</mainVerb>
+    <mainReferent begin="1910" end="1915">lines</mainReferent>
+    <tokens>these lines were gently pulled the farmer</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_60" begin="2070" end="2077">
+    <text>pressed</text>
+    <mainVerb begin="2070" end="2077">pressed</mainVerb>
+    <mainReferent begin="2013" end="2018">lines</mainReferent>
+    <tokens>the iron bit pressed down his tongue</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_61" begin="2110" end="2113">
+    <text>was</text>
+    <mainVerb begin="2110" end="2113">was</mainVerb>
+    <mainReferent begin="2103" end="2109">farmer</mainReferent>
+    <tokens>The farmer was very</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_62" begin="2150" end="2154">
+    <text>want</text>
+    <mainVerb begin="2150" end="2154">want</mainVerb>
+    <mainReferent begin="2103" end="2109">farmer</mainReferent>
+    <tokens>the Bay Colt did not want the bit in his mouth so</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_63" begin="2184" end="2189">
+    <text>acted</text>
+    <mainVerb begin="2184" end="2189">acted</mainVerb>
+    <mainReferent begin="2181" end="2183">he</mainReferent>
+    <tokens>he acted as ugly</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_64" begin="2204" end="2208">
+    <text>knew</text>
+    <mainVerb begin="2204" end="2208">knew</mainVerb>
+    <mainReferent begin="2201" end="2203">he</mainReferent>
+    <tokens>as he knew how</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_65" begin="2218" end="2224">
+    <text>kicked</text>
+    <mainVerb begin="2218" end="2224">kicked</mainVerb>
+    <mainReferent begin="2201" end="2203">he</mainReferent>
+    <tokens>he kicked</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_66" begin="2230" end="2237">
+    <text>snapped</text>
+    <mainVerb begin="2230" end="2237">snapped</mainVerb>
+    <mainReferent begin="2201" end="2203">he</mainReferent>
+    <tokens>he snapped with his jaws open</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_67" begin="2263" end="2268">
+    <text>tried</text>
+    <mainVerb begin="2263" end="2268">tried</mainVerb>
+    <mainReferent begin="2201" end="2203">he</mainReferent>
+    <tokens>he tried to run</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_68" begin="2296" end="2300">
+    <text>grow</text>
+    <mainVerb begin="2296" end="2300">grow</mainVerb>
+    <mainReferent begin="2281" end="2287">farmer</mainReferent>
+    <tokens>The farmer did not grow angry cross</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_69" begin="2344" end="2350">
+    <text>showed</text>
+    <mainVerb begin="2344" end="2350">showed</mainVerb>
+    <mainReferent begin="2339" end="2343">Colt</mainReferent>
+    <tokens>whenever the Bay Colt showed his temper</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_70" begin="2377" end="2382">
+    <text>press</text>
+    <mainVerb begin="2377" end="2382">press</mainVerb>
+    <mainReferent begin="2367" end="2370">bit</mainReferent>
+    <tokens>the bit would press down his tongue</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_71" begin="2404" end="2411">
+    <text>stretch</text>
+    <mainVerb begin="2404" end="2411">stretch</mainVerb>
+    <mainReferent begin="2367" end="2370">bit</mainReferent>
+    <tokens>the bit stretch the corners of his mouth</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_72" begin="2446" end="2449">
+    <text>had</text>
+    <mainVerb begin="2446" end="2449">had</mainVerb>
+    <mainReferent begin="2443" end="2445">he</mainReferent>
+    <tokens>until he had to stop</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_73" begin="2493" end="2496">
+    <text>try</text>
+    <mainVerb begin="2493" end="2496">try</mainVerb>
+    <mainReferent begin="2480" end="2486">farmer</mainReferent>
+    <tokens>Once in a while the farmer would try to pat him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_74" begin="2512" end="2516">
+    <text>show</text>
+    <mainVerb begin="2512" end="2516">show</mainVerb>
+    <mainReferent begin="2480" end="2486">farmer</mainReferent>
+    <tokens>the farmer show him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_75" begin="2529" end="2532">
+    <text>was</text>
+    <mainVerb begin="2529" end="2532">was</mainVerb>
+    <mainReferent begin="2526" end="2528">it</mainReferent>
+    <tokens>that it was all</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_76" begin="2572" end="2576">
+    <text>have</text>
+    <mainVerb begin="2572" end="2576">have</mainVerb>
+    <mainReferent begin="2480" end="2486">farmer</mainReferent>
+    <tokens>the Bay Colt would not have this sweaty two-year-old</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_77" begin="2590" end="2593">
+    <text>was</text>
+    <mainVerb begin="2590" end="2593">was</mainVerb>
+    <mainReferent begin="2587" end="2589">he</mainReferent>
+    <tokens>he was a very sweaty two-year-old</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_78" begin="2644" end="2649">
+    <text>taken</text>
+    <mainVerb begin="2644" end="2649">taken</mainVerb>
+    <mainReferent begin="2637" end="2639">he</mainReferent>
+    <tokens>sweaty two-year-old when he was taken back to his stall</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_79" begin="2675" end="2681">
+    <text>missed</text>
+    <mainVerb begin="2675" end="2681">missed</mainVerb>
+    <mainReferent begin="2672" end="2674">He</mainReferent>
+    <tokens>He missed the Gray Colt from her usual place</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_80" begin="2731" end="2735">
+    <text>came</text>
+    <mainVerb begin="2731" end="2735">came</mainVerb>
+    <mainReferent begin="2672" end="2674">He</mainReferent>
+    <tokens>soon she came in with one of the farmer 's men</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_81" begin="2783" end="2789">
+    <text>driven</text>
+    <mainVerb begin="2783" end="2789">driven</mainVerb>
+    <mainReferent begin="2770" end="2773">She</mainReferent>
+    <tokens>She had been driven for the first time also</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_82" begin="2819" end="2824">
+    <text>Hallo</text>
+    <mainVerb begin="2819" end="2824">Hallo</mainVerb>
+    <tokens>" Hallo "</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_83" begin="2827" end="2831">
+    <text>said</text>
+    <mainVerb begin="2827" end="2831">said</mainVerb>
+    <tokens>said he</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_84" begin="2837" end="2841">
+    <text>Have</text>
+    <mainVerb begin="2837" end="2841">Have</mainVerb>
+    <tokens>" Have</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_85" begin="2846" end="2849">
+    <text>had</text>
+    <mainVerb begin="2846" end="2849">had</mainVerb>
+    <mainReferent begin="2842" end="2845">you</mainReferent>
+    <tokens>you had a bit in your mouth too</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_86" begin="2886" end="2894">
+    <text>dreadful</text>
+    <mainVerb begin="2886" end="2894">dreadful</mainVerb>
+    <mainReferent begin="2882" end="2884">it</mainReferent>
+    <tokens>Was n't it dreadful</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_87" begin="2898" end="2900">
+    <text>am</text>
+    <mainVerb begin="2898" end="2900">am</mainVerb>
+    <mainReferent begin="2896" end="2897">I</mainReferent>
+    <tokens>I am so "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_88" begin="2931" end="2937">
+    <text>tingle</text>
+    <mainVerb begin="2931" end="2937">tingle</mainVerb>
+    <mainReferent begin="2918" end="2923">hoofs</mainReferent>
+    <tokens>that my hoofs fairly tingle to hit that farmer</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_89" begin="2966" end="2969">
+    <text>was</text>
+    <mainVerb begin="2966" end="2969">was</mainVerb>
+    <mainReferent begin="2963" end="2965">It</mainReferent>
+    <tokens>" It was " "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_90" begin="2977" end="2981">
+    <text>said</text>
+    <mainVerb begin="2977" end="2981">said</mainVerb>
+    <mainReferent begin="2970" end="2974">hard</mainReferent>
+    <tokens>said the Gray Colt</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_91" begin="3014" end="3019">
+    <text>drove</text>
+    <mainVerb begin="3014" end="3019">drove</mainVerb>
+    <mainReferent begin="3006" end="3009">man</mainReferent>
+    <tokens>the man drove me</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_92" begin="3023" end="3026">
+    <text>was</text>
+    <mainVerb begin="3023" end="3026">was</mainVerb>
+    <mainReferent begin="3006" end="3009">man</mainReferent>
+    <tokens>the man was very</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_93" begin="3042" end="3045">
+    <text>let</text>
+    <mainVerb begin="3042" end="3045">let</mainVerb>
+    <mainReferent begin="3006" end="3009">man</mainReferent>
+    <tokens>the man let</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_94" begin="3049" end="3053">
+    <text>rest</text>
+    <mainVerb begin="3049" end="3053">rest</mainVerb>
+    <mainReferent begin="3046" end="3048">me</mainReferent>
+    <tokens>me rest often</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_95" begin="3064" end="3070">
+    <text>patted</text>
+    <mainVerb begin="3064" end="3070">patted</mainVerb>
+    <mainReferent begin="3061" end="3063">He</mainReferent>
+    <tokens>He patted me too</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_96" begin="3089" end="3095">
+    <text>helped</text>
+    <mainVerb begin="3089" end="3095">helped</mainVerb>
+    <mainReferent begin="3061" end="3063">He</mainReferent>
+    <tokens>that helped me</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_97" begin="3123" end="3127">
+    <text>says</text>
+    <mainVerb begin="3123" end="3127">says</mainVerb>
+    <mainReferent begin="3116" end="3122">mother</mainReferent>
+    <tokens>My mother says "</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_98" begin="3137" end="3141">
+    <text>mind</text>
+    <mainVerb begin="3137" end="3141">mind</mainVerb>
+    <mainReferent begin="3128" end="3130">we</mainReferent>
+    <tokens>we wo n't mind the bit at all</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_99" begin="3170" end="3174">
+    <text>used</text>
+    <mainVerb begin="3170" end="3174">used</mainVerb>
+    <mainReferent begin="3163" end="3165">we</mainReferent>
+    <tokens>after we are used to it</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_100" begin="3195" end="3199">
+    <text>said</text>
+    <mainVerb begin="3195" end="3199">said</mainVerb>
+    <mainReferent begin="3208" end="3212">Colt</mainReferent>
+    <tokens>said the Bay Colt</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_101" begin="3225" end="3230">
+    <text>going</text>
+    <mainVerb begin="3225" end="3230">going</mainVerb>
+    <mainReferent begin="3215" end="3216">I</mainReferent>
+    <tokens>" Well " " I 'm never going to be used to it</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_102" begin="3258" end="3263">
+    <text>stand</text>
+    <mainVerb begin="3258" end="3263">stand</mainVerb>
+    <mainReferent begin="3249" end="3250">I</mainReferent>
+    <tokens>I wo n't stand it "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_103" begin="3276" end="3278">
+    <text>'s</text>
+    <mainVerb begin="3276" end="3278">'s</mainVerb>
+    <mainReferent begin="3272" end="3276">that</mainReferent>
+    <tokens>that 's</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_104" begin="3289" end="3291">
+    <text>is</text>
+    <mainVerb begin="3289" end="3291">is</mainVerb>
+    <mainReferent begin="3283" end="3288">there</mainReferent>
+    <tokens>there is about it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_105" begin="3306" end="3313">
+    <text>stamped</text>
+    <mainVerb begin="3306" end="3313">stamped</mainVerb>
+    <mainReferent begin="3303" end="3305">He</mainReferent>
+    <tokens>He stamped his hoofs</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_106" begin="3329" end="3335">
+    <text>looked</text>
+    <mainVerb begin="3329" end="3335">looked</mainVerb>
+    <mainReferent begin="3303" end="3305">He</mainReferent>
+    <tokens>He looked very important</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_107" begin="3372" end="3376">
+    <text>look</text>
+    <mainVerb begin="3372" end="3376">look</mainVerb>
+    <mainReferent begin="3352" end="3365">Two-year-olds</mainReferent>
+    <tokens>Two-year-olds often look quite as important as ten-year-olds</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_108" begin="3424" end="3428">
+    <text>feel</text>
+    <mainVerb begin="3424" end="3428">feel</mainVerb>
+    <mainReferent begin="3352" end="3365">Two-year-olds</mainReferent>
+    <tokens>they feel much more so</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_109" begin="3456" end="3459">
+    <text>was</text>
+    <mainVerb begin="3456" end="3459">was</mainVerb>
+    <mainReferent begin="3451" end="3455">Colt</mainReferent>
+    <tokens>The Bay Colt was rather of his feet</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_110" begin="3491" end="3498">
+    <text>thought</text>
+    <mainVerb begin="3491" end="3498">thought</mainVerb>
+    <mainReferent begin="3451" end="3455">Colt</mainReferent>
+    <tokens>The Bay Colt thought it much nicer to have solid hoofs than to have</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_111" begin="3552" end="3557">
+    <text>split</text>
+    <mainVerb begin="3552" end="3557">split</mainVerb>
+    <mainReferent begin="3547" end="3551">them</mainReferent>
+    <tokens>them split like those of the Cows the Hogs the Sheep</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_112" begin="3621" end="3625">
+    <text>said</text>
+    <mainVerb begin="3621" end="3625">said</mainVerb>
+    <mainReferent begin="3618" end="3620">he</mainReferent>
+    <tokens>When he said</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_113" begin="3644" end="3649">
+    <text>stand</text>
+    <mainVerb begin="3644" end="3649">stand</mainVerb>
+    <mainReferent begin="3631" end="3633">he</mainReferent>
+    <tokens>that he would not stand it to be driven</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_114" begin="3689" end="3692">
+    <text>ran</text>
+    <mainVerb begin="3689" end="3692">ran</mainVerb>
+    <mainReferent begin="3683" end="3688">sound</mainReferent>
+    <tokens>a queer little sound ran through the stalls</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_115" begin="3716" end="3719">
+    <text>was</text>
+    <mainVerb begin="3716" end="3719">was</mainVerb>
+    <mainReferent begin="3713" end="3715">It</mainReferent>
+    <tokens>It was the wind passing over a wheatfield</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_116" begin="3770" end="3776">
+    <text>caused</text>
+    <mainVerb begin="3770" end="3776">caused</mainVerb>
+    <mainReferent begin="3713" end="3715">It</mainReferent>
+    <tokens>It was caused the older Horses taking a long breath whispering to themselves</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_117" begin="3875" end="3881">
+    <text>saying</text>
+    <mainVerb begin="3875" end="3881">saying</mainVerb>
+    <mainReferent begin="3864" end="3870">mother</mainReferent>
+    <tokens>The Bay Colt mother was saying " Poor child</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_118" begin="3920" end="3924">
+    <text>make</text>
+    <mainVerb begin="3920" end="3924">make</mainVerb>
+    <mainReferent begin="3912" end="3914">he</mainReferent>
+    <tokens>What hard work he does make of life "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_119" begin="3967" end="3973">
+    <text>driven</text>
+    <mainVerb begin="3967" end="3973">driven</mainVerb>
+    <mainReferent begin="3947" end="3950">day</mainReferent>
+    <tokens>The next day both Colts were driven again the next day the next the next</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_120" begin="4065" end="4069">
+    <text>used</text>
+    <mainVerb begin="4065" end="4069">used</mainVerb>
+    <mainReferent begin="4050" end="4054">Colt</mainReferent>
+    <tokens>this time the Gray Colt was quite used it</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_121" begin="4082" end="4086">
+    <text>said</text>
+    <mainVerb begin="4082" end="4086">said</mainVerb>
+    <mainReferent begin="4077" end="4080">She</mainReferent>
+    <tokens>She said</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_122" begin="4098" end="4105">
+    <text>enjoyed</text>
+    <mainVerb begin="4098" end="4105">enjoyed</mainVerb>
+    <mainReferent begin="4087" end="4090">she</mainReferent>
+    <tokens>she rather enjoyed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_123" begin="4106" end="4113">
+    <text>knowing</text>
+    <mainVerb begin="4106" end="4113">knowing</mainVerb>
+    <tokens>knowing</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_124" begin="4131" end="4139">
+    <text>thinking</text>
+    <mainVerb begin="4131" end="4139">thinking</mainVerb>
+    <mainReferent begin="4123" end="4126">man</mainReferent>
+    <tokens>what the man was thinking</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_125" begin="4161" end="4165">
+    <text>tell</text>
+    <mainVerb begin="4161" end="4165">tell</mainVerb>
+    <mainReferent begin="4123" end="4126">man</mainReferent>
+    <tokens>that she could tell his thoughts by the feeling of the lines</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_126" begin="4220" end="4224">
+    <text>used</text>
+    <mainVerb begin="4220" end="4224">used</mainVerb>
+    <mainReferent begin="4216" end="4219">she</mainReferent>
+    <tokens>much as she used to understand her mother by rubbing noses</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_127" begin="4277" end="4280">
+    <text>was</text>
+    <mainVerb begin="4277" end="4280">was</mainVerb>
+    <mainReferent begin="4273" end="4276">she</mainReferent>
+    <tokens>when she was a tiny</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_128" begin="4306" end="4309">
+    <text>had</text>
+    <mainVerb begin="4306" end="4309">had</mainVerb>
+    <mainReferent begin="4299" end="4305">cousin</mainReferent>
+    <tokens>Her cousin had a sore mouth from jerking on the lines</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_129" begin="4368" end="4373">
+    <text>enjoy</text>
+    <mainVerb begin="4368" end="4373">enjoy</mainVerb>
+    <mainReferent begin="4299" end="4305">cousin</mainReferent>
+    <tokens>he could not enjoy</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_130" begin="4374" end="4380">
+    <text>eating</text>
+    <mainVerb begin="4374" end="4380">eating</mainVerb>
+    <tokens>eating at all</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_131" begin="4394" end="4398">
+    <text>made</text>
+    <mainVerb begin="4394" end="4398">made</mainVerb>
+    <mainReferent begin="4389" end="4393">That</mainReferent>
+    <tokens>That made it even harder for him because he very hungry</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_132" begin="4434" end="4437">
+    <text>got</text>
+    <mainVerb begin="4434" end="4437">got</mainVerb>
+    <mainReferent begin="4444" end="4450">hungry</mainReferent>
+    <tokens>got</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_133" begin="4459" end="4461">
+    <text>is</text>
+    <mainVerb begin="4459" end="4461">is</mainVerb>
+    <mainReferent begin="4456" end="4458">it</mainReferent>
+    <tokens>it is not so</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="among_the_farmyard_people_15.txt_134" begin="4498" end="4500">
+    <text>is</text>
+    <mainVerb begin="4498" end="4500">is</mainVerb>
+    <mainReferent begin="4494" end="4497">one</mainReferent>
+    <tokens>when one is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+</document>

@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_1" begin="8" end="12">
+    <text>look</text>
+    <mainVerb begin="8" end="12">look</mainVerb>
+    <mainReferent begin="0" end="2">We</mainReferent>
+    <tokens>We will look first at those flowers which are most important to the farmer , the flowers of the grass</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_2" begin="42" end="45">
+    <text>are</text>
+    <mainVerb begin="42" end="45">are</mainVerb>
+    <mainReferent begin="28" end="35">flowers</mainReferent>
+    <tokens>those flowers are most to the farmer , the flowers of the grass</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_3" begin="106" end="109">
+    <text>saw</text>
+    <mainVerb begin="106" end="109">saw</mainVerb>
+    <mainReferent begin="103" end="105">We</mainReferent>
+    <tokens>We saw</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_4" begin="115" end="123">
+    <text>remember</text>
+    <mainVerb begin="115" end="123">remember</mainVerb>
+    <mainReferent begin="111" end="114">you</mainReferent>
+    <tokens>you remember</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_5" begin="141" end="144">
+    <text>has</text>
+    <mainVerb begin="141" end="144">has</mainVerb>
+    <mainReferent begin="134" end="139">grass</mainReferent>
+    <tokens>that the grass has flowers just as the Rose</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_6" begin="189" end="193">
+    <text>have</text>
+    <mainVerb begin="189" end="193">have</mainVerb>
+    <mainReferent begin="134" end="139">grass</mainReferent>
+    <tokens>the Wallflower have</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_7" begin="206" end="213">
+    <text>thought</text>
+    <mainVerb begin="206" end="213">thought</mainVerb>
+    <mainReferent begin="198" end="201">you</mainReferent>
+    <tokens>If you had thought</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_8" begin="251" end="253">
+    <text>be</text>
+    <mainVerb begin="251" end="253">be</mainVerb>
+    <mainReferent begin="224" end="231">flowers</mainReferent>
+    <tokens>that the flowers of all grass would be</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_9" begin="265" end="268">
+    <text>see</text>
+    <mainVerb begin="265" end="268">see</mainVerb>
+    <mainReferent begin="261" end="264">you</mainReferent>
+    <tokens>you see now</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_10" begin="282" end="286">
+    <text>were</text>
+    <mainVerb begin="282" end="286">were</mainVerb>
+    <mainReferent begin="278" end="281">you</mainReferent>
+    <tokens>that you were quite</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_11" begin="310" end="313">
+    <text>are</text>
+    <mainVerb begin="310" end="313">are</mainVerb>
+    <mainReferent begin="335" end="342">flowers</mainReferent>
+    <tokens>there are many different grass flowers here</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_12" begin="363" end="366">
+    <text>are</text>
+    <mainVerb begin="363" end="366">are</mainVerb>
+    <mainReferent begin="371" end="378">flowers</mainReferent>
+    <tokens>Not only are the flowers different</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_13" begin="397" end="400">
+    <text>are</text>
+    <mainVerb begin="397" end="400">are</mainVerb>
+    <mainReferent begin="371" end="378">flowers</mainReferent>
+    <tokens>the flowers different so are the stems also the leaves blades</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_14" begin="462" end="466">
+    <text>come</text>
+    <mainVerb begin="462" end="466">come</mainVerb>
+    <mainReferent begin="448" end="455">Hammond</mainReferent>
+    <tokens>Mr. Hammond could come into the field in early spring or autumn</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_15" begin="525" end="527">
+    <text>is</text>
+    <mainVerb begin="525" end="527">is</mainVerb>
+    <mainReferent begin="519" end="524">grass</mainReferent>
+    <tokens>when the grass is not in flower</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_16" begin="553" end="557">
+    <text>tell</text>
+    <mainVerb begin="553" end="557">tell</mainVerb>
+    <mainReferent begin="519" end="524">grass</mainReferent>
+    <tokens>the grass could tell you</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_17" begin="596" end="604">
+    <text>belonged</text>
+    <mainVerb begin="596" end="604">belonged</mainVerb>
+    <mainReferent begin="519" end="524">grass</mainReferent>
+    <tokens>which kind of grass any blade belonged</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_18" begin="629" end="640">
+    <text>distinguish</text>
+    <mainVerb begin="629" end="640">distinguish</mainVerb>
+    <mainReferent begin="613" end="615">we</mainReferent>
+    <tokens>To-day we shall easily distinguish the different kinds of grasses by their flowers</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_19" begin="711" end="717">
+    <text>notice</text>
+    <mainVerb begin="711" end="717">notice</mainVerb>
+    <mainReferent begin="698" end="700">we</mainReferent>
+    <tokens>though we will also notice differences in their stems and leaves</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_20" begin="761" end="764">
+    <text>Let</text>
+    <mainVerb begin="761" end="764">Let</mainVerb>
+    <tokens>Let</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_21" begin="768" end="772">
+    <text>pick</text>
+    <mainVerb begin="768" end="772">pick</mainVerb>
+    <mainReferent begin="765" end="767">us</mainReferent>
+    <tokens>us pick a stem culm of grass</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_22" begin="801" end="804">
+    <text>see</text>
+    <mainVerb begin="801" end="804">see</mainVerb>
+    <mainReferent begin="798" end="800">We</mainReferent>
+    <tokens>We see</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_23" begin="834" end="836">
+    <text>is</text>
+    <mainVerb begin="834" end="836">is</mainVerb>
+    <mainReferent begin="822" end="826">part</mainReferent>
+    <tokens>that the greater part of it is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_24" begin="872" end="878">
+    <text>joints</text>
+    <mainVerb begin="872" end="878">joints</mainVerb>
+    <mainReferent begin="798" end="800">We</mainReferent>
+    <tokens>We at intervals there are joints</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_25" begin="898" end="900">
+    <text>is</text>
+    <mainVerb begin="898" end="900">is</mainVerb>
+    <mainReferent begin="893" end="897">stem</mainReferent>
+    <tokens>here the stem is</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_26" begin="925" end="930">
+    <text>grows</text>
+    <mainVerb begin="925" end="930">grows</mainVerb>
+    <mainReferent begin="933" end="944">leaf-sheath</mainReferent>
+    <tokens>From each joint grows a leaf-sheath</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_27" begin="954" end="961">
+    <text>wrapped</text>
+    <mainVerb begin="954" end="961">wrapped</mainVerb>
+    <mainReferent begin="933" end="944">leaf-sheath</mainReferent>
+    <tokens>a leaf-sheath is wrapped</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_28" begin="962" end="967">
+    <text>round</text>
+    <mainVerb begin="962" end="967">round</mainVerb>
+    <tokens>round the stem for a little distance above the joint</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_29" begin="1036" end="1041">
+    <text>grows</text>
+    <mainVerb begin="1036" end="1041">grows</mainVerb>
+    <mainReferent begin="1017" end="1020">Out</mainReferent>
+    <tokens>Out of each sheath grows a leaf</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_30" begin="1068" end="1071">
+    <text>are</text>
+    <mainVerb begin="1068" end="1071">are</mainVerb>
+    <mainReferent begin="1061" end="1067">leaves</mainReferent>
+    <tokens>All grass leaves are narrow with those of most other plants some grass leaves narrower than others</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_31" begin="1088" end="1096">
+    <text>compared</text>
+    <mainVerb begin="1088" end="1096">compared</mainVerb>
+    <tokens>compared</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_32" begin="1153" end="1156">
+    <text>are</text>
+    <mainVerb begin="1153" end="1156">are</mainVerb>
+    <mainReferent begin="1146" end="1152">leaves</mainReferent>
+    <tokens>some grass leaves are narrower than others</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_33" begin="1234" end="1240">
+    <text>picked</text>
+    <mainVerb begin="1234" end="1240">picked</mainVerb>
+    <mainReferent begin="1226" end="1228">we</mainReferent>
+    <tokens>The stem we have picked</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_34" begin="1241" end="1243">
+    <text>is</text>
+    <mainVerb begin="1241" end="1243">is</mainVerb>
+    <mainReferent begin="1215" end="1219">stem</mainReferent>
+    <tokens>The stem is the of perennial Rye Grass</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_35" begin="1294" end="1297">
+    <text>see</text>
+    <mainVerb begin="1294" end="1297">see</mainVerb>
+    <mainReferent begin="1291" end="1293">we</mainReferent>
+    <tokens>we see</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_36" begin="1299" end="1307">
+    <text>consists</text>
+    <mainVerb begin="1299" end="1307">consists</mainVerb>
+    <mainReferent begin="1282" end="1289">blossom</mainReferent>
+    <tokens>The blossom consists of several small spikelets</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_37" begin="1347" end="1355">
+    <text>eighteen</text>
+    <mainVerb begin="1347" end="1355">eighteen</mainVerb>
+    <tokens>there are eighteen on our stem</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_38" begin="1374" end="1378">
+    <text>grow</text>
+    <mainVerb begin="1374" end="1378">grow</mainVerb>
+    <mainReferent begin="1369" end="1373">They</mainReferent>
+    <tokens>They grow alternately on two opposite sides of the stem , first one on one side , then one on the other</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_39" begin="1479" end="1483">
+    <text>have</text>
+    <mainVerb begin="1479" end="1483">have</mainVerb>
+    <mainReferent begin="1473" end="1477">They</mainReferent>
+    <tokens>They have no stalk of their own</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_40" begin="1516" end="1523">
+    <text>sessile</text>
+    <mainVerb begin="1516" end="1523">sessile</mainVerb>
+    <mainReferent begin="1507" end="1511">they</mainReferent>
+    <tokens>they are sessile on the stem</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_41" begin="1527" end="1533">
+    <text>seated</text>
+    <mainVerb begin="1527" end="1533">seated</mainVerb>
+    <mainReferent begin="1507" end="1511">they</mainReferent>
+    <tokens>they seated</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_42" begin="1565" end="1568">
+    <text>are</text>
+    <mainVerb begin="1565" end="1568">are</mainVerb>
+    <mainReferent begin="1555" end="1564">spikelets</mainReferent>
+    <tokens>As the spikelets are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_43" begin="1578" end="1582">
+    <text>grow</text>
+    <mainVerb begin="1578" end="1582">grow</mainVerb>
+    <mainReferent begin="1555" end="1564">spikelets</mainReferent>
+    <tokens>the spikelets grow on two sides of the stem only</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_44" begin="1625" end="1630">
+    <text>looks</text>
+    <mainVerb begin="1625" end="1630">looks</mainVerb>
+    <mainReferent begin="1619" end="1623">stem</mainReferent>
+    <tokens>each stem looks</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_45" begin="1649" end="1656">
+    <text>pressed</text>
+    <mainVerb begin="1649" end="1656">pressed</mainVerb>
+    <mainReferent begin="1637" end="1639">it</mainReferent>
+    <tokens>as if it had been pressed in a book</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_46" begin="1699" end="1706">
+    <text>pressed</text>
+    <mainVerb begin="1699" end="1706">pressed</mainVerb>
+    <mainReferent begin="1679" end="1682">you</mainReferent>
+    <tokens>as perhaps you have sometimes pressed flowers</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_47" begin="1730" end="1733">
+    <text>are</text>
+    <mainVerb begin="1730" end="1733">are</mainVerb>
+    <mainReferent begin="1723" end="1729">leaves</mainReferent>
+    <tokens>The leaves are dark glossy shining</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_48" begin="1804" end="1806">
+    <text>is</text>
+    <mainVerb begin="1804" end="1806">is</mainVerb>
+    <mainReferent begin="1819" end="1822">rib</mainReferent>
+    <tokens>On the under side of each leaf there is a prominent rib</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_49" begin="1829" end="1836">
+    <text>extends</text>
+    <mainVerb begin="1829" end="1836">extends</mainVerb>
+    <mainReferent begin="1819" end="1822">rib</mainReferent>
+    <tokens>a prominent rib extends the whole length</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_50" begin="1865" end="1867">
+    <text>is</text>
+    <mainVerb begin="1865" end="1867">is</mainVerb>
+    <mainReferent begin="1860" end="1863">rib</mainReferent>
+    <tokens>This rib is of the signs by which Mr. Hammond can tell a blade of Rye Grass at once without seeing the flower</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_51" begin="1910" end="1914">
+    <text>tell</text>
+    <mainVerb begin="1910" end="1914">tell</mainVerb>
+    <mainReferent begin="1898" end="1905">Hammond</mainReferent>
+    <tokens>of the signs by which Mr. Hammond can tell a blade of Rye Grass at once without seeing the flower</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_52" begin="1980" end="1982">
+    <text>is</text>
+    <mainVerb begin="1980" end="1982">is</mainVerb>
+    <mainReferent begin="1975" end="1979">This</mainReferent>
+    <tokens>This is of the farmer 's most useful grasses</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_53" begin="2027" end="2032">
+    <text>forms</text>
+    <mainVerb begin="2027" end="2032">forms</mainVerb>
+    <mainReferent begin="2024" end="2026">It</mainReferent>
+    <tokens>It forms a close thick carpet sward</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_54" begin="2085" end="2092">
+    <text>trodden</text>
+    <mainVerb begin="2085" end="2092">trodden</mainVerb>
+    <mainReferent begin="2079" end="2081">it</mainReferent>
+    <tokens>the more it is trodden on animals grazing</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_55" begin="2131" end="2136">
+    <text>seems</text>
+    <mainVerb begin="2131" end="2136">seems</mainVerb>
+    <mainReferent begin="2024" end="2026">It</mainReferent>
+    <tokens>the better it seems to thrive</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_56" begin="2156" end="2158">
+    <text>is</text>
+    <mainVerb begin="2156" end="2158">is</mainVerb>
+    <mainReferent begin="2151" end="2155">Here</mainReferent>
+    <tokens>Here is another excellent with a flower quite different in appearance from the last</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_57" begin="2250" end="2256">
+    <text>called</text>
+    <mainVerb begin="2250" end="2256">called</mainVerb>
+    <mainReferent begin="2244" end="2246">It</mainReferent>
+    <tokens>It is called</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_58" begin="2257" end="2264">
+    <text>Timothy</text>
+    <mainVerb begin="2257" end="2264">Timothy</mainVerb>
+    <tokens>Timothy Grass</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_59" begin="2286" end="2296">
+    <text>cultivated</text>
+    <mainVerb begin="2286" end="2296">cultivated</mainVerb>
+    <mainReferent begin="2272" end="2274">It</mainReferent>
+    <tokens>It was first cultivated in America a man it now always known by his Christian name</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_60" begin="2317" end="2322">
+    <text>named</text>
+    <mainVerb begin="2317" end="2322">named</mainVerb>
+    <mainReferent begin="2313" end="2316">man</mainReferent>
+    <tokens>named Timothy Hanson</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_61" begin="2346" end="2348">
+    <text>is</text>
+    <mainVerb begin="2346" end="2348">is</mainVerb>
+    <tokens>is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_62" begin="2402" end="2407">
+    <text>knows</text>
+    <mainVerb begin="2402" end="2407">knows</mainVerb>
+    <mainReferent begin="2394" end="2401">Hammond</mainReferent>
+    <tokens>Mr. Hammond knows this</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_63" begin="2427" end="2431">
+    <text>know</text>
+    <mainVerb begin="2427" end="2431">know</mainVerb>
+    <mainReferent begin="2394" end="2401">Hammond</mainReferent>
+    <tokens>now you know it too</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_64" begin="2468" end="2472">
+    <text>have</text>
+    <mainVerb begin="2468" end="2472">have</mainVerb>
+    <mainReferent begin="2456" end="2463">farmers</mainReferent>
+    <tokens>a good many farmers have plenty of Timothy Grass in their fields</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_65" begin="2521" end="2525">
+    <text>know</text>
+    <mainVerb begin="2521" end="2525">know</mainVerb>
+    <mainReferent begin="2394" end="2401">Hammond</mainReferent>
+    <tokens>a good many farmers do not know the reason of its name</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_66" begin="2651" end="2654">
+    <text>are</text>
+    <mainVerb begin="2651" end="2654">are</mainVerb>
+    <mainReferent begin="2630" end="2639">spikelets</mainReferent>
+    <tokens>The spikelets of Timothy are very</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_67" begin="2670" end="2674">
+    <text>grow</text>
+    <mainVerb begin="2670" end="2674">grow</mainVerb>
+    <mainReferent begin="2630" end="2639">spikelets</mainReferent>
+    <tokens>The spikelets of Timothy grow in dense clusters at the end of the stem</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_68" begin="2738" end="2743">
+    <text>forms</text>
+    <mainVerb begin="2738" end="2743">forms</mainVerb>
+    <mainReferent begin="2730" end="2737">blossom</mainReferent>
+    <tokens>so that the blossom forms a kind of tail</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_69" begin="2789" end="2795">
+    <text>called</text>
+    <mainVerb begin="2789" end="2795">called</mainVerb>
+    <mainReferent begin="2768" end="2775">Timothy</mainReferent>
+    <tokens>Indeed Timothy is sometimes called Meadow Catstail a name</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_70" begin="2826" end="2831">
+    <text>gives</text>
+    <mainVerb begin="2826" end="2831">gives</mainVerb>
+    <mainReferent begin="2815" end="2819">name</mainReferent>
+    <tokens>a name gives a very good idea of its appearance</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_71" begin="2903" end="2905">
+    <text>is</text>
+    <mainVerb begin="2903" end="2905">is</mainVerb>
+    <mainReferent begin="2874" end="2881">cluster</mainReferent>
+    <tokens>This cluster tail of spikelets is also rather rough to the touch</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_72" begin="2949" end="2955">
+    <text>Notice</text>
+    <mainVerb begin="2949" end="2955">Notice</mainVerb>
+    <tokens>Notice these two points about it</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_73" begin="2993" end="2996">
+    <text>see</text>
+    <mainVerb begin="2993" end="2996">see</mainVerb>
+    <mainReferent begin="2983" end="2985">we</mainReferent>
+    <tokens>we shall see the reason presently</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_74" begin="3036" end="3040">
+    <text>have</text>
+    <mainVerb begin="3036" end="3040">have</mainVerb>
+    <mainReferent begin="3029" end="3035">leaves</mainReferent>
+    <tokens>The green leaves have a greyish tint</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_75" begin="3061" end="3064">
+    <text>are</text>
+    <mainVerb begin="3061" end="3064">are</mainVerb>
+    <mainReferent begin="3029" end="3035">leaves</mainReferent>
+    <tokens>The green leaves are than many grass leaves</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_76" begin="3102" end="3105">
+    <text>cut</text>
+    <mainVerb begin="3102" end="3105">cut</mainVerb>
+    <tokens>When cut into hay</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_77" begin="3110" end="3114">
+    <text>made</text>
+    <mainVerb begin="3110" end="3114">made</mainVerb>
+    <tokens>made</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_78" begin="3137" end="3140">
+    <text>are</text>
+    <mainVerb begin="3137" end="3140">are</mainVerb>
+    <mainReferent begin="3130" end="3136">leaves</mainReferent>
+    <tokens>the leaves are rather hard</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_79" begin="3175" end="3180">
+    <text>grows</text>
+    <mainVerb begin="3175" end="3180">grows</mainVerb>
+    <mainReferent begin="3167" end="3174">Timothy</mainReferent>
+    <tokens>Timothy grows in good thick clumps</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_80" begin="3216" end="3220">
+    <text>make</text>
+    <mainVerb begin="3216" end="3220">make</mainVerb>
+    <mainReferent begin="3167" end="3174">Timothy</mainReferent>
+    <tokens>Timothy does not make a very spreading sward</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_81" begin="3260" end="3265">
+    <text>suits</text>
+    <mainVerb begin="3260" end="3265">suits</mainVerb>
+    <mainReferent begin="3252" end="3259">weather</mainReferent>
+    <tokens>Moist weather suits it best</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_82" begin="3289" end="3294">
+    <text>stand</text>
+    <mainVerb begin="3289" end="3294">stand</mainVerb>
+    <mainReferent begin="3282" end="3284">it</mainReferent>
+    <tokens>though it can stand a dry summer fairly well</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_83" begin="3325" end="3327">
+    <text>is</text>
+    <mainVerb begin="3325" end="3327">is</mainVerb>
+    <mainReferent begin="3322" end="3324">It</mainReferent>
+    <tokens>It is a late</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_84" begin="3369" end="3372">
+    <text>are</text>
+    <mainVerb begin="3369" end="3372">are</mainVerb>
+    <mainReferent begin="3348" end="3355">grasses</mainReferent>
+    <tokens>Other grasses in the field are in full flower to-day</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_85" begin="3407" end="3410">
+    <text>are</text>
+    <mainVerb begin="3407" end="3410">are</mainVerb>
+    <mainReferent begin="3348" end="3355">grasses</mainReferent>
+    <tokens>there are only a few ears of Timothy to be seen</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_86" begin="3470" end="3472">
+    <text>is</text>
+    <mainVerb begin="3470" end="3472">is</mainVerb>
+    <mainReferent begin="3455" end="3469">flowering-time</mainReferent>
+    <tokens>its flowering-time is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_87" begin="3493" end="3495">
+    <text>is</text>
+    <mainVerb begin="3493" end="3495">is</mainVerb>
+    <mainReferent begin="3490" end="3492">it</mainReferent>
+    <tokens>In one way it is a valuable for hay</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_88" begin="3525" end="3527">
+    <text>is</text>
+    <mainVerb begin="3525" end="3527">is</mainVerb>
+    <mainReferent begin="3522" end="3524">it</mainReferent>
+    <tokens>it is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_89" begin="3554" end="3558">
+    <text>sold</text>
+    <mainVerb begin="3554" end="3558">sold</mainVerb>
+    <mainReferent begin="3507" end="3512">grass</mainReferent>
+    <tokens>hay is always sold weight</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_90" begin="3601" end="3603">
+    <text>is</text>
+    <mainVerb begin="3601" end="3603">is</mainVerb>
+    <mainReferent begin="3596" end="3599">hay</mainReferent>
+    <tokens>On the other hand Timothy hay is rather</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_91" begin="3629" end="3631">
+    <text>is</text>
+    <mainVerb begin="3629" end="3631">is</mainVerb>
+    <mainReferent begin="3640" end="3649">something</mainReferent>
+    <tokens>Now here is a something like Timothy yet different in several ways</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_92" begin="3699" end="3701">
+    <text>is</text>
+    <mainVerb begin="3699" end="3701">is</mainVerb>
+    <mainReferent begin="3696" end="3698">It</mainReferent>
+    <tokens>It is Meadow</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_93" begin="3726" end="3732">
+    <text>formed</text>
+    <mainVerb begin="3726" end="3732">formed</mainVerb>
+    <mainReferent begin="3722" end="3725">ear</mainReferent>
+    <tokens>formed the cluster of spikelets</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_94" begin="3762" end="3764">
+    <text>is</text>
+    <mainVerb begin="3762" end="3764">is</mainVerb>
+    <mainReferent begin="3722" end="3725">ear</mainReferent>
+    <tokens>The ear is of the same shape as an ear of Timothy like a round tail slightly pointed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_95" begin="3833" end="3840">
+    <text>pointed</text>
+    <mainVerb begin="3833" end="3840">pointed</mainVerb>
+    <mainReferent begin="3818" end="3822">tail</mainReferent>
+    <tokens>slightly pointed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_96" begin="3865" end="3868">
+    <text>was</text>
+    <mainVerb begin="3865" end="3868">was</mainVerb>
+    <mainReferent begin="3850" end="3853">ear</mainReferent>
+    <tokens>But the ear of Timothy was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_97" begin="3887" end="3889">
+    <text>is</text>
+    <mainVerb begin="3887" end="3889">is</mainVerb>
+    <mainReferent begin="3882" end="3886">this</mainReferent>
+    <tokens>while this is a beautiful grey</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_98" begin="3925" end="3928">
+    <text>was</text>
+    <mainVerb begin="3925" end="3928">was</mainVerb>
+    <mainReferent begin="3917" end="3924">Timothy</mainReferent>
+    <tokens>Timothy was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_99" begin="3962" end="3964">
+    <text>is</text>
+    <mainVerb begin="3962" end="3964">is</mainVerb>
+    <mainReferent begin="3940" end="3943">ear</mainReferent>
+    <tokens>the ear of Meadow Foxtail is very</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_100" begin="3980" end="3985">
+    <text>silky</text>
+    <mainVerb begin="3980" end="3985">silky</mainVerb>
+    <mainReferent begin="3940" end="3943">ear</mainReferent>
+    <tokens>the ear of Meadow Foxtail silky to the touch</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_101" begin="4047" end="4052">
+    <text>given</text>
+    <mainVerb begin="4047" end="4052">given</mainVerb>
+    <mainReferent begin="4035" end="4041">colour</mainReferent>
+    <tokens>The silkiness the silvery grey colour are given to the ear a soft hair</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_102" begin="4079" end="4085">
+    <text>called</text>
+    <mainVerb begin="4079" end="4085">called</mainVerb>
+    <mainReferent begin="4074" end="4078">hair</mainReferent>
+    <tokens>called the " awn "</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_103" begin="4102" end="4107">
+    <text>grows</text>
+    <mainVerb begin="4102" end="4107">grows</mainVerb>
+    <mainReferent begin="4091" end="4094">awn</mainReferent>
+    <tokens>the " awn " grows from each spikelet</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_104" begin="4140" end="4143">
+    <text>are</text>
+    <mainVerb begin="4140" end="4143">are</mainVerb>
+    <mainReferent begin="4133" end="4139">leaves</mainReferent>
+    <tokens>The leaves are juicy</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wildflowers_of_the_farm_11.txt_105" begin="4171" end="4174">
+    <text>are</text>
+    <mainVerb begin="4171" end="4174">are</mainVerb>
+    <mainReferent begin="4133" end="4139">leaves</mainReferent>
+    <tokens>there are many of them</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+</document>

@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_1" begin="41" end="43">
+    <text>is</text>
+    <mainVerb begin="41" end="43">is</mainVerb>
+    <mainReferent begin="19" end="24">genus</mainReferent>
+    <tokens>The third last genus of the Sapajous is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_2" begin="49" end="55">
+    <text>termed</text>
+    <mainVerb begin="49" end="55">termed</mainVerb>
+    <mainReferent begin="44" end="48">that</mainReferent>
+    <tokens>that termed _ Lagothrix _</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_3" begin="75" end="78">
+    <text>are</text>
+    <mainVerb begin="75" end="78">are</mainVerb>
+    <mainReferent begin="70" end="74">They</mainReferent>
+    <tokens>They are small</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_4" begin="94" end="101">
+    <text>covered</text>
+    <mainVerb begin="94" end="101">covered</mainVerb>
+    <mainReferent begin="85" end="92">monkeys</mainReferent>
+    <tokens>covered also with soft woolly hair</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_5" begin="149" end="151">
+    <text>is</text>
+    <mainVerb begin="149" end="151">is</mainVerb>
+    <mainReferent begin="85" end="92">monkeys</mainReferent>
+    <tokens>their habitat is along the banks of rivers</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_6" begin="185" end="189">
+    <text>have</text>
+    <mainVerb begin="185" end="189">have</mainVerb>
+    <mainReferent begin="180" end="184">They</mainReferent>
+    <tokens>They have a strange habit not observable among their congeners collecting in small troops rolling " clewing " themselves up together</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_7" begin="338" end="340">
+    <text>do</text>
+    <mainVerb begin="338" end="340">do</mainVerb>
+    <tokens>do</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_8" begin="396" end="402">
+    <text>summon</text>
+    <mainVerb begin="396" end="402">summon</mainVerb>
+    <mainReferent begin="391" end="395">They</mainReferent>
+    <tokens>They summon each other of signals and cries</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_9" begin="450" end="459">
+    <text>selecting</text>
+    <mainVerb begin="450" end="459">selecting</mainVerb>
+    <mainReferent begin="502" end="506">they</mainReferent>
+    <tokens>selecting the convenient bifurcation of some tree</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_10" begin="513" end="517">
+    <text>form</text>
+    <mainVerb begin="513" end="517">form</mainVerb>
+    <mainReferent begin="391" end="395">They</mainReferent>
+    <tokens>they there form the singular group</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_11" begin="576" end="580">
+    <text>take</text>
+    <mainVerb begin="576" end="580">take</mainVerb>
+    <mainReferent begin="560" end="566">beasts</mainReferent>
+    <tokens>The jaguar other beasts of prey take advantage of this habit</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_12" begin="616" end="620">
+    <text>make</text>
+    <mainVerb begin="616" end="620">make</mainVerb>
+    <mainReferent begin="543" end="549">jaguar</mainReferent>
+    <tokens>The jaguar other beasts of prey often make victims of the whole _ tableau vivant _</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_13" begin="668" end="671">
+    <text>are</text>
+    <mainVerb begin="668" end="671">are</mainVerb>
+    <mainReferent begin="678" end="685">species</mainReferent>
+    <tokens>There are three species all denizens of the Brazilian forests</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_14" begin="694" end="703">
+    <text>described</text>
+    <mainVerb begin="694" end="703">described</mainVerb>
+    <mainReferent begin="678" end="685">species</mainReferent>
+    <tokens>already described</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_15" begin="759" end="763">
+    <text>form</text>
+    <mainVerb begin="759" end="763">form</mainVerb>
+    <mainReferent begin="752" end="758">Sajous</mainReferent>
+    <tokens>The Sajous form the second group of the American monkeys</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_16" begin="824" end="834">
+    <text>prehensile</text>
+    <mainVerb begin="824" end="834">prehensile</mainVerb>
+    <mainReferent begin="807" end="812">These</mainReferent>
+    <tokens>These have also prehensile tails</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_17" begin="856" end="858">
+    <text>is</text>
+    <mainVerb begin="856" end="858">is</mainVerb>
+    <mainReferent begin="850" end="855">power</mainReferent>
+    <tokens>the power is not so in them as in the Sapajous naked</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_18" begin="916" end="919">
+    <text>are</text>
+    <mainVerb begin="916" end="919">are</mainVerb>
+    <tokens>are their</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_19" begin="976" end="979">
+    <text>are</text>
+    <mainVerb begin="976" end="979">are</mainVerb>
+    <mainReferent begin="954" end="960">bodies</mainReferent>
+    <tokens>Moreover the bodies of the Sajous are more</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_20" begin="1020" end="1024">
+    <text>make</text>
+    <mainVerb begin="1020" end="1024">make</mainVerb>
+    <mainReferent begin="954" end="960">bodies</mainReferent>
+    <tokens>their limbs of stouter make</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_21" begin="1044" end="1057">
+    <text>well-tempered</text>
+    <mainVerb begin="1044" end="1057">well-tempered</mainVerb>
+    <mainReferent begin="1033" end="1039">Sajous</mainReferent>
+    <tokens>The Sajous are well-tempered creatures</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_22" begin="1080" end="1092">
+    <text>domesticated</text>
+    <mainVerb begin="1080" end="1092">domesticated</mainVerb>
+    <mainReferent begin="1033" end="1039">Sajous</mainReferent>
+    <tokens>The Sajous easily domesticated</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_23" begin="1116" end="1119">
+    <text>are</text>
+    <mainVerb begin="1116" end="1119">are</mainVerb>
+    <mainReferent begin="1095" end="1099">Some</mainReferent>
+    <tokens>Some of the species are favourite of their pleasing manners the docility of their nature</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_24" begin="1244" end="1251">
+    <text>deserve</text>
+    <mainVerb begin="1244" end="1251">deserve</mainVerb>
+    <mainReferent begin="1218" end="1223">males</mainReferent>
+    <tokens>The old males however scarcely deserve this reputation</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_25" begin="1282" end="1286">
+    <text>bite</text>
+    <mainVerb begin="1282" end="1286">bite</mainVerb>
+    <mainReferent begin="1272" end="1276">they</mainReferent>
+    <tokens>as they will bite freely enough</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_26" begin="1306" end="1314">
+    <text>provoked</text>
+    <mainVerb begin="1306" end="1314">provoked</mainVerb>
+    <tokens>when provoked</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_27" begin="1332" end="1342">
+    <text>subdivided</text>
+    <mainVerb begin="1332" end="1342">subdivided</mainVerb>
+    <mainReferent begin="1319" end="1323">They</mainReferent>
+    <tokens>They are not subdivided all them inhabiting equatorial America</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_28" begin="1348" end="1357">
+    <text>permitted</text>
+    <mainVerb begin="1348" end="1357">permitted</mainVerb>
+    <mainReferent begin="1332" end="1342">subdivided</mainReferent>
+    <tokens>but permitted to constitute a single genus</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_29" begin="1404" end="1407">
+    <text>are</text>
+    <mainVerb begin="1404" end="1407">are</mainVerb>
+    <mainReferent begin="1422" end="1429">species</mainReferent>
+    <tokens>a single genus there are nearly twenty species</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_30" begin="1491" end="1495">
+    <text>form</text>
+    <mainVerb begin="1491" end="1495">form</mainVerb>
+    <mainReferent begin="1482" end="1490">Sajouins</mainReferent>
+    <tokens>The Sajouins form the third group</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_31" begin="1536" end="1545">
+    <text>signifies</text>
+    <mainVerb begin="1536" end="1545">signifies</mainVerb>
+    <mainReferent begin="1524" end="1528">name</mainReferent>
+    <tokens>as the name merely signifies those monkeys</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_32" begin="1566" end="1570">
+    <text>have</text>
+    <mainVerb begin="1566" end="1570">have</mainVerb>
+    <mainReferent begin="1553" end="1560">monkeys</mainReferent>
+    <tokens>those monkeys have not the power suspending themselves by the tail</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_33" begin="1641" end="1651">
+    <text>considered</text>
+    <mainVerb begin="1641" end="1651">considered</mainVerb>
+    <mainReferent begin="1482" end="1490">Sajouins</mainReferent>
+    <tokens>it can hardly be considered a natural group</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_34" begin="1681" end="1684">
+    <text>are</text>
+    <mainVerb begin="1681" end="1684">are</mainVerb>
+    <tokens>since there are numerous genera</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_35" begin="1691" end="1697">
+    <text>varied</text>
+    <mainVerb begin="1691" end="1697">varied</mainVerb>
+    <tokens>very varied numerous genera</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_36" begin="1722" end="1726">
+    <text>lack</text>
+    <mainVerb begin="1722" end="1726">lack</mainVerb>
+    <mainReferent begin="1711" end="1717">genera</mainReferent>
+    <tokens>numerous genera lack this power</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_37" begin="1781" end="1791">
+    <text>subdivided</text>
+    <mainVerb begin="1781" end="1791">subdivided</mainVerb>
+    <mainReferent begin="1744" end="1749">group</mainReferent>
+    <tokens>The group of Sajouins must therefore be subdivided into several lesser groups</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_38" begin="1839" end="1843">
+    <text>have</text>
+    <mainVerb begin="1839" end="1843">have</mainVerb>
+    <mainReferent begin="1836" end="1838">we</mainReferent>
+    <tokens>we have the true Sajouins</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_39" begin="1901" end="1903">
+    <text>is</text>
+    <mainVerb begin="1901" end="1903">is</mainVerb>
+    <mainReferent begin="1823" end="1828">First</mainReferent>
+    <tokens>First of all we have the true Sajouins these the _ Saimiri _ _ Titi _ is the most distinguished</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_40" begin="1966" end="1968">
+    <text>is</text>
+    <mainVerb begin="1966" end="1968">is</mainVerb>
+    <mainReferent begin="1956" end="1964">creature</mainReferent>
+    <tokens>This pretty little creature is about in size to a squirrel</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_41" begin="2008" end="2017">
+    <text>possesses</text>
+    <mainVerb begin="2008" end="2017">possesses</mainVerb>
+    <mainReferent begin="1956" end="1964">creature</mainReferent>
+    <tokens>This pretty little creature possesses all the playful disposition of the latter</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_42" begin="2150" end="2156">
+    <text>render</text>
+    <mainVerb begin="2150" end="2156">render</mainVerb>
+    <mainReferent begin="2077" end="2086">innocence</mainReferent>
+    <tokens>Its childlike innocence of countenance its pleasing graceful manners render it a favourite pet</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_43" begin="2196" end="2204">
+    <text>obtained</text>
+    <mainVerb begin="2196" end="2204">obtained</mainVerb>
+    <mainReferent begin="2186" end="2188">it</mainReferent>
+    <tokens>wherever it can be obtained</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_44" begin="2240" end="2245">
+    <text>mixed</text>
+    <mainVerb begin="2240" end="2245">mixed</mainVerb>
+    <mainReferent begin="2216" end="2220">robe</mainReferent>
+    <tokens>mixed with green</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_45" begin="2259" end="2263">
+    <text>adds</text>
+    <mainVerb begin="2259" end="2263">adds</mainVerb>
+    <mainReferent begin="2216" end="2220">robe</mainReferent>
+    <tokens>Its rich robe of yellowish-grey adds to the attraction of its presence</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_46" begin="2306" end="2309">
+    <text>are</text>
+    <mainVerb begin="2306" end="2309">are</mainVerb>
+    <mainReferent begin="2319" end="2326">species</mainReferent>
+    <tokens>There are several species of Sajouins , known as the Widow monkey , the Moloch , the Mitred monkey , and the Black-handed Sajouin</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_47" begin="2340" end="2345">
+    <text>known</text>
+    <mainVerb begin="2340" end="2345">known</mainVerb>
+    <mainReferent begin="2330" end="2338">Sajouins</mainReferent>
+    <tokens>known as the Widow monkey</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_48" begin="2441" end="2449">
+    <text>dwellers</text>
+    <mainVerb begin="2441" end="2449">dwellers</mainVerb>
+    <mainReferent begin="2429" end="2432">all</mainReferent>
+    <tokens>all of them dwellers in the tropical regions of America</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_49" begin="2503" end="2505">
+    <text>is</text>
+    <mainVerb begin="2503" end="2505">is</mainVerb>
+    <mainReferent begin="2492" end="2502">Doroucouli</mainReferent>
+    <tokens>The Doroucouli is another small</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_50" begin="2565" end="2571">
+    <text>alarms</text>
+    <mainVerb begin="2565" end="2571">alarms</mainVerb>
+    <mainReferent begin="2520" end="2527">species</mainReferent>
+    <tokens>in the nocturnal forest often alarms the traveller by its singular cry</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_51" begin="2644" end="2655">
+    <text>constitutes</text>
+    <mainVerb begin="2644" end="2655">constitutes</mainVerb>
+    <mainReferent begin="2520" end="2527">species</mainReferent>
+    <tokens>an allied species of Doroucouli constitutes with the one above-mentioned a second genus of the Sajouins</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_52" begin="2817" end="2820">
+    <text>are</text>
+    <mainVerb begin="2817" end="2820">are</mainVerb>
+    <mainReferent begin="2829" end="2836">species</mainReferent>
+    <tokens>There are a dozen species of them in all</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_53" begin="2863" end="2870">
+    <text>possess</text>
+    <mainVerb begin="2863" end="2870">possess</mainVerb>
+    <mainReferent begin="2829" end="2836">species</mainReferent>
+    <tokens>they possess the peculiarity</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_54" begin="2921" end="2925">
+    <text>fond</text>
+    <mainVerb begin="2921" end="2925">fond</mainVerb>
+    <mainReferent begin="2912" end="2916">They</mainReferent>
+    <tokens>They are fond of honey too</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_55" begin="2956" end="2960">
+    <text>seen</text>
+    <mainVerb begin="2956" end="2960">seen</mainVerb>
+    <mainReferent begin="2912" end="2916">They</mainReferent>
+    <tokens>They are often seen</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_56" begin="2961" end="2968">
+    <text>ranging</text>
+    <mainVerb begin="2961" end="2968">ranging</mainVerb>
+    <tokens>ranging the woods in little troops of ten or twelve in search of the nests of the wild bees , which they plunder of their luscious stores</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_57" begin="3068" end="3075">
+    <text>plunder</text>
+    <mainVerb begin="3068" end="3075">plunder</mainVerb>
+    <mainReferent begin="3063" end="3067">they</mainReferent>
+    <tokens>the wild bees they plunder of their luscious stores</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_58" begin="3127" end="3137">
+    <text>constitute</text>
+    <mainVerb begin="3127" end="3137">constitute</mainVerb>
+    <mainReferent begin="3120" end="3121">_</mainReferent>
+    <tokens>The _ Ouistitis _ also constitute a genus</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_59" begin="3174" end="3177">
+    <text>are</text>
+    <mainVerb begin="3174" end="3177">are</mainVerb>
+    <mainReferent begin="3148" end="3153">These</mainReferent>
+    <tokens>These like the Saimiris are beautiful little</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_60" begin="3265" end="3271">
+    <text>marked</text>
+    <mainVerb begin="3265" end="3271">marked</mainVerb>
+    <mainReferent begin="3196" end="3205">creatures</mainReferent>
+    <tokens>These like the Saimiris marked with the most lively colours : as bright red and orange</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_61" begin="3380" end="3385">
+    <text>known</text>
+    <mainVerb begin="3380" end="3385">known</mainVerb>
+    <mainReferent begin="3370" end="3379">squirrels</mainReferent>
+    <tokens>known this name its abbreviation Titi some them belonging to the group of Saimiris</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_62" begin="3522" end="3528">
+    <text>called</text>
+    <mainVerb begin="3522" end="3528">called</mainVerb>
+    <tokens>There are many different kinds of small squirrels known by this name , or by its abbreviation -- Titi -- some of them belonging to the group of Saimiris others to the Ouistitis properly so called</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_63" begin="3545" end="3549">
+    <text>come</text>
+    <mainVerb begin="3545" end="3549">come</mainVerb>
+    <mainReferent begin="3533" end="3537">Last</mainReferent>
+    <tokens>Last of all come the little Tamunus</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_64" begin="3669" end="3673">
+    <text>need</text>
+    <mainVerb begin="3669" end="3673">need</mainVerb>
+    <mainReferent begin="3570" end="3574">some</mainReferent>
+    <tokens>some which in beauty of colours , in playfulness of disposition , and other amiable qualities need not</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_65" begin="3678" end="3683">
+    <text>yield</text>
+    <mainVerb begin="3678" end="3683">yield</mainVerb>
+    <mainReferent begin="3669" end="3673">need</mainReferent>
+    <tokens>yield either to the Saimiris or Ouistitis</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_66" begin="3727" end="3730">
+    <text>are</text>
+    <mainVerb begin="3727" end="3730">are</mainVerb>
+    <mainReferent begin="3722" end="3726">They</mainReferent>
+    <tokens>They are equally as pets</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_67" begin="3799" end="3806">
+    <text>applied</text>
+    <mainVerb begin="3799" end="3806">applied</mainVerb>
+    <mainReferent begin="3722" end="3726">They</mainReferent>
+    <tokens>among their Creole owners have equally applied to them the endearing appellation of Titi-titi</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_68" begin="3881" end="3884">
+    <text>are</text>
+    <mainVerb begin="3881" end="3884">are</mainVerb>
+    <mainReferent begin="3876" end="3880">they</mainReferent>
+    <tokens>Quadrupeds they are by Captain Mayne Reid CHAPTER THREE</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_69" begin="3895" end="3900">
+    <text>found</text>
+    <mainVerb begin="3895" end="3900">found</mainVerb>
+    <mainReferent begin="3876" end="3880">they</mainReferent>
+    <tokens>they where found</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_70" begin="3989" end="3991">
+    <text>is</text>
+    <mainVerb begin="3989" end="3991">is</mainVerb>
+    <mainReferent begin="3984" end="3988">that</mainReferent>
+    <tokens>is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_71" begin="4027" end="4035">
+    <text>supposed</text>
+    <mainVerb begin="4027" end="4035">supposed</mainVerb>
+    <mainReferent begin="4019" end="4021">it</mainReferent>
+    <tokens>In the days of Linnaeus -- that is , a century and a half ago -- it was supposed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_72" begin="4042" end="4045">
+    <text>was</text>
+    <mainVerb begin="4042" end="4045">was</mainVerb>
+    <mainReferent begin="4055" end="4059">kind</mainReferent>
+    <tokens>there was only one kind of Bear in existence -- the common Brown bear of Europe</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_73" begin="4120" end="4122">
+    <text>is</text>
+    <mainVerb begin="4120" end="4122">is</mainVerb>
+    <mainReferent begin="4117" end="4119">It</mainReferent>
+    <tokens>It is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_74" begin="4163" end="4168">
+    <text>heard</text>
+    <mainVerb begin="4163" end="4168">heard</mainVerb>
+    <mainReferent begin="4133" end="4141">Linnaeus</mainReferent>
+    <tokens>that Linnaeus before his death had heard of the great Polar bear</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_75" begin="4212" end="4216">
+    <text>seen</text>
+    <mainVerb begin="4212" end="4216">seen</mainVerb>
+    <mainReferent begin="4117" end="4119">It</mainReferent>
+    <tokens>he had never seen one</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_76" begin="4226" end="4229">
+    <text>was</text>
+    <mainVerb begin="4226" end="4229">was</mainVerb>
+    <mainReferent begin="4199" end="4201">he</mainReferent>
+    <tokens>he was not</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_77" begin="4305" end="4311">
+    <text>proved</text>
+    <mainVerb begin="4305" end="4311">proved</mainVerb>
+    <mainReferent begin="4300" end="4304">bear</mainReferent>
+    <tokens>Not only has the Polar bear proved</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_78" begin="4392" end="4398">
+    <text>turned</text>
+    <mainVerb begin="4392" end="4398">turned</mainVerb>
+    <mainReferent begin="4300" end="4304">bear</mainReferent>
+    <tokens>other species have turned up in remote quarters of the globe</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_79" begin="4492" end="4500">
+    <text>extended</text>
+    <mainVerb begin="4492" end="4500">extended</mainVerb>
+    <mainReferent begin="4445" end="4449">list</mainReferent>
+    <tokens>until the list of these interesting quadrupeds has been extended to the number of at least a dozen distinct species differing not only in size shape colour also in many more essential characteristics</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_80" begin="4668" end="4673">
+    <text>found</text>
+    <mainVerb begin="4668" end="4673">found</mainVerb>
+    <mainReferent begin="4652" end="4657">Bears</mainReferent>
+    <tokens>Bears have been found in North America , and others in South America ; some in Asia , and still others in the islands of the Indian Archipelago ; entirely unlike the brown bear of Europe</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_4.txt_81" begin="4847" end="4850">
+    <text>are</text>
+    <mainVerb begin="4847" end="4850">are</mainVerb>
+    <mainReferent begin="4842" end="4846">they</mainReferent>
+    <tokens>as they are to one another</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+</document>

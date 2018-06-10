@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="the_story_of_eclipses_73.txt_1" begin="0" end="3">
+    <text>Did</text>
+    <mainVerb begin="0" end="3">Did</mainVerb>
+    <tokens>Did</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_2" begin="10" end="16">
+    <text>permit</text>
+    <mainVerb begin="10" end="16">permit</mainVerb>
+    <mainReferent begin="4" end="9">space</mainReferent>
+    <tokens>space permit</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_3" begin="52" end="61">
+    <text>furnished</text>
+    <mainVerb begin="52" end="61">furnished</mainVerb>
+    <mainReferent begin="36" end="42">record</mainReferent>
+    <tokens>a very interesting record might be furnished of eclipse customs in foreign parts</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_4" begin="114" end="122">
+    <text>happened</text>
+    <mainVerb begin="114" end="122">happened</mainVerb>
+    <mainReferent begin="106" end="113">eclipse</mainReferent>
+    <tokens>An eclipse happened during Lord Macartney ’s embassy to China [ 160 ] which kept the Emperor and his Mandarins for a whole day devoutly praying the gods that the Moon might not be eaten up by the great dragon which was hovering about her</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_5" begin="176" end="180">
+    <text>kept</text>
+    <mainVerb begin="176" end="180">kept</mainVerb>
+    <mainReferent begin="167" end="168">]</mainReferent>
+    <tokens>China [ 160 ] kept the Emperor his Mandarins for a whole day devoutly praying the gods that the Moon might not be eaten up by the great dragon which was hovering about her</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_6" begin="236" end="243">
+    <text>praying</text>
+    <mainVerb begin="236" end="243">praying</mainVerb>
+    <mainReferent begin="223" end="226">day</mainReferent>
+    <tokens>devoutly praying the gods</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_7" begin="281" end="286">
+    <text>eaten</text>
+    <mainVerb begin="281" end="286">eaten</mainVerb>
+    <mainReferent begin="249" end="253">gods</mainReferent>
+    <tokens>that the Moon might not be eaten up the great dragon</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_8" begin="321" end="329">
+    <text>hovering</text>
+    <mainVerb begin="321" end="329">hovering</mainVerb>
+    <mainReferent begin="303" end="309">dragon</mainReferent>
+    <tokens>the great dragon was hovering about her</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_9" begin="370" end="379">
+    <text>performed</text>
+    <mainVerb begin="370" end="379">performed</mainVerb>
+    <mainReferent begin="350" end="353">day</mainReferent>
+    <tokens>The next day a pantomime was performed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_10" begin="381" end="391">
+    <text>exhibiting</text>
+    <mainVerb begin="381" end="391">exhibiting</mainVerb>
+    <tokens>exhibiting the battle of the dragon and the Moon , and in which two or three hundred priests , bearing lanterns at the end of long sticks , dancing and capering about , sometimes over the plain , and then over chairs and tables , bore no mean part</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_11" begin="609" end="613">
+    <text>bore</text>
+    <mainVerb begin="609" end="613">bore</mainVerb>
+    <mainReferent begin="411" end="417">dragon</mainReferent>
+    <tokens>of the dragon and the Moon , and in which two or three hundred priests , bearing lanterns at the end of long sticks , dancing and capering about , sometimes over the plain , and then over chairs and tables , bore no mean part</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_12" begin="657" end="663">
+    <text>quoted</text>
+    <mainVerb begin="657" end="663">quoted</mainVerb>
+    <mainReferent begin="641" end="648">Russell</mainReferent>
+    <tokens>Professor Russell is quoted elsewhere in this work with respect to Chinese eclipses</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_13" begin="722" end="727">
+    <text>makes</text>
+    <mainVerb begin="722" end="727">makes</mainVerb>
+    <mainReferent begin="641" end="648">Russell</mainReferent>
+    <tokens>Professor Russell makes the following remarks in regard</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_14" begin="768" end="775">
+    <text>happens</text>
+    <mainVerb begin="768" end="775">happens</mainVerb>
+    <mainReferent begin="641" end="648">Russell</mainReferent>
+    <tokens>what happens now in China</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_15" begin="804" end="809">
+    <text>occur</text>
+    <mainVerb begin="804" end="809">occur</mainVerb>
+    <mainReferent begin="795" end="803">eclipses</mainReferent>
+    <tokens>when eclipses occur</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_16" begin="811" end="812">
+    <text>“</text>
+    <mainVerb begin="811" end="812">“</mainVerb>
+    <mainReferent begin="810" end="811">—</mainReferent>
+    <tokens>— “</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_17" begin="820" end="822">
+    <text>be</text>
+    <mainVerb begin="820" end="822">be</mainVerb>
+    <mainReferent begin="812" end="814">It</mainReferent>
+    <tokens>It will be here to note</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_18" begin="911" end="920">
+    <text>performed</text>
+    <mainVerb begin="911" end="920">performed</mainVerb>
+    <mainReferent begin="901" end="906">rites</mainReferent>
+    <tokens>that even at present Imperial command special rites are performed during solar and lunar eclipses</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_19" begin="1026" end="1033">
+    <text>dressed</text>
+    <mainVerb begin="1026" end="1033">dressed</mainVerb>
+    <mainReferent begin="957" end="966">president</mainReferent>
+    <tokens>A president from each of the six boards with two inferior officials dressed in their official clothes</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_20" begin="1062" end="1069">
+    <text>proceed</text>
+    <mainVerb begin="1062" end="1069">proceed</mainVerb>
+    <tokens>proceed to the T’ai - Ch ’ ang-Ssu</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_21" begin="1111" end="1117">
+    <text>begins</text>
+    <mainVerb begin="1111" end="1117">begins</mainVerb>
+    <mainReferent begin="1103" end="1110">eclipse</mainReferent>
+    <tokens>When the eclipse begins</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_22" begin="1123" end="1129">
+    <text>change</text>
+    <mainVerb begin="1123" end="1129">change</mainVerb>
+    <mainReferent begin="1118" end="1122">they</mainReferent>
+    <tokens>they change their robes for common garments made of plain black material</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_23" begin="1163" end="1167">
+    <text>made</text>
+    <mainVerb begin="1163" end="1167">made</mainVerb>
+    <mainReferent begin="1154" end="1162">garments</mainReferent>
+    <tokens>made of plain black material</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_24" begin="1198" end="1206">
+    <text>kneeling</text>
+    <mainVerb begin="1198" end="1206">kneeling</mainVerb>
+    <mainReferent begin="1118" end="1122">they</mainReferent>
+    <tokens>they kneeling down</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_25" begin="1213" end="1217">
+    <text>burn</text>
+    <mainVerb begin="1213" end="1217">burn</mainVerb>
+    <tokens>burn incense</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_26" begin="1246" end="1251">
+    <text>beats</text>
+    <mainVerb begin="1246" end="1251">beats</mainVerb>
+    <mainReferent begin="1231" end="1240">president</mainReferent>
+    <tokens>The president then beats one stroke on a gong</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_27" begin="1295" end="1300">
+    <text>taken</text>
+    <mainVerb begin="1295" end="1300">taken</mainVerb>
+    <mainReferent begin="1231" end="1240">president</mainReferent>
+    <tokens>the ceremony is taken up all the attendant officials ”</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_28" begin="1392" end="1400">
+    <text>entitled</text>
+    <mainVerb begin="1392" end="1400">entitled</mainVerb>
+    <mainReferent begin="1384" end="1391">article</mainReferent>
+    <tokens>entitled</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_29" begin="1401" end="1402">
+    <text>“</text>
+    <mainVerb begin="1401" end="1402">“</mainVerb>
+    <tokens>“ The Hindu view of the late Eclipse</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_30" begin="1440" end="1445">
+    <text>gives</text>
+    <mainVerb begin="1440" end="1445">gives</mainVerb>
+    <mainReferent begin="1438" end="1439">”</mainReferent>
+    <tokens>A writer in _ Chambers ’s Journal _ [ 161 ] in an article entitled “ The Hindu view of the late Eclipse ” gives an interesting original account of divers Hindu superstitions ceremonies</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_31" begin="1534" end="1538">
+    <text>came</text>
+    <mainVerb begin="1534" end="1538">came</mainVerb>
+    <mainReferent begin="1499" end="1512">superstitions</mainReferent>
+    <tokens>superstitions ceremonies came under his notice in connection with the total eclipse of the Sun of Aug. 18 , 1868</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_32" begin="1627" end="1634">
+    <text>remarks</text>
+    <mainVerb begin="1627" end="1634">remarks</mainVerb>
+    <mainReferent begin="1623" end="1625">He</mainReferent>
+    <tokens>He remarks</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_33" begin="1669" end="1677">
+    <text>produced</text>
+    <mainVerb begin="1669" end="1677">produced</mainVerb>
+    <mainReferent begin="1650" end="1657">science</mainReferent>
+    <tokens>that “ European science has as yet produced but little effect upon the minds of the superstitious masses of India</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_34" begin="1776" end="1785">
+    <text>witnessed</text>
+    <mainVerb begin="1776" end="1785">witnessed</mainVerb>
+    <mainReferent begin="1763" end="1771">millions</mainReferent>
+    <tokens>the many millions witnessed the eclipse of the 18th of August last</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_35" begin="1831" end="1835">
+    <text>were</text>
+    <mainVerb begin="1831" end="1835">were</mainVerb>
+    <mainReferent begin="2113" end="2118">water</mainReferent>
+    <tokens>Of the many millions who witnessed the eclipse of the 18th of August last there were comparatively in his endeavour to swallow up the Lord of Day .... The pious Hindu , before the eclipse comes on , takes a torch , and begins to search his house all cooked food all water</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_36" begin="1874" end="1881">
+    <text>believe</text>
+    <mainVerb begin="1874" end="1881">believe</mainVerb>
+    <mainReferent begin="1855" end="1858">who</mainReferent>
+    <tokens>who did not verily believe</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_37" begin="1894" end="1900">
+    <text>caused</text>
+    <mainVerb begin="1894" end="1900">caused</mainVerb>
+    <mainReferent begin="1887" end="1889">it</mainReferent>
+    <tokens>that it was caused the dragon Rahu</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_38" begin="2009" end="2014">
+    <text>comes</text>
+    <mainVerb begin="2009" end="2014">comes</mainVerb>
+    <mainReferent begin="1983" end="1988">Hindu</mainReferent>
+    <tokens>the eclipse comes on</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_39" begin="2019" end="2024">
+    <text>takes</text>
+    <mainVerb begin="2019" end="2024">takes</mainVerb>
+    <mainReferent begin="1941" end="1948">swallow</mainReferent>
+    <tokens>The pious Hindu takes a torch</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_40" begin="2038" end="2044">
+    <text>begins</text>
+    <mainVerb begin="2038" end="2044">begins</mainVerb>
+    <mainReferent begin="1983" end="1988">Hindu</mainReferent>
+    <tokens>The pious Hindu begins to search his house</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_41" begin="2080" end="2087">
+    <text>removes</text>
+    <mainVerb begin="2080" end="2087">removes</mainVerb>
+    <mainReferent begin="2099" end="2103">food</mainReferent>
+    <tokens>carefully removes all cooked food all water for drinking purposes</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_42" begin="2180" end="2185">
+    <text>incur</text>
+    <mainVerb begin="2180" end="2185">incur</mainVerb>
+    <mainReferent begin="2157" end="2162">water</mainReferent>
+    <tokens>Such food water by the eclipse incur _ Grahana seshah _</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_43" begin="2210" end="2212">
+    <text>is</text>
+    <mainVerb begin="2210" end="2212">is</mainVerb>
+    <mainReferent begin="2202" end="2203">_</mainReferent>
+    <tokens>_ Grahana seshah _ is</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_44" begin="2214" end="2225">
+    <text>uncleanness</text>
+    <mainVerb begin="2214" end="2225">uncleanness</mainVerb>
+    <mainReferent begin="2202" end="2203">_</mainReferent>
+    <tokens>_ Grahana seshah _ uncleanness</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_45" begin="2235" end="2243">
+    <text>rendered</text>
+    <mainVerb begin="2235" end="2243">rendered</mainVerb>
+    <mainReferent begin="2202" end="2203">_</mainReferent>
+    <tokens>_ Grahana seshah _ are rendered unfit for use</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_46" begin="2300" end="2307">
+    <text>declare</text>
+    <mainVerb begin="2300" end="2307">declare</mainVerb>
+    <mainReferent begin="2260" end="2264">Some</mainReferent>
+    <tokens>Some with less scruples of conscience declare</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_47" begin="2330" end="2339">
+    <text>preserved</text>
+    <mainVerb begin="2330" end="2339">preserved</mainVerb>
+    <mainReferent begin="2317" end="2321">food</mainReferent>
+    <tokens>that the food may be preserved placing it _</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_48" begin="2426" end="2429">
+    <text>set</text>
+    <mainVerb begin="2426" end="2429">set</mainVerb>
+    <mainReferent begin="2375" end="2380">grass</mainReferent>
+    <tokens>dharba _ _ Kusa grass _ ” much more to the like effect is duly set out in the interesting article cited</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_49" begin="2461" end="2466">
+    <text>cited</text>
+    <mainVerb begin="2461" end="2466">cited</mainVerb>
+    <mainReferent begin="2453" end="2460">article</mainReferent>
+    <tokens>cited</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_50" begin="2551" end="2556">
+    <text>noted</text>
+    <mainVerb begin="2551" end="2556">noted</mainVerb>
+    <mainReferent begin="2539" end="2547">incident</mainReferent>
+    <tokens>During the total eclipse of the Sun of Aug. 7 , 1869 the following incident is noted [ 162 ] to have occurred at a station on the Chilkaht river in Alaska , North America , frequented by Indians</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_51" begin="2642" end="2652">
+    <text>frequented</text>
+    <mainVerb begin="2642" end="2652">frequented</mainVerb>
+    <mainReferent begin="2619" end="2625">Alaska</mainReferent>
+    <tokens>frequented Indians</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_52" begin="2693" end="2696">
+    <text>was</text>
+    <mainVerb begin="2693" end="2696">was</mainVerb>
+    <mainReferent begin="2669" end="2670">“</mainReferent>
+    <tokens>— “ About the time the Sun was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_53" begin="2702" end="2710">
+    <text>obscured</text>
+    <mainVerb begin="2702" end="2710">obscured</mainVerb>
+    <tokens>obscured the chief Koh-Klux all</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_54" begin="2755" end="2766">
+    <text>disappeared</text>
+    <mainVerb begin="2755" end="2766">disappeared</mainVerb>
+    <mainReferent begin="2702" end="2710">obscured</mainReferent>
+    <tokens>the Indians had disappeared from around the observing tent</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_55" begin="2804" end="2808">
+    <text>left</text>
+    <mainVerb begin="2804" end="2808">left</mainVerb>
+    <mainReferent begin="2539" end="2547">incident</mainReferent>
+    <tokens>they left off fishing on the river banks</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_56" begin="2863" end="2875">
+    <text>discontinued</text>
+    <mainVerb begin="2863" end="2875">discontinued</mainVerb>
+    <mainReferent begin="2539" end="2547">incident</mainReferent>
+    <tokens>all employments were discontinued</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_57" begin="2893" end="2904">
+    <text>disappeared</text>
+    <mainVerb begin="2893" end="2904">disappeared</mainVerb>
+    <mainReferent begin="2539" end="2547">incident</mainReferent>
+    <tokens>every soul disappeared</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_58" begin="2910" end="2913">
+    <text>was</text>
+    <mainVerb begin="2910" end="2913">was</mainVerb>
+    <tokens>was a</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_59" begin="2922" end="2927">
+    <text>heard</text>
+    <mainVerb begin="2922" end="2927">heard</mainVerb>
+    <mainReferent begin="2916" end="2921">sound</mainReferent>
+    <tokens>heard throughout the village of 53 houses</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_60" begin="2987" end="2993">
+    <text>warned</text>
+    <mainVerb begin="2987" end="2993">warned</mainVerb>
+    <mainReferent begin="2970" end="2977">natives</mainReferent>
+    <tokens>The natives had been warned of</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_61" begin="3008" end="3012">
+    <text>take</text>
+    <mainVerb begin="3008" end="3012">take</mainVerb>
+    <mainReferent begin="2997" end="3001">what</mainReferent>
+    <tokens>what would take place</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_62" begin="3025" end="3032">
+    <text>doubted</text>
+    <mainVerb begin="3025" end="3032">doubted</mainVerb>
+    <mainReferent begin="2970" end="2977">natives</mainReferent>
+    <tokens>The natives doubted the prediction</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_63" begin="3061" end="3066">
+    <text>occur</text>
+    <mainVerb begin="3061" end="3066">occur</mainVerb>
+    <mainReferent begin="3054" end="3056">it</mainReferent>
+    <tokens>When it did occur</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_64" begin="3072" end="3078">
+    <text>looked</text>
+    <mainVerb begin="3072" end="3078">looked</mainVerb>
+    <mainReferent begin="3067" end="3071">they</mainReferent>
+    <tokens>they looked upon me as the cause of the Sun ’s being ‘ very sick and going to bed . ’</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_65" begin="3172" end="3179">
+    <text>alarmed</text>
+    <mainVerb begin="3172" end="3179">alarmed</mainVerb>
+    <mainReferent begin="3150" end="3154">They</mainReferent>
+    <tokens>They were thoroughly alarmed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_66" begin="3185" end="3196">
+    <text>overwhelmed</text>
+    <mainVerb begin="3185" end="3196">overwhelmed</mainVerb>
+    <mainReferent begin="3150" end="3154">They</mainReferent>
+    <tokens>They overwhelmed with an undefinable dread . ”</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_67" begin="3268" end="3276">
+    <text>recorded</text>
+    <mainVerb begin="3268" end="3276">recorded</mainVerb>
+    <mainReferent begin="3251" end="3259">incident</mainReferent>
+    <tokens>A still more thrilling incident is thus recorded [ 163 ] of the eclipse of July 29 , 1878 , a witness at Fort Sill , Indian Territory , U.S.</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_68" begin="3382" end="3386">
+    <text>last</text>
+    <mainVerb begin="3382" end="3386">last</mainVerb>
+    <mainReferent begin="3371" end="3372">“</mainReferent>
+    <tokens>— “ On Monday last</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_69" begin="3395" end="3404">
+    <text>permitted</text>
+    <mainVerb begin="3395" end="3404">permitted</mainVerb>
+    <mainReferent begin="3387" end="3389">we</mainReferent>
+    <tokens>we were permitted to see the eclipse of the Sun in a beautiful bright sky</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_70" begin="3475" end="3478">
+    <text>was</text>
+    <mainVerb begin="3475" end="3478">was</mainVerb>
+    <mainReferent begin="3469" end="3474">cloud</mainReferent>
+    <tokens>Not a cloud was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_71" begin="3495" end="3499">
+    <text>made</text>
+    <mainVerb begin="3495" end="3499">made</mainVerb>
+    <mainReferent begin="3488" end="3490">We</mainReferent>
+    <tokens>We had made ample preparation</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_72" begin="3520" end="3526">
+    <text>laying</text>
+    <mainVerb begin="3520" end="3526">laying</mainVerb>
+    <mainReferent begin="3488" end="3490">We</mainReferent>
+    <tokens>laying in a stock of smoked glass several days in advance</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_73" begin="3583" end="3586">
+    <text>was</text>
+    <mainVerb begin="3583" end="3586">was</mainVerb>
+    <mainReferent begin="3580" end="3582">It</mainReferent>
+    <tokens>It was the grandest I ever beheld</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_74" begin="3628" end="3638">
+    <text>frightened</text>
+    <mainVerb begin="3628" end="3638">frightened</mainVerb>
+    <mainReferent begin="3600" end="3605">sight</mainReferent>
+    <tokens>it frightened the Indians badly</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_75" begin="3672" end="3677">
+    <text>threw</text>
+    <mainVerb begin="3672" end="3677">threw</mainVerb>
+    <mainReferent begin="3659" end="3663">Some</mainReferent>
+    <tokens>Some of them threw themselves upon their knees others flung themselves flat on the ground</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_76" begin="3710" end="3717">
+    <text>invoked</text>
+    <mainVerb begin="3710" end="3717">invoked</mainVerb>
+    <mainReferent begin="3659" end="3663">Some</mainReferent>
+    <tokens>Some of them invoked the Divine blessing</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_77" begin="3784" end="3788">
+    <text>face</text>
+    <mainVerb begin="3784" end="3788">face</mainVerb>
+    <mainReferent begin="3747" end="3752">flung</mainReferent>
+    <tokens>face downward</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_78" begin="3807" end="3812">
+    <text>cried</text>
+    <mainVerb begin="3807" end="3812">cried</mainVerb>
+    <mainReferent begin="3800" end="3806">others</mainReferent>
+    <tokens>others cried in frantic excitement and terror</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_79" begin="3817" end="3823">
+    <text>yelled</text>
+    <mainVerb begin="3817" end="3823">yelled</mainVerb>
+    <mainReferent begin="3800" end="3806">others</mainReferent>
+    <tokens>others yelled</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_80" begin="3882" end="3889">
+    <text>stepped</text>
+    <mainVerb begin="3882" end="3889">stepped</mainVerb>
+    <mainReferent begin="3875" end="3881">fellow</mainReferent>
+    <tokens>Finally one old fellow stepped from the door of his lodge , pistol in hand</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_81" begin="4032" end="4036">
+    <text>took</text>
+    <mainVerb begin="4032" end="4036">took</mainVerb>
+    <mainReferent begin="3875" end="3881">fellow</mainReferent>
+    <tokens>fixing his eyes on the darkened Sun mumbled a few unintelligible words raising his arm took direct aim at the luminary , fired off his pistol , throwing his arms about his head in a series of extraordinary gesticulations retreated to his own quarters</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_82" begin="4066" end="4071">
+    <text>fired</text>
+    <mainVerb begin="4066" end="4071">fired</mainVerb>
+    <mainReferent begin="4056" end="4064">luminary</mainReferent>
+    <tokens>fired off his pistol</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_83" begin="4176" end="4185">
+    <text>retreated</text>
+    <mainVerb begin="4176" end="4185">retreated</mainVerb>
+    <mainReferent begin="4161" end="4175">gesticulations</mainReferent>
+    <tokens>retreated to his own quarters</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_84" begin="4214" end="4222">
+    <text>happened</text>
+    <mainVerb begin="4214" end="4222">happened</mainVerb>
+    <mainReferent begin="4211" end="4213">it</mainReferent>
+    <tokens>As it happened</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_85" begin="4242" end="4245">
+    <text>was</text>
+    <mainVerb begin="4242" end="4245">was</mainVerb>
+    <mainReferent begin="4224" end="4228">that</mainReferent>
+    <tokens>that very instant was the of totality</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_86" begin="4287" end="4293">
+    <text>beheld</text>
+    <mainVerb begin="4287" end="4293">beheld</mainVerb>
+    <mainReferent begin="4279" end="4286">Indians</mainReferent>
+    <tokens>The Indians beheld the glorious orb of day once more peep forth</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_87" begin="4364" end="4369">
+    <text>voted</text>
+    <mainVerb begin="4364" end="4369">voted</mainVerb>
+    <mainReferent begin="4279" end="4286">Indians</mainReferent>
+    <tokens>it was unanimously voted</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_88" begin="4412" end="4415">
+    <text>was</text>
+    <mainVerb begin="4412" end="4415">was</mainVerb>
+    <mainReferent begin="4386" end="4395">discharge</mainReferent>
+    <tokens>that the timely discharge of that pistol was the only</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_89" begin="4436" end="4441">
+    <text>drove</text>
+    <mainVerb begin="4436" end="4441">drove</mainVerb>
+    <mainReferent begin="4425" end="4430">thing</mainReferent>
+    <tokens>drove away the shadow</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_90" begin="4462" end="4467">
+    <text>saved</text>
+    <mainVerb begin="4462" end="4467">saved</mainVerb>
+    <mainReferent begin="4425" end="4430">thing</mainReferent>
+    <tokens>saved them from the public inconvenience that would have certainly resulted from the entire extinction of the Sun . ”</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_73.txt_91" begin="4530" end="4538">
+    <text>resulted</text>
+    <mainVerb begin="4530" end="4538">resulted</mainVerb>
+    <mainReferent begin="4490" end="4503">inconvenience</mainReferent>
+    <tokens>the public inconvenience would have certainly resulted from the entire extinction of the Sun . ”</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+</document>

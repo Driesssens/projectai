@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="a_book_of_natural_history_1.txt_1" begin="15" end="19">
+    <text>seen</text>
+    <mainVerb begin="15" end="19">seen</mainVerb>
+    <mainReferent begin="7" end="10">one</mainReferent>
+    <tokens>Every one has seen a cornfield</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_2" begin="40" end="45">
+    <text>pluck</text>
+    <mainVerb begin="40" end="45">pluck</mainVerb>
+    <mainReferent begin="36" end="39">you</mainReferent>
+    <tokens>If you pluck up one of the innumerable wheat plants which are fixed in the soil of the field , about harvest time</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_3" begin="96" end="101">
+    <text>fixed</text>
+    <mainVerb begin="96" end="101">fixed</mainVerb>
+    <mainReferent begin="79" end="85">plants</mainReferent>
+    <tokens>the innumerable wheat plants are fixed in the soil of the field about harvest time</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_4" begin="158" end="162">
+    <text>find</text>
+    <mainVerb begin="158" end="162">find</mainVerb>
+    <mainReferent begin="149" end="152">you</mainReferent>
+    <tokens>you will find</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_5" begin="171" end="179">
+    <text>consists</text>
+    <mainVerb begin="171" end="179">consists</mainVerb>
+    <mainReferent begin="168" end="170">it</mainReferent>
+    <tokens>that it consists of a stem which ends in a root at one end and an ear at the other</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_6" begin="196" end="200">
+    <text>ends</text>
+    <mainVerb begin="196" end="200">ends</mainVerb>
+    <mainReferent begin="185" end="189">stem</mainReferent>
+    <tokens>a stem ends in a root at one end and an ear at the other</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_7" begin="279" end="287">
+    <text>attached</text>
+    <mainVerb begin="279" end="287">attached</mainVerb>
+    <mainReferent begin="168" end="170">it</mainReferent>
+    <tokens>that blades leaves are attached to the sides of the stem</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_8" begin="322" end="330">
+    <text>contains</text>
+    <mainVerb begin="322" end="330">contains</mainVerb>
+    <mainReferent begin="318" end="321">ear</mainReferent>
+    <tokens>The ear contains a multitude of oval grains</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_9" begin="365" end="368">
+    <text>are</text>
+    <mainVerb begin="365" end="368">are</mainVerb>
+    <mainReferent begin="333" end="342">multitude</mainReferent>
+    <tokens>a multitude of oval grains are the of the wheat plant</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_10" begin="403" end="407">
+    <text>know</text>
+    <mainVerb begin="403" end="407">know</mainVerb>
+    <mainReferent begin="399" end="402">You</mainReferent>
+    <tokens>You know</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_11" begin="435" end="442">
+    <text>cleared</text>
+    <mainVerb begin="435" end="442">cleared</mainVerb>
+    <mainReferent begin="425" end="430">seeds</mainReferent>
+    <tokens>when these seeds are cleared from the husk or bran in which they are enveloped</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_12" begin="484" end="493">
+    <text>enveloped</text>
+    <mainVerb begin="484" end="493">enveloped</mainVerb>
+    <mainReferent begin="474" end="478">they</mainReferent>
+    <tokens>from the husk or bran in which they are enveloped</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_13" begin="500" end="503">
+    <text>are</text>
+    <mainVerb begin="500" end="503">are</mainVerb>
+    <mainReferent begin="495" end="499">they</mainReferent>
+    <tokens>that they are into fine powder in mills</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_14" begin="560" end="562">
+    <text>is</text>
+    <mainVerb begin="560" end="562">is</mainVerb>
+    <mainReferent begin="553" end="559">powder</mainReferent>
+    <tokens>that this powder is the</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_15" begin="591" end="595">
+    <text>made</text>
+    <mainVerb begin="591" end="595">made</mainVerb>
+    <mainReferent begin="582" end="587">bread</mainReferent>
+    <tokens>bread is made</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_16" begin="620" end="625">
+    <text>mixed</text>
+    <mainVerb begin="620" end="625">mixed</mainVerb>
+    <mainReferent begin="613" end="618">flour</mainReferent>
+    <tokens>mixed with a little cold water</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_17" begin="654" end="658">
+    <text>tied</text>
+    <mainVerb begin="654" end="658">tied</mainVerb>
+    <mainReferent begin="602" end="609">handful</mainReferent>
+    <tokens>If a handful of flour mixed with a little cold water is tied up in a coarse cloth bag</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_18" begin="706" end="709">
+    <text>put</text>
+    <mainVerb begin="706" end="709">put</mainVerb>
+    <mainReferent begin="602" end="609">handful</mainReferent>
+    <tokens>the bag is then put into a large vessel of water</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_19" begin="748" end="755">
+    <text>kneaded</text>
+    <mainVerb begin="748" end="755">kneaded</mainVerb>
+    <mainReferent begin="694" end="697">bag</mainReferent>
+    <tokens>the bag well kneaded with the hands</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_20" begin="781" end="787">
+    <text>become</text>
+    <mainVerb begin="781" end="787">become</mainVerb>
+    <mainReferent begin="773" end="775">it</mainReferent>
+    <tokens>it will become pasty</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_21" begin="816" end="822">
+    <text>become</text>
+    <mainVerb begin="816" end="822">become</mainVerb>
+    <mainReferent begin="805" end="810">water</mainReferent>
+    <tokens>while the water will become white</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_22" begin="848" end="854">
+    <text>poured</text>
+    <mainVerb begin="848" end="854">poured</mainVerb>
+    <mainReferent begin="839" end="844">water</mainReferent>
+    <tokens>If this water is poured away into another vessel</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_23" begin="907" end="916">
+    <text>continued</text>
+    <mainVerb begin="907" end="916">continued</mainVerb>
+    <mainReferent begin="839" end="844">water</mainReferent>
+    <tokens>the kneading process continued with some fresh water</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_24" begin="960" end="966">
+    <text>happen</text>
+    <mainVerb begin="960" end="966">happen</mainVerb>
+    <mainReferent begin="949" end="954">thing</mainReferent>
+    <tokens>the same thing will happen</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_25" begin="993" end="1001">
+    <text>repeated</text>
+    <mainVerb begin="993" end="1001">repeated</mainVerb>
+    <mainReferent begin="980" end="989">operation</mainReferent>
+    <tokens>if the operation is repeated</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_26" begin="1017" end="1023">
+    <text>become</text>
+    <mainVerb begin="1017" end="1023">become</mainVerb>
+    <mainReferent begin="1006" end="1011">paste</mainReferent>
+    <tokens>the paste will become more more sticky</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_27" begin="1071" end="1079">
+    <text>rendered</text>
+    <mainVerb begin="1071" end="1079">rendered</mainVerb>
+    <mainReferent begin="1057" end="1062">water</mainReferent>
+    <tokens>while the water will be rendered less less white at last</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_28" begin="1119" end="1125">
+    <text>remain</text>
+    <mainVerb begin="1119" end="1125">remain</mainVerb>
+    <mainReferent begin="1071" end="1079">rendered</mainReferent>
+    <tokens>But will remain colorless</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_29" begin="1173" end="1181">
+    <text>obtained</text>
+    <mainVerb begin="1173" end="1181">obtained</mainVerb>
+    <mainReferent begin="1148" end="1157">substance</mainReferent>
+    <tokens>The sticky substance is thus obtained itself</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_30" begin="1195" end="1201">
+    <text>called</text>
+    <mainVerb begin="1195" end="1201">called</mainVerb>
+    <mainReferent begin="1148" end="1157">substance</mainReferent>
+    <tokens>The sticky substance is called gluten</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_31" begin="1225" end="1227">
+    <text>is</text>
+    <mainVerb begin="1225" end="1227">is</mainVerb>
+    <mainReferent begin="1222" end="1224">it</mainReferent>
+    <tokens>in commerce it is the</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_32" begin="1243" end="1248">
+    <text>known</text>
+    <mainVerb begin="1243" end="1248">known</mainVerb>
+    <mainReferent begin="1232" end="1241">substance</mainReferent>
+    <tokens>known as maccaroni</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_33" begin="1312" end="1318">
+    <text>washed</text>
+    <mainVerb begin="1312" end="1318">washed</mainVerb>
+    <mainReferent begin="1292" end="1297">flour</mainReferent>
+    <tokens>the water the flour has thus been washed</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_34" begin="1322" end="1329">
+    <text>allowed</text>
+    <mainVerb begin="1322" end="1329">allowed</mainVerb>
+    <mainReferent begin="1273" end="1278">water</mainReferent>
+    <tokens>If the water is allowed to stand for a few hours</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_35" begin="1382" end="1387">
+    <text>found</text>
+    <mainVerb begin="1382" end="1387">found</mainVerb>
+    <mainReferent begin="1365" end="1373">sediment</mainReferent>
+    <tokens>a white sediment will be found at the bottom of the vessel</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_36" begin="1445" end="1447">
+    <text>be</text>
+    <mainVerb begin="1445" end="1447">be</mainVerb>
+    <mainReferent begin="1428" end="1433">fluid</mainReferent>
+    <tokens>while the fluid above will be</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_37" begin="1465" end="1471">
+    <text>poured</text>
+    <mainVerb begin="1465" end="1471">poured</mainVerb>
+    <mainReferent begin="1428" end="1433">fluid</mainReferent>
+    <tokens>the fluid may be poured off</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_38" begin="1498" end="1506">
+    <text>consists</text>
+    <mainVerb begin="1498" end="1506">consists</mainVerb>
+    <mainReferent begin="1489" end="1497">sediment</mainReferent>
+    <tokens>This white sediment consists of minute grains of starch , each of which , examined with the microscope , will be found to have a concentrically laminated structure</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_39" begin="1551" end="1559">
+    <text>examined</text>
+    <mainVerb begin="1551" end="1559">examined</mainVerb>
+    <mainReferent begin="1589" end="1594">found</mainReferent>
+    <tokens>examined with the microscope</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_40" begin="1589" end="1594">
+    <text>found</text>
+    <mainVerb begin="1589" end="1594">found</mainVerb>
+    <mainReferent begin="1535" end="1539">each</mainReferent>
+    <tokens>of starch , each of which , examined with the microscope , will be found to have a concentrically laminated structure</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_41" begin="1682" end="1691">
+    <text>deposited</text>
+    <mainVerb begin="1682" end="1691">deposited</mainVerb>
+    <mainReferent begin="1670" end="1676">starch</mainReferent>
+    <tokens>the fluid the starch was deposited</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_42" begin="1699" end="1705">
+    <text>boiled</text>
+    <mainVerb begin="1699" end="1705">boiled</mainVerb>
+    <mainReferent begin="1649" end="1654">fluid</mainReferent>
+    <tokens>If the fluid is now boiled</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_43" begin="1714" end="1720">
+    <text>become</text>
+    <mainVerb begin="1714" end="1720">become</mainVerb>
+    <mainReferent begin="1706" end="1708">it</mainReferent>
+    <tokens>it will become turbid</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_44" begin="1751" end="1758">
+    <text>diluted</text>
+    <mainVerb begin="1751" end="1758">diluted</mainVerb>
+    <mainReferent begin="1747" end="1750">egg</mainReferent>
+    <tokens>diluted with water</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_45" begin="1770" end="1774">
+    <text>does</text>
+    <mainVerb begin="1770" end="1774">does</mainVerb>
+    <mainReferent begin="1737" end="1742">white</mainReferent>
+    <tokens>just as white of egg diluted with water does</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_46" begin="1786" end="1792">
+    <text>boiled</text>
+    <mainVerb begin="1786" end="1792">boiled</mainVerb>
+    <mainReferent begin="1780" end="1782">it</mainReferent>
+    <tokens>when it is boiled</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_47" begin="1841" end="1848">
+    <text>collect</text>
+    <mainVerb begin="1841" end="1848">collect</mainVerb>
+    <mainReferent begin="1737" end="1742">white</mainReferent>
+    <tokens>eventually a whitish lumpy substance will collect at the bottom of the vessel</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_48" begin="1897" end="1903">
+    <text>called</text>
+    <mainVerb begin="1897" end="1903">called</mainVerb>
+    <mainReferent begin="1884" end="1893">substance</mainReferent>
+    <tokens>This substance is called vegetable albumin</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_49" begin="2035" end="2040">
+    <text>gives</text>
+    <mainVerb begin="2035" end="2040">gives</mainVerb>
+    <mainReferent begin="2016" end="2022">method</mainReferent>
+    <tokens>other substances this rough method of analysis gives us no information</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_50" begin="2065" end="2074">
+    <text>contained</text>
+    <mainVerb begin="2065" end="2074">contained</mainVerb>
+    <mainReferent begin="1951" end="1957">gluten</mainReferent>
+    <tokens>Besides the albumin the gluten the starch other substances are contained in the wheat grain</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_51" begin="2114" end="2116">
+    <text>is</text>
+    <mainVerb begin="2114" end="2116">is</mainVerb>
+    <mainReferent begin="2123" end="2129">matter</mainReferent>
+    <tokens>For example there is woody matter cellulose a certain quantity of sugar and fat</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_52" begin="2195" end="2197">
+    <text>be</text>
+    <mainVerb begin="2195" end="2197">be</mainVerb>
+    <mainReferent begin="2186" end="2188">It</mainReferent>
+    <tokens>It would be to obtain a substance similar to albumin , starch , saccharine , and fatty matters</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_53" begin="2327" end="2333">
+    <text>leaves</text>
+    <mainVerb begin="2327" end="2333">leaves</mainVerb>
+    <mainReferent begin="2186" end="2188">It</mainReferent>
+    <tokens>cellulose treating the stem leaves</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_54" begin="2340" end="2344">
+    <text>root</text>
+    <mainVerb begin="2340" end="2344">root</mainVerb>
+    <mainReferent begin="2294" end="2303">cellulose</mainReferent>
+    <tokens>cellulose root in a similar fashion</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_55" begin="2391" end="2393">
+    <text>be</text>
+    <mainVerb begin="2391" end="2393">be</mainVerb>
+    <mainReferent begin="2186" end="2188">It</mainReferent>
+    <tokens>the cellulose would be in far larger proportion</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_56" begin="2443" end="2451">
+    <text>consists</text>
+    <mainVerb begin="2443" end="2451">consists</mainVerb>
+    <mainReferent begin="2431" end="2435">fact</mainReferent>
+    <tokens>fact consists of the dry stem and leaves of the wheat plant</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_57" begin="2517" end="2521">
+    <text>made</text>
+    <mainVerb begin="2517" end="2521">made</mainVerb>
+    <mainReferent begin="2421" end="2426">Straw</mainReferent>
+    <tokens>Straw in fact , which consists of the dry stem and leaves of the wheat plant is almost wholly made up of cellulose</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_58" begin="2566" end="2574">
+    <text>contains</text>
+    <mainVerb begin="2566" end="2574">contains</mainVerb>
+    <mainReferent begin="2563" end="2565">it</mainReferent>
+    <tokens>Besides this however it contains a certain proportion of mineral bodies among them pure flint silica</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_59" begin="2674" end="2677">
+    <text>see</text>
+    <mainVerb begin="2674" end="2677">see</mainVerb>
+    <mainReferent begin="2658" end="2661">you</mainReferent>
+    <tokens>if you should ever see a wheat rick burnt</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_60" begin="2708" end="2712">
+    <text>find</text>
+    <mainVerb begin="2708" end="2712">find</mainVerb>
+    <mainReferent begin="2563" end="2565">it</mainReferent>
+    <tokens>you will find more less of this silica in a glassy condition in the embers</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_61" begin="2824" end="2832">
+    <text>combined</text>
+    <mainVerb begin="2824" end="2832">combined</mainVerb>
+    <mainReferent begin="2812" end="2818">bodies</mainReferent>
+    <tokens>In the living plant all these bodies are combined with a large proportion of water</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_62" begin="2874" end="2883">
+    <text>dissolved</text>
+    <mainVerb begin="2874" end="2883">dissolved</mainVerb>
+    <mainReferent begin="2812" end="2818">bodies</mainReferent>
+    <tokens>all these bodies are dissolved</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_63" begin="2889" end="2898">
+    <text>suspended</text>
+    <mainVerb begin="2889" end="2898">suspended</mainVerb>
+    <mainReferent begin="2812" end="2818">bodies</mainReferent>
+    <tokens>all these bodies suspended in that fluid</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_64" begin="2945" end="2947">
+    <text>is</text>
+    <mainVerb begin="2945" end="2947">is</mainVerb>
+    <mainReferent begin="2927" end="2935">quantity</mainReferent>
+    <tokens>The relative quantity of water is much in the stem</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_65" begin="2978" end="2984">
+    <text>leaves</text>
+    <mainVerb begin="2978" end="2984">leaves</mainVerb>
+    <mainReferent begin="2927" end="2935">quantity</mainReferent>
+    <tokens>The relative quantity of water leaves than in the seed</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_66" begin="3020" end="3024">
+    <text>seen</text>
+    <mainVerb begin="3020" end="3024">seen</mainVerb>
+    <mainReferent begin="3006" end="3015">Everybody</mainReferent>
+    <tokens>Everybody has seen a common fowl</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_67" begin="3043" end="3045">
+    <text>is</text>
+    <mainVerb begin="3043" end="3045">is</mainVerb>
+    <mainReferent begin="3040" end="3042">It</mainReferent>
+    <tokens>It is an active</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_68" begin="3071" end="3075">
+    <text>runs</text>
+    <mainVerb begin="3071" end="3075">runs</mainVerb>
+    <mainReferent begin="3056" end="3064">creature</mainReferent>
+    <tokens>runs about</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_69" begin="3097" end="3102">
+    <text>flies</text>
+    <mainVerb begin="3097" end="3102">flies</mainVerb>
+    <mainReferent begin="3056" end="3064">creature</mainReferent>
+    <tokens>sometimes flies</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_70" begin="3107" end="3110">
+    <text>has</text>
+    <mainVerb begin="3107" end="3110">has</mainVerb>
+    <mainReferent begin="3104" end="3106">It</mainReferent>
+    <tokens>It has a body ending at one end in a neck terminated by a head with a beak , between the two parts of which the mouth is placed</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_71" begin="3118" end="3125">
+    <text>covered</text>
+    <mainVerb begin="3118" end="3125">covered</mainVerb>
+    <mainReferent begin="3113" end="3117">body</mainReferent>
+    <tokens>covered with feathers , provided with two wings and two legs , ending at one end in a neck terminated by a head with a beak , between the two parts of which the mouth is placed</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_72" begin="3142" end="3150">
+    <text>provided</text>
+    <mainVerb begin="3142" end="3150">provided</mainVerb>
+    <mainReferent begin="3131" end="3139">feathers</mainReferent>
+    <tokens>provided with two wings and two legs</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_73" begin="3213" end="3223">
+    <text>terminated</text>
+    <mainVerb begin="3213" end="3223">terminated</mainVerb>
+    <mainReferent begin="3207" end="3211">neck</mainReferent>
+    <tokens>terminated a head with a beak</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_74" begin="3292" end="3298">
+    <text>placed</text>
+    <mainVerb begin="3292" end="3298">placed</mainVerb>
+    <mainReferent begin="3283" end="3288">mouth</mainReferent>
+    <tokens>between the two parts of which the mouth is placed</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_75" begin="3308" end="3312">
+    <text>lays</text>
+    <mainVerb begin="3308" end="3312">lays</mainVerb>
+    <mainReferent begin="3304" end="3307">hen</mainReferent>
+    <tokens>The hen lays eggs</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_76" begin="3336" end="3344">
+    <text>inclosed</text>
+    <mainVerb begin="3336" end="3344">inclosed</mainVerb>
+    <mainReferent begin="3319" end="3323">each</mainReferent>
+    <tokens>eggs each is inclosed in a hard shell</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_77" begin="3370" end="3375">
+    <text>break</text>
+    <mainVerb begin="3370" end="3375">break</mainVerb>
+    <mainReferent begin="3366" end="3369">you</mainReferent>
+    <tokens>If you break an egg</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_78" begin="3396" end="3400">
+    <text>flow</text>
+    <mainVerb begin="3396" end="3400">flow</mainVerb>
+    <mainReferent begin="3387" end="3395">contents</mainReferent>
+    <tokens>the contents flow out "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_79" begin="3413" end="3417">
+    <text>seen</text>
+    <mainVerb begin="3413" end="3417">seen</mainVerb>
+    <mainReferent begin="3387" end="3395">contents</mainReferent>
+    <tokens>the contents are seen to consist of the colorless glairy " white " and the yellow " yolk</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_80" begin="3502" end="3511">
+    <text>collected</text>
+    <mainVerb begin="3502" end="3511">collected</mainVerb>
+    <mainReferent begin="3493" end="3498">white</mainReferent>
+    <tokens>If the white is collected itself in water</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_81" begin="3540" end="3546">
+    <text>heated</text>
+    <mainVerb begin="3540" end="3546">heated</mainVerb>
+    <mainReferent begin="3493" end="3498">white</mainReferent>
+    <tokens>the white then heated</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_82" begin="3550" end="3557">
+    <text>becomes</text>
+    <mainVerb begin="3550" end="3557">becomes</mainVerb>
+    <mainReferent begin="3547" end="3549">it</mainReferent>
+    <tokens>it becomes turbid</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_83" begin="3567" end="3574">
+    <text>forming</text>
+    <mainVerb begin="3567" end="3574">forming</mainVerb>
+    <mainReferent begin="3547" end="3549">it</mainReferent>
+    <tokens>forming a white solid very similar to the vegetable albumin , which is called animal albumin</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_84" begin="3639" end="3645">
+    <text>called</text>
+    <mainVerb begin="3639" end="3645">called</mainVerb>
+    <mainReferent begin="3620" end="3627">albumin</mainReferent>
+    <tokens>the vegetable albumin is called animal</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_85" begin="3680" end="3686">
+    <text>beaten</text>
+    <mainVerb begin="3680" end="3686">beaten</mainVerb>
+    <mainReferent begin="3672" end="3676">yolk</mainReferent>
+    <tokens>If the yolk is beaten up with water</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_86" begin="3730" end="3738">
+    <text>obtained</text>
+    <mainVerb begin="3730" end="3738">obtained</mainVerb>
+    <mainReferent begin="3716" end="3725">cellulose</mainReferent>
+    <tokens>no starch cellulose is obtained from it</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_87" begin="3763" end="3765">
+    <text>be</text>
+    <mainVerb begin="3763" end="3765">be</mainVerb>
+    <tokens>there will be of fatty and some saccharine matter besides substances more or less similar to albumin and gluten</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_88" begin="3915" end="3923">
+    <text>composed</text>
+    <mainVerb begin="3915" end="3923">composed</mainVerb>
+    <mainReferent begin="3882" end="3890">feathers</mainReferent>
+    <tokens>The feathers of the fowl are chiefly composed of horn</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_89" begin="3946" end="3954">
+    <text>stripped</text>
+    <mainVerb begin="3946" end="3954">stripped</mainVerb>
+    <mainReferent begin="3936" end="3940">they</mainReferent>
+    <tokens>if they are stripped off</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_90" begin="3975" end="3981">
+    <text>boiled</text>
+    <mainVerb begin="3975" end="3981">boiled</mainVerb>
+    <mainReferent begin="3936" end="3940">they</mainReferent>
+    <tokens>the body is boiled for a long time</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_91" begin="4018" end="4023">
+    <text>found</text>
+    <mainVerb begin="4018" end="4023">found</mainVerb>
+    <mainReferent begin="3882" end="3890">feathers</mainReferent>
+    <tokens>the water will be found to contain a quantity of gelatin</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_92" begin="4064" end="4068">
+    <text>sets</text>
+    <mainVerb begin="4064" end="4068">sets</mainVerb>
+    <mainReferent begin="4037" end="4045">quantity</mainReferent>
+    <tokens>a quantity of gelatin sets into a jelly</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_93" begin="4089" end="4094">
+    <text>cools</text>
+    <mainVerb begin="4089" end="4094">cools</mainVerb>
+    <mainReferent begin="4085" end="4087">it</mainReferent>
+    <tokens>as it cools</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_94" begin="4114" end="4118">
+    <text>fall</text>
+    <mainVerb begin="4114" end="4118">fall</mainVerb>
+    <mainReferent begin="3882" end="3890">feathers</mainReferent>
+    <tokens>the body will fall to pieces , the bones and the flesh separating from one another</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_95" begin="4155" end="4165">
+    <text>separating</text>
+    <mainVerb begin="4155" end="4165">separating</mainVerb>
+    <mainReferent begin="4148" end="4153">flesh</mainReferent>
+    <tokens>separating from one another</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_96" begin="4194" end="4201">
+    <text>consist</text>
+    <mainVerb begin="4194" end="4201">consist</mainVerb>
+    <mainReferent begin="4188" end="4193">bones</mainReferent>
+    <tokens>The bones consist almost entirely of a substance which yields gelatin when it is boiled in water , impregnated with a large quantity of salts of lime , just as the wood of the wheat stem is impregnated with silica</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_97" begin="4240" end="4246">
+    <text>yields</text>
+    <mainVerb begin="4240" end="4246">yields</mainVerb>
+    <mainReferent begin="4224" end="4233">substance</mainReferent>
+    <tokens>a substance yields gelatin</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_98" begin="4266" end="4272">
+    <text>boiled</text>
+    <mainVerb begin="4266" end="4272">boiled</mainVerb>
+    <mainReferent begin="4260" end="4262">it</mainReferent>
+    <tokens>when it is boiled in water</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_99" begin="4283" end="4294">
+    <text>impregnated</text>
+    <mainVerb begin="4283" end="4294">impregnated</mainVerb>
+    <mainReferent begin="4266" end="4272">boiled</mainReferent>
+    <tokens>impregnated with a large quantity of salts of lime</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_100" begin="4375" end="4386">
+    <text>impregnated</text>
+    <mainVerb begin="4375" end="4386">impregnated</mainVerb>
+    <mainReferent begin="4348" end="4352">wood</mainReferent>
+    <tokens>just as the wood of the wheat stem is impregnated with silica</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_101" begin="4436" end="4443">
+    <text>contain</text>
+    <mainVerb begin="4436" end="4443">contain</mainVerb>
+    <mainReferent begin="4404" end="4409">flesh</mainReferent>
+    <tokens>The flesh on the other hand will contain albumin some other substances</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_1.txt_102" begin="4485" end="4488">
+    <text>are</text>
+    <mainVerb begin="4485" end="4488">are</mainVerb>
+    <mainReferent begin="4468" end="4478">substances</mainReferent>
+    <tokens>some other substances are very to albumin , termed fibrin and syntonin</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+</document>

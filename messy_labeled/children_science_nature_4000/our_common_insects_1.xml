@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="our_common_insects_1.txt_1" begin="7" end="9">
+    <text>is</text>
+    <mainVerb begin="7" end="9">is</mainVerb>
+    <mainReferent begin="13" end="19">Insect</mainReferent>
+    <tokens>is an Insect</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_2" begin="30" end="38">
+    <text>remember</text>
+    <mainVerb begin="30" end="38">remember</mainVerb>
+    <mainReferent begin="27" end="29">we</mainReferent>
+    <tokens>_ When we remember</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_3" begin="62" end="70">
+    <text>comprise</text>
+    <mainVerb begin="62" end="70">comprise</mainVerb>
+    <mainReferent begin="48" end="55">insects</mainReferent>
+    <tokens>that the insects alone comprise four-fifths of the animal kingdom</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_4" begin="122" end="125">
+    <text>are</text>
+    <mainVerb begin="122" end="125">are</mainVerb>
+    <mainReferent begin="48" end="55">insects</mainReferent>
+    <tokens>that there are upwards of 200,000 living species</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_5" begin="171" end="175">
+    <text>seem</text>
+    <mainVerb begin="171" end="175">seem</mainVerb>
+    <mainReferent begin="162" end="164">it</mainReferent>
+    <tokens>it would seem a hopeless task to define</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_6" begin="218" end="220">
+    <text>is</text>
+    <mainVerb begin="218" end="220">is</mainVerb>
+    <mainReferent begin="210" end="216">insect</mainReferent>
+    <tokens>what an insect is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_7" begin="240" end="248">
+    <text>pervades</text>
+    <mainVerb begin="240" end="248">pervades</mainVerb>
+    <mainReferent begin="235" end="239">plan</mainReferent>
+    <tokens>But a common plan pervades the structure of them all</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_8" begin="303" end="310">
+    <text>consist</text>
+    <mainVerb begin="303" end="310">consist</mainVerb>
+    <mainReferent begin="280" end="286">bodies</mainReferent>
+    <tokens>The bodies of all insects consist of a succession of rings , or segments , more or less hardened by the deposition of a chemical substance called chitine</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_9" begin="415" end="421">
+    <text>called</text>
+    <mainVerb begin="415" end="421">called</mainVerb>
+    <mainReferent begin="405" end="414">substance</mainReferent>
+    <tokens>called chitine</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_10" begin="448" end="456">
+    <text>arranged</text>
+    <mainVerb begin="448" end="456">arranged</mainVerb>
+    <mainReferent begin="438" end="443">rings</mainReferent>
+    <tokens>these rings are arranged in three groups : the head , the thorax , or middle body , and the abdomen or hind body</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_11" begin="611" end="614">
+    <text>fly</text>
+    <mainVerb begin="611" end="614">fly</mainVerb>
+    <mainReferent begin="570" end="574">such</mainReferent>
+    <tokens>In the six-footed insects such as the bee , moth , beetle or dragon fly</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_12" begin="636" end="641">
+    <text>unite</text>
+    <mainVerb begin="636" end="641">unite</mainVerb>
+    <mainReferent begin="616" end="620">four</mainReferent>
+    <tokens>four of these rings unite early in embryonic life to form the head</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_13" begin="696" end="704">
+    <text>consists</text>
+    <mainVerb begin="696" end="704">consists</mainVerb>
+    <mainReferent begin="689" end="695">thorax</mainReferent>
+    <tokens>the thorax consists of three</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_14" begin="734" end="738">
+    <text>seen</text>
+    <mainVerb begin="734" end="738">seen</mainVerb>
+    <tokens>as may be readily seen on slight examination</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_15" begin="781" end="789">
+    <text>composed</text>
+    <mainVerb begin="781" end="789">composed</mainVerb>
+    <mainReferent begin="689" end="695">thorax</mainReferent>
+    <tokens>the abdomen is composed either of ten or eleven rings</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_16" begin="838" end="843">
+    <text>seems</text>
+    <mainVerb begin="838" end="843">seems</mainVerb>
+    <mainReferent begin="826" end="830">body</mainReferent>
+    <tokens>The body then seems _ insected _ into three regions</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_17" begin="844" end="851">
+    <text>divided</text>
+    <mainVerb begin="844" end="851">divided</mainVerb>
+    <tokens>divided _</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_18" begin="887" end="893">
+    <text>whence</text>
+    <mainVerb begin="887" end="893">whence</mainVerb>
+    <mainReferent begin="838" end="843">seems</mainReferent>
+    <tokens>whence the name _ insect _</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_19" begin="928" end="937">
+    <text>furnished</text>
+    <mainVerb begin="928" end="937">furnished</mainVerb>
+    <mainReferent begin="920" end="924">head</mainReferent>
+    <tokens>The head is furnished with a pair of antennæ , a pair of jaws ( mandibles ) , and two pairs of maxillæ , the second and basal pair being united at their base to form the so-called labium , under lip</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_20" begin="1050" end="1056">
+    <text>united</text>
+    <mainVerb begin="1050" end="1056">united</mainVerb>
+    <mainReferent begin="1038" end="1042">pair</mainReferent>
+    <tokens>being united at their base to form the so-called labium</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_21" begin="1147" end="1156">
+    <text>represent</text>
+    <mainVerb begin="1147" end="1156">represent</mainVerb>
+    <mainReferent begin="1127" end="1132">pairs</mainReferent>
+    <tokens>These four pairs of appendages represent the four rings of the head</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_22" begin="1204" end="1212">
+    <text>appended</text>
+    <mainVerb begin="1204" end="1212">appended</mainVerb>
+    <mainReferent begin="1195" end="1199">they</mainReferent>
+    <tokens>the four rings of the head they are appended in the order stated above</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_23" begin="1226" end="1232">
+    <text>stated</text>
+    <mainVerb begin="1226" end="1232">stated</mainVerb>
+    <mainReferent begin="1220" end="1225">order</mainReferent>
+    <tokens>stated above</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_24" begin="1261" end="1269">
+    <text>appended</text>
+    <mainVerb begin="1261" end="1269">appended</mainVerb>
+    <mainReferent begin="1245" end="1249">pair</mainReferent>
+    <tokens>A pair of legs is appended to each of the three rings of the thorax</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_25" begin="1359" end="1364">
+    <text>carry</text>
+    <mainVerb begin="1359" end="1364">carry</mainVerb>
+    <mainReferent begin="1340" end="1345">rings</mainReferent>
+    <tokens>while the first second rings each usually carry a pair of wings</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_26" begin="1397" end="1405">
+    <text>contains</text>
+    <mainVerb begin="1397" end="1405">contains</mainVerb>
+    <mainReferent begin="1389" end="1396">abdomen</mainReferent>
+    <tokens>The abdomen contains the ovipositor</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_27" begin="1460" end="1467">
+    <text>forming</text>
+    <mainVerb begin="1460" end="1467">forming</mainVerb>
+    <tokens>sometimes as in the bees wasps forming a sting</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_28" begin="1517" end="1520">
+    <text>are</text>
+    <mainVerb begin="1517" end="1520">are</mainVerb>
+    <mainReferent begin="1525" end="1532">antennæ</mainReferent>
+    <tokens>In the spiders ( Fig. 1 ) however there are no antennæ</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_29" begin="1572" end="1579">
+    <text>wanting</text>
+    <mainVerb begin="1572" end="1579">wanting</mainVerb>
+    <mainReferent begin="1525" end="1532">antennæ</mainReferent>
+    <tokens>the second maxillæ labium is wanting</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_30" begin="1598" end="1601">
+    <text>are</text>
+    <mainVerb begin="1598" end="1601">are</mainVerb>
+    <mainReferent begin="1607" end="1612">pairs</mainReferent>
+    <tokens>Moreover there are four pairs of legs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_31" begin="1663" end="1669">
+    <text>differ</text>
+    <mainVerb begin="1663" end="1669">differ</mainVerb>
+    <mainReferent begin="1626" end="1636">centipedes</mainReferent>
+    <tokens>The centipedes ( Fig. 2 a Myriopod ) also differ from the rest of the insects having an indefinite number of abdominal rings each</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_32" begin="1757" end="1764">
+    <text>bearing</text>
+    <mainVerb begin="1757" end="1764">bearing</mainVerb>
+    <mainReferent begin="1752" end="1756">each</mainReferent>
+    <tokens>bearing a pair of legs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_33" begin="1839" end="1843">
+    <text>find</text>
+    <mainVerb begin="1839" end="1843">find</mainVerb>
+    <mainReferent begin="1836" end="1838">we</mainReferent>
+    <tokens>examining the arrangement of the parts within we find</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_34" begin="1863" end="1873">
+    <text>consisting</text>
+    <mainVerb begin="1863" end="1873">consisting</mainVerb>
+    <mainReferent begin="1857" end="1861">cord</mainReferent>
+    <tokens>consisting of two chains of swellings , or nerve-knots</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_35" begin="1918" end="1925">
+    <text>resting</text>
+    <mainVerb begin="1918" end="1925">resting</mainVerb>
+    <mainReferent begin="1857" end="1861">cord</mainReferent>
+    <tokens>the nervous cord resting upon the floor under side of the body</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_36" begin="2003" end="2011">
+    <text>situated</text>
+    <mainVerb begin="2003" end="2011">situated</mainVerb>
+    <mainReferent begin="1836" end="1838">we</mainReferent>
+    <tokens>the heart dorsal vessel situated just under the skin of the back</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_37" begin="2152" end="2155">
+    <text>see</text>
+    <mainVerb begin="2152" end="2155">see</mainVerb>
+    <mainReferent begin="1836" end="1838">we</mainReferent>
+    <tokens>looking at living caterpillars , such as the cut-worm , and many thin-skinned aquatic larvæ we can see this long tubular heart</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_38" begin="2180" end="2189">
+    <text>pulsating</text>
+    <mainVerb begin="2180" end="2189">pulsating</mainVerb>
+    <mainReferent begin="2174" end="2179">heart</mainReferent>
+    <tokens>pulsating about as often as our own heart</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_39" begin="2247" end="2251">
+    <text>held</text>
+    <mainVerb begin="2247" end="2251">held</mainVerb>
+    <mainReferent begin="2237" end="2243">insect</mainReferent>
+    <tokens>when the insect is held against its will</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_40" begin="2277" end="2285">
+    <text>agitated</text>
+    <mainVerb begin="2277" end="2285">agitated</mainVerb>
+    <mainReferent begin="2237" end="2243">insect</mainReferent>
+    <tokens>the insect is agitated</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_41" begin="2318" end="2327">
+    <text>increases</text>
+    <mainVerb begin="2318" end="2327">increases</mainVerb>
+    <mainReferent begin="1836" end="1838">we</mainReferent>
+    <tokens>the rapidity of the pulsations increases just as with us</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_42" begin="2365" end="2372">
+    <text>breathe</text>
+    <mainVerb begin="2365" end="2372">breathe</mainVerb>
+    <mainReferent begin="2350" end="2357">Insects</mainReferent>
+    <tokens>Insects do not breathe as in the higher animals taking the air into the mouth filling the lungs</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_43" begin="2465" end="2468">
+    <text>are</text>
+    <mainVerb begin="2465" end="2468">are</mainVerb>
+    <mainReferent begin="2350" end="2357">Insects</mainReferent>
+    <tokens>there are a series of holes or pores along the side of the body</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_44" begin="2528" end="2532">
+    <text>seen</text>
+    <mainVerb begin="2528" end="2532">seen</mainVerb>
+    <tokens>seen in the grub of the humble bee , through which the air enters and is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_45" begin="2587" end="2593">
+    <text>enters</text>
+    <mainVerb begin="2587" end="2593">enters</mainVerb>
+    <mainReferent begin="2583" end="2586">air</mainReferent>
+    <tokens>of the humble bee , through which the air enters and is</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_46" begin="2598" end="2600">
+    <text>is</text>
+    <mainVerb begin="2598" end="2600">is</mainVerb>
+    <mainReferent begin="2583" end="2586">air</mainReferent>
+    <tokens>the air is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_47" begin="2601" end="2609">
+    <text>conveyed</text>
+    <mainVerb begin="2601" end="2609">conveyed</mainVerb>
+    <mainReferent begin="2528" end="2532">seen</mainReferent>
+    <tokens>as conveyed to every part of the body by an immense number of air tubes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_48" begin="2754" end="2757">
+    <text>fly</text>
+    <mainVerb begin="2754" end="2757">fly</mainVerb>
+    <mainReferent begin="2673" end="2677">Fig.</mainReferent>
+    <tokens>( Fig. 3 air tubes tracheæ in the caudal appendage of the larva of a dragon fly )</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_49" begin="2792" end="2798">
+    <text>bathed</text>
+    <mainVerb begin="2792" end="2798">bathed</mainVerb>
+    <mainReferent begin="2770" end="2775">tubes</mainReferent>
+    <tokens>These air tubes are everywhere bathed the blood</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_50" begin="2833" end="2840">
+    <text>becomes</text>
+    <mainVerb begin="2833" end="2840">becomes</mainVerb>
+    <mainReferent begin="2826" end="2832">latter</mainReferent>
+    <tokens>by the blood , by which the latter becomes oxygenated</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_51" begin="2892" end="2894">
+    <text>is</text>
+    <mainVerb begin="2892" end="2894">is</mainVerb>
+    <mainReferent begin="2869" end="2878">structure</mainReferent>
+    <tokens>Indeed the structure of an insect is entirely from that of man or the quadrupeds , or any other vertebrate animal</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_52" begin="2995" end="2999">
+    <text>call</text>
+    <mainVerb begin="2995" end="2999">call</mainVerb>
+    <mainReferent begin="2992" end="2994">we</mainReferent>
+    <tokens>what we call head</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_53" begin="3070" end="3076">
+    <text>called</text>
+    <mainVerb begin="3070" end="3076">called</mainVerb>
+    <mainReferent begin="2869" end="2878">structure</mainReferent>
+    <tokens>thorax abdomen gills stomach skin lungs jaws are called so simply for convenience not</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_54" begin="3126" end="3130">
+    <text>made</text>
+    <mainVerb begin="3126" end="3130">made</mainVerb>
+    <mainReferent begin="3117" end="3121">they</mainReferent>
+    <tokens>that they are made in the same way as those parts in the higher animals</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_55" begin="3199" end="3206">
+    <text>differs</text>
+    <mainVerb begin="3199" end="3206">differs</mainVerb>
+    <mainReferent begin="3192" end="3198">insect</mainReferent>
+    <tokens>An insect differs from a horse for example</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_56" begin="3270" end="3277">
+    <text>differs</text>
+    <mainVerb begin="3270" end="3277">differs</mainVerb>
+    <mainReferent begin="3264" end="3269">press</mainReferent>
+    <tokens>as much as a modern printing press differs from the press Franklin used</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_57" begin="3302" end="3306">
+    <text>used</text>
+    <mainVerb begin="3302" end="3306">used</mainVerb>
+    <mainReferent begin="3293" end="3301">Franklin</mainReferent>
+    <tokens>Franklin used</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_58" begin="3327" end="3331">
+    <text>made</text>
+    <mainVerb begin="3327" end="3331">made</mainVerb>
+    <mainReferent begin="3313" end="3321">machines</mainReferent>
+    <tokens>Both machines are made of iron , steel , wood , etc.</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_59" begin="3369" end="3374">
+    <text>print</text>
+    <mainVerb begin="3369" end="3374">print</mainVerb>
+    <mainReferent begin="3313" end="3321">machines</mainReferent>
+    <tokens>both print</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_60" begin="3409" end="3416">
+    <text>differs</text>
+    <mainVerb begin="3409" end="3416">differs</mainVerb>
+    <mainReferent begin="3313" end="3321">machines</mainReferent>
+    <tokens>the plan of their structure differs throughout</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_61" begin="3448" end="3455">
+    <text>wanting</text>
+    <mainVerb begin="3448" end="3455">wanting</mainVerb>
+    <mainReferent begin="3384" end="3388">plan</mainReferent>
+    <tokens>some parts are wanting in the simpler press which are present and absolutely essential in the other</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_62" begin="3484" end="3487">
+    <text>are</text>
+    <mainVerb begin="3484" end="3487">are</mainVerb>
+    <mainReferent begin="3472" end="3477">press</mainReferent>
+    <tokens>the simpler press are absolutely essential in the other</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_63" begin="3579" end="3584">
+    <text>built</text>
+    <mainVerb begin="3579" end="3584">built</mainVerb>
+    <mainReferent begin="3570" end="3574">they</mainReferent>
+    <tokens>So with the two sorts of animals they are built up originally out of protoplasm , or the original jelly-like germinal matter , which fills the cells composing their tissues</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_64" begin="3669" end="3674">
+    <text>fills</text>
+    <mainVerb begin="3669" end="3674">fills</mainVerb>
+    <mainReferent begin="3607" end="3617">protoplasm</mainReferent>
+    <tokens>which fills the cells</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_65" begin="3686" end="3695">
+    <text>composing</text>
+    <mainVerb begin="3686" end="3695">composing</mainVerb>
+    <mainReferent begin="3680" end="3685">cells</mainReferent>
+    <tokens>composing their tissues</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_66" begin="3750" end="3755">
+    <text>occur</text>
+    <mainVerb begin="3750" end="3755">occur</mainVerb>
+    <mainReferent begin="3570" end="3574">they</mainReferent>
+    <tokens>nearly the same chemical elements occur in both</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_67" begin="3797" end="3805">
+    <text>combined</text>
+    <mainVerb begin="3797" end="3805">combined</mainVerb>
+    <mainReferent begin="3787" end="3792">these</mainReferent>
+    <tokens>the mode these are combined the arrangement of their products the muscular nervous skin tissues</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_68" begin="3883" end="3889">
+    <text>differ</text>
+    <mainVerb begin="3883" end="3889">differ</mainVerb>
+    <mainReferent begin="3570" end="3574">they</mainReferent>
+    <tokens>the mode the arrangement of their products the muscular nervous skin tissues differ in the two animals</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_69" begin="4140" end="4146">
+    <text>differ</text>
+    <mainVerb begin="4140" end="4146">differ</mainVerb>
+    <mainReferent begin="3955" end="3966">arrangement</mainReferent>
+    <tokens>The plan of structure namely the form arrangement of the body walls the situation of the appendages to the body , and of the anatomical systems within , i.e. , the nervous , digestive , circulatory , and respiratory systems differ in their position in relation to the walls of the body</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_70" begin="4240" end="4249">
+    <text>reproduce</text>
+    <mainVerb begin="4240" end="4249">reproduce</mainVerb>
+    <mainReferent begin="4223" end="4228">sorts</mainReferent>
+    <tokens>Thus while the two sorts of animals reproduce their kind</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_71" begin="4263" end="4266">
+    <text>eat</text>
+    <mainVerb begin="4263" end="4266">eat</mainVerb>
+    <mainReferent begin="4240" end="4249">reproduce</mainReferent>
+    <tokens>eat</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_72" begin="4268" end="4273">
+    <text>drink</text>
+    <mainVerb begin="4268" end="4273">drink</mainVerb>
+    <mainReferent begin="4240" end="4249">reproduce</mainReferent>
+    <tokens>drink</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_73" begin="4278" end="4283">
+    <text>sleep</text>
+    <mainVerb begin="4278" end="4283">sleep</mainVerb>
+    <mainReferent begin="4240" end="4249">reproduce</mainReferent>
+    <tokens>sleep</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_74" begin="4285" end="4288">
+    <text>see</text>
+    <mainVerb begin="4285" end="4288">see</mainVerb>
+    <mainReferent begin="4240" end="4249">reproduce</mainReferent>
+    <tokens>see</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_75" begin="4290" end="4294">
+    <text>hear</text>
+    <mainVerb begin="4290" end="4294">hear</mainVerb>
+    <mainReferent begin="4240" end="4249">reproduce</mainReferent>
+    <tokens>hear</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_76" begin="4299" end="4304">
+    <text>smell</text>
+    <mainVerb begin="4299" end="4304">smell</mainVerb>
+    <mainReferent begin="4240" end="4249">reproduce</mainReferent>
+    <tokens>smell</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_77" begin="4311" end="4318">
+    <text>perform</text>
+    <mainVerb begin="4311" end="4318">perform</mainVerb>
+    <mainReferent begin="4306" end="4310">they</mainReferent>
+    <tokens>they perform these acts by different kinds of organs</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_78" begin="4361" end="4369">
+    <text>situated</text>
+    <mainVerb begin="4361" end="4369">situated</mainVerb>
+    <mainReferent begin="4240" end="4249">reproduce</mainReferent>
+    <tokens>situated sometimes on the most opposite parts of the body</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_79" begin="4435" end="4437">
+    <text>is</text>
+    <mainVerb begin="4435" end="4437">is</mainVerb>
+    <mainReferent begin="4441" end="4451">comparison</mainReferent>
+    <tokens>that there is no comparison</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_80" begin="4452" end="4456">
+    <text>save</text>
+    <mainVerb begin="4452" end="4456">save</mainVerb>
+    <tokens>so save in the results which they accomplish</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_81" begin="4484" end="4494">
+    <text>accomplish</text>
+    <mainVerb begin="4484" end="4494">accomplish</mainVerb>
+    <mainReferent begin="4479" end="4483">they</mainReferent>
+    <tokens>the results they accomplish</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_1.txt_82" begin="4506" end="4511">
+    <text>agree</text>
+    <mainVerb begin="4506" end="4511">agree</mainVerb>
+    <mainReferent begin="4496" end="4500">they</mainReferent>
+    <tokens>they only agree having a common animal nature</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+</document>

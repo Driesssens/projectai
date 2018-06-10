@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="our_common_insects_19.txt_1" begin="27" end="34">
+    <text>carried</text>
+    <mainVerb begin="27" end="34">carried</mainVerb>
+    <mainReferent begin="2" end="11">Thousands</mainReferent>
+    <tokens>Thousands of insects are carried off yearly parasitic fungi</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_2" begin="98" end="104">
+    <text>caused</text>
+    <mainVerb begin="98" end="104">caused</mainVerb>
+    <mainReferent begin="71" end="78">ravages</mainReferent>
+    <tokens>caused a minute fungus ( Botrytris Bassiana )</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_3" begin="152" end="162">
+    <text>threatened</text>
+    <mainVerb begin="152" end="162">threatened</mainVerb>
+    <mainReferent begin="71" end="78">ravages</mainReferent>
+    <tokens>The ravages of the Muscardine have threatened the extinction of silk culture in Europe</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_4" begin="244" end="250">
+    <text>called</text>
+    <mainVerb begin="244" end="250">called</mainVerb>
+    <mainReferent begin="71" end="78">ravages</mainReferent>
+    <tokens>the still more formidable disease called</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_5" begin="264" end="271">
+    <text>thought</text>
+    <mainVerb begin="264" end="271">thought</mainVerb>
+    <mainReferent begin="259" end="260">_</mainReferent>
+    <tokens>_ pebrine _ is thought to be of vegetable origin</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_6" begin="310" end="318">
+    <text>mentions</text>
+    <mainVerb begin="310" end="318">mentions</mainVerb>
+    <mainReferent begin="304" end="309">Leidy</mainReferent>
+    <tokens>Dr. Leidy mentions a fungus</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_7" begin="348" end="353">
+    <text>carry</text>
+    <mainVerb begin="348" end="353">carry</mainVerb>
+    <mainReferent begin="321" end="327">fungus</mainReferent>
+    <tokens>a fungus must annually carry off myriads of the Seventeen Year Locust</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_8" begin="456" end="463">
+    <text>infests</text>
+    <mainVerb begin="456" end="463">infests</mainVerb>
+    <mainReferent begin="416" end="422">fungus</mainReferent>
+    <tokens>A somewhat similar fungus Mucor mellitophorus ( Fig. 41 ) infests bees</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_9" begin="470" end="477">
+    <text>filling</text>
+    <mainVerb begin="470" end="477">filling</mainVerb>
+    <mainReferent begin="416" end="422">fungus</mainReferent>
+    <tokens>filling the stomach with microscopical colorless spores so as greatly to weaken the insect</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_10" begin="576" end="578">
+    <text>is</text>
+    <mainVerb begin="576" end="578">is</mainVerb>
+    <mainReferent begin="581" end="592">probability</mainReferent>
+    <tokens>As there is a probability many insects parasites on the wild bees also to illustrate farther the complex nature of insect parasitism</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_11" begin="661" end="668">
+    <text>afflict</text>
+    <mainVerb begin="661" end="668">afflict</mainVerb>
+    <mainReferent begin="603" end="610">insects</mainReferent>
+    <tokens>that many insects parasites on the wild bees may sooner later afflict the Honey bee also to illustrate farther the complex nature of insect parasitism</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_12" begin="779" end="783">
+    <text>look</text>
+    <mainVerb begin="779" end="783">look</mainVerb>
+    <mainReferent begin="757" end="759">we</mainReferent>
+    <tokens>we will for a moment look at some other bee parasites</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_13" begin="908" end="911">
+    <text>are</text>
+    <mainVerb begin="908" end="911">are</mainVerb>
+    <mainReferent begin="868" end="875">preying</mainReferent>
+    <tokens>Among the numerous insects preying in some way upon the Humble bee are to be found other species of bees moths flies beetles</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_14" begin="1001" end="1008">
+    <text>imitate</text>
+    <mainVerb begin="1001" end="1008">imitate</mainVerb>
+    <mainReferent begin="985" end="994">parasites</mainReferent>
+    <tokens>Insect parasites often imitate their host</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_15" begin="1073" end="1075">
+    <text>be</text>
+    <mainVerb begin="1073" end="1075">be</mainVerb>
+    <mainReferent begin="1021" end="1028">Apathus</mainReferent>
+    <tokens>Apathus ( Plate I Fig. 1 A. Ashtoni ) can scarcely be from its host</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_16" begin="1116" end="1121">
+    <text>lives</text>
+    <mainVerb begin="1116" end="1121">lives</mainVerb>
+    <mainReferent begin="1021" end="1028">Apathus</mainReferent>
+    <tokens>yet it lives cuckoo-like in the cells of the Humble bee</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_17" begin="1177" end="1181">
+    <text>know</text>
+    <mainVerb begin="1177" end="1181">know</mainVerb>
+    <mainReferent begin="1174" end="1176">we</mainReferent>
+    <tokens>though we know not yet</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_18" begin="1195" end="1204">
+    <text>injurious</text>
+    <mainVerb begin="1195" end="1204">injurious</mainVerb>
+    <tokens>how injurious</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_19" begin="1215" end="1217">
+    <text>is</text>
+    <mainVerb begin="1215" end="1217">is</mainVerb>
+    <mainReferent begin="1205" end="1207">it</mainReferent>
+    <tokens>it really is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_20" begin="1230" end="1233">
+    <text>are</text>
+    <mainVerb begin="1230" end="1233">are</mainVerb>
+    <mainReferent begin="1234" end="1240">Conops</mainReferent>
+    <tokens>Then there are Conops Volucella</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_21" begin="1277" end="1282">
+    <text>lives</text>
+    <mainVerb begin="1277" end="1282">lives</mainVerb>
+    <mainReferent begin="1261" end="1267">former</mainReferent>
+    <tokens>Volucella the former lives like Tachina and Phora within the bee 's body</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_22" begin="1347" end="1354">
+    <text>devours</text>
+    <mainVerb begin="1347" end="1354">devours</mainVerb>
+    <mainReferent begin="1340" end="1346">latter</mainReferent>
+    <tokens>while the latter devours the brood</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_23" begin="1417" end="1423">
+    <text>allied</text>
+    <mainVerb begin="1417" end="1423">allied</mainVerb>
+    <mainReferent begin="1413" end="1416">fly</mainReferent>
+    <tokens>allied to Anthomyia</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_24" begin="1471" end="1473">
+    <text>is</text>
+    <mainVerb begin="1471" end="1473">is</mainVerb>
+    <mainReferent begin="1457" end="1460">fly</mainReferent>
+    <tokens>The young ( Plate I Figs. 5 5_a _ ) of another fly allied to Anthomyia the Onion fly ( Fig. 42 ) is an</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_25" begin="1512" end="1515">
+    <text>met</text>
+    <mainVerb begin="1512" end="1515">met</mainVerb>
+    <mainReferent begin="1370" end="1375">young</mainReferent>
+    <tokens>The young ( Plate I Figs. 5 5_a _ ) of another fly allied to Anthomyia is also not unfrequently met with</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_26" begin="1548" end="1552">
+    <text>Fig.</text>
+    <mainVerb begin="1548" end="1552">Fig.</mainVerb>
+    <mainReferent begin="1593" end="1599">inmate</mainReferent>
+    <tokens>Fig. 4</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_27" begin="1581" end="1583">
+    <text>is</text>
+    <mainVerb begin="1581" end="1583">is</mainVerb>
+    <mainReferent begin="1570" end="1579">ochraceus</mainReferent>
+    <tokens>Antherophagus ochraceus ) is a common of Humble bees ' nests</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_28" begin="1637" end="1642">
+    <text>feeds</text>
+    <mainVerb begin="1637" end="1642">feeds</mainVerb>
+    <mainReferent begin="1593" end="1599">inmate</mainReferent>
+    <tokens>Antherophagus ochraceus probably feeds upon the wax and pollen</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_29" begin="1681" end="1686">
+    <text>found</text>
+    <mainVerb begin="1681" end="1686">found</mainVerb>
+    <mainReferent begin="1668" end="1670">We</mainReferent>
+    <tokens>We have also found several larvæ ( Fig. 43 ) of a beetle of which we do not know the adult form</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_30" begin="1743" end="1747">
+    <text>know</text>
+    <mainVerb begin="1743" end="1747">know</mainVerb>
+    <mainReferent begin="1733" end="1735">we</mainReferent>
+    <tokens>of a beetle of which we do not know the adult form</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_31" begin="1783" end="1785">
+    <text>is</text>
+    <mainVerb begin="1783" end="1785">is</mainVerb>
+    <mainReferent begin="1875" end="1884">chrysalis</mainReferent>
+    <tokens>is probably a small ( Nephopteryx Edmandsii Plate I Figs. 2 2_a _ larva Fig. 2_b _ chrysalis pupa )</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_32" begin="1914" end="1919">
+    <text>feeds</text>
+    <mainVerb begin="1914" end="1919">feeds</mainVerb>
+    <mainReferent begin="1776" end="1782">habits</mainReferent>
+    <tokens>similar habits undoubtedly feeds upon the waxen walls of the bee cells</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_33" begin="2055" end="2060">
+    <text>known</text>
+    <mainVerb begin="2055" end="2060">known</mainVerb>
+    <mainReferent begin="2035" end="2041">habits</mainReferent>
+    <tokens>the common bee moth ( Galleria cereana habits are so well known</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_34" begin="2087" end="2092">
+    <text>prove</text>
+    <mainVerb begin="2087" end="2092">prove</mainVerb>
+    <tokens>Of similar habits is probably a small moth ( Nephopteryx Edmandsii , Plate I , Figs. 2 ; 2_a _ , larva ; Fig. 2_b _ , chrysalis , or pupa ) which undoubtedly feeds upon the waxen walls of the bee cells thus like the attacks of the common bee moth ( Galleria cereana , whose habits are so well known as not to detain us must prove very prejudicial to the well being of the colony</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_35" begin="2154" end="2156">
+    <text>is</text>
+    <mainVerb begin="2154" end="2156">is</mainVerb>
+    <mainReferent begin="2149" end="2153">moth</mainReferent>
+    <tokens>This moth is in turn by an Ichneumon fly ( Microgaster nephoptericis , Plate I , Figs. 3 , 3_a _ ) which must prove quite destructive</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_36" begin="2258" end="2263">
+    <text>prove</text>
+    <mainVerb begin="2258" end="2263">prove</mainVerb>
+    <mainReferent begin="2191" end="2194">fly</mainReferent>
+    <tokens>an Ichneumon fly ( Microgaster nephoptericis Plate I Figs. 3 3_a _ ) must prove quite destructive</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_37" begin="2345" end="2356">
+    <text>represented</text>
+    <mainVerb begin="2345" end="2356">represented</mainVerb>
+    <mainReferent begin="2335" end="2344">ichneumon</mainReferent>
+    <tokens>represented on the same plate ( Fig. 7 , larva , and 7_a _ , pupa , of Anthophorabia megachilis ) which is parasitic on Megachile</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_38" begin="2444" end="2446">
+    <text>is</text>
+    <mainVerb begin="2444" end="2446">is</mainVerb>
+    <mainReferent begin="2370" end="2375">plate</mainReferent>
+    <tokens>the same plate ( Fig. 7 larva 7_a _ pupa of Anthophorabia megachilis ) is on Megachile</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_39" begin="2492" end="2503">
+    <text>illustrates</text>
+    <mainVerb begin="2492" end="2503">illustrates</mainVerb>
+    <mainReferent begin="2295" end="2302">figures</mainReferent>
+    <tokens>The figures of the early stages of a minute ichneumon represented on the same plate ( Fig. 7 , larva , and 7_a _ , pupa , of Anthophorabia megachilis ) which is parasitic on Megachile the Leaf-cutter bee illustrates the transformations of the Ichneumon flies</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_40" begin="2584" end="2589">
+    <text>known</text>
+    <mainVerb begin="2584" end="2589">known</mainVerb>
+    <mainReferent begin="2562" end="2569">species</mainReferent>
+    <tokens>which yet known</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_41" begin="2598" end="2605">
+    <text>believe</text>
+    <mainVerb begin="2598" end="2605">believe</mainVerb>
+    <mainReferent begin="2562" end="2569">species</mainReferent>
+    <tokens>( and we believe the smallest insect )</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_42" begin="2626" end="2631">
+    <text>known</text>
+    <mainVerb begin="2626" end="2631">known</mainVerb>
+    <mainReferent begin="2619" end="2625">insect</mainReferent>
+    <tokens>known at all</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_43" begin="2640" end="2642">
+    <text>is</text>
+    <mainVerb begin="2640" end="2642">is</mainVerb>
+    <mainReferent begin="2562" end="2569">species</mainReferent>
+    <tokens>the smallest species is the Putnami ( Pl</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_44" begin="2675" end="2679">
+    <text>Fig.</text>
+    <mainVerb begin="2675" end="2679">Fig.</mainVerb>
+    <mainReferent begin="2672" end="2673">I</mainReferent>
+    <tokens>I Fig. 8</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_45" begin="2683" end="2690">
+    <text>wanting</text>
+    <mainVerb begin="2683" end="2690">wanting</mainVerb>
+    <mainReferent begin="2672" end="2673">I</mainReferent>
+    <tokens>wanting the hind leg ) " winged atom "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_46" begin="2731" end="2733">
+    <text>is</text>
+    <mainVerb begin="2731" end="2733">is</mainVerb>
+    <mainReferent begin="2718" end="2722">atom</mainReferent>
+    <tokens>" winged atom " is only of an inch in length</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_47" begin="2779" end="2781">
+    <text>is</text>
+    <mainVerb begin="2779" end="2781">is</mainVerb>
+    <mainReferent begin="2718" end="2722">atom</mainReferent>
+    <tokens>" winged atom " is on Anthophorabia , itself a parasite</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_48" begin="2883" end="2887">
+    <text>seen</text>
+    <mainVerb begin="2883" end="2887">seen</mainVerb>
+    <tokens>seen from beneath</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_49" begin="2902" end="2904">
+    <text>is</text>
+    <mainVerb begin="2902" end="2904">is</mainVerb>
+    <mainReferent begin="2832" end="2839">species</mainReferent>
+    <tokens>A species of mite ( Plate I , Figs. 9 ; 9_a _ , the same seen from beneath ) is always to be found In humble bees ' nests</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_50" begin="2962" end="2969">
+    <text>thought</text>
+    <mainVerb begin="2962" end="2969">thought</mainVerb>
+    <mainReferent begin="2832" end="2839">species</mainReferent>
+    <tokens>it is not thought</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_51" begin="3074" end="3079">
+    <text>known</text>
+    <mainVerb begin="3074" end="3079">known</mainVerb>
+    <mainReferent begin="3036" end="3043">species</mainReferent>
+    <tokens>though several species of mites ( Gamasus , etc. ) are known</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_52" begin="3229" end="3233">
+    <text>been</text>
+    <mainVerb begin="3229" end="3233">been</mainVerb>
+    <mainReferent begin="3182" end="3187">moths</mainReferent>
+    <tokens>The butterflies moths from their beauty and grace have always been the among amateur entomologists</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_53" begin="3315" end="3324">
+    <text>published</text>
+    <mainVerb begin="3315" end="3324">published</mainVerb>
+    <mainReferent begin="3239" end="3248">favorites</mainReferent>
+    <tokens>rare costly works have been published</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_54" begin="3371" end="3382">
+    <text>represented</text>
+    <mainVerb begin="3371" end="3382">represented</mainVerb>
+    <mainReferent begin="3359" end="3365">colors</mainReferent>
+    <tokens>which their forms gorgeous colors are represented in the best style of natural history art</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_55" begin="3439" end="3446">
+    <text>mention</text>
+    <mainVerb begin="3439" end="3446">mention</mainVerb>
+    <mainReferent begin="3425" end="3427">We</mainReferent>
+    <tokens>We need only mention the folio volume of Madam Merian of the last century , Harris 's Aurelian , the works of Cramer , Stoll , Drury , Hübner , Horsfield , Doubleday and Westwood , and Hewitson , comprising the most luxurious costly entomological works</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_56" begin="3730" end="3734">
+    <text>went</text>
+    <mainVerb begin="3730" end="3734">went</mainVerb>
+    <mainReferent begin="3724" end="3729">Abbot</mainReferent>
+    <tokens>Near the close of the last century John Abbot went from London</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_57" begin="3752" end="3757">
+    <text>spent</text>
+    <mainVerb begin="3752" end="3757">spent</mainVerb>
+    <mainReferent begin="3724" end="3729">Abbot</mainReferent>
+    <tokens>John Abbot spent several years in Georgia rearing the larger more showy butterflies moths painting them in the larva , chrysalis and adult , or imago stage</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_58" begin="3930" end="3934">
+    <text>sent</text>
+    <mainVerb begin="3930" end="3934">sent</mainVerb>
+    <mainReferent begin="3927" end="3929">he</mainReferent>
+    <tokens>he sent to London to be sold</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_59" begin="3976" end="3985">
+    <text>collected</text>
+    <mainVerb begin="3976" end="3985">collected</mainVerb>
+    <mainReferent begin="3957" end="3961">Many</mainReferent>
+    <tokens>Many of them were collected Sir James Edward Smith "</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_60" begin="4017" end="4026">
+    <text>published</text>
+    <mainVerb begin="4017" end="4026">published</mainVerb>
+    <mainReferent begin="3957" end="3961">Many</mainReferent>
+    <tokens>Many of them published under the title of " The Natural History of the Rarer Lepidopterous Insects of Georgia , collected from the Observations of John Abbot , with the Plants on which they Feed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_61" begin="4116" end="4125">
+    <text>collected</text>
+    <mainVerb begin="4116" end="4125">collected</mainVerb>
+    <mainReferent begin="4060" end="4067">History</mainReferent>
+    <tokens>collected from the Observations of John Abbot</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_62" begin="4194" end="4198">
+    <text>Feed</text>
+    <mainVerb begin="4194" end="4198">Feed</mainVerb>
+    <mainReferent begin="4189" end="4193">they</mainReferent>
+    <tokens>with the Plants on which they Feed</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_63" begin="4273" end="4280">
+    <text>sixteen</text>
+    <mainVerb begin="4273" end="4280">sixteen</mainVerb>
+    <mainReferent begin="4287" end="4294">volumes</mainReferent>
+    <tokens>Besides these two rare volumes there are sixteen folio volumes of drawings Abbot in the Library of the British Museum</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_64" begin="4365" end="4367">
+    <text>is</text>
+    <mainVerb begin="4365" end="4367">is</mainVerb>
+    <mainReferent begin="4360" end="4364">work</mainReferent>
+    <tokens>This work is of especial interest to the American student</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_19.txt_65" begin="4420" end="4431">
+    <text>illustrates</text>
+    <mainVerb begin="4420" end="4431">illustrates</mainVerb>
+    <mainReferent begin="4417" end="4419">it</mainReferent>
+    <tokens>as it illustrates the early stages of many of our butterflies and moths</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+</document>

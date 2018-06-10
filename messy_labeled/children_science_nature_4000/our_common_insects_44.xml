@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="our_common_insects_44.txt_1" begin="7" end="10">
+    <text>had</text>
+    <mainVerb begin="7" end="10">had</mainVerb>
+    <mainReferent begin="0" end="1">I</mainReferent>
+    <tokens>I have had the good fortune to observe the different stages of a bird mite intermediate in its form between the Acarus and Sarcoptes , or Itch mite</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_2" begin="178" end="184">
+    <text>called</text>
+    <mainVerb begin="178" end="184">called</mainVerb>
+    <mainReferent begin="172" end="177">Cooke</mainReferent>
+    <tokens>On March 6th Mr. C. Cooke called my attention to certain little mites which were situated on the narrow groove between the main stem of the barb and the outer edge of the barbules of the feathers of the Downy Woodpecker</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_3" begin="234" end="242">
+    <text>situated</text>
+    <mainVerb begin="234" end="242">situated</mainVerb>
+    <mainReferent begin="217" end="222">mites</mainReferent>
+    <tokens>certain little mites were situated on the narrow groove between the main stem of the barb and the outer edge of the barbules of the feathers of the Downy Woodpecker</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_4" begin="396" end="401">
+    <text>found</text>
+    <mainVerb begin="396" end="401">found</mainVerb>
+    <mainReferent begin="172" end="177">Cooke</mainReferent>
+    <tokens>subsequently we found the other forms in the down under the feathers</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_5" begin="478" end="482">
+    <text>were</text>
+    <mainVerb begin="478" end="482">were</mainVerb>
+    <mainReferent begin="472" end="477">mites</mainReferent>
+    <tokens>These long worm-like mites were evidently the of a singular Sarcoptes-like mite the metamorphoses occupying usually but a few days</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_6" begin="552" end="557">
+    <text>found</text>
+    <mainVerb begin="552" end="557">found</mainVerb>
+    <mainReferent begin="542" end="546">they</mainReferent>
+    <tokens>as they were found on the same specimen of Woodpecker at about the same date</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_7" begin="628" end="633">
+    <text>known</text>
+    <mainVerb begin="628" end="633">known</mainVerb>
+    <mainReferent begin="472" end="477">mites</mainReferent>
+    <tokens>it is known</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_8" begin="660" end="662">
+    <text>is</text>
+    <mainVerb begin="660" end="662">is</mainVerb>
+    <mainReferent begin="643" end="649">growth</mainReferent>
+    <tokens>that the growth of mites is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_9" begin="689" end="696">
+    <text>judging</text>
+    <mainVerb begin="689" end="696">judging</mainVerb>
+    <mainReferent begin="674" end="687">metamorphoses</mainReferent>
+    <tokens>judging the information</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_10" begin="730" end="737">
+    <text>possess</text>
+    <mainVerb begin="730" end="737">possess</mainVerb>
+    <mainReferent begin="722" end="724">we</mainReferent>
+    <tokens>the information we now possess</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_11" begin="802" end="804">
+    <text>is</text>
+    <mainVerb begin="802" end="804">is</mainVerb>
+    <mainReferent begin="782" end="787">young</mainReferent>
+    <tokens>( though there is probably a still earlier hexapodous stage )</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_12" begin="869" end="872">
+    <text>has</text>
+    <mainVerb begin="869" end="872">has</mainVerb>
+    <mainReferent begin="782" end="787">young</mainReferent>
+    <tokens>The young of this Sarcoptid has an elongated oblong flattened body with four short legs ending in a stalked sucker by aid of which the mite is enabled to walk over smooth , hard surfaces</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_13" begin="934" end="942">
+    <text>provided</text>
+    <mainVerb begin="934" end="942">provided</mainVerb>
+    <mainReferent begin="928" end="932">legs</mainReferent>
+    <tokens>provided with a few bristle-like hairs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_14" begin="1035" end="1042">
+    <text>enabled</text>
+    <mainVerb begin="1035" end="1042">enabled</mainVerb>
+    <mainReferent begin="1027" end="1031">mite</mainReferent>
+    <tokens>by aid of which the mite is enabled to walk over smooth , hard surfaces</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_15" begin="1089" end="1091">
+    <text>is</text>
+    <mainVerb begin="1089" end="1091">is</mainVerb>
+    <mainReferent begin="1084" end="1088">body</mainReferent>
+    <tokens>The body is at the end with a slight median indentation , and four long bristles of equal length</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_16" begin="1191" end="1199">
+    <text>remained</text>
+    <mainVerb begin="1191" end="1199">remained</mainVerb>
+    <mainReferent begin="1186" end="1190">They</mainReferent>
+    <tokens>They remained motionless in the groove on the barb of the feather</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_17" begin="1263" end="1270">
+    <text>removed</text>
+    <mainVerb begin="1263" end="1270">removed</mainVerb>
+    <tokens>when removed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_18" begin="1272" end="1278">
+    <text>seemed</text>
+    <mainVerb begin="1272" end="1278">seemed</mainVerb>
+    <mainReferent begin="1186" end="1190">They</mainReferent>
+    <tokens>seemed very inert sluggish</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_19" begin="1351" end="1357">
+    <text>called</text>
+    <mainVerb begin="1351" end="1357">called</mainVerb>
+    <mainReferent begin="1331" end="1335">mite</mainReferent>
+    <tokens>this mite may be called the pupal</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_20" begin="1369" end="1371">
+    <text>is</text>
+    <mainVerb begin="1369" end="1371">is</mainVerb>
+    <mainReferent begin="1317" end="1322">stage</mainReferent>
+    <tokens>A succeeding stage of this mite , which may be called the pupal , is considerably than the larva</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_21" begin="1413" end="1418">
+    <text>looks</text>
+    <mainVerb begin="1413" end="1418">looks</mainVerb>
+    <mainReferent begin="1317" end="1322">stage</mainReferent>
+    <tokens>A succeeding stage of this mite , which may be called the pupal , looks somewhat like the adult</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_22" begin="1460" end="1466">
+    <text>become</text>
+    <mainVerb begin="1460" end="1466">become</mainVerb>
+    <mainReferent begin="1317" end="1322">stage</mainReferent>
+    <tokens>the body having become shorter broader</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_23" begin="1499" end="1501">
+    <text>is</text>
+    <mainVerb begin="1499" end="1501">is</mainVerb>
+    <mainReferent begin="1493" end="1498">adult</mainReferent>
+    <tokens>The adult is a most singular</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_24" begin="1604" end="1607">
+    <text>are</text>
+    <mainVerb begin="1604" end="1607">are</mainVerb>
+    <mainReferent begin="1592" end="1596">legs</mainReferent>
+    <tokens>the fore legs are considerably than the second pair</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_25" begin="1673" end="1676">
+    <text>are</text>
+    <mainVerb begin="1673" end="1676">are</mainVerb>
+    <mainReferent begin="1668" end="1672">pair</mainReferent>
+    <tokens>while the third pair are twice as as the second pair</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_26" begin="1717" end="1725">
+    <text>directed</text>
+    <mainVerb begin="1717" end="1725">directed</mainVerb>
+    <mainReferent begin="1668" end="1672">pair</mainReferent>
+    <tokens>the third pair directed backwards</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_27" begin="1757" end="1760">
+    <text>are</text>
+    <mainVerb begin="1757" end="1760">are</mainVerb>
+    <mainReferent begin="1752" end="1756">pair</mainReferent>
+    <tokens>the fourth pair are very</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_28" begin="1778" end="1786">
+    <text>reaching</text>
+    <mainVerb begin="1778" end="1786">reaching</mainVerb>
+    <tokens>not reaching the extremity of the body , which is deeply cleft and supports four long bristles on each side of the cleft giving the creature originally ill-shapen a haggard unkempt appearance</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_29" begin="1820" end="1822">
+    <text>is</text>
+    <mainVerb begin="1820" end="1822">is</mainVerb>
+    <mainReferent begin="1808" end="1812">body</mainReferent>
+    <tokens>the body is deeply</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_30" begin="1841" end="1849">
+    <text>supports</text>
+    <mainVerb begin="1841" end="1849">supports</mainVerb>
+    <mainReferent begin="1808" end="1812">body</mainReferent>
+    <tokens>the body supports four long bristles</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_31" begin="1922" end="1930">
+    <text>attached</text>
+    <mainVerb begin="1922" end="1930">attached</mainVerb>
+    <mainReferent begin="1909" end="1917">bristles</mainReferent>
+    <tokens>while other bristles are attached to the legs and body</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_32" begin="2060" end="2065">
+    <text>pores</text>
+    <mainVerb begin="2060" end="2065">pores</mainVerb>
+    <mainReferent begin="2050" end="2059">breathing</mainReferent>
+    <tokens>The two stigmata breathing pores open near the cleft in the end of the body</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_33" begin="2154" end="2162">
+    <text>situated</text>
+    <mainVerb begin="2154" end="2162">situated</mainVerb>
+    <mainReferent begin="2037" end="2045">stigmata</mainReferent>
+    <tokens>the external opening of the oviduct is situated between the largest and third pair of legs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_34" begin="2222" end="2230">
+    <text>observed</text>
+    <mainVerb begin="2222" end="2230">observed</mainVerb>
+    <mainReferent begin="2211" end="2216">males</mainReferent>
+    <tokens>No males were observed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_35" begin="2311" end="2315">
+    <text>have</text>
+    <mainVerb begin="2311" end="2315">have</mainVerb>
+    <mainReferent begin="2308" end="2310">we</mainReferent>
+    <tokens>the Cheese mite we have alive at the time of writing , in a box</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_36" begin="2356" end="2366">
+    <text>containing</text>
+    <mainVerb begin="2356" end="2366">containing</mainVerb>
+    <tokens>containing the remains of a Lucanus larva</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_37" begin="2411" end="2415">
+    <text>seem</text>
+    <mainVerb begin="2411" end="2415">seem</mainVerb>
+    <mainReferent begin="2406" end="2410">they</mainReferent>
+    <tokens>which they seem to have consumed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_38" begin="2460" end="2468">
+    <text>swarming</text>
+    <mainVerb begin="2460" end="2468">swarming</mainVerb>
+    <mainReferent begin="2452" end="2455">old</mainReferent>
+    <tokens>as both young old are swarming there by myriads</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_39" begin="2498" end="2501">
+    <text>are</text>
+    <mainVerb begin="2498" end="2501">are</mainVerb>
+    <mainReferent begin="2492" end="2497">young</mainReferent>
+    <tokens>In a species of Acarus ( Tyroglyphus ) somewhat like the Cheese mite , which we have alive at the time of writing , in a box containing the remains of a Lucanus larva , which they seem to have consumed , as both young and old are swarming there by myriads the young are like the adults</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_40" begin="2546" end="2549">
+    <text>are</text>
+    <mainVerb begin="2546" end="2549">are</mainVerb>
+    <mainReferent begin="2578" end="2585">growing</mainReferent>
+    <tokens>except that they are the fourth pair growing out after a succeeding moult</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_41" begin="2625" end="2627">
+    <text>is</text>
+    <mainVerb begin="2625" end="2627">is</mainVerb>
+    <mainReferent begin="2620" end="2624">Such</mainReferent>
+    <tokens>Such is a brief</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_42" begin="2671" end="2676">
+    <text>known</text>
+    <mainVerb begin="2671" end="2676">known</mainVerb>
+    <mainReferent begin="2636" end="2643">summary</mainReferent>
+    <tokens>what has been generally known</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_43" begin="2677" end="2686">
+    <text>regarding</text>
+    <mainVerb begin="2677" end="2686">regarding</mainVerb>
+    <tokens>regarding the metamorphoses of a few species of mites</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_44" begin="2768" end="2773">
+    <text>found</text>
+    <mainVerb begin="2768" end="2773">found</mainVerb>
+    <mainReferent begin="2751" end="2756">males</mainReferent>
+    <tokens>In a few kinds no males have been found</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_45" begin="2797" end="2805">
+    <text>isolated</text>
+    <mainVerb begin="2797" end="2805">isolated</mainVerb>
+    <mainReferent begin="2779" end="2786">females</mainReferent>
+    <tokens>the females have been isolated</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_46" begin="2818" end="2825">
+    <text>hatched</text>
+    <mainVerb begin="2818" end="2825">hatched</mainVerb>
+    <mainReferent begin="2779" end="2786">females</mainReferent>
+    <tokens>being hatched</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_47" begin="2846" end="2851">
+    <text>known</text>
+    <mainVerb begin="2846" end="2851">known</mainVerb>
+    <mainReferent begin="2779" end="2786">females</mainReferent>
+    <tokens>the females yet have been known to lay eggs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_48" begin="2871" end="2879">
+    <text>produced</text>
+    <mainVerb begin="2871" end="2879">produced</mainVerb>
+    <mainReferent begin="2859" end="2863">eggs</mainReferent>
+    <tokens>eggs produced young without the interposition of the males</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_49" begin="2957" end="2964">
+    <text>noticed</text>
+    <mainVerb begin="2957" end="2964">noticed</mainVerb>
+    <mainReferent begin="2932" end="2947">parthenogenesis</mainReferent>
+    <tokens>This parthenogenesis has been noticed in several species</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_50" begin="3020" end="3026">
+    <text>appear</text>
+    <mainVerb begin="3020" end="3026">appear</mainVerb>
+    <mainReferent begin="2997" end="3004">insects</mainReferent>
+    <tokens>These insects often suddenly appear in vast numbers on various articles of food and about houses</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_51" begin="3166" end="3171">
+    <text>found</text>
+    <mainVerb begin="3166" end="3171">found</mainVerb>
+    <mainReferent begin="3131" end="3138">Gregory</mainReferent>
+    <tokens>Mr. J. J. H. Gregory of Marblehead , Mass. has found a mite ( Fig. 144 ) very injurious to the seeds of the cabbage , which it sucked dry</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_52" begin="3179" end="3185">
+    <text>allied</text>
+    <mainVerb begin="3179" end="3185">allied</mainVerb>
+    <mainReferent begin="3174" end="3178">mite</mainReferent>
+    <tokens>allied to the European species here figured</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_53" begin="3216" end="3223">
+    <text>figured</text>
+    <mainVerb begin="3216" end="3223">figured</mainVerb>
+    <mainReferent begin="3203" end="3210">species</mainReferent>
+    <tokens>here figured</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_54" begin="3289" end="3295">
+    <text>sucked</text>
+    <mainVerb begin="3289" end="3295">sucked</mainVerb>
+    <mainReferent begin="3286" end="3288">it</mainReferent>
+    <tokens>the cabbage it sucked dry</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_55" begin="3306" end="3308">
+    <text>is</text>
+    <mainVerb begin="3306" end="3308">is</mainVerb>
+    <mainReferent begin="3301" end="3305">This</mainReferent>
+    <tokens>This is an interesting</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_56" begin="3343" end="3349">
+    <text>called</text>
+    <mainVerb begin="3343" end="3349">called</mainVerb>
+    <mainReferent begin="3324" end="3328">form</mainReferent>
+    <tokens>we have called</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_57" begin="3353" end="3362">
+    <text>Cheyletus</text>
+    <mainVerb begin="3353" end="3362">Cheyletus</mainVerb>
+    <mainReferent begin="3350" end="3352">it</mainReferent>
+    <tokens>it Cheyletus seminivorus with two rounded teeth at the base</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_58" begin="3378" end="3380">
+    <text>is</text>
+    <mainVerb begin="3378" end="3380">is</mainVerb>
+    <mainReferent begin="3375" end="3377">It</mainReferent>
+    <tokens>It is of medium size especially noticeable from the tripartite palpi , which are divided into an outer , long , curved , claw-like lobe</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_59" begin="3461" end="3468">
+    <text>divided</text>
+    <mainVerb begin="3461" end="3468">divided</mainVerb>
+    <mainReferent begin="3444" end="3449">palpi</mainReferent>
+    <tokens>the tripartite palpi are divided into an outer , long , curved , claw-like lobe</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_60" begin="3581" end="3591">
+    <text>pectinated</text>
+    <mainVerb begin="3581" end="3591">pectinated</mainVerb>
+    <mainReferent begin="3575" end="3580">lobes</mainReferent>
+    <tokens>pectinated on the inner side , the third innermost</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_61" begin="3632" end="3636">
+    <text>lobe</text>
+    <mainVerb begin="3632" end="3636">lobe</mainVerb>
+    <mainReferent begin="3324" end="3328">form</mainReferent>
+    <tokens>two inner slender lobes lobe</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_62" begin="3660" end="3670">
+    <text>terminates</text>
+    <mainVerb begin="3660" end="3670">terminates</mainVerb>
+    <mainReferent begin="3655" end="3659">beak</mainReferent>
+    <tokens>The beak terminates in a sharp blade-like point</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_63" begin="3712" end="3720">
+    <text>received</text>
+    <mainVerb begin="3712" end="3720">received</mainVerb>
+    <mainReferent begin="3704" end="3706">We</mainReferent>
+    <tokens>We have received a Cheyletus-like mite</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_64" begin="3744" end="3748">
+    <text>said</text>
+    <mainVerb begin="3744" end="3748">said</mainVerb>
+    <mainReferent begin="3738" end="3742">mite</mainReferent>
+    <tokens>said</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_65" begin="3763" end="3772">
+    <text>extracted</text>
+    <mainVerb begin="3763" end="3772">extracted</mainVerb>
+    <tokens>to have been " extracted from the human face " in New Orleans</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_66" begin="3820" end="3822">
+    <text>is</text>
+    <mainVerb begin="3820" end="3822">is</mainVerb>
+    <mainReferent begin="3815" end="3819">body</mainReferent>
+    <tokens>The body is oblong square the head pointed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_67" begin="3856" end="3858">
+    <text>is</text>
+    <mainVerb begin="3856" end="3858">is</mainVerb>
+    <mainReferent begin="3851" end="3855">head</mainReferent>
+    <tokens>the head is pointed while the maxillæ end in a long , curved , toothed , sickle-like blade</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_68" begin="3966" end="3969">
+    <text>has</text>
+    <mainVerb begin="3966" end="3969">has</mainVerb>
+    <mainReferent begin="3957" end="3965">creature</mainReferent>
+    <tokens>That this creature has the habits of the itch mite</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_69" begin="4002" end="4011">
+    <text>suggested</text>
+    <mainVerb begin="4002" end="4011">suggested</mainVerb>
+    <mainReferent begin="3966" end="3969">has</mainReferent>
+    <tokens>is suggested the curious large hair-like spines</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_70" begin="4082" end="4085">
+    <text>are</text>
+    <mainVerb begin="4082" end="4085">are</mainVerb>
+    <mainReferent begin="4129" end="4133">long</mainReferent>
+    <tokens>by the curious , large , hair-like spines with which the body and legs are sparsely armed , some being nearly half as long as the body</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_71" begin="4163" end="4170">
+    <text>covered</text>
+    <mainVerb begin="4163" end="4170">covered</mainVerb>
+    <mainReferent begin="4153" end="4158">hairs</mainReferent>
+    <tokens>These hairs are covered with very fine spinules</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_72" begin="4226" end="4229">
+    <text>are</text>
+    <mainVerb begin="4226" end="4229">are</mainVerb>
+    <mainReferent begin="4196" end="4201">Those</mainReferent>
+    <tokens>Those on the end of the body are regularly</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_73" begin="4286" end="4294">
+    <text>thickest</text>
+    <mainVerb begin="4286" end="4294">thickest</mainVerb>
+    <mainReferent begin="4268" end="4273">hairs</mainReferent>
+    <tokens>These strange hairs are thickest on the legs</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_74" begin="4317" end="4325">
+    <text>assisted</text>
+    <mainVerb begin="4317" end="4325">assisted</mainVerb>
+    <mainReferent begin="4268" end="4273">hairs</mainReferent>
+    <tokens>These strange hairs probably assisted the mite anchoring itself in the skin of its host</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_75" begin="4389" end="4393">
+    <text>read</text>
+    <mainVerb begin="4389" end="4393">read</mainVerb>
+    <mainReferent begin="4381" end="4383">We</mainReferent>
+    <tokens>We have read no account of this strange and interesting form</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_76" begin="4450" end="4456">
+    <text>allied</text>
+    <mainVerb begin="4450" end="4456">allied</mainVerb>
+    <mainReferent begin="4444" end="4446">It</mainReferent>
+    <tokens>It is allied to the Acaropsis Mericourti which lives in the human face</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_44.txt_77" begin="4492" end="4497">
+    <text>lives</text>
+    <mainVerb begin="4492" end="4497">lives</mainVerb>
+    <mainReferent begin="4474" end="4484">Mericourti</mainReferent>
+    <tokens>the Acaropsis Mericourti lives in the human face</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+</document>

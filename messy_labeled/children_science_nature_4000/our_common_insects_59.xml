@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="our_common_insects_59.txt_1" begin="63" end="66">
+    <text>was</text>
+    <mainVerb begin="63" end="66">was</mainVerb>
+    <mainReferent begin="6" end="11">first</mainReferent>
+    <tokens>The first to discuss this subject of the ancestry of insects was Fritz</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_2" begin="111" end="120">
+    <text>published</text>
+    <mainVerb begin="111" end="120">published</mainVerb>
+    <mainReferent begin="109" end="110">]</mainReferent>
+    <tokens>published in 1863</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_3" begin="130" end="134">
+    <text>says</text>
+    <mainVerb begin="130" end="134">says</mainVerb>
+    <mainReferent begin="74" end="80">Müller</mainReferent>
+    <tokens>in his " Für Darwin , " [ 15 ] published in 1863 says at the end of his work "</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_4" begin="169" end="176">
+    <text>reached</text>
+    <mainVerb begin="169" end="176">reached</mainVerb>
+    <mainReferent begin="130" end="134">says</mainReferent>
+    <tokens>Having reached the Nauplius the extreme outpost of the class retiring farthest into the gray mist of primitive time</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_5" begin="296" end="300">
+    <text>look</text>
+    <mainVerb begin="296" end="300">look</mainVerb>
+    <mainReferent begin="282" end="284">we</mainReferent>
+    <tokens>we naturally look</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_6" begin="301" end="306">
+    <text>round</text>
+    <mainVerb begin="301" end="306">round</mainVerb>
+    <tokens>round us to see</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_7" begin="341" end="349">
+    <text>descried</text>
+    <mainVerb begin="341" end="349">descried</mainVerb>
+    <mainReferent begin="325" end="329">ways</mainReferent>
+    <tokens>whether ways may not be descried thence towards other bordering regions</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_8" begin="407" end="410">
+    <text>see</text>
+    <mainVerb begin="407" end="410">see</mainVerb>
+    <mainReferent begin="393" end="394">*</mainReferent>
+    <tokens>I can see nothing certain</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_9" begin="501" end="505">
+    <text>find</text>
+    <mainVerb begin="501" end="505">find</mainVerb>
+    <mainReferent begin="494" end="495">I</mainReferent>
+    <tokens>Even towards the nearer provinces of the Myriopoda and Arachnida I can find no bridge</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_10" begin="622" end="629">
+    <text>present</text>
+    <mainVerb begin="622" end="629">present</mainVerb>
+    <mainReferent begin="544" end="555">development</mainReferent>
+    <tokens>For the Insecta alone the development of the Malacostraca [ Crabs , Lobsters , Shrimps , etc. ] may perhaps present a point of union</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_11" begin="677" end="684">
+    <text>possess</text>
+    <mainVerb begin="677" end="684">possess</mainVerb>
+    <mainReferent begin="669" end="676">Insecta</mainReferent>
+    <tokens>Like many Zoëæ the Insecta possess three pairs of limbs serving for the reception of nourishment three pairs serving for locomotion</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_12" begin="707" end="714">
+    <text>serving</text>
+    <mainVerb begin="707" end="714">serving</mainVerb>
+    <mainReferent begin="700" end="705">limbs</mainReferent>
+    <tokens>serving for the reception of nourishment</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_13" begin="809" end="813">
+    <text>have</text>
+    <mainVerb begin="809" end="813">have</mainVerb>
+    <mainReferent begin="669" end="676">Insecta</mainReferent>
+    <tokens>like the Zoëæ they have an abdomen without appendages</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_14" begin="886" end="889">
+    <text>are</text>
+    <mainVerb begin="886" end="889">are</mainVerb>
+    <mainReferent begin="865" end="874">mandibles</mainReferent>
+    <tokens>as in all Zoëæ the mandibles in Insecta are of palpi</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_15" begin="943" end="951">
+    <text>compared</text>
+    <mainVerb begin="943" end="951">compared</mainVerb>
+    <tokens>compared</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_16" begin="972" end="985">
+    <text>distinguishes</text>
+    <mainVerb begin="972" end="985">distinguishes</mainVerb>
+    <mainReferent begin="961" end="965">much</mainReferent>
+    <tokens>the much distinguishes these two animal forms</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_17" begin="1058" end="1061">
+    <text>had</text>
+    <mainVerb begin="1058" end="1061">had</mainVerb>
+    <mainReferent begin="1145" end="1156">recommended</mainReferent>
+    <tokens>that the Insecta had for their common ancestor a Zoëa which raised itself into a life on land</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_18" begin="1102" end="1108">
+    <text>raised</text>
+    <mainVerb begin="1102" end="1108">raised</mainVerb>
+    <mainReferent begin="1080" end="1088">ancestor</mainReferent>
+    <tokens>their common ancestor a Zoëa raised itself into a life on land</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_19" begin="1145" end="1156">
+    <text>recommended</text>
+    <mainVerb begin="1145" end="1156">recommended</mainVerb>
+    <mainReferent begin="1029" end="1040">supposition</mainReferent>
+    <tokens>Nevertheless the supposition may be recommended for further examination " ( p. 140 )</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_20" begin="1279" end="1288">
+    <text>published</text>
+    <mainVerb begin="1279" end="1288">published</mainVerb>
+    <mainReferent begin="1256" end="1263">History</mainReferent>
+    <tokens>published in 1868</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_21" begin="1298" end="1308">
+    <text>reiterates</text>
+    <mainVerb begin="1298" end="1308">reiterates</mainVerb>
+    <mainReferent begin="1206" end="1212">Hæckel</mainReferent>
+    <tokens>Afterwards Hæckel in his " Generelle Morphologie " ( 1866 ) and " History of Creation , " published in 1868 , reiterates the notion</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_22" begin="1342" end="1349">
+    <text>derived</text>
+    <mainVerb begin="1342" end="1349">derived</mainVerb>
+    <mainReferent begin="1329" end="1336">insects</mainReferent>
+    <tokens>that the insects are derived from the larva ( Zoëa , Fig. 190 ) of the crabs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_23" begin="1406" end="1408">
+    <text>is</text>
+    <mainVerb begin="1406" end="1408">is</mainVerb>
+    <mainReferent begin="1403" end="1405">he</mainReferent>
+    <tokens>though he is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_24" begin="1440" end="1449">
+    <text>originate</text>
+    <mainVerb begin="1440" end="1449">originate</mainVerb>
+    <mainReferent begin="1427" end="1431">they</mainReferent>
+    <tokens>whether they did not originate directly from the worms</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_25" begin="1492" end="1496">
+    <text>said</text>
+    <mainVerb begin="1492" end="1496">said</mainVerb>
+    <mainReferent begin="1482" end="1484">It</mainReferent>
+    <tokens>It may be said in opposition to the view or in other words</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_26" begin="1540" end="1544">
+    <text>came</text>
+    <mainVerb begin="1540" end="1544">came</mainVerb>
+    <mainReferent begin="1532" end="1539">insects</mainReferent>
+    <tokens>16 ] the insects came originally from the same early crustacean</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_27" begin="1588" end="1598">
+    <text>resembling</text>
+    <mainVerb begin="1588" end="1598">resembling</mainVerb>
+    <tokens>resembling the larva of a crab or shrimp</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_28" begin="1674" end="1677">
+    <text>are</text>
+    <mainVerb begin="1674" end="1677">are</mainVerb>
+    <mainReferent begin="1640" end="1651">differences</mainReferent>
+    <tokens>that the differences between the two types are too</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_29" begin="1779" end="1782">
+    <text>are</text>
+    <mainVerb begin="1779" end="1782">are</mainVerb>
+    <mainReferent begin="1714" end="1724">homologies</mainReferent>
+    <tokens>[ 16 ] the homologies of the two classes too remote , [ 17 ] and the two types are each too to lead us to suppose</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_30" begin="1840" end="1847">
+    <text>derived</text>
+    <mainVerb begin="1840" end="1847">derived</mainVerb>
+    <mainReferent begin="1831" end="1834">one</mainReferent>
+    <tokens>that one was derived from the other</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_31" begin="1877" end="1881">
+    <text>find</text>
+    <mainVerb begin="1877" end="1881">find</mainVerb>
+    <mainReferent begin="1874" end="1876">we</mainReferent>
+    <tokens>Moreover we find through the researches of Messrs. Hartt and Scudder</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_32" begin="1946" end="1950">
+    <text>were</text>
+    <mainVerb begin="1946" end="1950">were</mainVerb>
+    <mainReferent begin="1968" end="1975">insects</mainReferent>
+    <tokens>that there were insects such as May flies grasshoppers etc. in the Devonian rocks of New Brunswick</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_33" begin="1958" end="1967">
+    <text>developed</text>
+    <mainVerb begin="1958" end="1967">developed</mainVerb>
+    <tokens>highly developed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_34" begin="2058" end="2065">
+    <text>leading</text>
+    <mainVerb begin="2058" end="2065">leading</mainVerb>
+    <mainReferent begin="1968" end="1975">insects</mainReferent>
+    <tokens>leading us to expect the discovery of low insects even in the Upper Silurian rocks</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_35" begin="2170" end="2176">
+    <text>pushes</text>
+    <mainVerb begin="2170" end="2176">pushes</mainVerb>
+    <mainReferent begin="2160" end="2169">discovery</mainReferent>
+    <tokens>At any rate this discovery pushes back the origin of insects beyond a time</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_36" begin="2230" end="2234">
+    <text>were</text>
+    <mainVerb begin="2230" end="2234">were</mainVerb>
+    <mainReferent begin="2364" end="2369">found</mainReferent>
+    <tokens>when there were true Zoëæ as the shrimps</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_37" begin="2296" end="2301">
+    <text>known</text>
+    <mainVerb begin="2296" end="2301">known</mainVerb>
+    <mainReferent begin="2170" end="2176">pushes</mainReferent>
+    <tokens>their allies are not actually known to exist so far back as the Silurian</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_38" begin="2364" end="2369">
+    <text>found</text>
+    <mainVerb begin="2364" end="2369">found</mainVerb>
+    <mainReferent begin="2170" end="2176">pushes</mainReferent>
+    <tokens>not having as yet been found below the coal measures</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_39" begin="2431" end="2438">
+    <text>derived</text>
+    <mainVerb begin="2431" end="2438">derived</mainVerb>
+    <mainReferent begin="2418" end="2425">insects</mainReferent>
+    <tokens>that the insects were derived from a Zoëa</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_40" begin="2460" end="2469">
+    <text>sustained</text>
+    <mainVerb begin="2460" end="2469">sustained</mainVerb>
+    <mainReferent begin="2404" end="2408">view</mainReferent>
+    <tokens>The view was also sustained Friedrich Brauer the distinguished entomologist of Vienna in a paper [ 18 ] read in March , 1869</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_41" begin="2550" end="2554">
+    <text>read</text>
+    <mainVerb begin="2550" end="2554">read</mainVerb>
+    <mainReferent begin="2548" end="2549">]</mainReferent>
+    <tokens>read in March , 1869</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_42" begin="2628" end="2635">
+    <text>derives</text>
+    <mainVerb begin="2628" end="2635">derives</mainVerb>
+    <mainReferent begin="2625" end="2627">he</mainReferent>
+    <tokens>Following the suggestion of Fritz Müller and Hæckel he derives the ancestry of insects from the Zoëa of crabs and shrimps</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_43" begin="2709" end="2716">
+    <text>regards</text>
+    <mainVerb begin="2709" end="2716">regards</mainVerb>
+    <mainReferent begin="2706" end="2708">he</mainReferent>
+    <tokens>However he regards the Podurids as the more immediate ancestors of the true insects "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_44" begin="2784" end="2793">
+    <text>selecting</text>
+    <mainVerb begin="2784" end="2793">selecting</mainVerb>
+    <mainReferent begin="2706" end="2708">he</mainReferent>
+    <tokens>selecting Campodea as the type of such an ancestral form</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_45" begin="2843" end="2852">
+    <text>remarking</text>
+    <mainVerb begin="2843" end="2852">remarking</mainVerb>
+    <tokens>remarking</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_46" begin="2878" end="2881">
+    <text>has</text>
+    <mainVerb begin="2878" end="2881">has</mainVerb>
+    <mainReferent begin="2863" end="2877">Campodea-stage</mainReferent>
+    <tokens>that the " Campodea-stage has for the Insects and Myriopods the same value as the Zoëa for the Crustacea</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_47" begin="2963" end="2967">
+    <text>says</text>
+    <mainVerb begin="2963" end="2967">says</mainVerb>
+    <mainReferent begin="2960" end="2962">He</mainReferent>
+    <tokens>He says</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_48" begin="2977" end="2986">
+    <text>regarding</text>
+    <mainVerb begin="2977" end="2986">regarding</mainVerb>
+    <tokens>nothing regarding the spiders mites</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_49" begin="3165" end="3174">
+    <text>suggested</text>
+    <mainVerb begin="3165" end="3174">suggested</mainVerb>
+    <mainReferent begin="3142" end="3146">fact</mainReferent>
+    <tokens>that he had also suggested also independently of Brauer 's opinions</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_50" begin="3206" end="3213">
+    <text>derived</text>
+    <mainVerb begin="3206" end="3213">derived</mainVerb>
+    <mainReferent begin="3184" end="3191">insects</mainReferent>
+    <tokens>that the insects were possibly derived directly from the worms also independently of Brauer 's opinions</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_51" begin="3285" end="3293">
+    <text>declared</text>
+    <mainVerb begin="3285" end="3293">declared</mainVerb>
+    <tokens>At the same time [ 19 ] the writer criticising Hæckel views of the derivation of insects from the Crustacea ( ignorant of the fact that he had also suggested that the insects were possibly derived directly from the worms , and also independently of Brauer 's opinions ) declared his belief so ancient as the Devonian with the late discovery of a land plant in the Lower Silurian rocks of Sweden [ 20 ] to even guess to the ancestry of insects such as the Smynthurus Podura etc</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_52" begin="3321" end="3327">
+    <text>seemed</text>
+    <mainVerb begin="3321" end="3327">seemed</mainVerb>
+    <mainReferent begin="3318" end="3320">it</mainReferent>
+    <tokens>that though it seemed premature after the discovery of highly organized winged insects in rocks</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_53" begin="3370" end="3379">
+    <text>organized</text>
+    <mainVerb begin="3370" end="3379">organized</mainVerb>
+    <tokens>highly organized</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_54" begin="3580" end="3587">
+    <text>suggest</text>
+    <mainVerb begin="3580" end="3587">suggest</mainVerb>
+    <mainReferent begin="3529" end="3534">guess</mainReferent>
+    <tokens>yet he would suggest the ancestors of the insects ( including the six-footed insects , spiders and myriopods ) aquatic such as the Smynthurus Podura etc</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_55" begin="3611" end="3618">
+    <text>derived</text>
+    <mainVerb begin="3611" end="3618">derived</mainVerb>
+    <mainReferent begin="3640" end="3649">ancestors</mainReferent>
+    <tokens>being derived from some Zoëa</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_56" begin="3735" end="3739">
+    <text>been</text>
+    <mainVerb begin="3735" end="3739">been</mainVerb>
+    <mainReferent begin="3640" end="3649">ancestors</mainReferent>
+    <tokens>that " the ancestors of the insects ( including the six-footed insects , spiders and myriopods ) must have been aquatic</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_57" begin="3781" end="3787">
+    <text>became</text>
+    <mainVerb begin="3781" end="3787">became</mainVerb>
+    <mainReferent begin="3570" end="3572">he</mainReferent>
+    <tokens>when the type became terrestrial like the young Pauropus , which combines in a remarkable degree the characters of the myriopods and the degraded wingless insects</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_58" begin="3810" end="3817">
+    <text>imagine</text>
+    <mainVerb begin="3810" end="3817">imagine</mainVerb>
+    <mainReferent begin="3801" end="3803">we</mainReferent>
+    <tokens>we would imagine a form somewhat</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_59" begin="3866" end="3874">
+    <text>combines</text>
+    <mainVerb begin="3866" end="3874">combines</mainVerb>
+    <mainReferent begin="3849" end="3857">Pauropus</mainReferent>
+    <tokens>the young Pauropus combines in a remarkable degree the characters of the myriopods and the degraded wingless insects</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_60" begin="4034" end="4044">
+    <text>introduced</text>
+    <mainVerb begin="4034" end="4044">introduced</mainVerb>
+    <mainReferent begin="4014" end="4019">forms</mainReferent>
+    <tokens>Some such forms may have been introduced late in the Silurian period for the interesting discoveries of fossil insects in the Devonian of New Brunswick Messrs. Hartt Scudder</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_61" begin="4200" end="4210">
+    <text>discovered</text>
+    <mainVerb begin="4200" end="4210">discovered</mainVerb>
+    <mainReferent begin="4014" end="4019">forms</mainReferent>
+    <tokens>those discovered by Messrs. Meek and Worthen in the lower part of the Coal Measures at Morris , Illinois ,</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_62" begin="4305" end="4314">
+    <text>described</text>
+    <mainVerb begin="4305" end="4314">described</mainVerb>
+    <mainReferent begin="4194" end="4199">those</mainReferent>
+    <tokens>those described by Mr. Scudder</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_63" begin="4331" end="4337">
+    <text>reveal</text>
+    <mainVerb begin="4331" end="4337">reveal</mainVerb>
+    <mainReferent begin="4200" end="4210">discovered</mainReferent>
+    <tokens>reveal carboniferous myriopods ( two species of Euphorberia ) than Pauropus , and a carboniferous scorpion ( Buthus ? )</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_64" begin="4404" end="4413">
+    <text>organized</text>
+    <mainVerb begin="4404" end="4413">organized</mainVerb>
+    <tokens>more highly organized</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_65" begin="4477" end="4487">
+    <text>resembling</text>
+    <mainVerb begin="4477" end="4487">resembling</mainVerb>
+    <mainReferent begin="4578" end="4586">Woodiana</mainReferent>
+    <tokens>closely resembling a species</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_66" begin="4502" end="4508">
+    <text>living</text>
+    <mainVerb begin="4502" end="4508">living</mainVerb>
+    <tokens>now living in California with another scorpion-like animal</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_67" begin="4615" end="4624">
+    <text>described</text>
+    <mainVerb begin="4615" end="4624">described</mainVerb>
+    <mainReferent begin="4677" end="4686">organized</mainReferent>
+    <tokens>while the Devonian insects described from St. John by Mr. Scudder</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_68" begin="4677" end="4686">
+    <text>organized</text>
+    <mainVerb begin="4677" end="4686">organized</mainVerb>
+    <mainReferent begin="4578" end="4586">Woodiana</mainReferent>
+    <tokens>Mazonia Woodiana are nearly as highly organized as our grasshoppers and May flies</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_69" begin="4743" end="4753">
+    <text>discovered</text>
+    <mainVerb begin="4743" end="4753">discovered</mainVerb>
+    <mainReferent begin="4727" end="4733">Dawson</mainReferent>
+    <tokens>Dr. Dawson has also discovered a milleped ( Xylobius ) in the Lower Coal Measures of Nova Scotia ; so that we must go back to the Silurian period in our search for the earliest ancestor , or ( if not of Darwinian proclivities ) prototype , of insects "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_70" begin="4761" end="4770">
+    <text>developed</text>
+    <mainVerb begin="4761" end="4770">developed</mainVerb>
+    <tokens>well developed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_59.txt_71" begin="4851" end="4853">
+    <text>go</text>
+    <mainVerb begin="4851" end="4853">go</mainVerb>
+    <mainReferent begin="4827" end="4833">Scotia</mainReferent>
+    <tokens>so that we must go back to the Silurian period in our search for the earliest ancestor</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+</document>

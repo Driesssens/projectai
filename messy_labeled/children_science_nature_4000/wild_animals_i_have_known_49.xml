@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="wild_animals_i_have_known_49.txt_1" begin="10" end="15">
+    <text>vexed</text>
+    <mainVerb begin="10" end="15">vexed</mainVerb>
+    <mainReferent begin="0" end="5">Robin</mainReferent>
+    <tokens>Robin was vexed to the inmost recesses of his tiny soul</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_2" begin="60" end="66">
+    <text>stared</text>
+    <mainVerb begin="60" end="66">stared</mainVerb>
+    <mainReferent begin="57" end="59">He</mainReferent>
+    <tokens>He stared stupidly after the sheep for half a minute "</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_3" begin="117" end="121">
+    <text>gave</text>
+    <mainVerb begin="117" end="121">gave</mainVerb>
+    <mainReferent begin="60" end="66">stared</mainReferent>
+    <tokens>then gave</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_4" begin="142" end="147">
+    <text>fetch</text>
+    <mainVerb begin="142" end="147">fetch</mainVerb>
+    <mainReferent begin="126" end="131">order</mainReferent>
+    <tokens>the order " Wully fetch them in</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_5" begin="186" end="189">
+    <text>sat</text>
+    <mainVerb begin="186" end="189">sat</mainVerb>
+    <mainReferent begin="183" end="185">he</mainReferent>
+    <tokens>After this mental effort he sat down</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_6" begin="196" end="199">
+    <text>lit</text>
+    <mainVerb begin="196" end="199">lit</mainVerb>
+    <mainReferent begin="186" end="189">sat</mainReferent>
+    <tokens>lit his pipe</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_7" begin="239" end="244">
+    <text>began</text>
+    <mainVerb begin="239" end="244">began</mainVerb>
+    <mainReferent begin="183" end="185">he</mainReferent>
+    <tokens>taking out his knitting began work on a half-finished sock</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_8" begin="306" end="309">
+    <text>was</text>
+    <mainVerb begin="306" end="309">was</mainVerb>
+    <mainReferent begin="281" end="286">Wully</mainReferent>
+    <tokens>To Wully the voice of Robin was the of God</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_9" begin="336" end="339">
+    <text>ran</text>
+    <mainVerb begin="336" end="339">ran</mainVerb>
+    <mainReferent begin="333" end="335">he</mainReferent>
+    <tokens>Away he ran in 374 different directions</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_10" begin="374" end="380">
+    <text>headed</text>
+    <mainVerb begin="374" end="380">headed</mainVerb>
+    <mainReferent begin="333" end="335">he</mainReferent>
+    <tokens>he headed off different wanderers</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_11" begin="389" end="396">
+    <text>rounded</text>
+    <mainVerb begin="389" end="396">rounded</mainVerb>
+    <mainReferent begin="333" end="335">he</mainReferent>
+    <tokens>rounded up the 374</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_12" begin="434" end="441">
+    <text>brought</text>
+    <mainVerb begin="434" end="441">brought</mainVerb>
+    <mainReferent begin="333" end="335">he</mainReferent>
+    <tokens>he brought them back to the ferry-house</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_13" begin="503" end="511">
+    <text>watching</text>
+    <mainVerb begin="503" end="511">watching</mainVerb>
+    <mainReferent begin="478" end="483">Robin</mainReferent>
+    <tokens>Robin was stolidly watching the process</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_14" begin="529" end="533">
+    <text>toed</text>
+    <mainVerb begin="529" end="533">toed</mainVerb>
+    <mainReferent begin="478" end="483">Robin</mainReferent>
+    <tokens>before Robin had toed off his sock</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_15" begin="577" end="581">
+    <text>gave</text>
+    <mainVerb begin="577" end="581">gave</mainVerb>
+    <mainReferent begin="559" end="564">Wully</mainReferent>
+    <tokens>Finally Wully not Robin gave the sign</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_16" begin="600" end="604">
+    <text>were</text>
+    <mainVerb begin="600" end="604">were</mainVerb>
+    <mainReferent begin="596" end="599">all</mainReferent>
+    <tokens>that all were in</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_17" begin="627" end="636">
+    <text>proceeded</text>
+    <mainVerb begin="627" end="636">proceeded</mainVerb>
+    <mainReferent begin="618" end="626">shepherd</mainReferent>
+    <tokens>The old shepherd proceeded to count them 370 371 372 373</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_18" begin="687" end="691">
+    <text>said</text>
+    <mainVerb begin="687" end="691">said</mainVerb>
+    <mainReferent begin="684" end="686">he</mainReferent>
+    <tokens>" Wully " he said reproachfully " thar no a here</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_19" begin="755" end="760">
+    <text>stung</text>
+    <mainVerb begin="755" end="760">stung</mainVerb>
+    <mainReferent begin="748" end="753">Wully</mainReferent>
+    <tokens>stung with shame</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_20" begin="773" end="780">
+    <text>bounded</text>
+    <mainVerb begin="773" end="780">bounded</mainVerb>
+    <mainReferent begin="748" end="753">Wully</mainReferent>
+    <tokens>And Wully bounded off to scour the whole city for the missing one</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_21" begin="847" end="851">
+    <text>gone</text>
+    <mainVerb begin="847" end="851">gone</mainVerb>
+    <mainReferent begin="831" end="833">He</mainReferent>
+    <tokens>He was not long gone</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_22" begin="869" end="876">
+    <text>pointed</text>
+    <mainVerb begin="869" end="876">pointed</mainVerb>
+    <mainReferent begin="865" end="868">boy</mainReferent>
+    <tokens>when a small boy pointed out to Robin</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_23" begin="906" end="910">
+    <text>were</text>
+    <mainVerb begin="906" end="910">were</mainVerb>
+    <mainReferent begin="932" end="935">374</mainReferent>
+    <tokens>that the sheep were there the whole 374</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_24" begin="947" end="950">
+    <text>was</text>
+    <mainVerb begin="947" end="950">was</mainVerb>
+    <mainReferent begin="941" end="946">Robin</mainReferent>
+    <tokens>Now Robin was in a quandary</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_25" begin="977" end="980">
+    <text>was</text>
+    <mainVerb begin="977" end="980">was</mainVerb>
+    <mainReferent begin="971" end="976">order</mainReferent>
+    <tokens>His order was to hasten on to Yorkshire</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_26" begin="1019" end="1023">
+    <text>knew</text>
+    <mainVerb begin="1019" end="1023">knew</mainVerb>
+    <mainReferent begin="1016" end="1018">he</mainReferent>
+    <tokens>he knew</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_27" begin="1050" end="1057">
+    <text>prevent</text>
+    <mainVerb begin="1050" end="1057">prevent</mainVerb>
+    <mainReferent begin="1038" end="1043">pride</mainReferent>
+    <tokens>that Wully pride would prevent his coming back without another sheep</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_28" begin="1109" end="1112">
+    <text>had</text>
+    <mainVerb begin="1109" end="1112">had</mainVerb>
+    <mainReferent begin="1106" end="1108">he</mainReferent>
+    <tokens>even if he had to steal it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_29" begin="1142" end="1150">
+    <text>happened</text>
+    <mainVerb begin="1142" end="1150">happened</mainVerb>
+    <mainReferent begin="1131" end="1137">things</mainReferent>
+    <tokens>Such things had happened before</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_30" begin="1163" end="1171">
+    <text>resulted</text>
+    <mainVerb begin="1163" end="1171">resulted</mainVerb>
+    <mainReferent begin="1131" end="1137">things</mainReferent>
+    <tokens>Such things resulted in embarrassing complications</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_31" begin="1219" end="1221">
+    <text>do</text>
+    <mainVerb begin="1219" end="1221">do</mainVerb>
+    <mainReferent begin="1216" end="1218">he</mainReferent>
+    <tokens>What should he do</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_32" begin="1232" end="1235">
+    <text>was</text>
+    <mainVerb begin="1232" end="1235">was</mainVerb>
+    <mainReferent begin="1241" end="1250">shillings</mainReferent>
+    <tokens>There was five shillings a week at stake</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_33" begin="1274" end="1277">
+    <text>was</text>
+    <mainVerb begin="1274" end="1277">was</mainVerb>
+    <mainReferent begin="1285" end="1288">dog</mainReferent>
+    <tokens>was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_34" begin="1293" end="1296">
+    <text>was</text>
+    <mainVerb begin="1293" end="1296">was</mainVerb>
+    <mainReferent begin="1290" end="1292">it</mainReferent>
+    <tokens>it was a to lose him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_35" begin="1377" end="1382">
+    <text>stole</text>
+    <mainVerb begin="1377" end="1382">stole</mainVerb>
+    <mainReferent begin="1360" end="1365">again</mainReferent>
+    <tokens>if Wully stole an extra sheep to make up the number</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_36" begin="1459" end="1466">
+    <text>decided</text>
+    <mainVerb begin="1459" end="1466">decided</mainVerb>
+    <mainReferent begin="1456" end="1458">He</mainReferent>
+    <tokens>He decided to abandon Wully</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_37" begin="1489" end="1493">
+    <text>push</text>
+    <mainVerb begin="1489" end="1493">push</mainVerb>
+    <mainReferent begin="1456" end="1458">He</mainReferent>
+    <tokens>He push on alone with the sheep</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_38" begin="1531" end="1536">
+    <text>fared</text>
+    <mainVerb begin="1531" end="1536">fared</mainVerb>
+    <mainReferent begin="1528" end="1530">he</mainReferent>
+    <tokens>And how he fared</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_39" begin="1544" end="1549">
+    <text>knows</text>
+    <mainVerb begin="1544" end="1549">knows</mainVerb>
+    <mainReferent begin="1540" end="1543">one</mainReferent>
+    <tokens>no one knows</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_40" begin="1553" end="1558">
+    <text>cares</text>
+    <mainVerb begin="1553" end="1558">cares</mainVerb>
+    <mainReferent begin="1540" end="1543">one</mainReferent>
+    <tokens>no one cares</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_41" begin="1580" end="1588">
+    <text>careered</text>
+    <mainVerb begin="1580" end="1588">careered</mainVerb>
+    <mainReferent begin="1574" end="1579">Wully</mainReferent>
+    <tokens>Meanwhile Wully careered through miles of streets hunting in vain for his lost sheep</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_42" begin="1614" end="1621">
+    <text>hunting</text>
+    <mainVerb begin="1614" end="1621">hunting</mainVerb>
+    <mainReferent begin="1606" end="1613">streets</mainReferent>
+    <tokens>hunting in vain for his lost sheep</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_43" begin="1639" end="1643">
+    <text>lost</text>
+    <mainVerb begin="1639" end="1643">lost</mainVerb>
+    <tokens>lost</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_44" begin="1662" end="1670">
+    <text>searched</text>
+    <mainVerb begin="1662" end="1670">searched</mainVerb>
+    <mainReferent begin="1659" end="1661">he</mainReferent>
+    <tokens>All day he searched</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_45" begin="1686" end="1694">
+    <text>famished</text>
+    <mainVerb begin="1686" end="1694">famished</mainVerb>
+    <mainReferent begin="1710" end="1712">he</mainReferent>
+    <tokens>famished</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_46" begin="1699" end="1703">
+    <text>worn</text>
+    <mainVerb begin="1699" end="1703">worn</mainVerb>
+    <mainReferent begin="1710" end="1712">he</mainReferent>
+    <tokens>worn out</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_47" begin="1713" end="1720">
+    <text>sneaked</text>
+    <mainVerb begin="1713" end="1720">sneaked</mainVerb>
+    <mainReferent begin="1659" end="1661">he</mainReferent>
+    <tokens>at night he sneaked shamefacedly back to the ferry only to find</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_48" begin="1793" end="1797">
+    <text>gone</text>
+    <mainVerb begin="1793" end="1797">gone</mainVerb>
+    <mainReferent begin="1783" end="1788">sheep</mainReferent>
+    <tokens>that master sheep had gone</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_49" begin="1810" end="1813">
+    <text>was</text>
+    <mainVerb begin="1810" end="1813">was</mainVerb>
+    <mainReferent begin="1803" end="1809">sorrow</mainReferent>
+    <tokens>His sorrow was to see</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_50" begin="1833" end="1836">
+    <text>ran</text>
+    <mainVerb begin="1833" end="1836">ran</mainVerb>
+    <mainReferent begin="1830" end="1832">He</mainReferent>
+    <tokens>He ran about whimpering</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_51" begin="1861" end="1865">
+    <text>took</text>
+    <mainVerb begin="1861" end="1865">took</mainVerb>
+    <mainReferent begin="1830" end="1832">He</mainReferent>
+    <tokens>He then took the ferryboat across to the other side</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_52" begin="1911" end="1919">
+    <text>searched</text>
+    <mainVerb begin="1911" end="1919">searched</mainVerb>
+    <mainReferent begin="1830" end="1832">He</mainReferent>
+    <tokens>He searched everywhere for Robin</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_53" begin="1945" end="1953">
+    <text>returned</text>
+    <mainVerb begin="1945" end="1953">returned</mainVerb>
+    <mainReferent begin="1942" end="1944">He</mainReferent>
+    <tokens>He returned to South Shields</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_54" begin="1975" end="1983">
+    <text>searched</text>
+    <mainVerb begin="1975" end="1983">searched</mainVerb>
+    <mainReferent begin="1942" end="1944">He</mainReferent>
+    <tokens>He searched there</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_55" begin="1996" end="2001">
+    <text>spent</text>
+    <mainVerb begin="1996" end="2001">spent</mainVerb>
+    <mainReferent begin="1942" end="1944">He</mainReferent>
+    <tokens>He spent the rest of the night</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_56" begin="2024" end="2031">
+    <text>seeking</text>
+    <mainVerb begin="2024" end="2031">seeking</mainVerb>
+    <tokens>seeking for his wretched idol</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_57" begin="2072" end="2081">
+    <text>continued</text>
+    <mainVerb begin="2072" end="2081">continued</mainVerb>
+    <mainReferent begin="2069" end="2071">he</mainReferent>
+    <tokens>he continued his search</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_58" begin="2097" end="2104">
+    <text>crossed</text>
+    <mainVerb begin="2097" end="2104">crossed</mainVerb>
+    <mainReferent begin="2094" end="2096">he</mainReferent>
+    <tokens>The next day he crossed many times</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_59" begin="2109" end="2118">
+    <text>recrossed</text>
+    <mainVerb begin="2109" end="2118">recrossed</mainVerb>
+    <mainReferent begin="2094" end="2096">he</mainReferent>
+    <tokens>he recrossed the river</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_60" begin="2145" end="2152">
+    <text>watched</text>
+    <mainVerb begin="2145" end="2152">watched</mainVerb>
+    <mainReferent begin="2142" end="2144">He</mainReferent>
+    <tokens>He watched</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_61" begin="2157" end="2162">
+    <text>smelt</text>
+    <mainVerb begin="2157" end="2162">smelt</mainVerb>
+    <mainReferent begin="2142" end="2144">He</mainReferent>
+    <tokens>He smelt everyone</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_62" begin="2177" end="2181">
+    <text>came</text>
+    <mainVerb begin="2177" end="2181">came</mainVerb>
+    <mainReferent begin="2163" end="2171">everyone</mainReferent>
+    <tokens>everyone came over</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_63" begin="2224" end="2230">
+    <text>sought</text>
+    <mainVerb begin="2224" end="2230">sought</mainVerb>
+    <mainReferent begin="2142" end="2144">He</mainReferent>
+    <tokens>with significant shrewdness he sought unceasingly in the neighboring taverns for his master</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_64" begin="2303" end="2306">
+    <text>set</text>
+    <mainVerb begin="2303" end="2306">set</mainVerb>
+    <mainReferent begin="2300" end="2302">he</mainReferent>
+    <tokens>The next day he set to work systematically</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_65" begin="2333" end="2338">
+    <text>smell</text>
+    <mainVerb begin="2333" end="2338">smell</mainVerb>
+    <mainReferent begin="2296" end="2299">day</mainReferent>
+    <tokens>The next day smell everyone</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_66" begin="2360" end="2365">
+    <text>cross</text>
+    <mainVerb begin="2360" end="2365">cross</mainVerb>
+    <mainReferent begin="2340" end="2348">everyone</mainReferent>
+    <tokens>everyone might cross the ferry</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_67" begin="2390" end="2395">
+    <text>makes</text>
+    <mainVerb begin="2390" end="2395">makes</mainVerb>
+    <mainReferent begin="2384" end="2389">ferry</mainReferent>
+    <tokens>The ferry makes fifty trips a day with an average of one hundred persons a trip</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_68" begin="2478" end="2481">
+    <text>did</text>
+    <mainVerb begin="2478" end="2481">did</mainVerb>
+    <mainReferent begin="2384" end="2389">ferry</mainReferent>
+    <tokens>The ferry never once did</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_69" begin="2488" end="2492">
+    <text>fail</text>
+    <mainVerb begin="2488" end="2492">fail</mainVerb>
+    <mainReferent begin="2482" end="2487">Wully</mainReferent>
+    <tokens>Wully fail to be on the gang-plank</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_70" begin="2522" end="2527">
+    <text>smell</text>
+    <mainVerb begin="2522" end="2527">smell</mainVerb>
+    <mainReferent begin="2384" end="2389">ferry</mainReferent>
+    <tokens>smell every pair of legs that crossed -- 5,000 pairs , 10,000 legs that day did Wully examine after his own fashion</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_71" begin="2552" end="2559">
+    <text>crossed</text>
+    <mainVerb begin="2552" end="2559">crossed</mainVerb>
+    <mainReferent begin="2542" end="2546">legs</mainReferent>
+    <tokens>legs crossed 5,000 pairs 10,000 legs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_72" begin="2596" end="2599">
+    <text>did</text>
+    <mainVerb begin="2596" end="2599">did</mainVerb>
+    <mainReferent begin="2592" end="2595">day</mainReferent>
+    <tokens>that day did</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_73" begin="2606" end="2613">
+    <text>examine</text>
+    <mainVerb begin="2606" end="2613">examine</mainVerb>
+    <mainReferent begin="2600" end="2605">Wully</mainReferent>
+    <tokens>Wully examine after his own fashion</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_74" begin="2690" end="2694">
+    <text>kept</text>
+    <mainVerb begin="2690" end="2694">kept</mainVerb>
+    <mainReferent begin="2650" end="2653">day</mainReferent>
+    <tokens>all the week he kept his post</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_75" begin="2709" end="2715">
+    <text>seemed</text>
+    <mainVerb begin="2709" end="2715">seemed</mainVerb>
+    <mainReferent begin="2650" end="2653">day</mainReferent>
+    <tokens>he seemed indifferent feeding himself</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_76" begin="2749" end="2753">
+    <text>Soon</text>
+    <mainVerb begin="2749" end="2753">Soon</mainVerb>
+    <tokens>Soon</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_77" begin="2775" end="2780">
+    <text>began</text>
+    <mainVerb begin="2775" end="2780">began</mainVerb>
+    <mainReferent begin="2754" end="2764">starvation</mainReferent>
+    <tokens>starvation worry began to tell on him</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_78" begin="2801" end="2805">
+    <text>grew</text>
+    <mainVerb begin="2801" end="2805">grew</mainVerb>
+    <mainReferent begin="2797" end="2799">He</mainReferent>
+    <tokens>He grew thin ill-tempered</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_79" begin="2842" end="2847">
+    <text>touch</text>
+    <mainVerb begin="2842" end="2847">touch</mainVerb>
+    <mainReferent begin="2832" end="2835">one</mainReferent>
+    <tokens>No one could touch him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_80" begin="2925" end="2931">
+    <text>roused</text>
+    <mainVerb begin="2925" end="2931">roused</mainVerb>
+    <mainReferent begin="2832" end="2835">one</mainReferent>
+    <tokens>any attempt to interfere with his daily occupation of leg-smelling roused him to desperation</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_81" begin="2993" end="3000">
+    <text>watched</text>
+    <mainVerb begin="2993" end="3000">watched</mainVerb>
+    <mainReferent begin="2987" end="2992">Wully</mainReferent>
+    <tokens>Day after day week after week Wully watched</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_82" begin="3005" end="3011">
+    <text>waited</text>
+    <mainVerb begin="3005" end="3011">waited</mainVerb>
+    <mainReferent begin="2987" end="2992">Wully</mainReferent>
+    <tokens>Wully waited for his master , who never came</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_83" begin="3039" end="3043">
+    <text>came</text>
+    <mainVerb begin="3039" end="3043">came</mainVerb>
+    <mainReferent begin="3020" end="3026">master</mainReferent>
+    <tokens>his master never came</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_84" begin="3059" end="3066">
+    <text>learned</text>
+    <mainVerb begin="3059" end="3066">learned</mainVerb>
+    <mainReferent begin="3055" end="3058">men</mainReferent>
+    <tokens>The ferry men learned to respect Wully fidelity</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_85" begin="3109" end="3116">
+    <text>scorned</text>
+    <mainVerb begin="3109" end="3116">scorned</mainVerb>
+    <mainReferent begin="3106" end="3108">he</mainReferent>
+    <tokens>At first he scorned their proffered food shelter</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_86" begin="3155" end="3160">
+    <text>lived</text>
+    <mainVerb begin="3155" end="3160">lived</mainVerb>
+    <mainReferent begin="3106" end="3108">he</mainReferent>
+    <tokens>he lived</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_87" begin="3168" end="3172">
+    <text>knew</text>
+    <mainVerb begin="3168" end="3172">knew</mainVerb>
+    <mainReferent begin="3164" end="3167">one</mainReferent>
+    <tokens>no one knew how</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_88" begin="3183" end="3190">
+    <text>starved</text>
+    <mainVerb begin="3183" end="3190">starved</mainVerb>
+    <mainReferent begin="3206" end="3208">he</mainReferent>
+    <tokens>starved to it at last</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_89" begin="3209" end="3217">
+    <text>accepted</text>
+    <mainVerb begin="3209" end="3217">accepted</mainVerb>
+    <mainReferent begin="3106" end="3108">he</mainReferent>
+    <tokens>he accepted the gifts</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_90" begin="3232" end="3239">
+    <text>learned</text>
+    <mainVerb begin="3232" end="3239">learned</mainVerb>
+    <mainReferent begin="3206" end="3208">he</mainReferent>
+    <tokens>he learned to tolerate the givers</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_91" begin="3315" end="3318">
+    <text>was</text>
+    <mainVerb begin="3315" end="3318">was</mainVerb>
+    <mainReferent begin="3308" end="3313">heart</mainReferent>
+    <tokens>Although embittered against the world his heart was to his worthless master</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_92" begin="3380" end="3384">
+    <text>made</text>
+    <mainVerb begin="3380" end="3384">made</mainVerb>
+    <mainReferent begin="3378" end="3379">I</mainReferent>
+    <tokens>Fourteen months afterward I made his acquaintance</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_93" begin="3406" end="3409">
+    <text>was</text>
+    <mainVerb begin="3406" end="3409">was</mainVerb>
+    <mainReferent begin="3403" end="3405">He</mainReferent>
+    <tokens>He was still on rigid duty at his post</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_94" begin="3451" end="3459">
+    <text>regained</text>
+    <mainVerb begin="3451" end="3459">regained</mainVerb>
+    <mainReferent begin="3444" end="3446">He</mainReferent>
+    <tokens>He had regained his good looks</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_95" begin="3499" end="3502">
+    <text>set</text>
+    <mainVerb begin="3499" end="3502">set</mainVerb>
+    <mainReferent begin="3493" end="3497">face</mainReferent>
+    <tokens>set off his white ruff pricked ears</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_96" begin="3542" end="3546">
+    <text>made</text>
+    <mainVerb begin="3542" end="3546">made</mainVerb>
+    <mainReferent begin="3493" end="3497">face</mainReferent>
+    <tokens>His bright keen face made a dog to catch the eye anywhere</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_97" begin="3588" end="3592">
+    <text>gave</text>
+    <mainVerb begin="3588" end="3592">gave</mainVerb>
+    <mainReferent begin="3585" end="3587">he</mainReferent>
+    <tokens>he gave me no second glance in spite of my friendly overtures during the ten months following that he continued his watch</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_98" begin="3622" end="3627">
+    <text>found</text>
+    <mainVerb begin="3622" end="3627">found</mainVerb>
+    <mainReferent begin="3619" end="3621">he</mainReferent>
+    <tokens>once he found</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_99" begin="3636" end="3640">
+    <text>were</text>
+    <mainVerb begin="3636" end="3640">were</mainVerb>
+    <mainReferent begin="3631" end="3635">legs</mainReferent>
+    <tokens>my legs were not</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_100" begin="3655" end="3661">
+    <text>sought</text>
+    <mainVerb begin="3655" end="3661">sought</mainVerb>
+    <mainReferent begin="3652" end="3654">he</mainReferent>
+    <tokens>he sought</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_101" begin="3724" end="3733">
+    <text>following</text>
+    <mainVerb begin="3724" end="3733">following</mainVerb>
+    <mainReferent begin="3717" end="3723">months</mainReferent>
+    <tokens>following</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_102" begin="3742" end="3751">
+    <text>continued</text>
+    <mainVerb begin="3742" end="3751">continued</mainVerb>
+    <mainReferent begin="3739" end="3741">he</mainReferent>
+    <tokens>that he continued his watch</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_103" begin="3765" end="3768">
+    <text>got</text>
+    <mainVerb begin="3765" end="3768">got</mainVerb>
+    <mainReferent begin="3763" end="3764">I</mainReferent>
+    <tokens>I got no farther into his confidence than any other stranger</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_104" begin="3875" end="3881">
+    <text>attend</text>
+    <mainVerb begin="3875" end="3881">attend</mainVerb>
+    <mainReferent begin="3843" end="3848">years</mainReferent>
+    <tokens>For two whole years did this devoted creature attend that ferry</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_105" begin="3901" end="3904">
+    <text>was</text>
+    <mainVerb begin="3901" end="3904">was</mainVerb>
+    <mainReferent begin="3914" end="3919">thing</mainReferent>
+    <tokens>There was only one thing to prevent him going home to the hills , not the distance the conviction</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_106" begin="4004" end="4008">
+    <text>lost</text>
+    <mainVerb begin="4004" end="4008">lost</mainVerb>
+    <mainReferent begin="3986" end="3992">chance</mainReferent>
+    <tokens>the chance getting lost the conviction</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_107" begin="4061" end="4067">
+    <text>wished</text>
+    <mainVerb begin="4061" end="4067">wished</mainVerb>
+    <mainReferent begin="4034" end="4039">Robin</mainReferent>
+    <tokens>that Robin the godlike Robin wished him to stay by the ferry</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="wild_animals_i_have_known_49.txt_108" begin="4101" end="4107">
+    <text>stayed</text>
+    <mainVerb begin="4101" end="4107">stayed</mainVerb>
+    <mainReferent begin="3914" end="3919">thing</mainReferent>
+    <tokens>he stayed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+</document>

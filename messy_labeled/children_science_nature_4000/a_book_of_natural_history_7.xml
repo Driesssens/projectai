@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="a_book_of_natural_history_7.txt_1" begin="25" end="31">
+    <text>speaks</text>
+    <mainVerb begin="25" end="31">speaks</mainVerb>
+    <mainReferent begin="8" end="14">Martin</mainReferent>
+    <tokens>Mr. Martin also speaks from direct observation</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_2" begin="57" end="61">
+    <text>says</text>
+    <mainVerb begin="57" end="61">says</mainVerb>
+    <mainReferent begin="8" end="14">Martin</mainReferent>
+    <tokens>Mr. Martin says of the Gibbons generally " the Gibbons embarrassed on a level surface</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_3" begin="107" end="116">
+    <text>qualified</text>
+    <mainVerb begin="107" end="116">qualified</mainVerb>
+    <mainReferent begin="93" end="106">Pre-eminently</mainReferent>
+    <tokens>Pre-eminently qualified for arboreal habits</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_4" begin="142" end="152">
+    <text>displaying</text>
+    <mainVerb begin="142" end="152">displaying</mainVerb>
+    <mainReferent begin="195" end="202">Gibbons</mainReferent>
+    <tokens>displaying among the branches amazing activity</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_5" begin="203" end="206">
+    <text>are</text>
+    <mainVerb begin="203" end="206">are</mainVerb>
+    <mainReferent begin="195" end="202">Gibbons</mainReferent>
+    <tokens>the Gibbons are not so embarrassed on a level surface</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_6" begin="269" end="277">
+    <text>imagined</text>
+    <mainVerb begin="269" end="277">imagined</mainVerb>
+    <tokens>as might be imagined</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_7" begin="284" end="288">
+    <text>walk</text>
+    <mainVerb begin="284" end="288">walk</mainVerb>
+    <mainReferent begin="279" end="283">They</mainReferent>
+    <tokens>They walk</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_8" begin="289" end="294">
+    <text>erect</text>
+    <mainVerb begin="289" end="294">erect</mainVerb>
+    <tokens>erect with a waddling or unsteady gait at a quick pace , the equilibrium of the body requiring to be kept up , either by touching the ground with the knuckles , first on one side then on the other , or by uplifting the arms so as to poise it</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_9" begin="380" end="389">
+    <text>requiring</text>
+    <mainVerb begin="380" end="389">requiring</mainVerb>
+    <mainReferent begin="375" end="379">body</mainReferent>
+    <tokens>requiring to be kept up</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_10" begin="612" end="618">
+    <text>placed</text>
+    <mainVerb begin="612" end="618">placed</mainVerb>
+    <mainReferent begin="566" end="571">whole</mainReferent>
+    <tokens>As with the Chimpanzee the whole of the narrow , long sole of the foot is placed upon the ground at once "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_11" begin="649" end="655">
+    <text>raised</text>
+    <mainVerb begin="649" end="655">raised</mainVerb>
+    <mainReferent begin="566" end="571">whole</mainReferent>
+    <tokens>the whole of the narrow , long sole of the foot raised at once without any elasticity of step</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_12" begin="783" end="790">
+    <text>doubted</text>
+    <mainVerb begin="783" end="790">doubted</mainVerb>
+    <mainReferent begin="758" end="760">it</mainReferent>
+    <tokens>After this mass of concurrent and independent testimony it can not reasonably be doubted</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_13" begin="832" end="838">
+    <text>assume</text>
+    <mainVerb begin="832" end="838">assume</mainVerb>
+    <mainReferent begin="821" end="831">habitually</mainReferent>
+    <tokens>that the Gibbons commonly habitually assume the erect attitude</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_14" begin="880" end="882">
+    <text>is</text>
+    <mainVerb begin="880" end="882">is</mainVerb>
+    <mainReferent begin="873" end="879">ground</mainReferent>
+    <tokens>But level ground is not the that prodigious activity to rank them among flying among ordinary climbing mammals</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_15" begin="921" end="928">
+    <text>display</text>
+    <mainVerb begin="921" end="928">display</mainVerb>
+    <mainReferent begin="909" end="916">animals</mainReferent>
+    <tokens>where these animals can display their very remarkable peculiar locomotive powers that prodigious activity to rank them among flying among ordinary climbing mammals</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_16" begin="1027" end="1033">
+    <text>tempts</text>
+    <mainVerb begin="1027" end="1033">tempts</mainVerb>
+    <mainReferent begin="1005" end="1013">activity</mainReferent>
+    <tokens>prodigious activity almost tempts one</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_17" begin="1129" end="1134">
+    <text>given</text>
+    <mainVerb begin="1129" end="1134">given</mainVerb>
+    <mainReferent begin="1118" end="1124">Martin</mainReferent>
+    <tokens>Mr. Martin has given so excellent graphic an account of the movements of a _ Hylobates agilis _ , living in the Zoölogical Gardens , in 1840 "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_18" begin="1214" end="1220">
+    <text>living</text>
+    <mainVerb begin="1214" end="1220">living</mainVerb>
+    <mainReferent begin="1211" end="1212">_</mainReferent>
+    <tokens>living in the Zoölogical Gardens</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_19" begin="1270" end="1275">
+    <text>quote</text>
+    <mainVerb begin="1270" end="1275">quote</mainVerb>
+    <mainReferent begin="1263" end="1264">I</mainReferent>
+    <tokens>that I will quote it in full</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_20" begin="1295" end="1297">
+    <text>is</text>
+    <mainVerb begin="1295" end="1297">is</mainVerb>
+    <mainReferent begin="1292" end="1294">It</mainReferent>
+    <tokens>It is almost to convey in words an idea of the quickness and graceful address of her movements</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_21" begin="1419" end="1425">
+    <text>termed</text>
+    <mainVerb begin="1419" end="1425">termed</mainVerb>
+    <mainReferent begin="1400" end="1404">they</mainReferent>
+    <tokens>they may indeed be termed aërial</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_22" begin="1442" end="1447">
+    <text>seems</text>
+    <mainVerb begin="1442" end="1447">seems</mainVerb>
+    <mainReferent begin="1438" end="1441">she</mainReferent>
+    <tokens>as she seems merely to touch in her progress the branches</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_23" begin="1510" end="1518">
+    <text>exhibits</text>
+    <mainVerb begin="1510" end="1518">exhibits</mainVerb>
+    <mainReferent begin="1484" end="1492">branches</mainReferent>
+    <tokens>which she exhibits her evolutions</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_24" begin="1570" end="1573">
+    <text>are</text>
+    <mainVerb begin="1570" end="1573">are</mainVerb>
+    <mainReferent begin="1554" end="1559">hands</mainReferent>
+    <tokens>In these feats her hands arms are the sole of locomotion</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_25" begin="1615" end="1622">
+    <text>hanging</text>
+    <mainVerb begin="1615" end="1622">hanging</mainVerb>
+    <mainReferent begin="1609" end="1613">body</mainReferent>
+    <tokens>hanging</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_26" begin="1630" end="1639">
+    <text>suspended</text>
+    <mainVerb begin="1630" end="1639">suspended</mainVerb>
+    <tokens>as if suspended by a rope</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_27" begin="1651" end="1660">
+    <text>sustained</text>
+    <mainVerb begin="1651" end="1660">sustained</mainVerb>
+    <mainReferent begin="1609" end="1613">body</mainReferent>
+    <tokens>her body sustained by one hand ( the right , for example )</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_28" begin="1704" end="1712">
+    <text>launches</text>
+    <mainVerb begin="1704" end="1712">launches</mainVerb>
+    <mainReferent begin="1700" end="1703">she</mainReferent>
+    <tokens>she launches herself by an energetic movement to a distant branch , which she catches with the left hand</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_29" begin="1780" end="1787">
+    <text>catches</text>
+    <mainVerb begin="1780" end="1787">catches</mainVerb>
+    <mainReferent begin="1776" end="1779">she</mainReferent>
+    <tokens>a distant branch she catches with the left hand</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_30" begin="1821" end="1823">
+    <text>is</text>
+    <mainVerb begin="1821" end="1823">is</mainVerb>
+    <mainReferent begin="1816" end="1820">hold</mainReferent>
+    <tokens>but her hold is less than</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_31" begin="1881" end="1889">
+    <text>acquired</text>
+    <mainVerb begin="1881" end="1889">acquired</mainVerb>
+    <mainReferent begin="1850" end="1857">impulse</mainReferent>
+    <tokens>the impulse for the next launch is acquired</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_32" begin="1908" end="1913">
+    <text>aimed</text>
+    <mainVerb begin="1908" end="1913">aimed</mainVerb>
+    <mainReferent begin="1895" end="1901">branch</mainReferent>
+    <tokens>then aimed at</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_33" begin="1920" end="1928">
+    <text>attained</text>
+    <mainVerb begin="1920" end="1928">attained</mainVerb>
+    <mainReferent begin="1895" end="1901">branch</mainReferent>
+    <tokens>the branch is attained the right hand again</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_34" begin="1958" end="1965">
+    <text>quitted</text>
+    <mainVerb begin="1958" end="1965">quitted</mainVerb>
+    <mainReferent begin="1895" end="1901">branch</mainReferent>
+    <tokens>the branch quitted instantaneously so on in alternate succession</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_35" begin="2075" end="2082">
+    <text>cleared</text>
+    <mainVerb begin="2075" end="2082">cleared</mainVerb>
+    <mainReferent begin="2036" end="2042">spaces</mainReferent>
+    <tokens>In this manner spaces of twelve and eighteen feet are cleared with the greatest ease and uninterruptedly for hours together without the slightest appearance of fatigue being manifested</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_36" begin="2200" end="2210">
+    <text>manifested</text>
+    <mainVerb begin="2200" end="2210">manifested</mainVerb>
+    <mainReferent begin="2186" end="2193">fatigue</mainReferent>
+    <tokens>being manifested</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_37" begin="2219" end="2221">
+    <text>is</text>
+    <mainVerb begin="2219" end="2221">is</mainVerb>
+    <mainReferent begin="2216" end="2218">it</mainReferent>
+    <tokens>it is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_38" begin="2260" end="2267">
+    <text>allowed</text>
+    <mainVerb begin="2260" end="2267">allowed</mainVerb>
+    <mainReferent begin="2245" end="2250">space</mainReferent>
+    <tokens>if more space could be allowed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_39" begin="2336" end="2343">
+    <text>cleared</text>
+    <mainVerb begin="2336" end="2343">cleared</mainVerb>
+    <mainReferent begin="2312" end="2316">feet</mainReferent>
+    <tokens>that distances very greatly exceeding eighteen feet would be as easily cleared</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_40" begin="2387" end="2391">
+    <text>seen</text>
+    <mainVerb begin="2387" end="2391">seen</mainVerb>
+    <mainReferent begin="2379" end="2381">he</mainReferent>
+    <tokens>that he has seen these animals</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_41" begin="2406" end="2412">
+    <text>launch</text>
+    <mainVerb begin="2406" end="2412">launch</mainVerb>
+    <mainReferent begin="2364" end="2373">assertion</mainReferent>
+    <tokens>so that Duvaucel assertion launch themselves from one branch to another</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_42" begin="2489" end="2491">
+    <text>is</text>
+    <mainVerb begin="2489" end="2491">is</mainVerb>
+    <mainReferent begin="2473" end="2482">startling</mainReferent>
+    <tokens>as it is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_43" begin="2505" end="2513">
+    <text>credited</text>
+    <mainVerb begin="2505" end="2513">credited</mainVerb>
+    <mainReferent begin="2464" end="2471">asunder</mainReferent>
+    <tokens>forty feet asunder startling may be well credited</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_44" begin="2573" end="2578">
+    <text>throw</text>
+    <mainVerb begin="2573" end="2578">throw</mainVerb>
+    <mainReferent begin="2564" end="2567">she</mainReferent>
+    <tokens>Sometimes seizing a branch in her progress she will throw herself by the power of one arm only</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_45" begin="2630" end="2635">
+    <text>round</text>
+    <mainVerb begin="2630" end="2635">round</mainVerb>
+    <mainReferent begin="2573" end="2578">throw</mainReferent>
+    <tokens>completely round it</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_46" begin="2640" end="2646">
+    <text>making</text>
+    <mainVerb begin="2640" end="2646">making</mainVerb>
+    <mainReferent begin="2564" end="2567">she</mainReferent>
+    <tokens>making a revolution with such rapidity as almost to deceive the eye</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_47" begin="2715" end="2723">
+    <text>continue</text>
+    <mainVerb begin="2715" end="2723">continue</mainVerb>
+    <mainReferent begin="2683" end="2689">almost</mainReferent>
+    <tokens>continue her progress with undiminished velocity</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_48" begin="2768" end="2770">
+    <text>is</text>
+    <mainVerb begin="2768" end="2770">is</mainVerb>
+    <mainReferent begin="2765" end="2767">It</mainReferent>
+    <tokens>It is to observe</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_49" begin="2821" end="2825">
+    <text>stop</text>
+    <mainVerb begin="2821" end="2825">stop</mainVerb>
+    <mainReferent begin="2810" end="2816">Gibbon</mainReferent>
+    <tokens>how suddenly this Gibbon can stop</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_50" begin="2844" end="2850">
+    <text>giving</text>
+    <mainVerb begin="2844" end="2850">giving</mainVerb>
+    <mainReferent begin="2836" end="2843">impetus</mainReferent>
+    <tokens>giving the rapidity distance of her swinging leaps</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_51" begin="2909" end="2913">
+    <text>seem</text>
+    <mainVerb begin="2909" end="2913">seem</mainVerb>
+    <mainReferent begin="2836" end="2843">impetus</mainReferent>
+    <tokens>when the impetus would seem to require a gradual abatement of her movements</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_52" begin="3009" end="3015">
+    <text>seized</text>
+    <mainVerb begin="3009" end="3015">seized</mainVerb>
+    <mainReferent begin="2999" end="3005">branch</mainReferent>
+    <tokens>In the very midst of her flight a branch is seized</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_53" begin="3026" end="3032">
+    <text>raised</text>
+    <mainVerb begin="3026" end="3032">raised</mainVerb>
+    <mainReferent begin="3009" end="3015">seized</mainReferent>
+    <tokens>the body raised</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_54" begin="3045" end="3049">
+    <text>seen</text>
+    <mainVerb begin="3045" end="3049">seen</mainVerb>
+    <mainReferent begin="2999" end="3005">branch</mainReferent>
+    <tokens>she is seen as magic</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_55" begin="3076" end="3082">
+    <text>seated</text>
+    <mainVerb begin="3076" end="3082">seated</mainVerb>
+    <mainReferent begin="3045" end="3049">seen</mainReferent>
+    <tokens>quietly seated on it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_56" begin="3090" end="3098">
+    <text>grasping</text>
+    <mainVerb begin="3090" end="3098">grasping</mainVerb>
+    <mainReferent begin="3038" end="3041">she</mainReferent>
+    <tokens>grasping it with her feet</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_57" begin="3140" end="3146">
+    <text>throws</text>
+    <mainVerb begin="3140" end="3146">throws</mainVerb>
+    <mainReferent begin="3129" end="3132">she</mainReferent>
+    <tokens>As suddenly she again throws herself into action "</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_58" begin="3197" end="3203">
+    <text>convey</text>
+    <mainVerb begin="3197" end="3203">convey</mainVerb>
+    <mainReferent begin="3186" end="3191">facts</mainReferent>
+    <tokens>The following facts will convey some notion of her dexterity and quickness</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_59" begin="3265" end="3268">
+    <text>let</text>
+    <mainVerb begin="3265" end="3268">let</mainVerb>
+    <mainReferent begin="3256" end="3260">bird</mainReferent>
+    <tokens>A live bird was let loose in her apartment</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_60" begin="3297" end="3303">
+    <text>marked</text>
+    <mainVerb begin="3297" end="3303">marked</mainVerb>
+    <mainReferent begin="3293" end="3296">she</mainReferent>
+    <tokens>she marked</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_61" begin="3317" end="3321">
+    <text>made</text>
+    <mainVerb begin="3317" end="3321">made</mainVerb>
+    <mainReferent begin="3309" end="3315">flight</mainReferent>
+    <tokens>made a long swing to a distant branch</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_62" begin="3356" end="3362">
+    <text>caught</text>
+    <mainVerb begin="3356" end="3362">caught</mainVerb>
+    <mainReferent begin="3309" end="3315">flight</mainReferent>
+    <tokens>caught the bird with one hand in her passage</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_63" begin="3407" end="3415">
+    <text>attained</text>
+    <mainVerb begin="3407" end="3415">attained</mainVerb>
+    <mainReferent begin="3309" end="3315">flight</mainReferent>
+    <tokens>attained the branch with her other hand , her aim , both at the bird the branch</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_64" begin="3541" end="3548">
+    <text>engaged</text>
+    <mainVerb begin="3541" end="3548">engaged</mainVerb>
+    <mainReferent begin="3309" end="3315">flight</mainReferent>
+    <tokens>if one object only had engaged her attention</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_65" begin="3574" end="3579">
+    <text>added</text>
+    <mainVerb begin="3574" end="3579">added</mainVerb>
+    <mainReferent begin="3564" end="3566">It</mainReferent>
+    <tokens>It may be added</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_66" begin="3600" end="3603">
+    <text>bit</text>
+    <mainVerb begin="3600" end="3603">bit</mainVerb>
+    <mainReferent begin="3585" end="3588">she</mainReferent>
+    <tokens>that she instantly bit</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_67" begin="3604" end="3607">
+    <text>off</text>
+    <mainVerb begin="3604" end="3607">off</mainVerb>
+    <tokens>off the head of the bird</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_68" begin="3630" end="3636">
+    <text>picked</text>
+    <mainVerb begin="3630" end="3636">picked</mainVerb>
+    <mainReferent begin="3585" end="3588">she</mainReferent>
+    <tokens>she picked its feathers</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_69" begin="3661" end="3666">
+    <text>threw</text>
+    <mainVerb begin="3661" end="3666">threw</mainVerb>
+    <mainReferent begin="3585" end="3588">she</mainReferent>
+    <tokens>she then threw it down attempting to eat it</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_70" begin="3741" end="3746">
+    <text>swung</text>
+    <mainVerb begin="3741" end="3746">swung</mainVerb>
+    <mainReferent begin="3734" end="3740">animal</mainReferent>
+    <tokens>" On another occasion this animal swung herself from a perch across a passage at least twelve feet wide , against a window which it was thought would be immediately broken : but not so "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_71" begin="3845" end="3852">
+    <text>thought</text>
+    <mainVerb begin="3845" end="3852">thought</mainVerb>
+    <mainReferent begin="3837" end="3839">it</mainReferent>
+    <tokens>a window it was thought</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_72" begin="3874" end="3880">
+    <text>broken</text>
+    <mainVerb begin="3874" end="3880">broken</mainVerb>
+    <tokens>would be immediately broken</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_73" begin="3923" end="3929">
+    <text>caught</text>
+    <mainVerb begin="3923" end="3929">caught</mainVerb>
+    <mainReferent begin="3919" end="3922">she</mainReferent>
+    <tokens>to the surprise of all she caught the narrow framework between the panes with her hand in an instant attained the proper impetus , and sprang back again to the cage she had left -- a feat requiring not only great strength , but the nicest precision</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_74" begin="3999" end="4007">
+    <text>attained</text>
+    <mainVerb begin="3999" end="4007">attained</mainVerb>
+    <mainReferent begin="3991" end="3998">instant</mainReferent>
+    <tokens>attained the proper impetus</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_75" begin="4032" end="4038">
+    <text>sprang</text>
+    <mainVerb begin="4032" end="4038">sprang</mainVerb>
+    <mainReferent begin="3991" end="3998">instant</mainReferent>
+    <tokens>sprang back again to the cage she had left a feat requiring not only great strength the nicest precision</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_7.txt_76" begin="4071" end="4075">
+    <text>left</text>
+    <mainVerb begin="4071" end="4075">left</mainVerb>
+    <mainReferent begin="4063" end="4066">she</mainReferent>
+    <tokens>she had left</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+</document>

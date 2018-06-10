@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_1" begin="7" end="12">
+    <text>would</text>
+    <mainVerb begin="7" end="12">would</mainVerb>
+    <tokens>would</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_2" begin="41" end="45">
+    <text>done</text>
+    <mainVerb begin="41" end="45">done</mainVerb>
+    <mainReferent begin="34" end="36">he</mainReferent>
+    <tokens>that he has done</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_3" begin="64" end="68">
+    <text>stop</text>
+    <mainVerb begin="64" end="68">stop</mainVerb>
+    <mainReferent begin="47" end="49">he</mainReferent>
+    <tokens>If man right the wrong he must not only stop</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_4" begin="70" end="80">
+    <text>destroying</text>
+    <mainVerb begin="70" end="80">destroying</mainVerb>
+    <tokens>destroying the birds</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_5" begin="104" end="108">
+    <text>take</text>
+    <mainVerb begin="104" end="108">take</mainVerb>
+    <mainReferent begin="47" end="49">he</mainReferent>
+    <tokens>he must take all possible means to preserve them to protect them from their natural foes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_6" begin="229" end="235">
+    <text>passed</text>
+    <mainVerb begin="229" end="235">passed</mainVerb>
+    <mainReferent begin="194" end="198">Laws</mainReferent>
+    <tokens>Laws for bird protection have been passed in many of our states</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_7" begin="280" end="285">
+    <text>found</text>
+    <mainVerb begin="280" end="285">found</mainVerb>
+    <mainReferent begin="194" end="198">Laws</mainReferent>
+    <tokens>these have been found effective</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_8" begin="321" end="327">
+    <text>needed</text>
+    <mainVerb begin="321" end="327">needed</mainVerb>
+    <mainReferent begin="307" end="311">they</mainReferent>
+    <tokens>only where they were not needed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_9" begin="335" end="338">
+    <text>are</text>
+    <mainVerb begin="335" end="338">are</mainVerb>
+    <mainReferent begin="340" end="347">however</mainReferent>
+    <tokens>They are however</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_10" begin="365" end="369">
+    <text>help</text>
+    <mainVerb begin="365" end="369">help</mainVerb>
+    <mainReferent begin="329" end="333">They</mainReferent>
+    <tokens>They will help in the development of correct sentiment</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_11" begin="425" end="431">
+    <text>needed</text>
+    <mainVerb begin="425" end="431">needed</mainVerb>
+    <mainReferent begin="412" end="416">What</mainReferent>
+    <tokens>What is most needed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_12" begin="432" end="434">
+    <text>is</text>
+    <mainVerb begin="432" end="434">is</mainVerb>
+    <mainReferent begin="425" end="431">needed</mainReferent>
+    <tokens>is of the birds themselves their modes of life their curious ways their relations to the scheme of things</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_13" begin="573" end="575">
+    <text>is</text>
+    <mainVerb begin="573" end="575">is</mainVerb>
+    <mainReferent begin="561" end="565">know</mainReferent>
+    <tokens>To know a bird is to love him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_14" begin="595" end="598">
+    <text>are</text>
+    <mainVerb begin="595" end="598">are</mainVerb>
+    <mainReferent begin="589" end="594">Birds</mainReferent>
+    <tokens>Birds are beautiful interesting of study</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_15" begin="648" end="652">
+    <text>make</text>
+    <mainVerb begin="648" end="652">make</mainVerb>
+    <mainReferent begin="626" end="633">objects</mainReferent>
+    <tokens>Birds make appeals to children that are responded to with delight</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_16" begin="683" end="692">
+    <text>responded</text>
+    <mainVerb begin="683" end="692">responded</mainVerb>
+    <mainReferent begin="664" end="672">children</mainReferent>
+    <tokens>children are responded with delight</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_17" begin="722" end="726">
+    <text>love</text>
+    <mainVerb begin="722" end="726">love</mainVerb>
+    <mainReferent begin="713" end="721">Children</mainReferent>
+    <tokens>Children love intensely the forms of nature the clouds the trees the flowers the animals all of the great beautiful world outside of themselves</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_18" begin="872" end="874">
+    <text>is</text>
+    <mainVerb begin="872" end="874">is</mainVerb>
+    <mainReferent begin="869" end="871">it</mainReferent>
+    <tokens>it is their to become</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_19" begin="899" end="909">
+    <text>acquainted</text>
+    <mainVerb begin="899" end="909">acquainted</mainVerb>
+    <tokens>acquainted with this world</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_20" begin="942" end="946">
+    <text>feel</text>
+    <mainVerb begin="942" end="946">feel</mainVerb>
+    <mainReferent begin="713" end="721">Children</mainReferent>
+    <tokens>for this they feel enthusiasm love</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_21" begin="1045" end="1051">
+    <text>recite</text>
+    <mainVerb begin="1045" end="1051">recite</mainVerb>
+    <mainReferent begin="1010" end="1015">Scott</mainReferent>
+    <tokens>Scott at the age of six could recite passages from Shakespeare and Burns</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_22" begin="1118" end="1121">
+    <text>sob</text>
+    <mainVerb begin="1118" end="1121">sob</mainVerb>
+    <mainReferent begin="1107" end="1111">bard</mainReferent>
+    <tokens>so that the great bard would sob like a child</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_23" begin="1139" end="1144">
+    <text>shout</text>
+    <mainVerb begin="1139" end="1144">shout</mainVerb>
+    <mainReferent begin="1107" end="1111">bard</mainReferent>
+    <tokens>the great bard shout with laughter</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_24" begin="1167" end="1172">
+    <text>taken</text>
+    <mainVerb begin="1167" end="1172">taken</mainVerb>
+    <mainReferent begin="977" end="984">Fleming</mainReferent>
+    <tokens>Marjorie Fleming the little playmate of Scott , who at the age of six could recite passages from Shakespeare and Burns so that the great bard would sob like a child or shout with laughter may be taken as the universal voice of childhood</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_25" begin="1215" end="1221">
+    <text>writes</text>
+    <mainVerb begin="1215" end="1221">writes</mainVerb>
+    <mainReferent begin="1211" end="1214">She</mainReferent>
+    <tokens>She writes in her diary " "</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_26" begin="1242" end="1247">
+    <text>going</text>
+    <mainVerb begin="1242" end="1247">going</mainVerb>
+    <mainReferent begin="1237" end="1238">I</mainReferent>
+    <tokens>I am going to a delightful place where there is ducks , cocks , hens , bubblejacks , two dogs , two cats and swine which is delightful</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_27" begin="1283" end="1285">
+    <text>is</text>
+    <mainVerb begin="1283" end="1285">is</mainVerb>
+    <mainReferent begin="1300" end="1304">hens</mainReferent>
+    <tokens>where there is ducks cocks hens bubblejacks two dogs two cats swine</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_28" begin="1355" end="1357">
+    <text>is</text>
+    <mainVerb begin="1355" end="1357">is</mainVerb>
+    <mainReferent begin="1343" end="1348">swine</mainReferent>
+    <tokens>swine is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_29" begin="1392" end="1396">
+    <text>says</text>
+    <mainVerb begin="1392" end="1396">says</mainVerb>
+    <mainReferent begin="1422" end="1430">pleasant</mainReferent>
+    <tokens>she says</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_30" begin="1408" end="1410">
+    <text>is</text>
+    <mainVerb begin="1408" end="1410">is</mainVerb>
+    <mainReferent begin="1399" end="1407">Braehead</mainReferent>
+    <tokens>In another place " Braehead is extremely to me by the company of swine , geese , cocks , etc. "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_31" begin="1492" end="1495">
+    <text>are</text>
+    <mainVerb begin="1492" end="1495">are</mainVerb>
+    <mainReferent begin="1487" end="1491">they</mainReferent>
+    <tokens>they are the of my soul</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_32" begin="1573" end="1582">
+    <text>commented</text>
+    <mainVerb begin="1573" end="1582">commented</mainVerb>
+    <mainReferent begin="1528" end="1533">waste</mainReferent>
+    <tokens>The waste of time in our public schools has been commented</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_33" begin="1583" end="1587">
+    <text>upon</text>
+    <mainVerb begin="1583" end="1587">upon</mainVerb>
+    <tokens>upon</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_34" begin="1622" end="1629">
+    <text>pointed</text>
+    <mainVerb begin="1622" end="1629">pointed</mainVerb>
+    <mainReferent begin="1528" end="1533">waste</mainReferent>
+    <tokens>some of the causes have been pointed out</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_35" begin="1639" end="1641">
+    <text>is</text>
+    <mainVerb begin="1639" end="1641">is</mainVerb>
+    <mainReferent begin="1528" end="1533">waste</mainReferent>
+    <tokens>is not the chief reason</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_36" begin="1709" end="1711">
+    <text>is</text>
+    <mainVerb begin="1709" end="1711">is</mainVerb>
+    <mainReferent begin="1678" end="1682">much</mainReferent>
+    <tokens>the fact that much of the work of the school is to the world of the child</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_37" begin="1778" end="1781">
+    <text>see</text>
+    <mainVerb begin="1778" end="1781">see</mainVerb>
+    <mainReferent begin="1763" end="1768">child</mainReferent>
+    <tokens>At least the child does not see the connection</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_38" begin="1802" end="1808">
+    <text>leaves</text>
+    <mainVerb begin="1802" end="1808">leaves</mainVerb>
+    <mainReferent begin="1798" end="1800">He</mainReferent>
+    <tokens>He leaves at the threshold the things desires intensely to investigate with " the three R 's "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_39" begin="1846" end="1851">
+    <text>loves</text>
+    <mainVerb begin="1846" end="1851">loves</mainVerb>
+    <mainReferent begin="1843" end="1845">he</mainReferent>
+    <tokens>the things he loves desires intensely to investigate</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_40" begin="1895" end="1901">
+    <text>begins</text>
+    <mainVerb begin="1895" end="1901">begins</mainVerb>
+    <mainReferent begin="1798" end="1800">He</mainReferent>
+    <tokens>He begins his intellectual development with abstractions</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_41" begin="1979" end="1983">
+    <text>said</text>
+    <mainVerb begin="1979" end="1983">said</mainVerb>
+    <mainReferent begin="1973" end="1975">It</mainReferent>
+    <tokens>It is said</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_42" begin="2006" end="2013">
+    <text>succeed</text>
+    <mainVerb begin="2006" end="2013">succeed</mainVerb>
+    <mainReferent begin="1989" end="1997">teachers</mainReferent>
+    <tokens>that teachers can not succeed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_43" begin="2026" end="2030">
+    <text>love</text>
+    <mainVerb begin="2026" end="2030">love</mainVerb>
+    <mainReferent begin="2021" end="2025">they</mainReferent>
+    <tokens>unless they love their work</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_44" begin="2054" end="2060">
+    <text>expect</text>
+    <mainVerb begin="2054" end="2060">expect</mainVerb>
+    <mainReferent begin="2051" end="2053">we</mainReferent>
+    <tokens>How can we expect children to succeed not time</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_45" begin="2090" end="2095">
+    <text>waste</text>
+    <mainVerb begin="2090" end="2095">waste</mainVerb>
+    <mainReferent begin="2074" end="2081">succeed</mainReferent>
+    <tokens>waste</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_46" begin="2106" end="2112">
+    <text>become</text>
+    <mainVerb begin="2106" end="2112">become</mainVerb>
+    <mainReferent begin="2074" end="2081">succeed</mainReferent>
+    <tokens>not become</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_47" begin="2113" end="2125">
+    <text>disheartened</text>
+    <mainVerb begin="2113" end="2125">disheartened</mainVerb>
+    <tokens>disheartened at work</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_48" begin="2160" end="2168">
+    <text>discover</text>
+    <mainVerb begin="2160" end="2168">discover</mainVerb>
+    <mainReferent begin="2151" end="2155">they</mainReferent>
+    <tokens>so far as they can discover</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_49" begin="2170" end="2173">
+    <text>has</text>
+    <mainVerb begin="2170" end="2173">has</mainVerb>
+    <tokens>that has little more relation to their interests than to the mountains of the moon</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_50" begin="2256" end="2260">
+    <text>look</text>
+    <mainVerb begin="2256" end="2260">look</mainVerb>
+    <mainReferent begin="2253" end="2255">We</mainReferent>
+    <tokens>We look to nature study to supply the missing links between the child 's life and his school work to afford opportunities for the interested observation of things to furnish a strong impulse toward expression</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_51" begin="2488" end="2492">
+    <text>said</text>
+    <mainVerb begin="2488" end="2492">said</mainVerb>
+    <mainReferent begin="2471" end="2473">It</mainReferent>
+    <tokens>It has been well said</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_52" begin="2538" end="2540">
+    <text>is</text>
+    <mainVerb begin="2538" end="2540">is</mainVerb>
+    <mainReferent begin="2507" end="2513">result</mainReferent>
+    <tokens>that the best result of the primary schools is the to use correctly one own language</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_53" begin="2641" end="2643">
+    <text>is</text>
+    <mainVerb begin="2641" end="2643">is</mainVerb>
+    <mainReferent begin="2599" end="2607">obstacle</mainReferent>
+    <tokens>The chief obstacle in the development of this power is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_54" begin="2648" end="2652">
+    <text>want</text>
+    <mainVerb begin="2648" end="2652">want</mainVerb>
+    <tokens>want of an impulse to express</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_55" begin="2689" end="2695">
+    <text>afford</text>
+    <mainVerb begin="2689" end="2695">afford</mainVerb>
+    <mainReferent begin="2680" end="2684">What</mainReferent>
+    <tokens>What can afford a stronger tendency to describe than the attempt to report observations that have been made with interest even with delight</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_56" begin="2784" end="2788">
+    <text>made</text>
+    <mainVerb begin="2784" end="2788">made</mainVerb>
+    <mainReferent begin="2756" end="2768">observations</mainReferent>
+    <tokens>observations have been made with interest</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_57" begin="2912" end="2918">
+    <text>Assign</text>
+    <mainVerb begin="2912" end="2918">Assign</mainVerb>
+    <tokens>Assign two periods a week of from ten to twenty minutes each for bird study in the school</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_58" begin="3005" end="3013">
+    <text>Continue</text>
+    <mainVerb begin="3005" end="3013">Continue</mainVerb>
+    <tokens>Continue the work during these periods until after the celebration of Bird Day in May</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_59" begin="3113" end="3115">
+    <text>is</text>
+    <mainVerb begin="3113" end="3115">is</mainVerb>
+    <mainReferent begin="3108" end="3112">bird</mainReferent>
+    <tokens>If no other bird is to be found</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_60" begin="3154" end="3160">
+    <text>answer</text>
+    <mainVerb begin="3154" end="3160">answer</mainVerb>
+    <mainReferent begin="3141" end="3148">sparrow</mainReferent>
+    <tokens>the English sparrow will answer</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_61" begin="3256" end="3258">
+    <text>is</text>
+    <mainVerb begin="3256" end="3258">is</mainVerb>
+    <mainReferent begin="3251" end="3255">long</mainReferent>
+    <tokens>How long is this from the tip of its beak to the end of its tail</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_62" begin="3337" end="3339">
+    <text>is</text>
+    <mainVerb begin="3337" end="3339">is</mainVerb>
+    <mainReferent begin="3344" end="3349">color</mainReferent>
+    <tokens>is the color of its head</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_63" begin="3437" end="3441">
+    <text>back</text>
+    <mainVerb begin="3437" end="3441">back</mainVerb>
+    <mainReferent begin="3433" end="3436">its</mainReferent>
+    <tokens>Of its back</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_64" begin="3470" end="3472">
+    <text>is</text>
+    <mainVerb begin="3470" end="3472">is</mainVerb>
+    <mainReferent begin="3477" end="3483">length</mainReferent>
+    <tokens>is the length shape color of its bill</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_65" begin="3528" end="3530">
+    <text>is</text>
+    <mainVerb begin="3528" end="3530">is</mainVerb>
+    <mainReferent begin="3535" end="3540">color</mainReferent>
+    <tokens>is the color of its legs and feet</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_66" begin="3577" end="3581">
+    <text>upon</text>
+    <mainVerb begin="3577" end="3581">upon</mainVerb>
+    <mainReferent begin="3572" end="3576">toes</mainReferent>
+    <tokens>How many toes upon each foot</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_67" begin="3621" end="3626">
+    <text>point</text>
+    <mainVerb begin="3621" end="3626">point</mainVerb>
+    <mainReferent begin="3572" end="3576">toes</mainReferent>
+    <tokens>which way do they point</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_68" begin="3636" end="3640">
+    <text>walk</text>
+    <mainVerb begin="3636" end="3640">walk</mainVerb>
+    <mainReferent begin="3633" end="3635">it</mainReferent>
+    <tokens>Does it walk</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_69" begin="3642" end="3645">
+    <text>hop</text>
+    <mainVerb begin="3642" end="3645">hop</mainVerb>
+    <mainReferent begin="3633" end="3635">it</mainReferent>
+    <tokens>it hop</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_70" begin="3656" end="3659">
+    <text>run</text>
+    <mainVerb begin="3656" end="3659">run</mainVerb>
+    <mainReferent begin="3633" end="3635">it</mainReferent>
+    <tokens>it run upon the ground</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_71" begin="3689" end="3695">
+    <text>square</text>
+    <mainVerb begin="3689" end="3695">square</mainVerb>
+    <mainReferent begin="3684" end="3688">tail</mainReferent>
+    <tokens>Is its tail square notched</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_72" begin="3709" end="3711">
+    <text>Is</text>
+    <mainVerb begin="3709" end="3711">Is</mainVerb>
+    <mainReferent begin="3722" end="3728">flight</mainReferent>
+    <tokens>Is its flight steady bounding</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_73" begin="3764" end="3766">
+    <text>is</text>
+    <mainVerb begin="3764" end="3766">is</mainVerb>
+    <mainReferent begin="3777" end="3787">difference</mainReferent>
+    <tokens>is the difference in appearance between the male and female</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_74" begin="3857" end="3865">
+    <text>directed</text>
+    <mainVerb begin="3857" end="3865">directed</mainVerb>
+    <mainReferent begin="3838" end="3846">children</mainReferent>
+    <tokens>The children should be directed to answer these questions from their own observation at the next period of study</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_75" begin="4001" end="4003">
+    <text>be</text>
+    <mainVerb begin="4001" end="4003">be</mainVerb>
+    <mainReferent begin="3986" end="3995">questions</mainReferent>
+    <tokens>For the lowest grades two three questions will be for the first attempt</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="bird_day_how_to_prepare_for_it_6.txt_76" begin="4077" end="4079">
+    <text>be</text>
+    <mainVerb begin="4077" end="4079">be</mainVerb>
+    <mainReferent begin="4053" end="4060">variety</mainReferent>
+    <tokens>even then the variety of answers will be</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+</document>

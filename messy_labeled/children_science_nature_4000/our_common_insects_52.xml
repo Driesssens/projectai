@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="our_common_insects_52.txt_1" begin="2" end="11">
+    <text>Tomocerus</text>
+    <mainVerb begin="2" end="11">Tomocerus</mainVerb>
+    <tokens>Tomocerus plumbeus mouth-parts greatly enlarged ]</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_2" begin="71" end="79">
+    <text>consists</text>
+    <mainVerb begin="71" end="79">consists</mainVerb>
+    <mainReferent begin="64" end="70">spring</mainReferent>
+    <tokens>The spring consists of a pair of three-jointed appendages , with the basal joints soldered together early in embryonic life , while the other two joints are free , forming a fork</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_3" begin="142" end="150">
+    <text>soldered</text>
+    <mainVerb begin="142" end="150">soldered</mainVerb>
+    <mainReferent begin="135" end="141">joints</mainReferent>
+    <tokens>soldered together early in embryonic life</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_4" begin="213" end="216">
+    <text>are</text>
+    <mainVerb begin="213" end="216">are</mainVerb>
+    <mainReferent begin="206" end="212">joints</mainReferent>
+    <tokens>while the other two joints are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_5" begin="223" end="230">
+    <text>forming</text>
+    <mainVerb begin="223" end="230">forming</mainVerb>
+    <tokens>forming a fork</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_6" begin="242" end="244">
+    <text>is</text>
+    <mainVerb begin="242" end="244">is</mainVerb>
+    <mainReferent begin="239" end="241">It</mainReferent>
+    <tokens>It is in Smynthurus and Degeeria shortest in Achorutes ( Fig. 172 , _ b _ ) , where it forms a simple , forked tubercle ; and is obsolete in Lipura and Anura its place</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_7" begin="334" end="339">
+    <text>forms</text>
+    <mainVerb begin="334" end="339">forms</mainVerb>
+    <mainReferent begin="331" end="333">it</mainReferent>
+    <tokens>where it forms a simple forked tubercle</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_8" begin="372" end="374">
+    <text>is</text>
+    <mainVerb begin="372" end="374">is</mainVerb>
+    <mainReferent begin="331" end="333">it</mainReferent>
+    <tokens>it is in Lipura and Anura</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_9" begin="422" end="431">
+    <text>indicated</text>
+    <mainVerb begin="422" end="431">indicated</mainVerb>
+    <mainReferent begin="409" end="414">place</mainReferent>
+    <tokens>being indicated an oval scar</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_10" begin="465" end="471">
+    <text>varies</text>
+    <mainVerb begin="465" end="471">varies</mainVerb>
+    <mainReferent begin="459" end="464">joint</mainReferent>
+    <tokens>The third joint varies in form serrate knife-like</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_11" begin="646" end="648">
+    <text>is</text>
+    <mainVerb begin="646" end="648">is</mainVerb>
+    <mainReferent begin="639" end="645">spring</mainReferent>
+    <tokens>This spring is in part homologous with the ovipositor of the higher insects , which originally consists of three pairs of tubercles , each pair arising apparently from the seventh , eighth , and ninth ( the latter the penultimate ) segments of the abdomen in the Hymenoptera</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_12" begin="729" end="737">
+    <text>consists</text>
+    <mainVerb begin="729" end="737">consists</mainVerb>
+    <mainReferent begin="703" end="710">insects</mainReferent>
+    <tokens>the higher insects originally consists</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_13" begin="778" end="785">
+    <text>arising</text>
+    <mainVerb begin="778" end="785">arising</mainVerb>
+    <mainReferent begin="773" end="777">pair</mainReferent>
+    <tokens>arising apparently from the seventh , eighth , and ninth ( the latter the penultimate ) segments of the abdomen in the Hymenoptera</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_14" begin="933" end="938">
+    <text>seems</text>
+    <mainVerb begin="933" end="938">seems</mainVerb>
+    <mainReferent begin="912" end="918">spring</mainReferent>
+    <tokens>The spring of the Podura seems</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_15" begin="1005" end="1013">
+    <text>inserted</text>
+    <mainVerb begin="1005" end="1013">inserted</mainVerb>
+    <mainReferent begin="912" end="918">spring</mainReferent>
+    <tokens>The spring of the Podura is inserted on the penultimate segment</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_16" begin="1066" end="1070">
+    <text>been</text>
+    <mainVerb begin="1066" end="1070">been</mainVerb>
+    <mainReferent begin="1048" end="1058">comparison</mainReferent>
+    <tokens>This comparison I have been to make from a study of the embryology of Isotoma</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_17" begin="1175" end="1177">
+    <text>am</text>
+    <mainVerb begin="1175" end="1177">am</mainVerb>
+    <mainReferent begin="1173" end="1174">I</mainReferent>
+    <tokens>as I am</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_18" begin="1194" end="1204">
+    <text>overlooked</text>
+    <mainVerb begin="1194" end="1204">overlooked</mainVerb>
+    <mainReferent begin="1152" end="1155">one</mainReferent>
+    <tokens>one so far has been overlooked previous observers</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_19" begin="1234" end="1242">
+    <text>disposed</text>
+    <mainVerb begin="1234" end="1242">disposed</mainVerb>
+    <mainReferent begin="1152" end="1155">one</mainReferent>
+    <tokens>Another organ one I am disposed to consider as possibly an ovipositor</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_20" begin="1317" end="1322">
+    <text>found</text>
+    <mainVerb begin="1317" end="1322">found</mainVerb>
+    <mainReferent begin="1307" end="1309">it</mainReferent>
+    <tokens>In the genus Achorutes it may be found in the segment just before the spring-bearing segment</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_21" begin="1383" end="1391">
+    <text>situated</text>
+    <mainVerb begin="1383" end="1391">situated</mainVerb>
+    <mainReferent begin="1307" end="1309">it</mainReferent>
+    <tokens>it situated on the median line of the body</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_22" begin="1428" end="1436">
+    <text>consists</text>
+    <mainVerb begin="1428" end="1436">consists</mainVerb>
+    <mainReferent begin="1425" end="1427">It</mainReferent>
+    <tokens>It consists ( Fig. 163 ) of two squarish valves from between</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_23" begin="1492" end="1500">
+    <text>projects</text>
+    <mainVerb begin="1492" end="1500">projects</mainVerb>
+    <mainReferent begin="1486" end="1491">which</mainReferent>
+    <tokens>which projects a pair of minute tubercles , or blades , with four rounded teeth on the under side</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_24" begin="1616" end="1623">
+    <text>reminds</text>
+    <mainVerb begin="1616" end="1623">reminds</mainVerb>
+    <mainReferent begin="1589" end="1593">pair</mainReferent>
+    <tokens>This pair of infinitesimal saws reminds one of the blades of the saw-fly</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_25" begin="1665" end="1667">
+    <text>am</text>
+    <mainVerb begin="1665" end="1667">am</mainVerb>
+    <mainReferent begin="1589" end="1593">pair</mainReferent>
+    <tokens>I am at a loss what their use can be unless to cut and pierce so as to scoop out a shallow place in which to deposit an egg</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_26" begin="1697" end="1699">
+    <text>be</text>
+    <mainVerb begin="1697" end="1699">be</mainVerb>
+    <mainReferent begin="1689" end="1692">use</mainReferent>
+    <tokens>a loss their use can be unless to cut so as to scoop out a shallow place which to deposit an egg</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_27" begin="1719" end="1725">
+    <text>pierce</text>
+    <mainVerb begin="1719" end="1725">pierce</mainVerb>
+    <mainReferent begin="1673" end="1677">loss</mainReferent>
+    <tokens>pierce</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_28" begin="1796" end="1806">
+    <text>homologous</text>
+    <mainVerb begin="1796" end="1806">homologous</mainVerb>
+    <mainReferent begin="1790" end="1792">It</mainReferent>
+    <tokens>It is homologous in situation with the middle pair of blades which composes the ovipositor of higher insects</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_29" begin="1858" end="1866">
+    <text>composes</text>
+    <mainVerb begin="1858" end="1866">composes</mainVerb>
+    <mainReferent begin="1845" end="1851">blades</mainReferent>
+    <tokens>blades composes the ovipositor of higher insects</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_30" begin="1919" end="1924">
+    <text>prove</text>
+    <mainVerb begin="1919" end="1924">prove</mainVerb>
+    <mainReferent begin="1908" end="1910">it</mainReferent>
+    <tokens>if it should prove to be used the creature laying its eggs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_31" begin="1988" end="1992">
+    <text>have</text>
+    <mainVerb begin="1988" end="1992">have</mainVerb>
+    <mainReferent begin="1790" end="1792">It</mainReferent>
+    <tokens>we should then have with the spring an additional point of resemblance to the Neuroptera and higher insects</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_32" begin="2156" end="2166">
+    <text>separating</text>
+    <mainVerb begin="2156" end="2166">separating</mainVerb>
+    <mainReferent begin="2145" end="2154">character</mainReferent>
+    <tokens>separating the Thysanura from other insects</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_33" begin="2205" end="2210">
+    <text>binds</text>
+    <mainVerb begin="2205" end="2210">binds</mainVerb>
+    <mainReferent begin="1790" end="1792">It</mainReferent>
+    <tokens>it binds them still closer though still differing greatly representing only a part of the ovipositor of the higher insects</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_34" begin="2338" end="2340">
+    <text>is</text>
+    <mainVerb begin="2338" end="2340">is</mainVerb>
+    <mainReferent begin="2332" end="2336">This</mainReferent>
+    <tokens>( This is a holding the spring in place )</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_35" begin="2406" end="2412">
+    <text>differ</text>
+    <mainVerb begin="2406" end="2412">differ</mainVerb>
+    <mainReferent begin="2398" end="2405">Poduras</mainReferent>
+    <tokens>But all the Poduras differ from other insects possessing a remarkable organ</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_36" begin="2466" end="2474">
+    <text>situated</text>
+    <mainVerb begin="2466" end="2474">situated</mainVerb>
+    <mainReferent begin="2460" end="2465">organ</mainReferent>
+    <tokens>situated on the basal segment of the abdomen</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_37" begin="2515" end="2517">
+    <text>is</text>
+    <mainVerb begin="2515" end="2517">is</mainVerb>
+    <mainReferent begin="2512" end="2514">It</mainReferent>
+    <tokens>It is a small with chitinous walls in an inverted position</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_38" begin="2559" end="2566">
+    <text>forming</text>
+    <mainVerb begin="2559" end="2566">forming</mainVerb>
+    <mainReferent begin="2527" end="2535">tubercle</mainReferent>
+    <tokens>forming two valves from between</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_39" begin="2601" end="2607">
+    <text>forced</text>
+    <mainVerb begin="2601" end="2607">forced</mainVerb>
+    <mainReferent begin="2591" end="2596">which</mainReferent>
+    <tokens>which is forced out a fleshy sucker as in Smynthurus a pair of long tubes , which are capable of being darted out on each side of the body enabling the insect to attach itself to smooth surfaces rest</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_40" begin="2680" end="2683">
+    <text>are</text>
+    <mainVerb begin="2680" end="2683">are</mainVerb>
+    <mainReferent begin="2666" end="2671">tubes</mainReferent>
+    <tokens>long tubes are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_41" begin="2701" end="2707">
+    <text>darted</text>
+    <mainVerb begin="2701" end="2707">darted</mainVerb>
+    <mainReferent begin="2666" end="2671">tubes</mainReferent>
+    <tokens>being darted out on each side of the body</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_42" begin="2847" end="2851">
+    <text>laid</text>
+    <mainVerb begin="2847" end="2851">laid</mainVerb>
+    <mainReferent begin="2838" end="2842">eggs</mainReferent>
+    <tokens>The eggs are laid few in number either singly several together on the under side of stones chips as in the case of Isotoma Walkerii under the bark of trees</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_43" begin="3009" end="3012">
+    <text>are</text>
+    <mainVerb begin="3009" end="3012">are</mainVerb>
+    <mainReferent begin="3004" end="3008">They</mainReferent>
+    <tokens>They are transparent</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_44" begin="3128" end="3136">
+    <text>suggests</text>
+    <mainVerb begin="3128" end="3136">suggests</mainVerb>
+    <mainReferent begin="3037" end="3048">development</mainReferent>
+    <tokens>The development of the embryo of Isotoma suggests on embryological grounds the near relationship of the Thysanura to the Neuroptera</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_45" begin="3226" end="3237">
+    <text>Development</text>
+    <mainVerb begin="3226" end="3237">Development</mainVerb>
+    <tokens>Development of a Poduran . ]</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_46" begin="3275" end="3283">
+    <text>observed</text>
+    <mainVerb begin="3275" end="3283">observed</mainVerb>
+    <mainReferent begin="3269" end="3274">stage</mainReferent>
+    <tokens>The earliest stage observed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_47" begin="3284" end="3287">
+    <text>was</text>
+    <mainVerb begin="3284" end="3287">was</mainVerb>
+    <tokens>was at the time of the appearance of the primitive band ( Fig. 164 , _ a _ , _ b _ , folding of the primitive band ; _ c _ , the dotted line crosses the primitive band , and terminates in a large yolk granule ) which surrounds the egg as in the Caddis flies</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_48" begin="3415" end="3422">
+    <text>crosses</text>
+    <mainVerb begin="3415" end="3422">crosses</mainVerb>
+    <tokens>crosses the primitive band</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_49" begin="3447" end="3457">
+    <text>terminates</text>
+    <mainVerb begin="3447" end="3457">terminates</mainVerb>
+    <tokens>terminates</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_50" begin="3490" end="3499">
+    <text>surrounds</text>
+    <mainVerb begin="3490" end="3499">surrounds</mainVerb>
+    <mainReferent begin="3336" end="3340">band</mainReferent>
+    <tokens>the primitive band ( Fig. 164 _ a _ _ b _ folding of the primitive band _ c _ the dotted line in a large yolk granule ) surrounds the egg as in the Caddis flies</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_51" begin="3568" end="3574">
+    <text>appear</text>
+    <mainVerb begin="3568" end="3574">appear</mainVerb>
+    <mainReferent begin="3559" end="3567">segments</mainReferent>
+    <tokens>Soon after the primitive segments appear ( Fig. 165 1 antennæ 2 mandibles 3 maxillæ the labium 5-7 legs _ c _ yolk )</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_52" begin="3644" end="3648">
+    <text>seen</text>
+    <mainVerb begin="3644" end="3648">seen</mainVerb>
+    <tokens>was not seen</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_53" begin="3672" end="3682">
+    <text>surrounded</text>
+    <mainVerb begin="3672" end="3682">surrounded</mainVerb>
+    <mainReferent begin="3666" end="3670">yolk</mainReferent>
+    <tokens>surrounded the primitive band</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_54" begin="3710" end="3714">
+    <text>seem</text>
+    <mainVerb begin="3710" end="3714">seem</mainVerb>
+    <mainReferent begin="3559" end="3567">segments</mainReferent>
+    <tokens>the primitive segments seem to originate just as in the Caddis flies</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_55" begin="3769" end="3771">
+    <text>is</text>
+    <mainVerb begin="3769" end="3771">is</mainVerb>
+    <mainReferent begin="3765" end="3768">166</mainReferent>
+    <tokens>Figure 166 is a front of the embryo figure 167 side view of the same the figures as in Fig. 165 _ sp _ spring _ l _ labrum</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_56" begin="3821" end="3828">
+    <text>hatched</text>
+    <mainVerb begin="3821" end="3828">hatched</mainVerb>
+    <mainReferent begin="3815" end="3817">it</mainReferent>
+    <tokens>shortly before it is hatched</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_57" begin="3963" end="3966">
+    <text>are</text>
+    <mainVerb begin="3963" end="3966">are</mainVerb>
+    <mainReferent begin="3941" end="3944">lip</mainReferent>
+    <tokens>The labrum upper lip the clypeus are as distinct as in the embryos of other insects a fact</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_58" begin="4051" end="4057">
+    <text>allude</text>
+    <mainVerb begin="4051" end="4057">allude</mainVerb>
+    <mainReferent begin="4042" end="4044">we</mainReferent>
+    <tokens>which we shall allude again</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_59" begin="4109" end="4118">
+    <text>developed</text>
+    <mainVerb begin="4109" end="4118">developed</mainVerb>
+    <mainReferent begin="4089" end="4095">spring</mainReferent>
+    <tokens>The large three-jointed spring is now well developed</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_60" begin="4141" end="4146">
+    <text>drawn</text>
+    <mainVerb begin="4141" end="4146">drawn</mainVerb>
+    <mainReferent begin="4089" end="4095">spring</mainReferent>
+    <tokens>the inference is drawn</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_61" begin="4155" end="4165">
+    <text>represents</text>
+    <mainVerb begin="4155" end="4165">represents</mainVerb>
+    <mainReferent begin="4152" end="4154">it</mainReferent>
+    <tokens>that it represents a pair of true abdominal legs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_62" begin="4229" end="4235">
+    <text>throws</text>
+    <mainVerb begin="4229" end="4235">throws</mainVerb>
+    <mainReferent begin="4202" end="4208">embryo</mainReferent>
+    <tokens>The embryo when about to hatch throws off the egg-shell amnion in a few seconds</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_63" begin="4294" end="4296">
+    <text>is</text>
+    <mainVerb begin="4294" end="4296">is</mainVerb>
+    <mainReferent begin="4288" end="4293">larva</mainReferent>
+    <tokens>The larva is perfectly</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_64" begin="4317" end="4319">
+    <text>is</text>
+    <mainVerb begin="4317" end="4319">is</mainVerb>
+    <mainReferent begin="4288" end="4293">larva</mainReferent>
+    <tokens>The larva is very in its movements</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_65" begin="4351" end="4358">
+    <text>running</text>
+    <mainVerb begin="4351" end="4358">running</mainVerb>
+    <tokens>running over the damp , inner surface of the bark</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_66" begin="4405" end="4407">
+    <text>is</text>
+    <mainVerb begin="4405" end="4407">is</mainVerb>
+    <mainReferent begin="4402" end="4404">It</mainReferent>
+    <tokens>It is a over a hundredth of an inch in length</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_67" begin="4460" end="4467">
+    <text>differs</text>
+    <mainVerb begin="4460" end="4467">differs</mainVerb>
+    <mainReferent begin="4402" end="4404">It</mainReferent>
+    <tokens>It differs from the adult thicker</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_68" begin="4571" end="4578">
+    <text>assumes</text>
+    <mainVerb begin="4571" end="4578">assumes</mainVerb>
+    <mainReferent begin="4565" end="4570">larva</mainReferent>
+    <tokens>In fact the larva assumes the form of the lower genera of the family , such as Achorutes and Lipura , the adult more closely resembling Degeeria</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_69" begin="4677" end="4687">
+    <text>resembling</text>
+    <mainVerb begin="4677" end="4687">resembling</mainVerb>
+    <mainReferent begin="4658" end="4663">adult</mainReferent>
+    <tokens>more closely resembling Degeeria</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_70" begin="4731" end="4738">
+    <text>retains</text>
+    <mainVerb begin="4731" end="4738">retains</mainVerb>
+    <mainReferent begin="4703" end="4708">larva</mainReferent>
+    <tokens>The larva after its first moult retains its early clumsy form</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_71" begin="4767" end="4769">
+    <text>is</text>
+    <mainVerb begin="4767" end="4769">is</mainVerb>
+    <mainReferent begin="4703" end="4708">larva</mainReferent>
+    <tokens>The larva after its first moult is still</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_72" begin="4807" end="4814">
+    <text>becomes</text>
+    <mainVerb begin="4807" end="4814">becomes</mainVerb>
+    <mainReferent begin="4804" end="4806">it</mainReferent>
+    <tokens>After a second moult it becomes purplish much more slender as in the adult</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_73" begin="4879" end="4883">
+    <text>laid</text>
+    <mainVerb begin="4879" end="4883">laid</mainVerb>
+    <mainReferent begin="4870" end="4874">eggs</mainReferent>
+    <tokens>The eggs are laid</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_52.txt_74" begin="4898" end="4905">
+    <text>hatched</text>
+    <mainVerb begin="4898" end="4905">hatched</mainVerb>
+    <mainReferent begin="4870" end="4874">eggs</mainReferent>
+    <tokens>the young hatched apparently within a period of from six to ten days</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+</document>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="our_common_insects_54.txt_1" begin="12" end="19">
+    <text>covered</text>
+    <mainVerb begin="12" end="19">covered</mainVerb>
+    <mainReferent begin="7" end="11">Body</mainReferent>
+    <tokens>Body covered with scales</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_2" begin="77" end="83">
+    <text>ringed</text>
+    <mainVerb begin="77" end="83">ringed</mainVerb>
+    <mainReferent begin="64" end="71">segment</mainReferent>
+    <tokens>not ringed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_3" begin="85" end="89">
+    <text>Eyes</text>
+    <mainVerb begin="85" end="89">Eyes</mainVerb>
+    <tokens>Eyes on a dark patch</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_4" begin="107" end="113">
+    <text>Thorax</text>
+    <mainVerb begin="107" end="113">Thorax</mainVerb>
+    <tokens>Thorax</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_5" begin="118" end="128">
+    <text>projecting</text>
+    <mainVerb begin="118" end="128">projecting</mainVerb>
+    <tokens>not projecting over the head</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_6" begin="220" end="227">
+    <text>clothed</text>
+    <mainVerb begin="220" end="227">clothed</mainVerb>
+    <mainReferent begin="189" end="197">Segments</mainReferent>
+    <tokens>clothed by clubbed hairs</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_7" begin="251" end="259">
+    <text>provided</text>
+    <mainVerb begin="251" end="259">provided</mainVerb>
+    <mainReferent begin="189" end="197">Segments</mainReferent>
+    <tokens>provided with scales</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_8" begin="388" end="394">
+    <text>ringed</text>
+    <mainVerb begin="388" end="394">ringed</mainVerb>
+    <mainReferent begin="273" end="280">Antennæ</mainReferent>
+    <tokens>Antennæ longer than the head and thorax , five-jointed , with a small basal segment the terminal portion ringed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_9" begin="441" end="449">
+    <text>subequal</text>
+    <mainVerb begin="441" end="449">subequal</mainVerb>
+    <mainReferent begin="432" end="440">segments</mainReferent>
+    <tokens>Four anterior abdominal segments subequal two posterior ones small</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_10" begin="483" end="490">
+    <text>clothed</text>
+    <mainVerb begin="483" end="490">clothed</mainVerb>
+    <mainReferent begin="478" end="482">body</mainReferent>
+    <tokens>body clothed with simple hairs without scales</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_11" begin="629" end="637">
+    <text>arranged</text>
+    <mainVerb begin="629" end="637">arranged</mainVerb>
+    <tokens>arranged in the form of an S. ( Three species are found in Massachusetts , one of which ( I. plumbea ) is figured on Pl</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_12" begin="679" end="684">
+    <text>found</text>
+    <mainVerb begin="679" end="684">found</mainVerb>
+    <mainReferent begin="666" end="673">species</mainReferent>
+    <tokens>( Three species are found in Massachusetts , one of which ( I. plumbea ) is figured on Pl</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_13" begin="732" end="739">
+    <text>figured</text>
+    <mainVerb begin="732" end="739">figured</mainVerb>
+    <mainReferent begin="720" end="727">plumbea</mainReferent>
+    <tokens>in Massachusetts , one of which ( I. plumbea ) is figured on Pl</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_14" begin="844" end="852">
+    <text>segments</text>
+    <mainVerb begin="844" end="852">segments</mainVerb>
+    <mainReferent begin="834" end="843">Abdominal</mainReferent>
+    <tokens>Abdominal segments unequal with simple hairs and scales</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_15" begin="893" end="900">
+    <text>Antennæ</text>
+    <mainVerb begin="893" end="900">Antennæ</mainVerb>
+    <mainReferent begin="943" end="951">segments</mainReferent>
+    <tokens>Antennæ very long four-jointed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_16" begin="952" end="958">
+    <text>ringed</text>
+    <mainVerb begin="952" end="958">ringed</mainVerb>
+    <mainReferent begin="943" end="951">segments</mainReferent>
+    <tokens>the two terminal segments ringed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_17" begin="1050" end="1052">
+    <text>is</text>
+    <mainVerb begin="1050" end="1052">is</mainVerb>
+    <mainReferent begin="1013" end="1020">plumbea</mainReferent>
+    <tokens>( The European T. plumbea Podura plumbea of authors is our</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_18" begin="1070" end="1072">
+    <text>is</text>
+    <mainVerb begin="1070" end="1072">is</mainVerb>
+    <mainReferent begin="1013" end="1020">plumbea</mainReferent>
+    <tokens>The European T. plumbea Podura plumbea of authors is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_19" begin="1110" end="1116">
+    <text>copied</text>
+    <mainVerb begin="1110" end="1116">copied</mainVerb>
+    <mainReferent begin="1081" end="1085">Fig.</mainReferent>
+    <tokens>Fig. 160 greatly enlarged copied from Templeton</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_20" begin="1154" end="1157">
+    <text>see</text>
+    <mainVerb begin="1154" end="1157">see</mainVerb>
+    <mainReferent begin="1138" end="1141">159</mainReferent>
+    <tokens>Fig. 159 side view see also Fig. 161</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_21" begin="1196" end="1199">
+    <text>are</text>
+    <mainVerb begin="1196" end="1199">are</mainVerb>
+    <mainReferent begin="1222" end="1231">lettering</mainReferent>
+    <tokens>where the mouth-parts are greatly the lettering</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_22" begin="1369" end="1375">
+    <text>ending</text>
+    <mainVerb begin="1369" end="1375">ending</mainVerb>
+    <mainReferent begin="1361" end="1368">portion</mainReferent>
+    <tokens>ending in three teeth</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_23" begin="1460" end="1467">
+    <text>passing</text>
+    <mainVerb begin="1460" end="1467">passing</mainVerb>
+    <mainReferent begin="1453" end="1457">line</mainReferent>
+    <tokens>the dotted line 's passing through the body</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_24" begin="1486" end="1495">
+    <text>represent</text>
+    <mainVerb begin="1486" end="1495">represent</mainVerb>
+    <tokens>represent the course of the intestine</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_25" begin="1639" end="1643">
+    <text>Fig.</text>
+    <mainVerb begin="1639" end="1643">Fig.</mainVerb>
+    <mainReferent begin="1649" end="1656">lacinia</mainReferent>
+    <tokens>Fig. 162</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_26" begin="1677" end="1685">
+    <text>enlarged</text>
+    <mainVerb begin="1677" end="1685">enlarged</mainVerb>
+    <mainReferent begin="1649" end="1656">lacinia</mainReferent>
+    <tokens>lacinia of maxilla greatly enlarged</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_27" begin="1724" end="1731">
+    <text>showing</text>
+    <mainVerb begin="1724" end="1731">showing</mainVerb>
+    <mainReferent begin="1707" end="1712">forms</mainReferent>
+    <tokens>showing the great variation in size and form</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_28" begin="1787" end="1794">
+    <text>running</text>
+    <mainVerb begin="1787" end="1794">running</mainVerb>
+    <mainReferent begin="1782" end="1786">ones</mainReferent>
+    <tokens>running into a linear form</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_29" begin="1816" end="1824">
+    <text>becoming</text>
+    <mainVerb begin="1816" end="1824">becoming</mainVerb>
+    <mainReferent begin="1692" end="1695">169</mainReferent>
+    <tokens>becoming hairs</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_30" begin="1854" end="1858">
+    <text>seen</text>
+    <mainVerb begin="1854" end="1858">seen</mainVerb>
+    <mainReferent begin="1836" end="1844">markings</mainReferent>
+    <tokens>The markings are also seen to vary showing their unreliable character as test objects )</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_31" begin="1947" end="1951">
+    <text>kept</text>
+    <mainVerb begin="1947" end="1951">kept</mainVerb>
+    <mainReferent begin="1938" end="1943">scale</mainReferent>
+    <tokens>unless a single scale is kept for use</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_32" begin="1996" end="2003">
+    <text>segment</text>
+    <mainVerb begin="1996" end="2003">segment</mainVerb>
+    <mainReferent begin="1986" end="1995">Abdominal</mainReferent>
+    <tokens>Abdominal segment unequal with simple hairs and scales</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_33" begin="2188" end="2192">
+    <text>Fig.</text>
+    <mainVerb begin="2188" end="2192">Fig.</mainVerb>
+    <tokens>Fig. 171 a scale</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_34" begin="2219" end="2223">
+    <text>live</text>
+    <mainVerb begin="2219" end="2223">live</mainVerb>
+    <mainReferent begin="2211" end="2218">species</mainReferent>
+    <tokens>Two species live in New England )</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_35" begin="2262" end="2270">
+    <text>segments</text>
+    <mainVerb begin="2262" end="2270">segments</mainVerb>
+    <mainReferent begin="2252" end="2261">Abdominal</mainReferent>
+    <tokens>Abdominal segments subequal</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_36" begin="2306" end="2313">
+    <text>Antennæ</text>
+    <mainVerb begin="2306" end="2313">Antennæ</mainVerb>
+    <tokens>Antennæ four-jointed shorter than the head</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_37" begin="2388" end="2397">
+    <text>Saltatory</text>
+    <mainVerb begin="2388" end="2397">Saltatory</mainVerb>
+    <tokens>Saltatory appendage of moderate length</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_38" begin="2454" end="2462">
+    <text>segments</text>
+    <mainVerb begin="2454" end="2462">segments</mainVerb>
+    <mainReferent begin="2444" end="2453">Abdominal</mainReferent>
+    <tokens>Abdominal segments subequal</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_39" begin="2548" end="2557">
+    <text>appendage</text>
+    <mainVerb begin="2548" end="2557">appendage</mainVerb>
+    <mainReferent begin="2538" end="2547">Saltatory</mainReferent>
+    <tokens>Saltatory appendage quite short</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_40" begin="2585" end="2595">
+    <text>represents</text>
+    <mainVerb begin="2585" end="2595">represents</mainVerb>
+    <mainReferent begin="2581" end="2584">172</mainReferent>
+    <tokens>Figure 172 represents a species of this genus very abundant under the bark of trees , etc. , in New England</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_41" begin="2685" end="2687">
+    <text>is</text>
+    <mainVerb begin="2685" end="2687">is</mainVerb>
+    <mainReferent begin="2682" end="2684">It</mainReferent>
+    <tokens>It is of a blackish lead color ; _ a _ , end of tibia bearing a tenant hair , with the tarsal joint and large claw ; _ b _ , spring ; _ c _ , the third joint of the spring , with the little spine at the base ; figure 163 , the supposed ovipositor ; _ a _ , the two blades spread apart ; _ b _ , side view</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_42" begin="2733" end="2740">
+    <text>bearing</text>
+    <mainVerb begin="2733" end="2740">bearing</mainVerb>
+    <mainReferent begin="2727" end="2732">tibia</mainReferent>
+    <tokens>bearing a tenant hair with the tarsal joint</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_43" begin="2880" end="2886">
+    <text>figure</text>
+    <mainVerb begin="2880" end="2886">figure</mainVerb>
+    <tokens>figure 163 the ovipositor</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_44" begin="2896" end="2904">
+    <text>supposed</text>
+    <mainVerb begin="2896" end="2904">supposed</mainVerb>
+    <tokens>supposed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_45" begin="2938" end="2944">
+    <text>spread</text>
+    <mainVerb begin="2938" end="2944">spread</mainVerb>
+    <mainReferent begin="2919" end="2920">_</mainReferent>
+    <tokens>spread apart</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_46" begin="3037" end="3043">
+    <text>ending</text>
+    <mainVerb begin="3037" end="3043">ending</mainVerb>
+    <mainReferent begin="2972" end="2983">mouth-parts</mainReferent>
+    <tokens>The mouth-parts in this genus are much as in Tomocerus , the maxillæ ending in a lacinia and palpus</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_47" begin="3133" end="3139">
+    <text>placed</text>
+    <mainVerb begin="3133" end="3139">placed</mainVerb>
+    <mainReferent begin="3094" end="3100">genera</mainReferent>
+    <tokens>The three remaining genera Lipura Anurida Anura are placed in the " family " Lipuridæ , which have no spring</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_48" begin="3173" end="3177">
+    <text>have</text>
+    <mainVerb begin="3173" end="3177">have</mainVerb>
+    <mainReferent begin="3157" end="3165">Lipuridæ</mainReferent>
+    <tokens>the " family " Lipuridæ have no spring</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_49" begin="3197" end="3204">
+    <text>remarks</text>
+    <mainVerb begin="3197" end="3204">remarks</mainVerb>
+    <mainReferent begin="3189" end="3196">Lubbock</mainReferent>
+    <tokens>Lubbock remarks "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_50" begin="3224" end="3232">
+    <text>contains</text>
+    <mainVerb begin="3224" end="3232">contains</mainVerb>
+    <mainReferent begin="3217" end="3223">family</mainReferent>
+    <tokens>that " this family contains as yet only two [ 13 ] genera Lipura ( Burmeister ) Anura ( Gervais )</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_51" begin="3305" end="3313">
+    <text>composed</text>
+    <mainVerb begin="3305" end="3313">composed</mainVerb>
+    <mainReferent begin="3296" end="3301">mouth</mainReferent>
+    <tokens>Lipura ( Burmeister ) the mouth is composed of the same parts as those in the preceding genera</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_52" begin="3424" end="3433">
+    <text>disappear</text>
+    <mainVerb begin="3424" end="3433">disappear</mainVerb>
+    <mainReferent begin="3415" end="3422">maxillæ</mainReferent>
+    <tokens>Anura ( Gervais ) the mandibles maxillæ disappear</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_53" begin="3460" end="3462">
+    <text>is</text>
+    <mainVerb begin="3460" end="3462">is</mainVerb>
+    <mainReferent begin="3453" end="3459">Lipura</mainReferent>
+    <tokens>Our common white Lipura is the European L. fimetaria</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_54" begin="3507" end="3513">
+    <text>copied</text>
+    <mainVerb begin="3507" end="3513">copied</mainVerb>
+    <mainReferent begin="3497" end="3501">Fig.</mainReferent>
+    <tokens>( Fig. 173 copied from Lubbock )</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_55" begin="3555" end="3564">
+    <text>indicated</text>
+    <mainVerb begin="3555" end="3564">indicated</mainVerb>
+    <mainReferent begin="3533" end="3537">site</mainReferent>
+    <tokens>The site of the spring is indicated an oval scar</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_56" begin="3621" end="3631">
+    <text>represents</text>
+    <mainVerb begin="3621" end="3631">represents</mainVerb>
+    <mainReferent begin="3610" end="3616">Figure</mainReferent>
+    <tokens>Figure 174 represents Anurida maritima</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_57" begin="3649" end="3654">
+    <text>found</text>
+    <mainVerb begin="3649" end="3654">found</mainVerb>
+    <mainReferent begin="3640" end="3648">maritima</mainReferent>
+    <tokens>found under stones between tide marks at Nantucket</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_58" begin="3708" end="3716">
+    <text>regarded</text>
+    <mainVerb begin="3708" end="3716">regarded</mainVerb>
+    <mainReferent begin="3702" end="3704">It</mainReferent>
+    <tokens>It is regarded the same as the European species Lubbock</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_59" begin="3777" end="3781">
+    <text>sent</text>
+    <mainVerb begin="3777" end="3781">sent</mainVerb>
+    <mainReferent begin="3771" end="3772">I</mainReferent>
+    <tokens>by Lubbock , to whom I had sent specimens for comparison</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_60" begin="3819" end="3826">
+    <text>differs</text>
+    <mainVerb begin="3819" end="3826">differs</mainVerb>
+    <mainReferent begin="3813" end="3818">genus</mainReferent>
+    <tokens>This genus differs in the form of the head from Lipura</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_61" begin="3873" end="3878">
+    <text>wants</text>
+    <mainVerb begin="3873" end="3878">wants</mainVerb>
+    <mainReferent begin="3813" end="3818">genus</mainReferent>
+    <tokens>This genus also wants the terminal upcurved spines</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_62" begin="3928" end="3931">
+    <text>are</text>
+    <mainVerb begin="3928" end="3931">are</mainVerb>
+    <mainReferent begin="3920" end="3927">antennæ</mainReferent>
+    <tokens>while the antennæ are much more</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_63" begin="3971" end="3974">
+    <text>end</text>
+    <mainVerb begin="3971" end="3974">end</mainVerb>
+    <mainReferent begin="3955" end="3959">legs</mainReferent>
+    <tokens>The legs ( Fig. 175 ) end in a large , long , curved claw</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_64" begin="4030" end="4036">
+    <text>soaked</text>
+    <mainVerb begin="4030" end="4036">soaked</mainVerb>
+    <mainReferent begin="4020" end="4029">specimens</mainReferent>
+    <tokens>soaked in potash</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_65" begin="4056" end="4061">
+    <text>found</text>
+    <mainVerb begin="4056" end="4061">found</mainVerb>
+    <mainReferent begin="4049" end="4050">I</mainReferent>
+    <tokens>examining specimens I have found</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_66" begin="4203" end="4206">
+    <text>are</text>
+    <mainVerb begin="4203" end="4206">are</mainVerb>
+    <mainReferent begin="4114" end="4115">_</mainReferent>
+    <tokens>that the mouth-parts of this species ( Fig. 176 , ) _ md _ mandibles _ mx _ maxillæ _ e _ eyes a singular accessory group of small cells are like those of Achorutes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_67" begin="4246" end="4253">
+    <text>noticed</text>
+    <mainVerb begin="4246" end="4253">noticed</mainVerb>
+    <tokens>as previously noticed by Laboulbène</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_68" begin="4314" end="4317">
+    <text>end</text>
+    <mainVerb begin="4314" end="4317">end</mainVerb>
+    <mainReferent begin="4274" end="4283">mandibles</mainReferent>
+    <tokens>The mandibles like those of other Poduras end in from three to six teeth</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_69" begin="4351" end="4355">
+    <text>have</text>
+    <mainVerb begin="4351" end="4355">have</mainVerb>
+    <mainReferent begin="4274" end="4283">mandibles</mainReferent>
+    <tokens>The mandibles have a broad many-toothed molar surface below</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="our_common_insects_54.txt_70" begin="4494" end="4501">
+    <text>studied</text>
+    <mainVerb begin="4494" end="4501">studied</mainVerb>
+    <mainReferent begin="4479" end="4480">I</mainReferent>
+    <tokens>I have not yet studied</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+</document>

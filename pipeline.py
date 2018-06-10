@@ -32,12 +32,12 @@ def continue_experiment(experiment_name, configuration=None):
 def messy_experiment(experiment_name, configuration):
     output_folder = 'output/{}'.format(experiment_name)
 
-    if not os.path.exists(output_folder + "/matrices"):
-        if not os.path.exists(output_folder + "/labeled"):
-            os.makedirs(output_folder + "/labeled")
-
-        files = FileBacklog(output_folder + "/labeled", configuration).backlog
-        label_messy(files, output_folder, configuration)
+    # if not os.path.exists(output_folder + "/matrices"):
+    #     if not os.path.exists(output_folder + "/labeled"):
+    #         os.makedirs(output_folder + "/labeled")
+    #
+    #     files = FileBacklog(output_folder + "/labeled", configuration).backlog
+    #     label_messy(files, output_folder, configuration)
 
     if not os.path.exists(output_folder + "/done"):
         count_messy(output_folder, configuration)

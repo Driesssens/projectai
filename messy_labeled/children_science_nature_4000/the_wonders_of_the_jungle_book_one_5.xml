@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_1" begin="36" end="40">
+    <text>howl</text>
+    <mainVerb begin="36" end="40">howl</mainVerb>
+    <mainReferent begin="12" end="16">dogs</mainReferent>
+    <tokens>So the wild dogs of the jungle also howl</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_2" begin="51" end="54">
+    <text>are</text>
+    <mainVerb begin="51" end="54">are</mainVerb>
+    <mainReferent begin="46" end="50">they</mainReferent>
+    <tokens>when they are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_3" begin="92" end="98">
+    <text>howled</text>
+    <mainVerb begin="92" end="98">howled</mainVerb>
+    <mainReferent begin="82" end="86">dogs</mainReferent>
+    <tokens>after the red dogs have howled as long as a song</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_4" begin="123" end="130">
+    <text>scamper</text>
+    <mainVerb begin="123" end="130">scamper</mainVerb>
+    <mainReferent begin="118" end="122">they</mainReferent>
+    <tokens>Then they scamper off into the jungle again</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_5" begin="164" end="169">
+    <text>shows</text>
+    <mainVerb begin="164" end="169">shows</mainVerb>
+    <mainReferent begin="159" end="163">That</mainReferent>
+    <tokens>That shows</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_6" begin="173" end="180">
+    <text>suppose</text>
+    <mainVerb begin="173" end="180">suppose</mainVerb>
+    <mainReferent begin="171" end="172">I</mainReferent>
+    <tokens>I suppose</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_7" begin="201" end="204">
+    <text>was</text>
+    <mainVerb begin="201" end="204">was</mainVerb>
+    <mainReferent begin="193" end="200">howling</mainReferent>
+    <tokens>that their howling was really a</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_8" begin="241" end="245">
+    <text>Come</text>
+    <mainVerb begin="241" end="245">Come</mainVerb>
+    <tokens>Come Alone</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_9" begin="269" end="272">
+    <text>are</text>
+    <mainVerb begin="269" end="272">are</mainVerb>
+    <mainReferent begin="264" end="268">dogs</mainReferent>
+    <tokens>The red dogs are the of the animals</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_10" begin="302" end="306">
+    <text>come</text>
+    <mainVerb begin="302" end="306">come</mainVerb>
+    <mainReferent begin="277" end="281">last</mainReferent>
+    <tokens>come in a bunch</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_11" begin="328" end="331">
+    <text>see</text>
+    <mainVerb begin="328" end="331">see</mainVerb>
+    <mainReferent begin="323" end="326">you</mainReferent>
+    <tokens>Now you see other animals coming one by one</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_12" begin="376" end="382">
+    <text>shadow</text>
+    <mainVerb begin="376" end="382">shadow</mainVerb>
+    <mainReferent begin="367" end="375">sneaking</mainReferent>
+    <tokens>A sneaking shadow there</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_13" begin="399" end="401">
+    <text>be</text>
+    <mainVerb begin="399" end="401">be</mainVerb>
+    <mainReferent begin="390" end="392">It</mainReferent>
+    <tokens>It must be a _ _</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_14" begin="418" end="420">
+    <text>is</text>
+    <mainVerb begin="418" end="420">is</mainVerb>
+    <mainReferent begin="413" end="417">That</mainReferent>
+    <tokens>That is an so</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_15" begin="436" end="440">
+    <text>eats</text>
+    <mainVerb begin="436" end="440">eats</mainVerb>
+    <mainReferent begin="424" end="430">animal</mainReferent>
+    <tokens>eats</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_16" begin="446" end="453">
+    <text>remains</text>
+    <mainVerb begin="446" end="453">remains</mainVerb>
+    <mainReferent begin="441" end="445">what</mainReferent>
+    <tokens>what remains from some other animal 's supper</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_17" begin="501" end="506">
+    <text>waits</text>
+    <mainVerb begin="501" end="506">waits</mainVerb>
+    <mainReferent begin="495" end="500">hyena</mainReferent>
+    <tokens>the hyena waits to see</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_18" begin="543" end="549">
+    <text>caught</text>
+    <mainVerb begin="543" end="549">caught</mainVerb>
+    <mainReferent begin="519" end="524">tiger</mainReferent>
+    <tokens>if a tiger a leopard has caught any supper</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_19" begin="578" end="582">
+    <text>have</text>
+    <mainVerb begin="578" end="582">have</mainVerb>
+    <mainReferent begin="519" end="524">tiger</mainReferent>
+    <tokens>else it will have to go hungry</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_20" begin="631" end="637">
+    <text>coming</text>
+    <mainVerb begin="631" end="637">coming</mainVerb>
+    <mainReferent begin="629" end="630">_</mainReferent>
+    <tokens>Here is a _ red deer _ coming carefully to the water</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_21" begin="675" end="677">
+    <text>is</text>
+    <mainVerb begin="675" end="677">is</mainVerb>
+    <mainReferent begin="668" end="674">animal</mainReferent>
+    <tokens>This animal is much than the blue deer more able to take care of herself</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_22" begin="766" end="771">
+    <text>comes</text>
+    <mainVerb begin="766" end="771">comes</mainVerb>
+    <mainReferent begin="762" end="765">she</mainReferent>
+    <tokens>still she comes very quietly</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_23" begin="786" end="793">
+    <text>looking</text>
+    <mainVerb begin="786" end="793">looking</mainVerb>
+    <tokens>looking to right</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_24" begin="808" end="812">
+    <text>left</text>
+    <mainVerb begin="808" end="812">left</mainVerb>
+    <mainReferent begin="762" end="765">she</mainReferent>
+    <tokens>she left to make sure</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_25" begin="841" end="843">
+    <text>is</text>
+    <mainVerb begin="841" end="843">is</mainVerb>
+    <mainReferent begin="835" end="840">tiger</mainReferent>
+    <tokens>that the tiger is not just in that place</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_26" begin="873" end="880">
+    <text>reaches</text>
+    <mainVerb begin="873" end="880">reaches</mainVerb>
+    <mainReferent begin="868" end="871">She</mainReferent>
+    <tokens>She reaches the water</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_27" begin="895" end="901">
+    <text>starts</text>
+    <mainVerb begin="895" end="901">starts</mainVerb>
+    <mainReferent begin="868" end="871">She</mainReferent>
+    <tokens>She starts drinking</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_28" begin="923" end="926">
+    <text>see</text>
+    <mainVerb begin="923" end="926">see</mainVerb>
+    <mainReferent begin="919" end="922">you</mainReferent>
+    <tokens>But do you see</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_29" begin="943" end="947">
+    <text>bent</text>
+    <mainVerb begin="943" end="947">bent</mainVerb>
+    <mainReferent begin="935" end="938">ear</mainReferent>
+    <tokens>how her ear is bent to the side</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_30" begin="977" end="986">
+    <text>listening</text>
+    <mainVerb begin="977" end="986">listening</mainVerb>
+    <mainReferent begin="969" end="973">deer</mainReferent>
+    <tokens>The red deer is listening most carefully</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_31" begin="1022" end="1030">
+    <text>drinking</text>
+    <mainVerb begin="1022" end="1030">drinking</mainVerb>
+    <mainReferent begin="1015" end="1018">she</mainReferent>
+    <tokens>even while she is drinking</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_32" begin="1039" end="1043">
+    <text>look</text>
+    <mainVerb begin="1039" end="1043">look</mainVerb>
+    <tokens>But look</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_33" begin="1045" end="1049">
+    <text>look</text>
+    <mainVerb begin="1045" end="1049">look</mainVerb>
+    <tokens>look</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_34" begin="1119" end="1127">
+    <text>crouches</text>
+    <mainVerb begin="1119" end="1127">crouches</mainVerb>
+    <mainReferent begin="1055" end="1059">bush</mainReferent>
+    <tokens>a huge yellow form crouches there</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_35" begin="1138" end="1140">
+    <text>is</text>
+    <mainVerb begin="1138" end="1140">is</mainVerb>
+    <mainReferent begin="1135" end="1137">It</mainReferent>
+    <tokens>It is the</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_36" begin="1158" end="1160">
+    <text>is</text>
+    <mainVerb begin="1158" end="1160">is</mainVerb>
+    <mainReferent begin="1155" end="1157">He</mainReferent>
+    <tokens>He is not enough to jump on the deer so</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_37" begin="1204" end="1209">
+    <text>takes</text>
+    <mainVerb begin="1204" end="1209">takes</mainVerb>
+    <mainReferent begin="1201" end="1203">he</mainReferent>
+    <tokens>he takes one step forward as softly as a cat</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_38" begin="1269" end="1274">
+    <text>heard</text>
+    <mainVerb begin="1269" end="1274">heard</mainVerb>
+    <mainReferent begin="1260" end="1264">deer</mainReferent>
+    <tokens>But the deer has heard the footfall</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_39" begin="1301" end="1305">
+    <text>hear</text>
+    <mainVerb begin="1301" end="1305">hear</mainVerb>
+    <mainReferent begin="1293" end="1296">she</mainReferent>
+    <tokens>For she can hear even a leaf</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_40" begin="1327" end="1332">
+    <text>falls</text>
+    <mainVerb begin="1327" end="1332">falls</mainVerb>
+    <mainReferent begin="1324" end="1326">it</mainReferent>
+    <tokens>when it falls to the ground</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_41" begin="1392" end="1400">
+    <text>drinking</text>
+    <mainVerb begin="1392" end="1400">drinking</mainVerb>
+    <mainReferent begin="1383" end="1386">she</mainReferent>
+    <tokens>even while she was drinking</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_42" begin="1419" end="1425">
+    <text>turned</text>
+    <mainVerb begin="1419" end="1425">turned</mainVerb>
+    <mainReferent begin="1410" end="1414">deer</mainReferent>
+    <tokens>in that one second the red deer has turned to the side</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_43" begin="1430" end="1436">
+    <text>leaped</text>
+    <mainVerb begin="1430" end="1436">leaped</mainVerb>
+    <mainReferent begin="1410" end="1414">deer</mainReferent>
+    <tokens>the red deer leaped</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_44" begin="1470" end="1476">
+    <text>leaped</text>
+    <mainVerb begin="1470" end="1476">leaped</mainVerb>
+    <mainReferent begin="1454" end="1459">tiger</mainReferent>
+    <tokens>The tiger has also leaped at the same time</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_45" begin="1502" end="1507">
+    <text>aimed</text>
+    <mainVerb begin="1502" end="1507">aimed</mainVerb>
+    <mainReferent begin="1454" end="1459">tiger</mainReferent>
+    <tokens>he aimed at the place where the deer _ was _</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_46" begin="1566" end="1570">
+    <text>left</text>
+    <mainVerb begin="1566" end="1570">left</mainVerb>
+    <mainReferent begin="1552" end="1556">deer</mainReferent>
+    <tokens>But the deer has just left that place the next second</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_47" begin="1608" end="1613">
+    <text>gives</text>
+    <mainVerb begin="1608" end="1613">gives</mainVerb>
+    <mainReferent begin="1604" end="1607">she</mainReferent>
+    <tokens>she gives another leap like a flash</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_48" begin="1646" end="1650">
+    <text>gets</text>
+    <mainVerb begin="1646" end="1650">gets</mainVerb>
+    <mainReferent begin="1604" end="1607">she</mainReferent>
+    <tokens>she gets of the tiger 's reach</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_49" begin="1651" end="1654">
+    <text>out</text>
+    <mainVerb begin="1651" end="1654">out</mainVerb>
+    <tokens>out</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_50" begin="1691" end="1697">
+    <text>stands</text>
+    <mainVerb begin="1691" end="1697">stands</mainVerb>
+    <mainReferent begin="1685" end="1690">tiger</mainReferent>
+    <tokens>The tiger stands</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_51" begin="1707" end="1713">
+    <text>leaped</text>
+    <mainVerb begin="1707" end="1713">leaped</mainVerb>
+    <mainReferent begin="1704" end="1706">he</mainReferent>
+    <tokens>where he leaped</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_52" begin="1719" end="1725">
+    <text>growls</text>
+    <mainVerb begin="1719" end="1725">growls</mainVerb>
+    <mainReferent begin="1685" end="1690">tiger</mainReferent>
+    <tokens>The tiger growls with rage</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_53" begin="1740" end="1745">
+    <text>knows</text>
+    <mainVerb begin="1740" end="1745">knows</mainVerb>
+    <mainReferent begin="1737" end="1739">He</mainReferent>
+    <tokens>He knows</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_54" begin="1756" end="1758">
+    <text>be</text>
+    <mainVerb begin="1756" end="1758">be</mainVerb>
+    <mainReferent begin="1746" end="1748">it</mainReferent>
+    <tokens>it would be no</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_55" begin="1766" end="1773">
+    <text>chasing</text>
+    <mainVerb begin="1766" end="1773">chasing</mainVerb>
+    <mainReferent begin="1762" end="1765">use</mainReferent>
+    <tokens>chasing the deer</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_56" begin="1801" end="1804">
+    <text>run</text>
+    <mainVerb begin="1801" end="1804">run</mainVerb>
+    <mainReferent begin="1787" end="1788">_</mainReferent>
+    <tokens>as _ the deer can run much faster _</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_57" begin="1826" end="1832">
+    <text>stands</text>
+    <mainVerb begin="1826" end="1832">stands</mainVerb>
+    <mainReferent begin="1823" end="1825">he</mainReferent>
+    <tokens>So he stands there</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_58" begin="1844" end="1850">
+    <text>growls</text>
+    <mainVerb begin="1844" end="1850">growls</mainVerb>
+    <mainReferent begin="1823" end="1825">he</mainReferent>
+    <tokens>he growls for quite a while</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_59" begin="1891" end="1894">
+    <text>get</text>
+    <mainVerb begin="1891" end="1894">get</mainVerb>
+    <mainReferent begin="1879" end="1881">he</mainReferent>
+    <tokens>as he did not get any supper that night</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_60" begin="1934" end="1938">
+    <text>have</text>
+    <mainVerb begin="1934" end="1938">have</mainVerb>
+    <mainReferent begin="1918" end="1920">he</mainReferent>
+    <tokens>Then he can at least have a drink</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_61" begin="1954" end="1960">
+    <text>drinks</text>
+    <mainVerb begin="1954" end="1960">drinks</mainVerb>
+    <mainReferent begin="1951" end="1953">he</mainReferent>
+    <tokens>So he drinks</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_62" begin="1966" end="1970">
+    <text>goes</text>
+    <mainVerb begin="1966" end="1970">goes</mainVerb>
+    <mainReferent begin="1951" end="1953">he</mainReferent>
+    <tokens>he goes away</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_63" begin="1983" end="1991">
+    <text>growling</text>
+    <mainVerb begin="1983" end="1991">growling</mainVerb>
+    <mainReferent begin="1954" end="1960">drinks</mainReferent>
+    <tokens>still growling</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_64" begin="2004" end="2006">
+    <text>is</text>
+    <mainVerb begin="2004" end="2006">is</mainVerb>
+    <mainReferent begin="2000" end="2003">all</mainReferent>
+    <tokens>Now all is at last at the midnight pool</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_65" begin="2068" end="2072">
+    <text>gone</text>
+    <mainVerb begin="2068" end="2072">gone</mainVerb>
+    <mainReferent begin="2054" end="2061">animals</mainReferent>
+    <tokens>as all the animals have gone away</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_66" begin="2148" end="2153">
+    <text>leave</text>
+    <mainVerb begin="2148" end="2153">leave</mainVerb>
+    <tokens>leave the place</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_67" begin="2167" end="2171">
+    <text>want</text>
+    <mainVerb begin="2167" end="2171">want</mainVerb>
+    <mainReferent begin="2165" end="2166">I</mainReferent>
+    <tokens>_ The Law of the Jungle -- Clear Water for All _ before _ we _ I want you to remember something</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_68" begin="2202" end="2208">
+    <text>showed</text>
+    <mainVerb begin="2202" end="2208">showed</mainVerb>
+    <mainReferent begin="2199" end="2200">I</mainReferent>
+    <tokens>I showed you first the elephants</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_69" begin="2239" end="2243">
+    <text>were</text>
+    <mainVerb begin="2239" end="2243">were</mainVerb>
+    <mainReferent begin="2234" end="2238">they</mainReferent>
+    <tokens>they were on our right</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_70" begin="2263" end="2265">
+    <text>is</text>
+    <mainVerb begin="2263" end="2265">is</mainVerb>
+    <mainReferent begin="2258" end="2262">that</mainReferent>
+    <tokens>that is _ down _ the stream the</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_71" begin="2305" end="2310">
+    <text>flows</text>
+    <mainVerb begin="2305" end="2310">flows</mainVerb>
+    <mainReferent begin="2299" end="2304">water</mainReferent>
+    <tokens>the water flows</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_72" begin="2330" end="2335">
+    <text>drank</text>
+    <mainVerb begin="2330" end="2335">drank</mainVerb>
+    <mainReferent begin="2320" end="2329">elephants</mainReferent>
+    <tokens>And the elephants drank first among all the animals</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_73" begin="2396" end="2400">
+    <text>came</text>
+    <mainVerb begin="2396" end="2400">came</mainVerb>
+    <mainReferent begin="2388" end="2395">animals</mainReferent>
+    <tokens>Then all the other animals came to the stream more our left that _ up _ the stream</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_74" begin="2444" end="2446">
+    <text>is</text>
+    <mainVerb begin="2444" end="2446">is</mainVerb>
+    <mainReferent begin="2439" end="2443">that</mainReferent>
+    <tokens>is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_75" begin="2469" end="2472">
+    <text>was</text>
+    <mainVerb begin="2469" end="2472">was</mainVerb>
+    <mainReferent begin="2465" end="2468">Why</mainReferent>
+    <tokens>Why was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_76" begin="2497" end="2501">
+    <text>tell</text>
+    <mainVerb begin="2497" end="2501">tell</mainVerb>
+    <mainReferent begin="2489" end="2490">I</mainReferent>
+    <tokens>I shall tell you</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_77" begin="2533" end="2539">
+    <text>finish</text>
+    <mainVerb begin="2533" end="2539">finish</mainVerb>
+    <mainReferent begin="2523" end="2532">elephants</mainReferent>
+    <tokens>the elephants finish</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_78" begin="2540" end="2548">
+    <text>drinking</text>
+    <mainVerb begin="2540" end="2548">drinking</mainVerb>
+    <tokens>drinking dipping their trunks into the stream</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_79" begin="2612" end="2618">
+    <text>begins</text>
+    <mainVerb begin="2612" end="2618">begins</mainVerb>
+    <mainReferent begin="2595" end="2600">times</mainReferent>
+    <tokens>By the time the elephants finish drinking by dipping their trunks into the stream many times the water begins to muddy</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_80" begin="2622" end="2625">
+    <text>get</text>
+    <mainVerb begin="2622" end="2625">get</mainVerb>
+    <mainReferent begin="2627" end="2632">muddy</mainReferent>
+    <tokens>get</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_81" begin="2673" end="2677">
+    <text>jump</text>
+    <mainVerb begin="2673" end="2677">jump</mainVerb>
+    <mainReferent begin="2663" end="2672">elephants</mainReferent>
+    <tokens>In fact after drinking the elephants jump into the water to have a bath and a swim</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_82" begin="2732" end="2736">
+    <text>tell</text>
+    <mainVerb begin="2732" end="2736">tell</mainVerb>
+    <mainReferent begin="2724" end="2725">I</mainReferent>
+    <tokens>as I shall tell you in the next chapter</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_83" begin="2778" end="2782">
+    <text>gets</text>
+    <mainVerb begin="2778" end="2782">gets</mainVerb>
+    <mainReferent begin="2772" end="2777">water</mainReferent>
+    <tokens>So the water gets muddy near the elephants and all the way down stream from that place</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_84" begin="2867" end="2872">
+    <text>flows</text>
+    <mainVerb begin="2867" end="2872">flows</mainVerb>
+    <mainReferent begin="2861" end="2866">water</mainReferent>
+    <tokens>as the water flows that way</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_85" begin="2916" end="2920">
+    <text>want</text>
+    <mainVerb begin="2916" end="2920">want</mainVerb>
+    <mainReferent begin="2900" end="2907">animals</mainReferent>
+    <tokens>as the other animals do not want muddy water to drink</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_86" begin="2955" end="2957">
+    <text>go</text>
+    <mainVerb begin="2955" end="2957">go</mainVerb>
+    <mainReferent begin="2943" end="2947">they</mainReferent>
+    <tokens>And they always go _ up _ the stream</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_87" begin="2992" end="2994">
+    <text>is</text>
+    <mainVerb begin="2992" end="2994">is</mainVerb>
+    <mainReferent begin="2986" end="2991">water</mainReferent>
+    <tokens>where the water is still</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_88" begin="3061" end="3068">
+    <text>written</text>
+    <mainVerb begin="3061" end="3068">written</mainVerb>
+    <mainReferent begin="3051" end="3053">it</mainReferent>
+    <tokens>though it is not written down in a book like the laws among men</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_89" begin="3133" end="3137">
+    <text>says</text>
+    <mainVerb begin="3133" end="3137">says</mainVerb>
+    <mainReferent begin="3115" end="3118">Law</mainReferent>
+    <tokens>The Law of the Jungle says</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_90" begin="3161" end="3164">
+    <text>are</text>
+    <mainVerb begin="3161" end="3164">are</mainVerb>
+    <mainReferent begin="3151" end="3160">elephants</mainReferent>
+    <tokens>as the elephants are the of the jungle</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_91" begin="3201" end="3206">
+    <text>drink</text>
+    <mainVerb begin="3201" end="3206">drink</mainVerb>
+    <mainReferent begin="3190" end="3194">they</mainReferent>
+    <tokens>that they shall drink _ first _</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_92" begin="3231" end="3233">
+    <text>be</text>
+    <mainVerb begin="3231" end="3233">be</mainVerb>
+    <mainReferent begin="3221" end="3225">they</mainReferent>
+    <tokens>they must be to drink _ down the stream _</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_93" begin="3305" end="3309">
+    <text>have</text>
+    <mainVerb begin="3305" end="3309">have</mainVerb>
+    <mainReferent begin="3293" end="3300">animals</mainReferent>
+    <tokens>so that all the other animals may have a place higher up to drink _</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_94" begin="3344" end="3347">
+    <text>get</text>
+    <mainVerb begin="3344" end="3347">get</mainVerb>
+    <mainReferent begin="3325" end="3327">up</mainReferent>
+    <tokens>where they can get _ clear water</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_95" begin="3404" end="3410">
+    <text>broken</text>
+    <mainVerb begin="3404" end="3410">broken</mainVerb>
+    <mainReferent begin="3385" end="3388">law</mainReferent>
+    <tokens>And that law has never been broken for many thousands of years , among all the different sorts of animals</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_96" begin="3546" end="3552">
+    <text>called</text>
+    <mainVerb begin="3546" end="3552">called</mainVerb>
+    <mainReferent begin="3504" end="3508">laws</mainReferent>
+    <tokens>called nations</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_97" begin="3573" end="3579">
+    <text>broken</text>
+    <mainVerb begin="3573" end="3579">broken</mainVerb>
+    <mainReferent begin="3504" end="3508">laws</mainReferent>
+    <tokens>But with men the laws among the different sorts of people are often broken</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_98" begin="3602" end="3606">
+    <text>want</text>
+    <mainVerb begin="3602" end="3606">want</mainVerb>
+    <mainReferent begin="3589" end="3593">some</mainReferent>
+    <tokens>because some of them want all the best things the best places</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_99" begin="3660" end="3664">
+    <text>care</text>
+    <mainVerb begin="3660" end="3664">care</mainVerb>
+    <mainReferent begin="3589" end="3593">some</mainReferent>
+    <tokens>some of them do not care</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_100" begin="3673" end="3678">
+    <text>muddy</text>
+    <mainVerb begin="3673" end="3678">muddy</mainVerb>
+    <mainReferent begin="3668" end="3672">they</mainReferent>
+    <tokens>if they muddy the water</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_101" begin="3711" end="3715">
+    <text>have</text>
+    <mainVerb begin="3711" end="3715">have</mainVerb>
+    <mainReferent begin="3683" end="3688">water</mainReferent>
+    <tokens>that their neighbors have to drink</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_102" begin="3758" end="3763">
+    <text>learn</text>
+    <mainVerb begin="3758" end="3763">learn</mainVerb>
+    <mainReferent begin="3741" end="3749">children</mainReferent>
+    <tokens>So my dear children we can learn many things from the animals women</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_103" begin="3839" end="3843">
+    <text>grow</text>
+    <mainVerb begin="3839" end="3843">grow</mainVerb>
+    <mainReferent begin="3836" end="3838">we</mainReferent>
+    <tokens>women when we grow up</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_104" begin="3909" end="3913">
+    <text>told</text>
+    <mainVerb begin="3909" end="3913">told</mainVerb>
+    <mainReferent begin="3897" end="3898">I</mainReferent>
+    <tokens>CHAPTER III The Elephants Bath I have just told you</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_105" begin="3954" end="3958">
+    <text>jump</text>
+    <mainVerb begin="3954" end="3958">jump</mainVerb>
+    <mainReferent begin="3944" end="3953">elephants</mainReferent>
+    <tokens>that drinking the elephants jump into the water</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_106" begin="3979" end="3983">
+    <text>have</text>
+    <mainVerb begin="3979" end="3983">have</mainVerb>
+    <mainReferent begin="3944" end="3953">elephants</mainReferent>
+    <tokens>the elephants have a bath a swim</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_107" begin="4008" end="4010">
+    <text>is</text>
+    <mainVerb begin="4008" end="4010">is</mainVerb>
+    <mainReferent begin="4003" end="4007">That</mainReferent>
+    <tokens>That is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_108" begin="4040" end="4042">
+    <text>do</text>
+    <mainVerb begin="4040" end="4042">do</mainVerb>
+    <mainReferent begin="4029" end="4038">elephants</mainReferent>
+    <tokens>all the grown-up elephants do that</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_109" begin="4071" end="4075">
+    <text>stay</text>
+    <mainVerb begin="4071" end="4075">stay</mainVerb>
+    <mainReferent begin="4066" end="4070">ones</mainReferent>
+    <tokens>while the little ones stay on the bank</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_wonders_of_the_jungle_book_one_5.txt_110" begin="4092" end="4096">
+    <text>play</text>
+    <mainVerb begin="4092" end="4096">play</mainVerb>
+    <mainReferent begin="4066" end="4070">ones</mainReferent>
+    <tokens>the little ones play about</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+</document>

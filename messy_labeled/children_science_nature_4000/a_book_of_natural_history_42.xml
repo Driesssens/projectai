@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="a_book_of_natural_history_42.txt_1" begin="11" end="13">
+    <text>go</text>
+    <mainVerb begin="11" end="13">go</mainVerb>
+    <mainReferent begin="4" end="6">we</mainReferent>
+    <tokens>But we can go even further</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_2" begin="27" end="34">
+    <text>summing</text>
+    <mainVerb begin="27" end="34">summing</mainVerb>
+    <tokens>summing up the benefits</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_3" begin="64" end="70">
+    <text>derive</text>
+    <mainVerb begin="64" end="70">derive</mainVerb>
+    <mainReferent begin="56" end="59">men</mainReferent>
+    <tokens>that men may derive from the birds</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_4" begin="107" end="111">
+    <text>make</text>
+    <mainVerb begin="107" end="111">make</mainVerb>
+    <mainReferent begin="101" end="106">kinds</mainReferent>
+    <tokens>A great many kinds make excellent food</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_5" begin="142" end="149">
+    <text>furnish</text>
+    <mainVerb begin="142" end="149">furnish</mainVerb>
+    <mainReferent begin="134" end="140">others</mainReferent>
+    <tokens>while others furnish sport pleasure to a large number of men and boys who seem to require a certain kind of entertainment while accompanied with dog and gun</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_6" begin="207" end="211">
+    <text>seem</text>
+    <mainVerb begin="207" end="211">seem</mainVerb>
+    <mainReferent begin="180" end="186">number</mainReferent>
+    <tokens>a large number of men and boys seem to require a certain kind of entertainment</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_7" begin="262" end="273">
+    <text>accompanied</text>
+    <mainVerb begin="262" end="273">accompanied</mainVerb>
+    <mainReferent begin="180" end="186">number</mainReferent>
+    <tokens>a large number of men and boys while accompanied with dog and gun</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_8" begin="309" end="317">
+    <text>embalmed</text>
+    <mainVerb begin="309" end="317">embalmed</mainVerb>
+    <tokens>when embalmed as mummies</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_9" begin="333" end="341">
+    <text>attached</text>
+    <mainVerb begin="333" end="341">attached</mainVerb>
+    <tokens>attached to the head-gear worn by some girls and women</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_10" begin="360" end="364">
+    <text>worn</text>
+    <mainVerb begin="360" end="364">worn</mainVerb>
+    <mainReferent begin="350" end="359">head-gear</mainReferent>
+    <tokens>worn some girls women</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_11" begin="398" end="405">
+    <text>claimed</text>
+    <mainVerb begin="398" end="405">claimed</mainVerb>
+    <mainReferent begin="298" end="303">birds</mainReferent>
+    <tokens>Dead birds are also claimed to cause much happiness</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_12" begin="465" end="467">
+    <text>be</text>
+    <mainVerb begin="465" end="467">be</mainVerb>
+    <mainReferent begin="456" end="458">It</mainReferent>
+    <tokens>_ It would be for me to assert here</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_13" begin="522" end="529">
+    <text>results</text>
+    <mainVerb begin="522" end="529">results</mainVerb>
+    <mainReferent begin="510" end="516">injury</mainReferent>
+    <tokens>that no injury ever results from the presence of birds on the farm in the orchard</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_14" begin="642" end="650">
+    <text>stepping</text>
+    <mainVerb begin="642" end="650">stepping</mainVerb>
+    <mainReferent begin="597" end="603">number</mainReferent>
+    <tokens>Quite a number of different species are continually stepping over to the wrong side of the " ledger " committing depredations of various kinds which if considered alone would render the perpetrators liable to severe punishment -- in some cases even unto death</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_15" begin="696" end="700">
+    <text>were</text>
+    <mainVerb begin="696" end="700">were</mainVerb>
+    <mainReferent begin="693" end="695">it</mainReferent>
+    <tokens>as it were</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_16" begin="757" end="767">
+    <text>considered</text>
+    <mainVerb begin="757" end="767">considered</mainVerb>
+    <tokens>if considered alone</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_17" begin="781" end="787">
+    <text>render</text>
+    <mainVerb begin="781" end="787">render</mainVerb>
+    <mainReferent begin="757" end="767">considered</mainReferent>
+    <tokens>various kinds would render the perpetrators liable to severe punishment in some cases even unto death</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_18" begin="897" end="904">
+    <text>charged</text>
+    <mainVerb begin="897" end="904">charged</mainVerb>
+    <mainReferent begin="878" end="884">crimes</mainReferent>
+    <tokens>the crimes can be charged to the feathered tribe</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_19" begin="929" end="932">
+    <text>are</text>
+    <mainVerb begin="929" end="932">are</mainVerb>
+    <mainReferent begin="1160" end="1169">spreading</mainReferent>
+    <tokens>Some of the crimes that can be charged to the feathered tribe are berry-stealing grape-puncturing apple-pecking corn-pulling grain-eating the unintentional carrying from place to place of some kinds of scale insects that happen to crawl on their legs and feet the possible spreading of hog cholera by crows and buzzards the robbing of the poultry yard</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_20" begin="1106" end="1112">
+    <text>happen</text>
+    <mainVerb begin="1106" end="1112">happen</mainVerb>
+    <mainReferent begin="1093" end="1100">insects</mainReferent>
+    <tokens>scale insects happen to crawl on their legs and feet</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_21" begin="1269" end="1276">
+    <text>accused</text>
+    <mainVerb begin="1269" end="1276">accused</mainVerb>
+    <mainReferent begin="933" end="939">cherry</mainReferent>
+    <tokens>lastly some birds are accused making noises in the morning</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_22" begin="1299" end="1305">
+    <text>awaken</text>
+    <mainVerb begin="1299" end="1305">awaken</mainVerb>
+    <mainReferent begin="1287" end="1293">noises</mainReferent>
+    <tokens>noises awaken us from our slumbers</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_23" begin="1368" end="1371">
+    <text>are</text>
+    <mainVerb begin="1368" end="1371">are</mainVerb>
+    <mainReferent begin="1347" end="1351">Some</mainReferent>
+    <tokens>Some of these crimes are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_24" begin="1384" end="1387">
+    <text>are</text>
+    <mainVerb begin="1384" end="1387">are</mainVerb>
+    <mainReferent begin="1347" end="1351">Some</mainReferent>
+    <tokens>Some of these crimes are to be deplored</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_25" begin="1418" end="1421">
+    <text>are</text>
+    <mainVerb begin="1418" end="1421">are</mainVerb>
+    <mainReferent begin="1410" end="1416">others</mainReferent>
+    <tokens>while others are more than real</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_26" begin="1471" end="1480">
+    <text>prevented</text>
+    <mainVerb begin="1471" end="1480">prevented</mainVerb>
+    <mainReferent begin="1450" end="1453">few</mainReferent>
+    <tokens>A few of them could be prevented in part altogether</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_27" begin="1527" end="1537">
+    <text>diminished</text>
+    <mainVerb begin="1527" end="1537">diminished</mainVerb>
+    <mainReferent begin="1511" end="1517">others</mainReferent>
+    <tokens>while others might be diminished</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_28" begin="1549" end="1557">
+    <text>inclined</text>
+    <mainVerb begin="1549" end="1557">inclined</mainVerb>
+    <mainReferent begin="1541" end="1543">we</mainReferent>
+    <tokens>if we were inclined to take the trouble to do it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_29" begin="1614" end="1618">
+    <text>said</text>
+    <mainVerb begin="1614" end="1618">said</mainVerb>
+    <mainReferent begin="1598" end="1601">all</mainReferent>
+    <tokens>all can be said pro</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_30" begin="1627" end="1630">
+    <text>con</text>
+    <mainVerb begin="1627" end="1630">con</mainVerb>
+    <mainReferent begin="1598" end="1601">all</mainReferent>
+    <tokens>all con</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_31" begin="1631" end="1641">
+    <text>concerning</text>
+    <mainVerb begin="1631" end="1641">concerning</mainVerb>
+    <tokens>concerning the usefulness of birds in general</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_32" begin="1684" end="1691">
+    <text>remains</text>
+    <mainVerb begin="1684" end="1691">remains</mainVerb>
+    <mainReferent begin="1695" end="1700">doubt</mainReferent>
+    <tokens>After all that can be said pro and con concerning the usefulness of birds in general there remains no doubt in the minds thinking people at least to the value of these creatures</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_33" begin="1784" end="1786">
+    <text>is</text>
+    <mainVerb begin="1784" end="1786">is</mainVerb>
+    <mainReferent begin="1781" end="1783">It</mainReferent>
+    <tokens>It is only the biased thoughtless persons</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_34" begin="1842" end="1850">
+    <text>continue</text>
+    <mainVerb begin="1842" end="1850">continue</mainVerb>
+    <mainReferent begin="1830" end="1837">persons</mainReferent>
+    <tokens>thoughtless persons continue ruthlessly to destroy birds indiscriminately first pausing to consider not it wrong</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_35" begin="1950" end="1952">
+    <text>is</text>
+    <mainVerb begin="1950" end="1952">is</mainVerb>
+    <mainReferent begin="1947" end="1949">it</mainReferent>
+    <tokens>whether not it is a proper to do</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_36" begin="1986" end="1988">
+    <text>is</text>
+    <mainVerb begin="1986" end="1988">is</mainVerb>
+    <mainReferent begin="1983" end="1985">it</mainReferent>
+    <tokens>whether it is wrong</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_37" begin="2028" end="2034">
+    <text>varied</text>
+    <mainVerb begin="2028" end="2034">varied</mainVerb>
+    <mainReferent begin="2022" end="2023">_</mainReferent>
+    <tokens>So varied</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_38" begin="2035" end="2037">
+    <text>is</text>
+    <mainVerb begin="2035" end="2037">is</mainVerb>
+    <mainReferent begin="2022" end="2023">_</mainReferent>
+    <tokens>_ is this of evening up in nature</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_39" begin="2081" end="2089">
+    <text>attended</text>
+    <mainVerb begin="2081" end="2089">attended</mainVerb>
+    <tokens>if attended to properly</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_40" begin="2119" end="2121">
+    <text>be</text>
+    <mainVerb begin="2119" end="2121">be</mainVerb>
+    <mainReferent begin="2106" end="2113">workers</mainReferent>
+    <tokens>that the workers must be in individuals</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_41" begin="2151" end="2158">
+    <text>possess</text>
+    <mainVerb begin="2151" end="2158">possess</mainVerb>
+    <mainReferent begin="2106" end="2113">workers</mainReferent>
+    <tokens>the workers possess widely different habits</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_42" begin="2194" end="2196">
+    <text>is</text>
+    <mainVerb begin="2194" end="2196">is</mainVerb>
+    <mainReferent begin="2189" end="2193">such</mainReferent>
+    <tokens>That such is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_43" begin="2222" end="2226">
+    <text>seen</text>
+    <mainVerb begin="2222" end="2226">seen</mainVerb>
+    <mainReferent begin="2201" end="2205">case</mainReferent>
+    <tokens>the case can readily be seen the following brief account of the various groups of our Nebraska birds with brief statements of their food habits</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_44" begin="2378" end="2382">
+    <text>feed</text>
+    <mainVerb begin="2378" end="2382">feed</mainVerb>
+    <mainReferent begin="2372" end="2377">Loons</mainReferent>
+    <tokens>The Grebes Loons feed chiefly upon snails and other aquatic animals such as are found about their haunts</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_45" begin="2442" end="2447">
+    <text>found</text>
+    <mainVerb begin="2442" end="2447">found</mainVerb>
+    <mainReferent begin="2435" end="2437">as</mainReferent>
+    <tokens>are found about their haunts</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_46" begin="2478" end="2485">
+    <text>capture</text>
+    <mainVerb begin="2478" end="2485">capture</mainVerb>
+    <mainReferent begin="2468" end="2472">They</mainReferent>
+    <tokens>They also capture many grasshoppers similar insects</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_47" begin="2530" end="2536">
+    <text>happen</text>
+    <mainVerb begin="2530" end="2536">happen</mainVerb>
+    <mainReferent begin="2517" end="2524">insects</mainReferent>
+    <tokens>similar insects happen in their way</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_48" begin="2579" end="2586">
+    <text>classed</text>
+    <mainVerb begin="2579" end="2586">classed</mainVerb>
+    <mainReferent begin="2551" end="2555">They</mainReferent>
+    <tokens>They can not therefore be classed among the especially beneficial birds</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_49" begin="2647" end="2653">
+    <text>termed</text>
+    <mainVerb begin="2647" end="2653">termed</mainVerb>
+    <mainReferent begin="2579" end="2586">classed</mainReferent>
+    <tokens>neither can they be termed injurious on account</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_50" begin="2688" end="2691">
+    <text>eat</text>
+    <mainVerb begin="2688" end="2691">eat</mainVerb>
+    <mainReferent begin="2654" end="2663">injurious</mainReferent>
+    <tokens>what they eat</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_51" begin="2707" end="2715">
+    <text>provided</text>
+    <mainVerb begin="2707" end="2715">provided</mainVerb>
+    <mainReferent begin="2700" end="2705">Gulls</mainReferent>
+    <tokens>provided</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_52" begin="2724" end="2727">
+    <text>are</text>
+    <mainVerb begin="2724" end="2727">are</mainVerb>
+    <mainReferent begin="2719" end="2723">they</mainReferent>
+    <tokens>as they are with long wings and great powers for flight</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_53" begin="2782" end="2790">
+    <text>confined</text>
+    <mainVerb begin="2782" end="2790">confined</mainVerb>
+    <mainReferent begin="2700" end="2705">Gulls</mainReferent>
+    <tokens>The Gulls are not confined to the seacoast</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_54" begin="2819" end="2824">
+    <text>reach</text>
+    <mainVerb begin="2819" end="2824">reach</mainVerb>
+    <mainReferent begin="2814" end="2818">they</mainReferent>
+    <tokens>hence they reach far inland in their migrations</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_55" begin="2858" end="2865">
+    <text>feeding</text>
+    <mainVerb begin="2858" end="2865">feeding</mainVerb>
+    <tokens>feeding extensively upon insects like locusts , June-beetles , crickets , etc. large numbers</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_56" begin="2964" end="2971">
+    <text>destroy</text>
+    <mainVerb begin="2964" end="2971">destroy</mainVerb>
+    <mainReferent begin="2959" end="2963">they</mainReferent>
+    <tokens>large numbers they destroy annually</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_57" begin="3016" end="3021">
+    <text>known</text>
+    <mainVerb begin="3016" end="3021">known</mainVerb>
+    <mainReferent begin="2991" end="2996">kinds</mainReferent>
+    <tokens>Several kinds of these birds are known to follow the plough</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_58" begin="3048" end="3052">
+    <text>pick</text>
+    <mainVerb begin="3048" end="3052">pick</mainVerb>
+    <mainReferent begin="2991" end="2996">kinds</mainReferent>
+    <tokens>Several kinds of these birds pick up the white grubs other insects</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_59" begin="3099" end="3105">
+    <text>turned</text>
+    <mainVerb begin="3099" end="3105">turned</mainVerb>
+    <mainReferent begin="3082" end="3089">insects</mainReferent>
+    <tokens>other insects are turned up</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_60" begin="3114" end="3118">
+    <text>laid</text>
+    <mainVerb begin="3114" end="3118">laid</mainVerb>
+    <mainReferent begin="3082" end="3089">insects</mainReferent>
+    <tokens>other insects laid bare</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_61" begin="3158" end="3161">
+    <text>did</text>
+    <mainVerb begin="3158" end="3161">did</mainVerb>
+    <mainReferent begin="3145" end="3157">grasshoppers</mainReferent>
+    <tokens>when grasshoppers did much harm in this state</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_62" begin="3224" end="3228">
+    <text>seen</text>
+    <mainVerb begin="3224" end="3228">seen</mainVerb>
+    <mainReferent begin="3197" end="3203">flocks</mainReferent>
+    <tokens>In early days numerous flocks of these birds were seen to feed upon these insects</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_63" begin="3289" end="3292">
+    <text>are</text>
+    <mainVerb begin="3289" end="3292">are</mainVerb>
+    <mainReferent begin="3280" end="3288">Pelicans</mainReferent>
+    <tokens>The Cormorants Pelicans are chiefly of fishes and frogs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_64" begin="3354" end="3361">
+    <text>classed</text>
+    <mainVerb begin="3354" end="3361">classed</mainVerb>
+    <mainReferent begin="3301" end="3311">destroyers</mainReferent>
+    <tokens>hence can hardly be classed among the most beneficial forms</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_65" begin="3420" end="3422">
+    <text>do</text>
+    <mainVerb begin="3420" end="3422">do</mainVerb>
+    <mainReferent begin="3411" end="3414">not</mainReferent>
+    <tokens>but whether or not they do any more than to maintain the necessary equilibrium in that particular part of the vast field of nature</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_66" begin="3531" end="3533">
+    <text>is</text>
+    <mainVerb begin="3531" end="3533">is</mainVerb>
+    <mainReferent begin="3528" end="3530">it</mainReferent>
+    <tokens>it is to judge without time for investigation</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_67" begin="3623" end="3626">
+    <text>are</text>
+    <mainVerb begin="3623" end="3626">are</mainVerb>
+    <mainReferent begin="3611" end="3616">Geese</mainReferent>
+    <tokens>The various Ducks Geese are also nearly as in their habits as some of the foregoing</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_68" begin="3704" end="3709">
+    <text>leave</text>
+    <mainVerb begin="3704" end="3709">leave</mainVerb>
+    <mainReferent begin="3611" end="3616">Geese</mainReferent>
+    <tokens>The various Ducks Geese frequently leave their haunts</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_69" begin="3728" end="3732">
+    <text>make</text>
+    <mainVerb begin="3728" end="3732">make</mainVerb>
+    <mainReferent begin="3601" end="3606">Ducks</mainReferent>
+    <tokens>The various Ducks Geese make excursions into the surrounding country where in summer they feed upon locusts , beetles , and other injurious insects</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_70" begin="3794" end="3798">
+    <text>feed</text>
+    <mainVerb begin="3794" end="3798">feed</mainVerb>
+    <mainReferent begin="3789" end="3793">they</mainReferent>
+    <tokens>where in summer they feed upon locusts , beetles , and other injurious insects</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_71" begin="3862" end="3869">
+    <text>partake</text>
+    <mainVerb begin="3862" end="3869">partake</mainVerb>
+    <mainReferent begin="3852" end="3856">They</mainReferent>
+    <tokens>They also partake of considerable quantities of vegetable food , as grains , weed seeds , grasses , and other herbage</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_72" begin="3979" end="3987">
+    <text>included</text>
+    <mainVerb begin="3979" end="3987">included</mainVerb>
+    <tokens>While not included among the insectivorous forms</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_73" begin="4031" end="4033">
+    <text>do</text>
+    <mainVerb begin="4031" end="4033">do</mainVerb>
+    <mainReferent begin="4025" end="4030">birds</mainReferent>
+    <tokens>these birds do much diminishing the ever increasing horde creeping jumping things</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_74" begin="4165" end="4173">
+    <text>utilized</text>
+    <mainVerb begin="4165" end="4173">utilized</mainVerb>
+    <mainReferent begin="4128" end="4133">geese</mainReferent>
+    <tokens>Ducks geese on the other hand are largely utilized us as food</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_42.txt_75" begin="4210" end="4214">
+    <text>make</text>
+    <mainVerb begin="4210" end="4214">make</mainVerb>
+    <mainReferent begin="4201" end="4209">feathers</mainReferent>
+    <tokens>while their feathers make comfortable pillows coverlets</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+</document>

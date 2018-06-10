@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_1" begin="67" end="71">
+    <text>said</text>
+    <mainVerb begin="67" end="71">said</mainVerb>
+    <mainReferent begin="91" end="92">“</mainReferent>
+    <tokens>” said Old Mother Nature</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_2" begin="100" end="105">
+    <text>visit</text>
+    <mainVerb begin="100" end="105">visit</mainVerb>
+    <mainReferent begin="135" end="136">”</mainReferent>
+    <tokens>CHAPTER XXIII Digger His Cousin Glutton “ Well Peter “ did you visit</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_3" begin="106" end="112">
+    <text>Digger</text>
+    <mainVerb begin="106" end="112">Digger</mainVerb>
+    <mainReferent begin="100" end="105">visit</mainReferent>
+    <tokens>Digger the Badger yesterday</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_4" begin="149" end="156">
+    <text>replied</text>
+    <mainVerb begin="149" end="156">replied</mainVerb>
+    <mainReferent begin="147" end="148">”</mainReferent>
+    <tokens>” replied Peter</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_5" begin="164" end="165">
+    <text>“</text>
+    <mainVerb begin="164" end="165">“</mainVerb>
+    <mainReferent begin="141" end="144">Yes</mainReferent>
+    <tokens>“ Yes 'm “</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_6" begin="167" end="174">
+    <text>visited</text>
+    <mainVerb begin="167" end="174">visited</mainVerb>
+    <mainReferent begin="165" end="166">I</mainReferent>
+    <tokens>I visited him</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_7" begin="193" end="197">
+    <text>find</text>
+    <mainVerb begin="193" end="197">find</mainVerb>
+    <mainReferent begin="141" end="144">Yes</mainReferent>
+    <tokens>I did n't find out much</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_8" begin="211" end="213">
+    <text>'s</text>
+    <mainVerb begin="211" end="213">'s</mainVerb>
+    <mainReferent begin="209" end="211">He</mainReferent>
+    <tokens>He 's a regular old</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_9" begin="240" end="242">
+    <text>is</text>
+    <mainVerb begin="240" end="242">is</mainVerb>
+    <mainReferent begin="237" end="239">He</mainReferent>
+    <tokens>He is n't the least bit</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_10" begin="277" end="281">
+    <text>took</text>
+    <mainVerb begin="277" end="281">took</mainVerb>
+    <mainReferent begin="273" end="275">It</mainReferent>
+    <tokens>It took me a long time to find him</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_11" begin="314" end="317">
+    <text>has</text>
+    <mainVerb begin="314" end="317">has</mainVerb>
+    <mainReferent begin="311" end="313">He</mainReferent>
+    <tokens>He has more holes than anybody I ever knew</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_12" begin="350" end="354">
+    <text>knew</text>
+    <mainVerb begin="350" end="354">knew</mainVerb>
+    <mainReferent begin="342" end="343">I</mainReferent>
+    <tokens>I ever knew</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_13" begin="371" end="375">
+    <text>tell</text>
+    <mainVerb begin="371" end="375">tell</mainVerb>
+    <mainReferent begin="311" end="313">He</mainReferent>
+    <tokens>I could n't tell</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_14" begin="386" end="388">
+    <text>is</text>
+    <mainVerb begin="386" end="388">is</mainVerb>
+    <mainReferent begin="382" end="385">one</mainReferent>
+    <tokens>which one is his</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_15" begin="412" end="416">
+    <text>find</text>
+    <mainVerb begin="412" end="416">find</mainVerb>
+    <mainReferent begin="405" end="406">I</mainReferent>
+    <tokens>When I did find him</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_16" begin="425" end="429">
+    <text>gave</text>
+    <mainVerb begin="425" end="429">gave</mainVerb>
+    <mainReferent begin="422" end="424">he</mainReferent>
+    <tokens>he gave me a terrible scare</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_17" begin="461" end="464">
+    <text>see</text>
+    <mainVerb begin="461" end="464">see</mainVerb>
+    <mainReferent begin="452" end="453">I</mainReferent>
+    <tokens>I did n't see him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_18" begin="478" end="481">
+    <text>was</text>
+    <mainVerb begin="478" end="481">was</mainVerb>
+    <mainReferent begin="475" end="476">I</mainReferent>
+    <tokens>until I was of him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_19" begin="519" end="525">
+    <text>jumped</text>
+    <mainVerb begin="519" end="525">jumped</mainVerb>
+    <mainReferent begin="510" end="511">I</mainReferent>
+    <tokens>if I had n't jumped</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_20" begin="531" end="537">
+    <text>jumped</text>
+    <mainVerb begin="531" end="537">jumped</mainVerb>
+    <mainReferent begin="510" end="511">I</mainReferent>
+    <tokens>I jumped quickly</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_21" begin="550" end="555">
+    <text>guess</text>
+    <mainVerb begin="550" end="555">guess</mainVerb>
+    <mainReferent begin="452" end="453">I</mainReferent>
+    <tokens>I guess</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_22" begin="567" end="569">
+    <text>be</text>
+    <mainVerb begin="567" end="569">be</mainVerb>
+    <mainReferent begin="556" end="557">I</mainReferent>
+    <tokens>I would n't be here this</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_23" begin="597" end="602">
+    <text>lying</text>
+    <mainVerb begin="597" end="602">lying</mainVerb>
+    <mainReferent begin="590" end="592">He</mainReferent>
+    <tokens>He was lying flat down in the grass</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_24" begin="634" end="637">
+    <text>was</text>
+    <mainVerb begin="634" end="637">was</mainVerb>
+    <mainReferent begin="631" end="633">he</mainReferent>
+    <tokens>he was so very</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_25" begin="670" end="673">
+    <text>see</text>
+    <mainVerb begin="670" end="673">see</mainVerb>
+    <mainReferent begin="656" end="657">I</mainReferent>
+    <tokens>that I just did n't see him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_26" begin="688" end="692">
+    <text>told</text>
+    <mainVerb begin="688" end="692">told</mainVerb>
+    <mainReferent begin="686" end="687">I</mainReferent>
+    <tokens>When I told him</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_27" begin="704" end="710">
+    <text>wanted</text>
+    <mainVerb begin="704" end="710">wanted</mainVerb>
+    <mainReferent begin="702" end="703">I</mainReferent>
+    <tokens>that I wanted to know all about him and his ways</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_28" begin="751" end="758">
+    <text>replied</text>
+    <mainVerb begin="751" end="758">replied</mainVerb>
+    <mainReferent begin="747" end="749">he</mainReferent>
+    <tokens>he replied</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_29" begin="767" end="770">
+    <text>was</text>
+    <mainVerb begin="767" end="770">was</mainVerb>
+    <mainReferent begin="815" end="818">did</mainReferent>
+    <tokens>that it was of my business</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_30" begin="798" end="803">
+    <text>lived</text>
+    <mainVerb begin="798" end="803">lived</mainVerb>
+    <mainReferent begin="771" end="775">none</mainReferent>
+    <tokens>how he lived</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_31" begin="815" end="818">
+    <text>did</text>
+    <mainVerb begin="815" end="818">did</mainVerb>
+    <mainReferent begin="795" end="797">he</mainReferent>
+    <tokens>what he did</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_32" begin="830" end="833">
+    <text>was</text>
+    <mainVerb begin="830" end="833">was</mainVerb>
+    <mainReferent begin="825" end="829">that</mainReferent>
+    <tokens>that was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_33" begin="846" end="849">
+    <text>get</text>
+    <mainVerb begin="846" end="849">get</mainVerb>
+    <mainReferent begin="838" end="839">I</mainReferent>
+    <tokens>I could get of him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_34" begin="850" end="853">
+    <text>out</text>
+    <mainVerb begin="850" end="853">out</mainVerb>
+    <tokens>out</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_35" begin="868" end="871">
+    <text>sat</text>
+    <mainVerb begin="868" end="871">sat</mainVerb>
+    <mainReferent begin="866" end="867">I</mainReferent>
+    <tokens>“ I sat around awhile</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_36" begin="890" end="897">
+    <text>watched</text>
+    <mainVerb begin="890" end="897">watched</mainVerb>
+    <mainReferent begin="866" end="867">I</mainReferent>
+    <tokens>I watched him</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_37" begin="917" end="919">
+    <text>do</text>
+    <mainVerb begin="917" end="919">do</mainVerb>
+    <mainReferent begin="866" end="867">I</mainReferent>
+    <tokens>he did n't do much</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_38" begin="933" end="937">
+    <text>take</text>
+    <mainVerb begin="933" end="937">take</mainVerb>
+    <tokens>except take a sun bath</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_39" begin="964" end="966">
+    <text>is</text>
+    <mainVerb begin="964" end="966">is</mainVerb>
+    <mainReferent begin="951" end="953">He</mainReferent>
+    <tokens>He certainly is a queer-looking</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_40" begin="1034" end="1036">
+    <text>'s</text>
+    <mainVerb begin="1034" end="1036">'s</mainVerb>
+    <mainReferent begin="1037" end="1044">nothing</mainReferent>
+    <tokens>There 's nothing about him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_41" begin="1060" end="1065">
+    <text>looks</text>
+    <mainVerb begin="1060" end="1065">looks</mainVerb>
+    <mainReferent begin="1037" end="1044">nothing</mainReferent>
+    <tokens>nothing about him looks like a Weasel , that I could see</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_42" begin="1095" end="1098">
+    <text>see</text>
+    <mainVerb begin="1095" end="1098">see</mainVerb>
+    <mainReferent begin="1087" end="1088">I</mainReferent>
+    <tokens>a Weasel I could see</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_43" begin="1115" end="1117">
+    <text>is</text>
+    <mainVerb begin="1115" end="1117">is</mainVerb>
+    <mainReferent begin="1112" end="1114">he</mainReferent>
+    <tokens>Of course he is n't as</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_44" begin="1137" end="1139">
+    <text>is</text>
+    <mainVerb begin="1137" end="1139">is</mainVerb>
+    <mainReferent begin="1134" end="1136">he</mainReferent>
+    <tokens>as he is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_45" begin="1153" end="1158">
+    <text>looks</text>
+    <mainVerb begin="1153" end="1158">looks</mainVerb>
+    <mainReferent begin="1112" end="1114">he</mainReferent>
+    <tokens>he looks almost that</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_46" begin="1182" end="1187">
+    <text>lying</text>
+    <mainVerb begin="1182" end="1187">lying</mainVerb>
+    <mainReferent begin="1176" end="1178">he</mainReferent>
+    <tokens>when he is lying flat down</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_47" begin="1228" end="1234">
+    <text>spread</text>
+    <mainVerb begin="1228" end="1234">spread</mainVerb>
+    <mainReferent begin="1176" end="1178">he</mainReferent>
+    <tokens>that long hair of his is spread out on both sides</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_48" begin="1265" end="1268">
+    <text>has</text>
+    <mainVerb begin="1265" end="1268">has</mainVerb>
+    <mainReferent begin="1255" end="1257">He</mainReferent>
+    <tokens>He really has a handsome coat</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_49" begin="1295" end="1299">
+    <text>come</text>
+    <mainVerb begin="1295" end="1299">come</mainVerb>
+    <mainReferent begin="1291" end="1294">you</mainReferent>
+    <tokens>a handsome coat when you come to look at it</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_50" begin="1319" end="1321">
+    <text>is</text>
+    <mainVerb begin="1319" end="1321">is</mainVerb>
+    <mainReferent begin="1316" end="1318">It</mainReferent>
+    <tokens>It is silvery silky looking</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_51" begin="1359" end="1364">
+    <text>seems</text>
+    <mainVerb begin="1359" end="1364">seems</mainVerb>
+    <mainReferent begin="1356" end="1358">It</mainReferent>
+    <tokens>It seems to be parted right down the middle of his back</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_52" begin="1424" end="1426">
+    <text>is</text>
+    <mainVerb begin="1424" end="1426">is</mainVerb>
+    <mainReferent begin="1419" end="1423">tail</mainReferent>
+    <tokens>His tail is rather stout hairy</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_53" begin="1482" end="1485">
+    <text>are</text>
+    <mainVerb begin="1482" end="1485">are</mainVerb>
+    <mainReferent begin="1477" end="1481">face</mainReferent>
+    <tokens>His head face are really</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_54" begin="1589" end="1592">
+    <text>are</text>
+    <mainVerb begin="1589" end="1592">are</mainVerb>
+    <mainReferent begin="1533" end="1539">stripe</mainReferent>
+    <tokens>His cheeks chin a broad stripe from his nose right straight back over his head are</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_55" begin="1616" end="1618">
+    <text>is</text>
+    <mainVerb begin="1616" end="1618">is</mainVerb>
+    <mainReferent begin="1609" end="1614">cheek</mainReferent>
+    <tokens>On each cheek is a of black</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_56" begin="1662" end="1664">
+    <text>is</text>
+    <mainVerb begin="1662" end="1664">is</mainVerb>
+    <mainReferent begin="1645" end="1649">part</mainReferent>
+    <tokens>The back part of each ear is</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_57" begin="1679" end="1682">
+    <text>are</text>
+    <mainVerb begin="1679" end="1682">are</mainVerb>
+    <mainReferent begin="1645" end="1649">part</mainReferent>
+    <tokens>so are his feet</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_58" begin="1698" end="1701">
+    <text>has</text>
+    <mainVerb begin="1698" end="1701">has</mainVerb>
+    <mainReferent begin="1695" end="1697">He</mainReferent>
+    <tokens>He has rather a sharp nose</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_59" begin="1743" end="1750">
+    <text>walking</text>
+    <mainVerb begin="1743" end="1750">walking</mainVerb>
+    <mainReferent begin="1737" end="1739">he</mainReferent>
+    <tokens>Somehow when he is walking</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_60" begin="1755" end="1760">
+    <text>makes</text>
+    <mainVerb begin="1755" end="1760">makes</mainVerb>
+    <mainReferent begin="1752" end="1754">he</mainReferent>
+    <tokens>he makes</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_61" begin="1764" end="1769">
+    <text>think</text>
+    <mainVerb begin="1764" end="1769">think</mainVerb>
+    <mainReferent begin="1761" end="1763">me</mainReferent>
+    <tokens>me think of a little , flattened-out Bear with very short legs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_62" begin="1847" end="1850">
+    <text>has</text>
+    <mainVerb begin="1847" end="1850">has</mainVerb>
+    <tokens>has</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_63" begin="1879" end="1883">
+    <text>know</text>
+    <mainVerb begin="1879" end="1883">know</mainVerb>
+    <mainReferent begin="1871" end="1872">I</mainReferent>
+    <tokens>I do n't know any one with such big strong claws for his size</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_64" begin="1937" end="1942">
+    <text>guess</text>
+    <mainVerb begin="1937" end="1942">guess</mainVerb>
+    <mainReferent begin="1935" end="1936">I</mainReferent>
+    <tokens>I guess</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_65" begin="1954" end="1956">
+    <text>be</text>
+    <mainVerb begin="1954" end="1956">be</mainVerb>
+    <tokens>that must be</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_66" begin="1968" end="1970">
+    <text>is</text>
+    <mainVerb begin="1968" end="1970">is</mainVerb>
+    <mainReferent begin="1965" end="1967">he</mainReferent>
+    <tokens>because he is such a</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_67" begin="1985" end="1986">
+    <text>”</text>
+    <mainVerb begin="1985" end="1986">”</mainVerb>
+    <mainReferent begin="1954" end="1956">be</mainReferent>
+    <tokens>”</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_68" begin="1995" end="1997">
+    <text>'s</text>
+    <mainVerb begin="1995" end="1997">'s</mainVerb>
+    <mainReferent begin="1990" end="1991">“</mainReferent>
+    <tokens>“ That 's a very good</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_69" begin="2025" end="2029">
+    <text>said</text>
+    <mainVerb begin="2025" end="2029">said</mainVerb>
+    <mainReferent begin="2023" end="2024">”</mainReferent>
+    <tokens>Peter ” said Old Mother Nature</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_70" begin="2074" end="2078">
+    <text>seen</text>
+    <mainVerb begin="2074" end="2078">seen</mainVerb>
+    <mainReferent begin="2087" end="2088">”</mainReferent>
+    <tokens>“ Has any one here ever seen him</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_71" begin="2083" end="2086">
+    <text>dig</text>
+    <mainVerb begin="2083" end="2086">dig</mainVerb>
+    <mainReferent begin="2074" end="2078">seen</mainReferent>
+    <tokens>dig</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_72" begin="2095" end="2098">
+    <text>did</text>
+    <mainVerb begin="2095" end="2098">did</mainVerb>
+    <mainReferent begin="2093" end="2094">I</mainReferent>
+    <tokens>I did once</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_73" begin="2106" end="2113">
+    <text>replied</text>
+    <mainVerb begin="2106" end="2113">replied</mainVerb>
+    <mainReferent begin="2104" end="2105">”</mainReferent>
+    <tokens>“ ” replied Peter</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_74" begin="2125" end="2133">
+    <text>happened</text>
+    <mainVerb begin="2125" end="2133">happened</mainVerb>
+    <mainReferent begin="2123" end="2124">I</mainReferent>
+    <tokens>“ I happened</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_75" begin="2160" end="2165">
+    <text>lives</text>
+    <mainVerb begin="2160" end="2165">lives</mainVerb>
+    <mainReferent begin="2123" end="2124">I</mainReferent>
+    <tokens>where he lives</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_76" begin="2190" end="2194">
+    <text>came</text>
+    <mainVerb begin="2190" end="2194">came</mainVerb>
+    <mainReferent begin="2186" end="2189">boy</mainReferent>
+    <tokens>when Farmer Brown boy came along some distance from one of his holes</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_77" begin="2205" end="2214">
+    <text>surprised</text>
+    <mainVerb begin="2205" end="2214">surprised</mainVerb>
+    <mainReferent begin="2186" end="2189">boy</mainReferent>
+    <tokens>Farmer Brown boy surprised Digger</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_78" begin="2275" end="2278">
+    <text>try</text>
+    <mainVerb begin="2275" end="2278">try</mainVerb>
+    <mainReferent begin="2261" end="2267">Digger</mainReferent>
+    <tokens>Digger did n't try to get to one of those holes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_79" begin="2320" end="2325">
+    <text>began</text>
+    <mainVerb begin="2320" end="2325">began</mainVerb>
+    <mainReferent begin="2310" end="2312">he</mainReferent>
+    <tokens>he simply began to dig</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_80" begin="2366" end="2369">
+    <text>fly</text>
+    <mainVerb begin="2366" end="2369">fly</mainVerb>
+    <mainReferent begin="2338" end="2346">gracious</mainReferent>
+    <tokens>how the sand did fly</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_81" begin="2375" end="2378">
+    <text>was</text>
+    <mainVerb begin="2375" end="2378">was</mainVerb>
+    <mainReferent begin="2372" end="2374">He</mainReferent>
+    <tokens>He was of sight in the ground</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_82" begin="2439" end="2442">
+    <text>get</text>
+    <mainVerb begin="2439" end="2442">get</mainVerb>
+    <mainReferent begin="2428" end="2431">boy</mainReferent>
+    <tokens>before Farmer Brown boy could get to him</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_83" begin="2465" end="2467">
+    <text>is</text>
+    <mainVerb begin="2465" end="2467">is</mainVerb>
+    <mainReferent begin="2459" end="2464">Chuck</mainReferent>
+    <tokens>Johnny Chuck is pretty at digging</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_84" begin="2507" end="2509">
+    <text>is</text>
+    <mainVerb begin="2507" end="2509">is</mainVerb>
+    <mainReferent begin="2459" end="2464">Chuck</mainReferent>
+    <tokens>he simply is n't in the same class with Digger the Badger</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_85" begin="2563" end="2565">
+    <text>is</text>
+    <mainVerb begin="2563" end="2565">is</mainVerb>
+    <mainReferent begin="2559" end="2562">one</mainReferent>
+    <tokens>No one is</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_86" begin="2574" end="2578">
+    <text>know</text>
+    <mainVerb begin="2574" end="2578">know</mainVerb>
+    <mainReferent begin="2572" end="2573">I</mainReferent>
+    <tokens>that I know of</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_87" begin="2596" end="2601">
+    <text>Miner</text>
+    <mainVerb begin="2596" end="2601">Miner</mainVerb>
+    <mainReferent begin="2590" end="2592">it</mainReferent>
+    <tokens>unless it is Miner the Mole</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_88" begin="2615" end="2620">
+    <text>guess</text>
+    <mainVerb begin="2615" end="2620">guess</mainVerb>
+    <mainReferent begin="2613" end="2614">I</mainReferent>
+    <tokens>I guess</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_89" begin="2626" end="2628">
+    <text>is</text>
+    <mainVerb begin="2626" end="2628">is</mainVerb>
+    <mainReferent begin="2621" end="2625">this</mainReferent>
+    <tokens>this is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_90" begin="2636" end="2640">
+    <text>know</text>
+    <mainVerb begin="2636" end="2640">know</mainVerb>
+    <mainReferent begin="2634" end="2635">I</mainReferent>
+    <tokens>I know about him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_91" begin="2652" end="2661">
+    <text>excepting</text>
+    <mainVerb begin="2652" end="2661">excepting</mainVerb>
+    <tokens>excepting</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_92" begin="2670" end="2672">
+    <text>is</text>
+    <mainVerb begin="2670" end="2672">is</mainVerb>
+    <mainReferent begin="2667" end="2669">he</mainReferent>
+    <tokens>that he is a great</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_93" begin="2698" end="2701">
+    <text>saw</text>
+    <mainVerb begin="2698" end="2701">saw</mainVerb>
+    <mainReferent begin="2696" end="2697">I</mainReferent>
+    <tokens>Once I saw</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_94" begin="2707" end="2711">
+    <text>whip</text>
+    <mainVerb begin="2707" end="2711">whip</mainVerb>
+    <mainReferent begin="2703" end="2706">him</mainReferent>
+    <tokens>him whip a dog almost twice his size</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_95" begin="2750" end="2755">
+    <text>heard</text>
+    <mainVerb begin="2750" end="2755">heard</mainVerb>
+    <mainReferent begin="2742" end="2743">I</mainReferent>
+    <tokens>I never heard such hissing snarling growling</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_96" begin="2810" end="2814">
+    <text>tell</text>
+    <mainVerb begin="2810" end="2814">tell</mainVerb>
+    <mainReferent begin="2798" end="2800">He</mainReferent>
+    <tokens>He would n't tell me anything about ”</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_97" begin="2841" end="2846">
+    <text>lives</text>
+    <mainVerb begin="2841" end="2846">lives</mainVerb>
+    <mainReferent begin="2827" end="2832">about</mainReferent>
+    <tokens>how he lives</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_98" begin="2883" end="2890">
+    <text>replied</text>
+    <mainVerb begin="2883" end="2890">replied</mainVerb>
+    <mainReferent begin="2881" end="2882">”</mainReferent>
+    <tokens>“ Very good Peter very good ” replied Old Mother Nature</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_99" begin="2910" end="2911">
+    <text>“</text>
+    <mainVerb begin="2910" end="2911">“</mainVerb>
+    <mainReferent begin="2881" end="2882">”</mainReferent>
+    <tokens>“</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_100" begin="2915" end="2917">
+    <text>'s</text>
+    <mainVerb begin="2915" end="2917">'s</mainVerb>
+    <mainReferent begin="2911" end="2915">That</mainReferent>
+    <tokens>That 's as</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_101" begin="2932" end="2940">
+    <text>expected</text>
+    <mainVerb begin="2932" end="2940">expected</mainVerb>
+    <mainReferent begin="2930" end="2931">I</mainReferent>
+    <tokens>as I expected</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_102" begin="2951" end="2953">
+    <text>be</text>
+    <mainVerb begin="2951" end="2953">be</mainVerb>
+    <mainReferent begin="2941" end="2944">you</mainReferent>
+    <tokens>you would be to find out</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_103" begin="2980" end="2982">
+    <text>is</text>
+    <mainVerb begin="2980" end="2982">is</mainVerb>
+    <mainReferent begin="2973" end="2979">Digger</mainReferent>
+    <tokens>Digger is a queer</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_104" begin="3010" end="3012">
+    <text>is</text>
+    <mainVerb begin="3010" end="3012">is</mainVerb>
+    <mainReferent begin="3005" end="3009">home</mainReferent>
+    <tokens>His home is on the great plains in the flat , open country of the Middle West and Far West , where Gophers and Ground Squirrels and Prairie Dogs live</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_105" begin="3150" end="3154">
+    <text>live</text>
+    <mainVerb begin="3150" end="3154">live</mainVerb>
+    <mainReferent begin="3123" end="3132">Squirrels</mainReferent>
+    <tokens>where Gophers Ground Squirrels Prairie Dogs live</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_106" begin="3162" end="3169">
+    <text>furnish</text>
+    <mainVerb begin="3162" end="3169">furnish</mainVerb>
+    <mainReferent begin="3157" end="3161">They</mainReferent>
+    <tokens>They furnish him with the greater part of his food</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_107" begin="3223" end="3226">
+    <text>are</text>
+    <mainVerb begin="3223" end="3226">are</mainVerb>
+    <mainReferent begin="3211" end="3214">All</mainReferent>
+    <tokens>All of them are good</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_108" begin="3257" end="3262">
+    <text>stand</text>
+    <mainVerb begin="3257" end="3262">stand</mainVerb>
+    <mainReferent begin="3232" end="3239">diggers</mainReferent>
+    <tokens>they do n't stand any chance</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_109" begin="3282" end="3286">
+    <text>sets</text>
+    <mainVerb begin="3282" end="3286">sets</mainVerb>
+    <mainReferent begin="3279" end="3281">he</mainReferent>
+    <tokens>when he sets out to dig them out</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_110" begin="3319" end="3325">
+    <text>spends</text>
+    <mainVerb begin="3319" end="3325">spends</mainVerb>
+    <mainReferent begin="3312" end="3318">Digger</mainReferent>
+    <tokens>“ Digger spends most of his time under ground during daylight</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_111" begin="3381" end="3387">
+    <text>coming</text>
+    <mainVerb begin="3381" end="3387">coming</mainVerb>
+    <mainReferent begin="3312" end="3318">Digger</mainReferent>
+    <tokens>seldom coming out for a sun bath</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_112" begin="3458" end="3462">
+    <text>goes</text>
+    <mainVerb begin="3458" end="3462">goes</mainVerb>
+    <mainReferent begin="3454" end="3457">Sun</mainReferent>
+    <tokens>as soon as jolly round red Mr. Sun goes to bed for the night</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_113" begin="3492" end="3499">
+    <text>appears</text>
+    <mainVerb begin="3492" end="3499">appears</mainVerb>
+    <mainReferent begin="3485" end="3491">Digger</mainReferent>
+    <tokens>Digger appears</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_114" begin="3504" end="3511">
+    <text>travels</text>
+    <mainVerb begin="3504" end="3511">travels</mainVerb>
+    <mainReferent begin="3485" end="3491">Digger</mainReferent>
+    <tokens>Digger travels about in search of a dinner</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_115" begin="3552" end="3555">
+    <text>are</text>
+    <mainVerb begin="3552" end="3555">are</mainVerb>
+    <mainReferent begin="3547" end="3551">legs</mainReferent>
+    <tokens>His legs are so he heavy</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_116" begin="3572" end="3574">
+    <text>is</text>
+    <mainVerb begin="3572" end="3574">is</mainVerb>
+    <mainReferent begin="3569" end="3571">he</mainReferent>
+    <tokens>he is so heavy he rather clumsy</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_117" begin="3603" end="3605">
+    <text>is</text>
+    <mainVerb begin="3603" end="3605">is</mainVerb>
+    <mainReferent begin="3600" end="3602">he</mainReferent>
+    <tokens>that he is rather clumsy</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_118" begin="3637" end="3642">
+    <text>makes</text>
+    <mainVerb begin="3637" end="3642">makes</mainVerb>
+    <mainReferent begin="3547" end="3551">legs</mainReferent>
+    <tokens>he makes up for that by his ability to dig</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_119" begin="3691" end="3697">
+    <text>expect</text>
+    <mainVerb begin="3691" end="3697">expect</mainVerb>
+    <mainReferent begin="3680" end="3682">He</mainReferent>
+    <tokens>He does n't expect to catch any one on the surface</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_120" begin="3742" end="3749">
+    <text>happens</text>
+    <mainVerb begin="3742" end="3749">happens</mainVerb>
+    <mainReferent begin="3739" end="3741">he</mainReferent>
+    <tokens>unless he happens to surprise a Meadow Mouse jumping distance</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_121" begin="3806" end="3810">
+    <text>goes</text>
+    <mainVerb begin="3806" end="3810">goes</mainVerb>
+    <mainReferent begin="3803" end="3805">He</mainReferent>
+    <tokens>He goes</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_122" begin="3811" end="3818">
+    <text>hunting</text>
+    <mainVerb begin="3811" end="3818">hunting</mainVerb>
+    <tokens>hunting for the holes of Ground Squirrels and other burrowers</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_123" begin="3887" end="3892">
+    <text>finds</text>
+    <mainVerb begin="3887" end="3892">finds</mainVerb>
+    <mainReferent begin="3884" end="3886">he</mainReferent>
+    <tokens>when he finds</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_124" begin="3906" end="3910">
+    <text>digs</text>
+    <mainVerb begin="3906" end="3910">digs</mainVerb>
+    <mainReferent begin="3803" end="3805">He</mainReferent>
+    <tokens>one promptly digs</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_125" begin="3916" end="3920">
+    <text>eats</text>
+    <mainVerb begin="3916" end="3920">eats</mainVerb>
+    <mainReferent begin="3913" end="3915">He</mainReferent>
+    <tokens>He eats Grasshoppers Beetles small Snakes such small animals</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_126" begin="3998" end="4005">
+    <text>catches</text>
+    <mainVerb begin="3998" end="4005">catches</mainVerb>
+    <mainReferent begin="3995" end="3997">he</mainReferent>
+    <tokens>as he catches</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_127" begin="4012" end="4015">
+    <text>was</text>
+    <mainVerb begin="4012" end="4015">was</mainVerb>
+    <mainReferent begin="4008" end="4010">It</mainReferent>
+    <tokens>It was well for you , Peter , that you jumped when you did , for I suspect that Digger would have enjoyed a Rabbit dinner</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_128" begin="4046" end="4052">
+    <text>jumped</text>
+    <mainVerb begin="4046" end="4052">jumped</mainVerb>
+    <mainReferent begin="4025" end="4028">you</mainReferent>
+    <tokens>that you jumped</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_129" begin="4062" end="4065">
+    <text>did</text>
+    <mainVerb begin="4062" end="4065">did</mainVerb>
+    <mainReferent begin="4058" end="4061">you</mainReferent>
+    <tokens>when you did</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_130" begin="4073" end="4080">
+    <text>suspect</text>
+    <mainVerb begin="4073" end="4080">suspect</mainVerb>
+    <mainReferent begin="4071" end="4072">I</mainReferent>
+    <tokens>for I suspect</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_burgess_animal_book_for_children_56.txt_131" begin="4105" end="4112">
+    <text>enjoyed</text>
+    <mainVerb begin="4105" end="4112">enjoyed</mainVerb>
+    <mainReferent begin="4087" end="4093">Digger</mainReferent>
+    <tokens>that Digger would have enjoyed a Rabbit dinner</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+</document>

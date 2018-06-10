@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="the_story_of_eclipses_4.txt_1" begin="42" end="50">
+    <text>combined</text>
+    <mainVerb begin="42" end="50">combined</mainVerb>
+    <mainReferent begin="36" end="41">Nodes</mainReferent>
+    <tokens>combined with the apparent motion of the Sun in the ecliptic</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_2" begin="104" end="110">
+    <text>causes</text>
+    <mainVerb begin="104" end="110">causes</mainVerb>
+    <mainReferent begin="13" end="21">movement</mainReferent>
+    <tokens>The backward movement of the Moon ’s Nodes combined with the apparent motion of the Sun in the ecliptic causes</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_3" begin="143" end="148">
+    <text>round</text>
+    <mainVerb begin="143" end="148">round</mainVerb>
+    <mainReferent begin="115" end="119">Moon</mainReferent>
+    <tokens>the Moon in its monthly course round the Earth to complete a revolution with respect to its Nodes in a less time ( 27.2 days ) ( 29.5 days )</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_4" begin="246" end="251">
+    <text>takes</text>
+    <mainVerb begin="246" end="251">takes</mainVerb>
+    <mainReferent begin="243" end="245">it</mainReferent>
+    <tokens>than it takes to get back to Conjunction with the Sun</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_5" begin="345" end="348">
+    <text>see</text>
+    <mainVerb begin="345" end="348">see</mainVerb>
+    <mainReferent begin="336" end="338">we</mainReferent>
+    <tokens>as we shall see directly</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_6" begin="360" end="365">
+    <text>flows</text>
+    <mainVerb begin="360" end="365">flows</mainVerb>
+    <mainReferent begin="13" end="21">movement</mainReferent>
+    <tokens>a curious consequence flows from these facts one other fact</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_7" begin="438" end="446">
+    <text>starting</text>
+    <mainVerb begin="438" end="446">starting</mainVerb>
+    <mainReferent begin="418" end="422">fact</mainReferent>
+    <tokens>The other fact is to the Sun starting coincident with one of the Moon ’s Nodes , returns on the Ecliptic to the same Node in 346.6 days</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_8" begin="555" end="560">
+    <text>named</text>
+    <mainVerb begin="555" end="560">named</mainVerb>
+    <tokens>named</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_9" begin="585" end="591">
+    <text>called</text>
+    <mainVerb begin="585" end="591">called</mainVerb>
+    <mainReferent begin="561" end="567">period</mainReferent>
+    <tokens>The first period of 27.2 days is called the “ _ Nodical _ Revolution of the Moon ” or “ Draconic Month</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_10" begin="651" end="652">
+    <text>”</text>
+    <mainVerb begin="651" end="652">”</mainVerb>
+    <mainReferent begin="711" end="721">Revolution</mainReferent>
+    <tokens>” the “ _ Synodical _ Revolution of the Moon . ”</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_11" begin="686" end="692">
+    <text>called</text>
+    <mainVerb begin="686" end="692">called</mainVerb>
+    <mainReferent begin="663" end="669">period</mainReferent>
+    <tokens>the other period of 29.5 days is called</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_12" begin="798" end="801">
+    <text>are</text>
+    <mainVerb begin="798" end="801">are</mainVerb>
+    <mainReferent begin="793" end="797">they</mainReferent>
+    <tokens>what they are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_13" begin="802" end="804">
+    <text>is</text>
+    <mainVerb begin="802" end="804">is</mainVerb>
+    <mainReferent begin="752" end="763">consequence</mainReferent>
+    <tokens>Now the curious consequence these figures being is</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_14" begin="928" end="940">
+    <text>accomplished</text>
+    <mainVerb begin="928" end="940">accomplished</mainVerb>
+    <mainReferent begin="854" end="861">Returns</mainReferent>
+    <tokens>that 242 Draconic Months 223 Lunations 19 Returns of the Sun to one the same Node of the Moon ’s orbit are all accomplished in the same time within 11 hours</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_15" begin="1288" end="1290">
+    <text>is</text>
+    <mainVerb begin="1288" end="1290">is</mainVerb>
+    <mainReferent begin="1239" end="1253">interpretation</mainReferent>
+    <tokens>The interpretation to be put upon these coincidences is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_16" begin="1417" end="1422">
+    <text>found</text>
+    <mainVerb begin="1417" end="1422">found</mainVerb>
+    <mainReferent begin="1303" end="1312">supposing</mainReferent>
+    <tokens>= 18 10 18 ¾ supposing Sun Moon to start together from a Node they would after the lapse of 6585 days and a fraction be found again together very near the same Node</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_17" begin="1501" end="1505">
+    <text>been</text>
+    <mainVerb begin="1501" end="1505">been</mainVerb>
+    <tokens>During the interval there would have been 223 Full Moons</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_18" begin="1546" end="1554">
+    <text>required</text>
+    <mainVerb begin="1546" end="1554">required</mainVerb>
+    <mainReferent begin="1541" end="1545">time</mainReferent>
+    <tokens>required for 223 Lunations</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_19" begin="1573" end="1575">
+    <text>is</text>
+    <mainVerb begin="1573" end="1575">is</mainVerb>
+    <mainReferent begin="1541" end="1545">time</mainReferent>
+    <tokens>The exact time is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_20" begin="1599" end="1607">
+    <text>supposed</text>
+    <mainVerb begin="1599" end="1607">supposed</mainVerb>
+    <mainReferent begin="1594" end="1598">case</mainReferent>
+    <tokens>supposed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_21" begin="1654" end="1660">
+    <text>happen</text>
+    <mainVerb begin="1654" end="1660">happen</mainVerb>
+    <mainReferent begin="1618" end="1629">conjunction</mainReferent>
+    <tokens>that in the case supposed the 223rd conjunction of the two bodies would happen a little</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_22" begin="1683" end="1690">
+    <text>reached</text>
+    <mainVerb begin="1683" end="1690">reached</mainVerb>
+    <mainReferent begin="1678" end="1682">they</mainReferent>
+    <tokens>before they reached the Node</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_23" begin="1732" end="1734">
+    <text>be</text>
+    <mainVerb begin="1732" end="1734">be</mainVerb>
+    <mainReferent begin="1716" end="1725">therefrom</mainReferent>
+    <tokens>their distance therefrom would be 28 of arc</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_24" begin="1767" end="1769">
+    <text>is</text>
+    <mainVerb begin="1767" end="1769">is</mainVerb>
+    <mainReferent begin="1762" end="1766">fact</mainReferent>
+    <tokens>And the final fact is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_25" begin="1784" end="1789">
+    <text>recur</text>
+    <mainVerb begin="1784" end="1789">recur</mainVerb>
+    <mainReferent begin="1775" end="1783">eclipses</mainReferent>
+    <tokens>that eclipses recur in almost though not quite the same regular order every 6585 ⅓ days more exactly 18 years 10 days 7 hours 42 minutes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_26" begin="1927" end="1929">
+    <text>is</text>
+    <mainVerb begin="1927" end="1929">is</mainVerb>
+    <mainReferent begin="1922" end="1926">This</mainReferent>
+    <tokens>This is the celebrated Chaldean</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_27" begin="1956" end="1961">
+    <text>SAROS</text>
+    <mainVerb begin="1956" end="1961">SAROS</mainVerb>
+    <mainReferent begin="1920" end="1921">]</mainReferent>
+    <tokens>[ 5 ] SAROS</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_28" begin="1962" end="1963">
+    <text>”</text>
+    <mainVerb begin="1962" end="1963">”</mainVerb>
+    <mainReferent begin="1920" end="1921">]</mainReferent>
+    <tokens>[ 5 ] ”</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_29" begin="1972" end="1976">
+    <text>used</text>
+    <mainVerb begin="1972" end="1976">used</mainVerb>
+    <mainReferent begin="1920" end="1921">]</mainReferent>
+    <tokens>[ 5 ] was used the ancients for the prediction of eclipses alike of the Sun of the Moon</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_30" begin="2011" end="2015">
+    <text>used</text>
+    <mainVerb begin="2011" end="2015">used</mainVerb>
+    <mainReferent begin="1972" end="1976">used</mainReferent>
+    <tokens>( and can still be used the moderns in the way of a pastime )</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_31" begin="2255" end="2261">
+    <text>chosen</text>
+    <mainVerb begin="2255" end="2261">chosen</mainVerb>
+    <mainReferent begin="2230" end="2234">date</mainReferent>
+    <tokens>any date may have been chosen</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_32" begin="2277" end="2279">
+    <text>be</text>
+    <mainVerb begin="2277" end="2279">be</mainVerb>
+    <mainReferent begin="2267" end="2271">Moon</mainReferent>
+    <tokens>* * * * * At the end of a Saros period starting from any date the Moon will be in the same position with respect to the Sun nearly in the same part of the heavens nearly in the same part of its orbit very nearly indeed at the same distance from its Node as at the date chosen for the _ terminus a quo _ of the Saros</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_33" begin="2480" end="2486">
+    <text>chosen</text>
+    <mainVerb begin="2480" end="2486">chosen</mainVerb>
+    <mainReferent begin="2475" end="2479">date</mainReferent>
+    <tokens>chosen for the _ terminus</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_34" begin="2541" end="2549">
+    <text>trifling</text>
+    <mainVerb begin="2541" end="2549">trifling</mainVerb>
+    <mainReferent begin="2550" end="2563">discrepancies</mainReferent>
+    <tokens>there are trifling discrepancies in the case</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_35" begin="2678" end="2680">
+    <text>is</text>
+    <mainVerb begin="2678" end="2680">is</mainVerb>
+    <mainReferent begin="2581" end="2591">difference</mainReferent>
+    <tokens>( the difference of about 11 hours between 223 lunations and 19 returns of the Sun to the Moon ’s Node is )</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_36" begin="2697" end="2701">
+    <text>have</text>
+    <mainVerb begin="2697" end="2701">have</mainVerb>
+    <mainReferent begin="2550" end="2563">discrepancies</mainReferent>
+    <tokens>these have an appreciable effect disturbing not so much the sequence of the eclipses in the next following Saros as their magnitude and visibility at given places on the Earth ’s surface</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_37" begin="2846" end="2851">
+    <text>given</text>
+    <mainVerb begin="2846" end="2851">given</mainVerb>
+    <tokens>given</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_38" begin="2926" end="2934">
+    <text>obtained</text>
+    <mainVerb begin="2926" end="2934">obtained</mainVerb>
+    <mainReferent begin="2907" end="2917">succession</mainReferent>
+    <tokens>Hence a more accurate succession will be obtained combining 3 Saros periods making 54 years 31 days making 865 years for the Moon and of about 70 Saroses more than 1200 years for the Sun</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_39" begin="3081" end="3083">
+    <text>be</text>
+    <mainVerb begin="3081" end="3083">be</mainVerb>
+    <mainReferent begin="2999" end="3003">best</mainReferent>
+    <tokens>while best of all , to secure an almost perfect repetition of a series of eclipses will be a of 48 Saroses</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_40" begin="3236" end="3243">
+    <text>leading</text>
+    <mainVerb begin="3236" end="3243">leading</mainVerb>
+    <mainReferent begin="3217" end="3231">considerations</mainReferent>
+    <tokens>These considerations are leading us rather too far afield</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_41" begin="3270" end="3273">
+    <text>Let</text>
+    <mainVerb begin="3270" end="3273">Let</mainVerb>
+    <tokens>Let</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_42" begin="3277" end="3283">
+    <text>return</text>
+    <mainVerb begin="3277" end="3283">return</mainVerb>
+    <mainReferent begin="3274" end="3276">us</mainReferent>
+    <tokens>us return to a more simple condition of things</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_43" begin="3389" end="3391">
+    <text>is</text>
+    <mainVerb begin="3389" end="3391">is</mainVerb>
+    <mainReferent begin="3337" end="3340">use</mainReferent>
+    <tokens>The practical use of the Saros in its most elementary conception is somewhat on this wise</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_44" begin="3415" end="3420">
+    <text>Given</text>
+    <mainVerb begin="3415" end="3420">Given</mainVerb>
+    <tokens>Given 18 19 old Almanacs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_45" begin="3444" end="3451">
+    <text>ranging</text>
+    <mainVerb begin="3444" end="3451">ranging</mainVerb>
+    <mainReferent begin="3435" end="3443">Almanacs</mainReferent>
+    <tokens>ranging , say , from 1880 to 1898</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_46" begin="3453" end="3456">
+    <text>say</text>
+    <mainVerb begin="3453" end="3456">say</mainVerb>
+    <tokens>say</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_47" begin="3488" end="3492">
+    <text>turn</text>
+    <mainVerb begin="3488" end="3492">turn</mainVerb>
+    <mainReferent begin="3485" end="3487">we</mainReferent>
+    <tokens>how can we turn to account the information in order to obtain from them information</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_48" begin="3526" end="3532">
+    <text>afford</text>
+    <mainVerb begin="3526" end="3532">afford</mainVerb>
+    <mainReferent begin="3521" end="3525">they</mainReferent>
+    <tokens>they afford us</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_49" begin="3578" end="3588">
+    <text>respecting</text>
+    <mainVerb begin="3578" end="3588">respecting</mainVerb>
+    <mainReferent begin="3565" end="3576">information</mainReferent>
+    <tokens>respecting the eclipses</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_50" begin="3613" end="3619">
+    <text>happen</text>
+    <mainVerb begin="3613" end="3619">happen</mainVerb>
+    <mainReferent begin="3593" end="3601">eclipses</mainReferent>
+    <tokens>the eclipses will happen between 1899 and 1917</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_51" begin="3660" end="3663">
+    <text>Add</text>
+    <mainVerb begin="3660" end="3663">Add</mainVerb>
+    <tokens>Add</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_52" begin="3726" end="3730">
+    <text>took</text>
+    <mainVerb begin="3726" end="3730">took</mainVerb>
+    <mainReferent begin="3712" end="3719">eclipse</mainReferent>
+    <tokens>every eclipse took place between 1880 and 1898 beginning , say , with the last of 1879 or the first of 1880 , and we shall find what eclipses will happen in 1898 and 17 following years , as witness by way of example</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_53" begin="3770" end="3773">
+    <text>say</text>
+    <mainVerb begin="3770" end="3773">say</mainVerb>
+    <tokens>say</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_54" begin="3833" end="3837">
+    <text>find</text>
+    <mainVerb begin="3833" end="3837">find</mainVerb>
+    <mainReferent begin="3759" end="3768">beginning</mainReferent>
+    <tokens>we shall find</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_55" begin="3858" end="3864">
+    <text>happen</text>
+    <mainVerb begin="3858" end="3864">happen</mainVerb>
+    <mainReferent begin="3843" end="3851">eclipses</mainReferent>
+    <tokens>what eclipses will happen in 1898 and 17</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_56" begin="3947" end="3948">
+    <text>—</text>
+    <mainVerb begin="3947" end="3948">—</mainVerb>
+    <mainReferent begin="3667" end="3668">y</mainReferent>
+    <tokens>18 ^ y 10 ^ d 7 ^ h 42 ^ m to the middle time of every eclipse which took place between 1880 and 1898 beginning , say , with the last of 1879 or the first of 1880 , and we shall find what eclipses will happen in 1898 and 17 following years , as witness by way of example the following table — Error of Saros by d. h. m. Exact Calculation</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_57" begin="4130" end="4134">
+    <text>0.17</text>
+    <mainVerb begin="4130" end="4134">0.17</mainVerb>
+    <tokens>0.17 ) 18 10 7 42 --------------------------------------------- ( Mag</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_4.txt_58" begin="4228" end="4232">
+    <text>1898</text>
+    <mainVerb begin="4228" end="4232">1898</mainVerb>
+    <tokens>0.16 ) 1898 Jan</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+</document>

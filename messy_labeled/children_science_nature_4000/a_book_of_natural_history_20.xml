@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="a_book_of_natural_history_20.txt_1" begin="107" end="116">
+    <text>continues</text>
+    <mainVerb begin="107" end="116">continues</mainVerb>
+    <mainReferent begin="100" end="106">parent</mainReferent>
+    <tokens>For weeks together this exemplary parent continues his monotonous task</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_2" begin="139" end="150">
+    <text>ventilating</text>
+    <mainVerb begin="139" end="150">ventilating</mainVerb>
+    <mainReferent begin="100" end="106">parent</mainReferent>
+    <tokens>ventilating the spawn many times every day</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_3" begin="197" end="202">
+    <text>comes</text>
+    <mainVerb begin="197" end="202">comes</mainVerb>
+    <mainReferent begin="192" end="196">time</mainReferent>
+    <tokens>till the time comes for hatching</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_4" begin="221" end="226">
+    <text>takes</text>
+    <mainVerb begin="221" end="226">takes</mainVerb>
+    <mainReferent begin="218" end="220">It</mainReferent>
+    <tokens>It takes about a month for the eggs to develop</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_5" begin="304" end="309">
+    <text>grows</text>
+    <mainVerb begin="304" end="309">grows</mainVerb>
+    <mainReferent begin="218" end="220">It</mainReferent>
+    <tokens>then the proud father position grows more arduous than ever</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_6" begin="337" end="340">
+    <text>has</text>
+    <mainVerb begin="337" end="340">has</mainVerb>
+    <mainReferent begin="334" end="336">He</mainReferent>
+    <tokens>He has to rock a thousand cradles at once so to speak to pacify a thousand crying babies</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_7" begin="457" end="462">
+    <text>hover</text>
+    <mainVerb begin="457" end="462">hover</mainVerb>
+    <mainReferent begin="449" end="456">enemies</mainReferent>
+    <tokens>On the one hand enemies hover about</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_8" begin="470" end="476">
+    <text>trying</text>
+    <mainVerb begin="470" end="476">trying</mainVerb>
+    <tokens>trying to eat the tender</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_9" begin="496" end="507">
+    <text>transparent</text>
+    <mainVerb begin="496" end="507">transparent</mainVerb>
+    <mainReferent begin="489" end="495">tender</mainReferent>
+    <tokens>transparent glass-like little fry</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_10" begin="549" end="554">
+    <text>drive</text>
+    <mainVerb begin="549" end="554">drive</mainVerb>
+    <mainReferent begin="449" end="456">enemies</mainReferent>
+    <tokens>these he must drive off</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_11" begin="600" end="604">
+    <text>take</text>
+    <mainVerb begin="600" end="604">take</mainVerb>
+    <mainReferent begin="589" end="594">nurse</mainReferent>
+    <tokens>on the other hand the good nurse must take care</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_12" begin="645" end="650">
+    <text>stray</text>
+    <mainVerb begin="645" end="650">stray</mainVerb>
+    <mainReferent begin="633" end="637">fish</mainReferent>
+    <tokens>that the active young fish do not stray from the nest</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_13" begin="677" end="683">
+    <text>expose</text>
+    <mainVerb begin="677" end="683">expose</mainVerb>
+    <mainReferent begin="633" end="637">fish</mainReferent>
+    <tokens>the active young fish expose themselves prematurely to the manifold dangers of the outer world</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_14" begin="762" end="765">
+    <text>are</text>
+    <mainVerb begin="762" end="765">are</mainVerb>
+    <mainReferent begin="757" end="761">they</mainReferent>
+    <tokens>Till they are enough to take care of themselves</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_15" begin="809" end="816">
+    <text>watches</text>
+    <mainVerb begin="809" end="816">watches</mainVerb>
+    <mainReferent begin="806" end="808">he</mainReferent>
+    <tokens>he watches with incessant vigilance over their safety</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_16" begin="882" end="884">
+    <text>go</text>
+    <mainVerb begin="882" end="884">go</mainVerb>
+    <mainReferent begin="873" end="877">they</mainReferent>
+    <tokens>as they can go forth with tolerable security upon the world of their brook or pond</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_17" begin="958" end="963">
+    <text>takes</text>
+    <mainVerb begin="958" end="963">takes</mainVerb>
+    <mainReferent begin="955" end="957">he</mainReferent>
+    <tokens>as soon he takes a last well-merited holiday</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_18" begin="1000" end="1002">
+    <text>is</text>
+    <mainVerb begin="1000" end="1002">is</mainVerb>
+    <mainReferent begin="997" end="999">It</mainReferent>
+    <tokens>It is not under these circumstances to learn</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_19" begin="1072" end="1075">
+    <text>are</text>
+    <mainVerb begin="1072" end="1075">are</mainVerb>
+    <mainReferent begin="1059" end="1071">sticklebacks</mainReferent>
+    <tokens>that sticklebacks are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_20" begin="1091" end="1101">
+    <text>increasing</text>
+    <mainVerb begin="1091" end="1101">increasing</mainVerb>
+    <mainReferent begin="1059" end="1071">sticklebacks</mainReferent>
+    <tokens>sticklebacks increasing animals</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_21" begin="1125" end="1128">
+    <text>are</text>
+    <mainVerb begin="1125" end="1128">are</mainVerb>
+    <mainReferent begin="1117" end="1124">numbers</mainReferent>
+    <tokens>Their numbers are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_22" begin="1154" end="1157">
+    <text>get</text>
+    <mainVerb begin="1154" end="1157">get</mainVerb>
+    <mainReferent begin="1149" end="1153">they</mainReferent>
+    <tokens>wherever they get a fair chance in life</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_23" begin="1195" end="1203">
+    <text>multiply</text>
+    <mainVerb begin="1195" end="1203">multiply</mainVerb>
+    <mainReferent begin="1189" end="1193">they</mainReferent>
+    <tokens>because they multiply rapidly up to the extreme limit of the means of subsistence</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_24" begin="1270" end="1277">
+    <text>develop</text>
+    <mainVerb begin="1270" end="1277">develop</mainVerb>
+    <mainReferent begin="1149" end="1153">they</mainReferent>
+    <tokens>they develop as fast</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_25" begin="1294" end="1301">
+    <text>remains</text>
+    <mainVerb begin="1294" end="1301">remains</mainVerb>
+    <mainReferent begin="1289" end="1293">food</mainReferent>
+    <tokens>as food remains for them</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_26" begin="1378" end="1380">
+    <text>is</text>
+    <mainVerb begin="1378" end="1380">is</mainVerb>
+    <mainReferent begin="1385" end="1389">food</mainReferent>
+    <tokens>when there is not food enough for all some</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_27" begin="1416" end="1422">
+    <text>starve</text>
+    <mainVerb begin="1416" end="1422">starve</mainVerb>
+    <mainReferent begin="1345" end="1348">law</mainReferent>
+    <tokens>There the inexorable Malthusian law at last steps in must starve the short of the great population question</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_28" begin="1429" end="1431">
+    <text>is</text>
+    <mainVerb begin="1429" end="1431">is</mainVerb>
+    <mainReferent begin="1424" end="1428">that</mainReferent>
+    <tokens>that is the the short of the great population question</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_29" begin="1510" end="1512">
+    <text>is</text>
+    <mainVerb begin="1510" end="1512">is</mainVerb>
+    <mainReferent begin="1500" end="1509">provender</mainReferent>
+    <tokens>while provender is</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_30" begin="1530" end="1538">
+    <text>increase</text>
+    <mainVerb begin="1530" end="1538">increase</mainVerb>
+    <mainReferent begin="1525" end="1529">they</mainReferent>
+    <tokens>But they increase gayly</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_31" begin="1560" end="1564">
+    <text>live</text>
+    <mainVerb begin="1560" end="1564">live</mainVerb>
+    <mainReferent begin="1547" end="1559">Sticklebacks</mainReferent>
+    <tokens>Sticklebacks live mainly on the spawn of other fish</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_32" begin="1613" end="1616">
+    <text>are</text>
+    <mainVerb begin="1613" end="1616">are</mainVerb>
+    <mainReferent begin="1608" end="1612">they</mainReferent>
+    <tokens>though they are so of their own</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_33" begin="1676" end="1681">
+    <text>hated</text>
+    <mainVerb begin="1676" end="1681">hated</mainVerb>
+    <mainReferent begin="1547" end="1559">Sticklebacks</mainReferent>
+    <tokens>they are therefore naturally hated trout-preservers owners of fisheries in general</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_34" begin="1767" end="1773">
+    <text>caught</text>
+    <mainVerb begin="1767" end="1773">caught</mainVerb>
+    <mainReferent begin="1753" end="1762">thousands</mainReferent>
+    <tokens>Thousands thousands are caught each year</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_35" begin="1815" end="1818">
+    <text>are</text>
+    <mainVerb begin="1815" end="1818">are</mainVerb>
+    <mainReferent begin="1810" end="1814">they</mainReferent>
+    <tokens>in some places indeed they are so</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_36" begin="1845" end="1849">
+    <text>used</text>
+    <mainVerb begin="1845" end="1849">used</mainVerb>
+    <mainReferent begin="1836" end="1840">they</mainReferent>
+    <tokens>that they are used as manure</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_37" begin="1864" end="1866">
+    <text>is</text>
+    <mainVerb begin="1864" end="1866">is</mainVerb>
+    <mainReferent begin="1861" end="1863">It</mainReferent>
+    <tokens>It is their of course they well armed pugnacious</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_38" begin="1899" end="1903">
+    <text>make</text>
+    <mainVerb begin="1899" end="1903">make</mainVerb>
+    <mainReferent begin="1874" end="1881">numbers</mainReferent>
+    <tokens>make them formidable</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_39" begin="1926" end="1929">
+    <text>are</text>
+    <mainVerb begin="1926" end="1929">are</mainVerb>
+    <mainReferent begin="1921" end="1925">they</mainReferent>
+    <tokens>they are the of the streams well armed pugnacious</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_40" begin="1990" end="1998">
+    <text>provided</text>
+    <mainVerb begin="1990" end="1998">provided</mainVerb>
+    <mainReferent begin="1934" end="1941">locusts</mainReferent>
+    <tokens>they provided with most remarkable parental instincts of a protective character , which enables them to fill up all vacancies in their ranks as fast as they occur with astonishing promptitude</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_41" begin="2073" end="2080">
+    <text>enables</text>
+    <mainVerb begin="2073" end="2080">enables</mainVerb>
+    <mainReferent begin="2056" end="2065">character</mainReferent>
+    <tokens>a protective character enables them to fill up all vacancies in their ranks as fast</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_42" begin="2143" end="2148">
+    <text>occur</text>
+    <mainVerb begin="2143" end="2148">occur</mainVerb>
+    <mainReferent begin="2138" end="2142">they</mainReferent>
+    <tokens>as they occur with astonishing promptitude</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_43" begin="2221" end="2223">
+    <text>is</text>
+    <mainVerb begin="2221" end="2223">is</mainVerb>
+    <mainReferent begin="2198" end="2210">acquaintance</mainReferent>
+    <tokens>those acquaintance with fish is mainly</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_44" begin="2248" end="2252">
+    <text>seem</text>
+    <mainVerb begin="2248" end="2252">seem</mainVerb>
+    <mainReferent begin="2241" end="2243">it</mainReferent>
+    <tokens>To those whose acquaintance with fish is mainly culinary it may seem odd to hear</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_45" begin="2300" end="2305">
+    <text>takes</text>
+    <mainVerb begin="2300" end="2305">takes</mainVerb>
+    <mainReferent begin="2282" end="2293">stickleback</mainReferent>
+    <tokens>that the father stickleback alone takes part in the care of the nursery</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_46" begin="2349" end="2351">
+    <text>is</text>
+    <mainVerb begin="2349" end="2351">is</mainVerb>
+    <mainReferent begin="2344" end="2348">this</mainReferent>
+    <tokens>But this is the among the whole class of fish</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_47" begin="2416" end="2422">
+    <text>tended</text>
+    <mainVerb begin="2416" end="2422">tended</mainVerb>
+    <mainReferent begin="2406" end="2411">young</mainReferent>
+    <tokens>wherever the young are tended</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_48" begin="2427" end="2429">
+    <text>is</text>
+    <mainVerb begin="2427" end="2429">is</mainVerb>
+    <mainReferent begin="2424" end="2426">it</mainReferent>
+    <tokens>it is almost always the not the mother</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_49" begin="2477" end="2487">
+    <text>undertakes</text>
+    <mainVerb begin="2477" end="2487">undertakes</mainVerb>
+    <mainReferent begin="2465" end="2471">mother</mainReferent>
+    <tokens>not the mother undertakes the duty of incubation</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_50" begin="2532" end="2537">
+    <text>occur</text>
+    <mainVerb begin="2532" end="2537">occur</mainVerb>
+    <mainReferent begin="2521" end="2530">instances</mainReferent>
+    <tokens>Only two instances occur</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_51" begin="2560" end="2567">
+    <text>assumes</text>
+    <mainVerb begin="2560" end="2567">assumes</mainVerb>
+    <mainReferent begin="2555" end="2559">fish</mainReferent>
+    <tokens>where the female fish assumes maternal functions towards her young</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_52" begin="2627" end="2631">
+    <text>have</text>
+    <mainVerb begin="2627" end="2631">have</mainVerb>
+    <mainReferent begin="2619" end="2620">I</mainReferent>
+    <tokens>about these I shall have more to say a little later on</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_53" begin="2672" end="2680">
+    <text>remember</text>
+    <mainVerb begin="2672" end="2680">remember</mainVerb>
+    <mainReferent begin="2663" end="2665">We</mainReferent>
+    <tokens>We must remember</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_54" begin="2715" end="2718">
+    <text>are</text>
+    <mainVerb begin="2715" end="2718">are</mainVerb>
+    <mainReferent begin="2707" end="2714">mammals</mainReferent>
+    <tokens>that reptiles birds mammals are in all probability descended from fish as ancestors</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_55" begin="2739" end="2748">
+    <text>descended</text>
+    <mainVerb begin="2739" end="2748">descended</mainVerb>
+    <mainReferent begin="2726" end="2737">probability</mainReferent>
+    <tokens>descended from fish as ancestors</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_56" begin="2780" end="2782">
+    <text>is</text>
+    <mainVerb begin="2780" end="2782">is</mainVerb>
+    <mainReferent begin="2777" end="2779">it</mainReferent>
+    <tokens>it is therefore</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_57" begin="2874" end="2881">
+    <text>belongs</text>
+    <mainVerb begin="2874" end="2881">belongs</mainVerb>
+    <mainReferent begin="2809" end="2814">habit</mainReferent>
+    <tokens>that the habit handing over the care of the young to the female alone belongs to the higher grades of vertebrates</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_58" begin="2935" end="2937">
+    <text>is</text>
+    <mainVerb begin="2935" end="2937">is</mainVerb>
+    <tokens>in other words is of later origin</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_59" begin="2959" end="2963">
+    <text>need</text>
+    <mainVerb begin="2959" end="2963">need</mainVerb>
+    <mainReferent begin="2956" end="2958">We</mainReferent>
+    <tokens>We need not</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_60" begin="2971" end="2981">
+    <text>astonished</text>
+    <mainVerb begin="2971" end="2981">astonished</mainVerb>
+    <mainReferent begin="2959" end="2963">need</mainReferent>
+    <tokens>be astonished therefore to find</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_61" begin="3124" end="3129">
+    <text>takes</text>
+    <mainVerb begin="3124" end="3129">takes</mainVerb>
+    <mainReferent begin="3076" end="3085">reversion</mainReferent>
+    <tokens>that in many cases among birds and other advanced vertebrates a partial reversion to the earlier habit not infrequently takes place</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_62" begin="3186" end="3189">
+    <text>sit</text>
+    <mainVerb begin="3186" end="3189">sit</mainVerb>
+    <mainReferent begin="3180" end="3185">birds</mainReferent>
+    <tokens>With doves for example the cock hen birds sit equally on the eggs as for the ostriches , the male bird</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_63" begin="3212" end="3218">
+    <text>taking</text>
+    <mainVerb begin="3212" end="3218">taking</mainVerb>
+    <tokens>taking turns about at the nest</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_64" begin="3291" end="3295">
+    <text>does</text>
+    <mainVerb begin="3291" end="3295">does</mainVerb>
+    <mainReferent begin="3180" end="3185">birds</mainReferent>
+    <tokens>there does most of the incubation</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_65" begin="3327" end="3334">
+    <text>accepts</text>
+    <mainVerb begin="3327" end="3334">accepts</mainVerb>
+    <mainReferent begin="3324" end="3326">he</mainReferent>
+    <tokens>for he accepts the whole of the night duty</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_66" begin="3374" end="3381">
+    <text>assists</text>
+    <mainVerb begin="3374" end="3381">assists</mainVerb>
+    <mainReferent begin="3324" end="3326">he</mainReferent>
+    <tokens>he also assists at intervals during the daytime</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_67" begin="3422" end="3425">
+    <text>are</text>
+    <mainVerb begin="3422" end="3425">are</mainVerb>
+    <mainReferent begin="3441" end="3446">cases</mainReferent>
+    <tokens>There are numerous other cases</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_68" begin="3469" end="3475">
+    <text>shares</text>
+    <mainVerb begin="3469" end="3475">shares</mainVerb>
+    <mainReferent begin="3464" end="3468">bird</mainReferent>
+    <tokens>where the father bird shares the tasks of the nursery at least equally with the mother</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_69" begin="3543" end="3549">
+    <text>glance</text>
+    <mainVerb begin="3543" end="3549">glance</mainVerb>
+    <mainReferent begin="3536" end="3537">I</mainReferent>
+    <tokens>I will glance first however at one of the rare exceptions among fish where the main duty does not devolve on the devoted father</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_70" begin="3638" end="3645">
+    <text>devolve</text>
+    <mainVerb begin="3638" end="3645">devolve</mainVerb>
+    <mainReferent begin="3623" end="3627">duty</mainReferent>
+    <tokens>where the main duty does not devolve on the devoted father</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_71" begin="3729" end="3733">
+    <text>have</text>
+    <mainVerb begin="3729" end="3733">have</mainVerb>
+    <mainReferent begin="3726" end="3728">we</mainReferent>
+    <tokens>In No. 4 we have an illustration of the tube-mouth or Solenostoma , one of the two known kinds of fish in which the female shows a sense of her position as a mother</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_72" begin="3800" end="3805">
+    <text>known</text>
+    <mainVerb begin="3800" end="3805">known</mainVerb>
+    <tokens>known</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_73" begin="3840" end="3845">
+    <text>shows</text>
+    <mainVerb begin="3840" end="3845">shows</mainVerb>
+    <mainReferent begin="3833" end="3839">female</mainReferent>
+    <tokens>of the two known kinds of fish in which the female shows a sense of her position as a mother</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_74" begin="3911" end="3914">
+    <text>see</text>
+    <mainVerb begin="3911" end="3914">see</mainVerb>
+    <mainReferent begin="3940" end="3948">relation</mainReferent>
+    <tokens>as you can see at a glance</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_75" begin="3929" end="3931">
+    <text>is</text>
+    <mainVerb begin="3929" end="3931">is</mainVerb>
+    <mainReferent begin="3911" end="3914">see</mainReferent>
+    <tokens>The tube-mouth is a close of our old friend the seahorse , whose disguised and undisguised forms in Australia and the Mediterranean we have already observed when dealing with the question of animal masqueraders</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_76" begin="3987" end="3996">
+    <text>disguised</text>
+    <mainVerb begin="3987" end="3996">disguised</mainVerb>
+    <tokens>disguised undisguised</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_77" begin="4072" end="4080">
+    <text>observed</text>
+    <mainVerb begin="4072" end="4080">observed</mainVerb>
+    <mainReferent begin="4055" end="4057">we</mainReferent>
+    <tokens>our old friend the seahorse undisguised forms in Australia the Mediterranean we have already observed when dealing with the question of animal masqueraders</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_78" begin="4149" end="4151">
+    <text>is</text>
+    <mainVerb begin="4149" end="4151">is</mainVerb>
+    <mainReferent begin="4137" end="4148">Solenostoma</mainReferent>
+    <tokens>Solenostoma is a of the Indian Ocean from Zanzibar to China</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_79" begin="4243" end="4246">
+    <text>are</text>
+    <mainVerb begin="4243" end="4246">are</mainVerb>
+    <mainReferent begin="4230" end="4234">pair</mainReferent>
+    <tokens>In the male the lower pair of fins are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_80" begin="4261" end="4263">
+    <text>is</text>
+    <mainVerb begin="4261" end="4263">is</mainVerb>
+    <tokens>as is among fish</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_81" begin="4301" end="4312">
+    <text>represented</text>
+    <mainVerb begin="4301" end="4312">represented</mainVerb>
+    <mainReferent begin="4293" end="4299">female</mainReferent>
+    <tokens>represented in the accompanying sketch</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_82" begin="4359" end="4365">
+    <text>joined</text>
+    <mainVerb begin="4359" end="4365">joined</mainVerb>
+    <mainReferent begin="4230" end="4234">pair</mainReferent>
+    <tokens>in the female , represented in the accompanying sketch they are lightly joined at the edge so as to form a sort of pouch like a kangaroo 's , in which the eggs are deposited after being laid , and thus carried about in the mother 's safe keeping</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_83" begin="4452" end="4461">
+    <text>deposited</text>
+    <mainVerb begin="4452" end="4461">deposited</mainVerb>
+    <mainReferent begin="4442" end="4446">eggs</mainReferent>
+    <tokens>like a kangaroo 's , in which the eggs are deposited after being laid , and thus carried about in the mother 's safe keeping</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_84" begin="4474" end="4478">
+    <text>laid</text>
+    <mainVerb begin="4474" end="4478">laid</mainVerb>
+    <mainReferent begin="4442" end="4446">eggs</mainReferent>
+    <tokens>being laid</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_85" begin="4489" end="4496">
+    <text>carried</text>
+    <mainVerb begin="4489" end="4496">carried</mainVerb>
+    <mainReferent begin="4442" end="4446">eggs</mainReferent>
+    <tokens>the eggs thus carried about in the mother 's safe keeping</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_86" begin="4540" end="4545">
+    <text>shows</text>
+    <mainVerb begin="4540" end="4545">shows</mainVerb>
+    <mainReferent begin="4534" end="4537">No.</mainReferent>
+    <tokens>No. 5 shows the arrangement of this pouch in detail , with the eggs inside it</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_87" begin="4645" end="4650">
+    <text>takes</text>
+    <mainVerb begin="4645" end="4650">takes</mainVerb>
+    <mainReferent begin="4624" end="4635">Solenostoma</mainReferent>
+    <tokens>The mother Solenostoma not only takes charge of the spawn</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_88" begin="4684" end="4692">
+    <text>hatching</text>
+    <mainVerb begin="4684" end="4692">hatching</mainVerb>
+    <mainReferent begin="4678" end="4680">it</mainReferent>
+    <tokens>while it is hatching in this receptacle</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_89" begin="4722" end="4727">
+    <text>looks</text>
+    <mainVerb begin="4722" end="4727">looks</mainVerb>
+    <mainReferent begin="4624" end="4635">Solenostoma</mainReferent>
+    <tokens>The mother Solenostoma also looks after the young fry , like the father stickleback , till they are of an age to go off on their own account in quest of adventures</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_90" begin="4789" end="4792">
+    <text>are</text>
+    <mainVerb begin="4789" end="4792">are</mainVerb>
+    <mainReferent begin="4745" end="4748">fry</mainReferent>
+    <tokens>till they are of an age to go off on their own account in quest of adventures</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_91" begin="4893" end="4900">
+    <text>happens</text>
+    <mainVerb begin="4893" end="4900">happens</mainVerb>
+    <mainReferent begin="4878" end="4887">adventure</mainReferent>
+    <tokens>The most frequent adventure happens to them</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_20.txt_92" begin="4942" end="4947">
+    <text>eaten</text>
+    <mainVerb begin="4942" end="4947">eaten</mainVerb>
+    <mainReferent begin="4878" end="4887">adventure</mainReferent>
+    <tokens>The most frequent adventure on the way is of course being eaten</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+</document>

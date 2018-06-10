@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="a_book_of_natural_history_27.txt_1" begin="135" end="140">
+    <text>taken</text>
+    <mainVerb begin="135" end="140">taken</mainVerb>
+    <mainReferent begin="56" end="61">kinds</mainReferent>
+    <tokens>In any Northern State as many as four hundred different kinds of the six-footed or true insects in the winged or adult stage may be taken in winter any one</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_2" begin="167" end="169">
+    <text>is</text>
+    <mainVerb begin="167" end="169">is</mainVerb>
+    <mainReferent begin="159" end="162">one</mainReferent>
+    <tokens>any one is so</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_3" begin="187" end="192">
+    <text>knows</text>
+    <mainVerb begin="187" end="192">knows</mainVerb>
+    <mainReferent begin="159" end="162">one</mainReferent>
+    <tokens>any one knows where to search for them</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_4" begin="270" end="274">
+    <text>live</text>
+    <mainVerb begin="270" end="274">live</mainVerb>
+    <mainReferent begin="256" end="268">grasshoppers</mainReferent>
+    <tokens>Among the _ Orthoptera _ the " grouse grasshoppers " live during the cold season beneath the loose bark of logs , or beneath the bottom rails of the old Virginia worm fences</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_5" begin="436" end="442">
+    <text>tempts</text>
+    <mainVerb begin="436" end="442">tempts</mainVerb>
+    <mainReferent begin="432" end="435">day</mainReferent>
+    <tokens>From these retreats every warm sunny day tempts them forth in numbers</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_6" begin="495" end="500">
+    <text>seems</text>
+    <mainVerb begin="495" end="500">seems</mainVerb>
+    <mainReferent begin="488" end="493">earth</mainReferent>
+    <tokens>On such occasions the earth seems to swarm with them</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_7" begin="529" end="533">
+    <text>leap</text>
+    <mainVerb begin="529" end="533">leap</mainVerb>
+    <mainReferent begin="524" end="528">they</mainReferent>
+    <tokens>as they leap before the intruder , their hard bodies striking the dead leaves with a sound similar to that produced by falling hail</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_8" begin="574" end="582">
+    <text>striking</text>
+    <mainVerb begin="574" end="582">striking</mainVerb>
+    <mainReferent begin="545" end="553">intruder</mainReferent>
+    <tokens>striking the dead leaves with a sound similar to that produced by falling hail</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_9" begin="628" end="636">
+    <text>produced</text>
+    <mainVerb begin="628" end="636">produced</mainVerb>
+    <mainReferent begin="623" end="627">that</mainReferent>
+    <tokens>produced falling hail</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_10" begin="680" end="687">
+    <text>belongs</text>
+    <mainVerb begin="680" end="687">belongs</mainVerb>
+    <mainReferent begin="672" end="679">cricket</mainReferent>
+    <tokens>The common field cricket belongs also to the _ Orthoptera _</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_11" begin="759" end="764">
+    <text>rails</text>
+    <mainVerb begin="759" end="764">rails</mainVerb>
+    <mainReferent begin="672" end="679">cricket</mainReferent>
+    <tokens>the young of various sizes winter under rails</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_12" begin="770" end="774">
+    <text>logs</text>
+    <mainVerb begin="770" end="774">logs</mainVerb>
+    <mainReferent begin="723" end="728">young</mainReferent>
+    <tokens>the young of various sizes logs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_13" begin="776" end="783">
+    <text>bidding</text>
+    <mainVerb begin="776" end="783">bidding</mainVerb>
+    <mainReferent begin="723" end="728">young</mainReferent>
+    <tokens>bidding defiance to Jack Frost from within a little burrow pit beneath the protecting shelter</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_14" begin="940" end="949">
+    <text>hibernate</text>
+    <mainVerb begin="940" end="949">hibernate</mainVerb>
+    <mainReferent begin="937" end="938">_</mainReferent>
+    <tokens>The true bugs _ Hemiptera _ hibernate in similar places</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_15" begin="1034" end="1039">
+    <text>found</text>
+    <mainVerb begin="1034" end="1039">found</mainVerb>
+    <mainReferent begin="1014" end="1020">others</mainReferent>
+    <tokens>being easily found in numbers beneath loose bark</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_16" begin="1074" end="1080">
+    <text>hidden</text>
+    <mainVerb begin="1074" end="1080">hidden</mainVerb>
+    <mainReferent begin="1014" end="1020">others</mainReferent>
+    <tokens>hidden between the root</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_17" begin="1098" end="1104">
+    <text>leaves</text>
+    <mainVerb begin="1098" end="1104">leaves</mainVerb>
+    <mainReferent begin="990" end="994">bugs</mainReferent>
+    <tokens>squash bugs chinch bugs " stink " bugs others leaves of mullein and other plants</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_18" begin="1196" end="1202">
+    <text>occupy</text>
+    <mainVerb begin="1196" end="1202">occupy</mainVerb>
+    <mainReferent begin="1159" end="1166">species</mainReferent>
+    <tokens>Nearly three hundred species of _ Coleoptera _ , or beetles occupy similar positions</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_19" begin="1272" end="1281">
+    <text>discloses</text>
+    <mainVerb begin="1272" end="1281">discloses</mainVerb>
+    <mainReferent begin="1266" end="1270">open</mainReferent>
+    <tokens>Almost any rotten log stump when broken open discloses a half dozen more " horn " " bess beetles " _ Passalus</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_20" begin="1340" end="1348">
+    <text>cornutus</text>
+    <mainVerb begin="1340" end="1348">cornutus</mainVerb>
+    <mainReferent begin="1241" end="1244">log</mainReferent>
+    <tokens>Almost any rotten log stump cornutus _ L. great shining clumsy black fellows with a curved horn on the head</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_21" begin="1440" end="1448">
+    <text>utilized</text>
+    <mainVerb begin="1440" end="1448">utilized</mainVerb>
+    <mainReferent begin="1425" end="1429">They</mainReferent>
+    <tokens>They are often utilized as horses country children the horn cord chips pieces of bark to be dragged about the strong never lagging beast of burden</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_22" begin="1490" end="1500">
+    <text>furnishing</text>
+    <mainVerb begin="1490" end="1500">furnishing</mainVerb>
+    <mainReferent begin="1485" end="1489">horn</mainReferent>
+    <tokens>furnishing an inviting projection</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_23" begin="1540" end="1548">
+    <text>fastened</text>
+    <mainVerb begin="1540" end="1548">fastened</mainVerb>
+    <mainReferent begin="1527" end="1532">which</mainReferent>
+    <tokens>which may be fastened a thread</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_24" begin="1707" end="1711">
+    <text>make</text>
+    <mainVerb begin="1707" end="1711">make</mainVerb>
+    <mainReferent begin="1698" end="1702">they</mainReferent>
+    <tokens>When tired of " playing horse " they can make of the insect an instrument of music</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_25" begin="1761" end="1765">
+    <text>held</text>
+    <mainVerb begin="1761" end="1765">held</mainVerb>
+    <tokens>when held by the body</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_26" begin="1782" end="1787">
+    <text>emits</text>
+    <mainVerb begin="1782" end="1787">emits</mainVerb>
+    <mainReferent begin="1707" end="1711">make</mainReferent>
+    <tokens>for it emits a creaking hissing noise</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_27" begin="1815" end="1823">
+    <text>produced</text>
+    <mainVerb begin="1815" end="1823">produced</mainVerb>
+    <tokens>produced rubbing the abdomen up down against the inside of the hard , horny wing</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_28" begin="1904" end="1910">
+    <text>covers</text>
+    <mainVerb begin="1904" end="1910">covers</mainVerb>
+    <mainReferent begin="1815" end="1823">produced</mainReferent>
+    <tokens>covers</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_29" begin="1924" end="1930">
+    <text>passes</text>
+    <mainVerb begin="1924" end="1930">passes</mainVerb>
+    <mainReferent begin="1917" end="1923">beetle</mainReferent>
+    <tokens>This beetle passes its entire life in cavities in the rotten wood on which it feeds</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_30" begin="1991" end="1996">
+    <text>feeds</text>
+    <mainVerb begin="1991" end="1996">feeds</mainVerb>
+    <mainReferent begin="1988" end="1990">it</mainReferent>
+    <tokens>in the rotten wood on which it feeds</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_31" begin="2010" end="2016">
+    <text>wishes</text>
+    <mainVerb begin="2010" end="2016">wishes</mainVerb>
+    <mainReferent begin="2007" end="2009">it</mainReferent>
+    <tokens>when it wishes a larger more commodious home</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_32" begin="2054" end="2057">
+    <text>has</text>
+    <mainVerb begin="2054" end="2057">has</mainVerb>
+    <mainReferent begin="1917" end="1923">beetle</mainReferent>
+    <tokens>it has only to eat the more</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_33" begin="2165" end="2172">
+    <text>beetles</text>
+    <mainVerb begin="2165" end="2172">beetles</mainVerb>
+    <mainReferent begin="2160" end="2164">lady</mainReferent>
+    <tokens>The handsome beneficial lady beetles winter beneath fallen leaves or beneath the root leaves of the mullein and the thistle</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_34" begin="2188" end="2194">
+    <text>fallen</text>
+    <mainVerb begin="2188" end="2194">fallen</mainVerb>
+    <tokens>fallen</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_35" begin="2361" end="2363">
+    <text>is</text>
+    <mainVerb begin="2361" end="2363">is</mainVerb>
+    <mainReferent begin="2291" end="2298">species</mainReferent>
+    <tokens>Our most common species the thirteen-spotted lady beetle _ Megilla maculata _ De G. is collecting together by thousands on the approach of cold weather lying</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_36" begin="2453" end="2460">
+    <text>huddled</text>
+    <mainVerb begin="2453" end="2460">huddled</mainVerb>
+    <mainReferent begin="2447" end="2452">lying</mainReferent>
+    <tokens>huddled up like sheep</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_37" begin="2501" end="2506">
+    <text>gives</text>
+    <mainVerb begin="2501" end="2506">gives</mainVerb>
+    <mainReferent begin="2484" end="2490">breath</mainReferent>
+    <tokens>until a breath of spring gives them the signal to disperse</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_38" begin="2565" end="2570">
+    <text>found</text>
+    <mainVerb begin="2565" end="2570">found</mainVerb>
+    <mainReferent begin="2542" end="2549">beetles</mainReferent>
+    <tokens>Snout beetles galore can be found beneath piles of weeds near streams and the borders of ponds chunks logs in sandy places</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_39" begin="2681" end="2684">
+    <text>are</text>
+    <mainVerb begin="2681" end="2684">are</mainVerb>
+    <mainReferent begin="2677" end="2680">All</mainReferent>
+    <tokens>All are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_40" begin="2763" end="2768">
+    <text>cause</text>
+    <mainVerb begin="2763" end="2768">cause</mainVerb>
+    <mainReferent begin="2677" end="2680">All</mainReferent>
+    <tokens>the farmer burning their hibernating places in winter can cause their destruction in numbers</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_41" begin="2846" end="2850">
+    <text>live</text>
+    <mainVerb begin="2846" end="2850">live</mainVerb>
+    <mainReferent begin="2821" end="2828">beetles</mainReferent>
+    <tokens>Rove beetles ground beetles many others live deep down in the vegetable mould beneath old logs , where they are , no doubt , as secure from the ice king</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_42" begin="2878" end="2883">
+    <text>mould</text>
+    <mainVerb begin="2878" end="2883">mould</mainVerb>
+    <mainReferent begin="2868" end="2877">vegetable</mainReferent>
+    <tokens>mould beneath old logs</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_43" begin="2914" end="2917">
+    <text>are</text>
+    <mainVerb begin="2914" end="2917">are</mainVerb>
+    <mainReferent begin="2909" end="2913">they</mainReferent>
+    <tokens>where they are no doubt as from the ice king</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_44" begin="2969" end="2977">
+    <text>followed</text>
+    <mainVerb begin="2969" end="2977">followed</mainVerb>
+    <mainReferent begin="2964" end="2968">they</mainReferent>
+    <tokens>as if they followed the swallow to the tropics</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_45" begin="3030" end="3035">
+    <text>flies</text>
+    <mainVerb begin="3030" end="3035">flies</mainVerb>
+    <mainReferent begin="3017" end="3024">Diptera</mainReferent>
+    <tokens>Diptera flies</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_46" begin="3151" end="3159">
+    <text>distract</text>
+    <mainVerb begin="3151" end="3159">distract</mainVerb>
+    <mainReferent begin="3138" end="3144">summer</mainReferent>
+    <tokens>yet the myriads of house flies and their kin next summer will distract the busy house-wife</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_47" begin="3185" end="3196">
+    <text>represented</text>
+    <mainVerb begin="3185" end="3196">represented</mainVerb>
+    <mainReferent begin="3017" end="3024">Diptera</mainReferent>
+    <tokens>few forms winter in the perfect state yet the myriads of house flies and their kin are represented in winter a few individuals</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_48" begin="3217" end="3225">
+    <text>isolated</text>
+    <mainVerb begin="3217" end="3225">isolated</mainVerb>
+    <tokens>isolated</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_49" begin="3244" end="3249">
+    <text>creep</text>
+    <mainVerb begin="3244" end="3249">creep</mainVerb>
+    <mainReferent begin="3226" end="3237">individuals</mainReferent>
+    <tokens>a few individuals creep forth occasionally from crevice or cranny</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_50" begin="3297" end="3302">
+    <text>greet</text>
+    <mainVerb begin="3297" end="3302">greet</mainVerb>
+    <mainReferent begin="3226" end="3237">individuals</mainReferent>
+    <tokens>a few individuals greet us with a friendly buzz</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_51" begin="3358" end="3361">
+    <text>see</text>
+    <mainVerb begin="3358" end="3361">see</mainVerb>
+    <mainReferent begin="3345" end="3348">one</mainReferent>
+    <tokens>In mid-winter one may also see in the air swarms of small , gnat-like insects</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_52" begin="3415" end="3421">
+    <text>belong</text>
+    <mainVerb begin="3415" end="3421">belong</mainVerb>
+    <mainReferent begin="3410" end="3414">They</mainReferent>
+    <tokens>They belong to this order</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_53" begin="3440" end="3444">
+    <text>live</text>
+    <mainVerb begin="3440" end="3444">live</mainVerb>
+    <mainReferent begin="3410" end="3414">They</mainReferent>
+    <tokens>They live beneath the bark of freshly fallen beech and other logs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_54" begin="3528" end="3530">
+    <text>go</text>
+    <mainVerb begin="3528" end="3530">go</mainVerb>
+    <mainReferent begin="3523" end="3527">they</mainReferent>
+    <tokens>On warm , sunny days they go forth in numbers for a sort of rhythmical courtship</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_55" begin="3655" end="3659">
+    <text>rise</text>
+    <mainVerb begin="3655" end="3659">rise</mainVerb>
+    <mainReferent begin="3601" end="3606">while</mainReferent>
+    <tokens>that they usually rise in the same vertical line performing a curious aërial dance</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_56" begin="3664" end="3668">
+    <text>fall</text>
+    <mainVerb begin="3664" end="3668">fall</mainVerb>
+    <mainReferent begin="3601" end="3606">while</mainReferent>
+    <tokens>they fall</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_57" begin="3746" end="3755">
+    <text>continued</text>
+    <mainVerb begin="3746" end="3755">continued</mainVerb>
+    <mainReferent begin="3725" end="3730">dance</mainReferent>
+    <tokens>a curious aërial dance is long continued</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_58" begin="3880" end="3882">
+    <text>is</text>
+    <mainVerb begin="3880" end="3882">is</mainVerb>
+    <mainReferent begin="3812" end="3818">winter</mainReferent>
+    <tokens>moths winter in the perfect state , the most common and the most handsome is the " Camberwell " " mourning cloak " _ Vanessa antiopa _ L.</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_59" begin="3982" end="3985">
+    <text>are</text>
+    <mainVerb begin="3982" end="3985">are</mainVerb>
+    <mainReferent begin="3976" end="3981">wings</mainReferent>
+    <tokens>a large butterfly wings are a rich</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_60" begin="4002" end="4007">
+    <text>brown</text>
+    <mainVerb begin="4002" end="4007">brown</mainVerb>
+    <mainReferent begin="3960" end="3969">butterfly</mainReferent>
+    <tokens>Among the dozen or more butterflies and moths which winter in the perfect state , the most common and the most handsome is the " Camberwell beauty " or " mourning cloak , " _ Vanessa antiopa _ L. a large butterfly brown above duller beneath broadly margined with a yellowish band</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_61" begin="4088" end="4093">
+    <text>found</text>
+    <mainVerb begin="4088" end="4093">found</mainVerb>
+    <mainReferent begin="4076" end="4078">It</mainReferent>
+    <tokens>It is often found in winter beneath chunks which are raised a short distance above the ground , or in the crevices of old snags and fence rails</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_62" begin="4130" end="4136">
+    <text>raised</text>
+    <mainVerb begin="4130" end="4136">raised</mainVerb>
+    <mainReferent begin="4113" end="4119">chunks</mainReferent>
+    <tokens>chunks are raised a short distance above the ground in the crevices of old snags and fence rails</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_63" begin="4225" end="4227">
+    <text>is</text>
+    <mainVerb begin="4225" end="4227">is</mainVerb>
+    <mainReferent begin="4222" end="4224">It</mainReferent>
+    <tokens>It is then apparently with the antennæ resting close along the back , above which the wings are folded</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_64" begin="4329" end="4335">
+    <text>folded</text>
+    <mainVerb begin="4329" end="4335">folded</mainVerb>
+    <mainReferent begin="4319" end="4324">wings</mainReferent>
+    <tokens>along the back , above which the wings are folded</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_65" begin="4362" end="4365">
+    <text>are</text>
+    <mainVerb begin="4362" end="4365">are</mainVerb>
+    <mainReferent begin="4357" end="4361">days</mainReferent>
+    <tokens>one two warm days are to restore it to activity</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_66" begin="4415" end="4419">
+    <text>seen</text>
+    <mainVerb begin="4415" end="4419">seen</mainVerb>
+    <mainReferent begin="4357" end="4361">days</mainReferent>
+    <tokens>I have seen it on the wing as early as the 2d of March</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_27.txt_67" begin="4465" end="4473">
+    <text>hovering</text>
+    <mainVerb begin="4465" end="4473">hovering</mainVerb>
+    <mainReferent begin="4408" end="4409">I</mainReferent>
+    <tokens>hovering over the open flowers of the little snow trillium</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+</document>

@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="the_story_of_eclipses_35.txt_1" begin="11" end="17">
+    <text>states</text>
+    <mainVerb begin="11" end="17">states</mainVerb>
+    <mainReferent begin="0" end="10">Thucydides</mainReferent>
+    <tokens>Thucydides states very rarely</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_2" begin="70" end="78">
+    <text>repeated</text>
+    <mainVerb begin="70" end="78">repeated</mainVerb>
+    <mainReferent begin="53" end="59">things</mainReferent>
+    <tokens>that during the Peloponnesian war “ things formerly repeated on hearsay</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_3" begin="107" end="116">
+    <text>confirmed</text>
+    <mainVerb begin="107" end="116">confirmed</mainVerb>
+    <mainReferent begin="100" end="106">rarely</mainReferent>
+    <tokens>confirmed by facts</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_4" begin="127" end="133">
+    <text>became</text>
+    <mainVerb begin="127" end="133">became</mainVerb>
+    <mainReferent begin="275" end="276">”</mainReferent>
+    <tokens>very rarely became not incredible both about earthquakes and eclipses of the Sun which came to pass more frequently than had been remembered in former times . ”</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_5" begin="204" end="208">
+    <text>came</text>
+    <mainVerb begin="204" end="208">came</mainVerb>
+    <mainReferent begin="162" end="173">earthquakes</mainReferent>
+    <tokens>earthquakes eclipses of the Sun came to pass more frequently</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_6" begin="248" end="258">
+    <text>remembered</text>
+    <mainVerb begin="248" end="258">remembered</mainVerb>
+    <mainReferent begin="223" end="233">frequently</mainReferent>
+    <tokens>than had been remembered in former times</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_7" begin="298" end="305">
+    <text>assigns</text>
+    <mainVerb begin="298" end="305">assigns</mainVerb>
+    <mainReferent begin="295" end="297">he</mainReferent>
+    <tokens>he assigns to the first year of the war</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_8" begin="339" end="343">
+    <text>says</text>
+    <mainVerb begin="339" end="343">says</mainVerb>
+    <mainReferent begin="295" end="297">he</mainReferent>
+    <tokens>he says [ 48 ]</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_9" begin="353" end="354">
+    <text>“</text>
+    <mainVerb begin="353" end="354">“</mainVerb>
+    <mainReferent begin="346" end="347">]</mainReferent>
+    <tokens>[ 48 ] “ in the same summer at the beginning of a new lunar month ( at which time alone the phenomenon seems possible ) the Sun was eclipsed after mid-day</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_10" begin="450" end="455">
+    <text>seems</text>
+    <mainVerb begin="450" end="455">seems</mainVerb>
+    <mainReferent begin="407" end="412">month</mainReferent>
+    <tokens>of a new lunar month ( at which time alone the phenomenon seems possible ) the Sun was eclipsed after mid-day</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_11" begin="478" end="486">
+    <text>eclipsed</text>
+    <mainVerb begin="478" end="486">eclipsed</mainVerb>
+    <mainReferent begin="470" end="473">Sun</mainReferent>
+    <tokens>the Sun was eclipsed after mid-day</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_12" begin="507" end="513">
+    <text>became</text>
+    <mainVerb begin="507" end="513">became</mainVerb>
+    <mainReferent begin="295" end="297">he</mainReferent>
+    <tokens>he became full again</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_13" begin="538" end="545">
+    <text>assumed</text>
+    <mainVerb begin="538" end="545">assumed</mainVerb>
+    <mainReferent begin="531" end="533">it</mainReferent>
+    <tokens>after it had assumed a crescent form</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_14" begin="595" end="600">
+    <text>shone</text>
+    <mainVerb begin="595" end="600">shone</mainVerb>
+    <mainReferent begin="531" end="533">it</mainReferent>
+    <tokens>after some of the stars had shone out</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_15" begin="638" end="648">
+    <text>recognised</text>
+    <mainVerb begin="638" end="648">recognised</mainVerb>
+    <mainReferent begin="607" end="611">Aug.</mainReferent>
+    <tokens>Aug. 3 431 B.C. is generally recognised as the date of this event</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_16" begin="688" end="691">
+    <text>was</text>
+    <mainVerb begin="688" end="691">was</mainVerb>
+    <mainReferent begin="680" end="687">eclipse</mainReferent>
+    <tokens>The eclipse was not total only of the Sun ’s disc being obscured</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_17" begin="746" end="754">
+    <text>obscured</text>
+    <mainVerb begin="746" end="754">obscured</mainVerb>
+    <mainReferent begin="735" end="739">disc</mainReferent>
+    <tokens>being obscured</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_18" begin="762" end="765">
+    <text>was</text>
+    <mainVerb begin="762" end="765">was</mainVerb>
+    <mainReferent begin="809" end="811">so</mainReferent>
+    <tokens>Venus was 20 Jupiter 43 ° distant from the Sun so</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_19" begin="827" end="831">
+    <text>were</text>
+    <mainVerb begin="827" end="831">were</mainVerb>
+    <mainReferent begin="821" end="826">these</mainReferent>
+    <tokens>probably these were the “ stars</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_20" begin="855" end="859">
+    <text>seen</text>
+    <mainVerb begin="855" end="859">seen</mainVerb>
+    <mainReferent begin="842" end="843">”</mainReferent>
+    <tokens>were seen</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_21" begin="881" end="890">
+    <text>prevented</text>
+    <mainVerb begin="881" end="890">prevented</mainVerb>
+    <mainReferent begin="866" end="873">eclipse</mainReferent>
+    <tokens>This eclipse nearly prevented the Athenian expedition against the Lacedæmonians</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_22" begin="955" end="959">
+    <text>were</text>
+    <mainVerb begin="955" end="959">were</mainVerb>
+    <mainReferent begin="947" end="954">sailors</mainReferent>
+    <tokens>The sailors were by it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_23" begin="999" end="1007">
+    <text>occurred</text>
+    <mainVerb begin="999" end="1007">occurred</mainVerb>
+    <mainReferent begin="947" end="954">sailors</mainReferent>
+    <tokens>a happy thought occurred to Pericles , the commander of the Athenian forces</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_24" begin="1097" end="1101">
+    <text>says</text>
+    <mainVerb begin="1097" end="1101">says</mainVerb>
+    <mainReferent begin="1060" end="1068">Plutarch</mainReferent>
+    <tokens>Plutarch in his _ Life of Pericles _ says</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_25" begin="1103" end="1104">
+    <text>“</text>
+    <mainVerb begin="1103" end="1104">“</mainVerb>
+    <mainReferent begin="1102" end="1103">—</mainReferent>
+    <tokens>— “</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_26" begin="1120" end="1123">
+    <text>was</text>
+    <mainVerb begin="1120" end="1123">was</mainVerb>
+    <mainReferent begin="1114" end="1119">fleet</mainReferent>
+    <tokens>The whole fleet was in readiness</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_27" begin="1143" end="1151">
+    <text>Pericles</text>
+    <mainVerb begin="1143" end="1151">Pericles</mainVerb>
+    <mainReferent begin="1102" end="1103">—</mainReferent>
+    <tokens>— Pericles on board his own galley</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_28" begin="1188" end="1196">
+    <text>happened</text>
+    <mainVerb begin="1188" end="1196">happened</mainVerb>
+    <mainReferent begin="1102" end="1103">—</mainReferent>
+    <tokens>when there happened an eclipse of the Sun</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_29" begin="1245" end="1251">
+    <text>looked</text>
+    <mainVerb begin="1245" end="1251">looked</mainVerb>
+    <mainReferent begin="1232" end="1240">darkness</mainReferent>
+    <tokens>The sudden darkness was looked upon as an unfavourable omen</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_30" begin="1287" end="1292">
+    <text>threw</text>
+    <mainVerb begin="1287" end="1292">threw</mainVerb>
+    <mainReferent begin="1232" end="1240">darkness</mainReferent>
+    <tokens>The sudden darkness threw the sailors into the greatest consternation</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_31" begin="1373" end="1376">
+    <text>was</text>
+    <mainVerb begin="1373" end="1376">was</mainVerb>
+    <mainReferent begin="1367" end="1372">pilot</mainReferent>
+    <tokens>that the pilot was much perplexed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_32" begin="1409" end="1413">
+    <text>took</text>
+    <mainVerb begin="1409" end="1413">took</mainVerb>
+    <mainReferent begin="1339" end="1347">Pericles</mainReferent>
+    <tokens>Pericles observing the pilot perplexed took his cloak</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_33" begin="1436" end="1443">
+    <text>covered</text>
+    <mainVerb begin="1436" end="1443">covered</mainVerb>
+    <mainReferent begin="1469" end="1472">him</mainReferent>
+    <tokens>having covered his eyes with it him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_34" begin="1462" end="1467">
+    <text>asked</text>
+    <mainVerb begin="1462" end="1467">asked</mainVerb>
+    <mainReferent begin="1339" end="1347">Pericles</mainReferent>
+    <tokens>Pericles asked him</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_35" begin="1479" end="1484">
+    <text>found</text>
+    <mainVerb begin="1479" end="1484">found</mainVerb>
+    <mainReferent begin="1476" end="1478">he</mainReferent>
+    <tokens>if he found anything terrible in that</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_36" begin="1515" end="1525">
+    <text>considered</text>
+    <mainVerb begin="1515" end="1525">considered</mainVerb>
+    <mainReferent begin="1339" end="1347">Pericles</mainReferent>
+    <tokens>Pericles considered it as a bad presage</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_37" begin="1587" end="1591">
+    <text>said</text>
+    <mainVerb begin="1587" end="1591">said</mainVerb>
+    <mainReferent begin="1584" end="1586">he</mainReferent>
+    <tokens>Upon his answering in the negative he said</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_38" begin="1593" end="1594">
+    <text>‘</text>
+    <mainVerb begin="1593" end="1594">‘</mainVerb>
+    <tokens>‘</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_39" begin="1600" end="1602">
+    <text>is</text>
+    <mainVerb begin="1600" end="1602">is</mainVerb>
+    <mainReferent begin="1608" end="1618">difference</mainReferent>
+    <tokens>Where is the difference then between this and the other except that something</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_40" begin="1697" end="1703">
+    <text>causes</text>
+    <mainVerb begin="1697" end="1703">causes</mainVerb>
+    <mainReferent begin="1691" end="1696">cloak</mainReferent>
+    <tokens>than my cloak causes the eclipse</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_41" begin="1741" end="1750">
+    <text>mentioned</text>
+    <mainVerb begin="1741" end="1750">mentioned</mainVerb>
+    <mainReferent begin="1730" end="1737">eclipse</mainReferent>
+    <tokens>’” Another eclipse is mentioned Thucydides [ 49 ] in connection with an expedition of the Athenians against Cythera</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_42" begin="1840" end="1844">
+    <text>says</text>
+    <mainVerb begin="1840" end="1844">says</mainVerb>
+    <mainReferent begin="1837" end="1839">He</mainReferent>
+    <tokens>He says — “ At the very commencement of the following summer</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_43" begin="1903" end="1906">
+    <text>was</text>
+    <mainVerb begin="1903" end="1906">was</mainVerb>
+    <mainReferent begin="1910" end="1917">eclipse</mainReferent>
+    <tokens>there was an eclipse of the Sun at the time of a new moon , and in the early part of the same month an earthquake . ”</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_44" begin="2028" end="2038">
+    <text>identified</text>
+    <mainVerb begin="2028" end="2038">identified</mainVerb>
+    <mainReferent begin="2014" end="2018">This</mainReferent>
+    <tokens>This has been identified with the annular eclipse of March 21 , 424 B.C. , the central line of which passed across Northern Europe</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_45" begin="2114" end="2120">
+    <text>passed</text>
+    <mainVerb begin="2114" end="2120">passed</mainVerb>
+    <mainReferent begin="2100" end="2104">line</mainReferent>
+    <tokens>which passed across Northern Europe</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_46" begin="2149" end="2151">
+    <text>is</text>
+    <mainVerb begin="2149" end="2151">is</mainVerb>
+    <mainReferent begin="2146" end="2148">It</mainReferent>
+    <tokens>It is not quite</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_47" begin="2190" end="2196">
+    <text>wishes</text>
+    <mainVerb begin="2190" end="2196">wishes</mainVerb>
+    <mainReferent begin="2180" end="2189">historian</mainReferent>
+    <tokens>whether the historian wishes to insinuate</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_48" begin="2228" end="2234">
+    <text>caused</text>
+    <mainVerb begin="2228" end="2234">caused</mainVerb>
+    <mainReferent begin="2220" end="2227">eclipse</mainReferent>
+    <tokens>that the eclipse caused the earthquake the earthquake the eclipse</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_49" begin="2295" end="2300">
+    <text>known</text>
+    <mainVerb begin="2295" end="2300">known</mainVerb>
+    <mainReferent begin="2287" end="2294">eclipse</mainReferent>
+    <tokens>known as that of Ennius</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_50" begin="2319" end="2321">
+    <text>is</text>
+    <mainVerb begin="2319" end="2321">is</mainVerb>
+    <mainReferent begin="2287" end="2294">eclipse</mainReferent>
+    <tokens>An eclipse is of the eclipses antecedent to the Christian Era which has been the subject of full modern investigation</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_51" begin="2389" end="2393">
+    <text>been</text>
+    <mainVerb begin="2389" end="2393">been</mainVerb>
+    <mainReferent begin="2375" end="2378">Era</mainReferent>
+    <tokens>the Christian Era has been the of full modern investigation</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_52" begin="2468" end="2471">
+    <text>are</text>
+    <mainVerb begin="2468" end="2471">are</mainVerb>
+    <mainReferent begin="2462" end="2467">which</mainReferent>
+    <tokens>which are</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_53" begin="2532" end="2540">
+    <text>reckoned</text>
+    <mainVerb begin="2532" end="2540">reckoned</mainVerb>
+    <mainReferent begin="2522" end="2524">it</mainReferent>
+    <tokens>that in the language of Professor Hansen “ it may be reckoned as one of the most certain and well-established eclipses of antiquity</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_54" begin="2612" end="2613">
+    <text>”</text>
+    <mainVerb begin="2612" end="2613">”</mainVerb>
+    <mainReferent begin="2322" end="2329">another</mainReferent>
+    <tokens>the circumstances ”</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_55" begin="2646" end="2653">
+    <text>brought</text>
+    <mainVerb begin="2646" end="2653">brought</mainVerb>
+    <mainReferent begin="2618" end="2624">record</mainReferent>
+    <tokens>The record of it has only been brought to light in modern times the discovery of Cicero ’s Treatise , _ De Republicâ _</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_56" begin="2760" end="2766">
+    <text>Ennius</text>
+    <mainVerb begin="2760" end="2766">Ennius</mainVerb>
+    <mainReferent begin="2758" end="2759">]</mainReferent>
+    <tokens>to Cicero [ 50 ] Ennius the great Roman poet</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_57" begin="2794" end="2799">
+    <text>lived</text>
+    <mainVerb begin="2794" end="2799">lived</mainVerb>
+    <mainReferent begin="2784" end="2788">poet</mainReferent>
+    <tokens>the great Roman poet lived in the second century B.C. ”</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_58" begin="2836" end="2840">
+    <text>died</text>
+    <mainVerb begin="2836" end="2840">died</mainVerb>
+    <mainReferent begin="2832" end="2835">who</mainReferent>
+    <tokens>who died</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_59" begin="2850" end="2860">
+    <text>contracted</text>
+    <mainVerb begin="2850" end="2860">contracted</mainVerb>
+    <mainReferent begin="2845" end="2849">gout</mainReferent>
+    <tokens>contracted</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_60" begin="2868" end="2872">
+    <text>said</text>
+    <mainVerb begin="2868" end="2872">said</mainVerb>
+    <mainReferent begin="2862" end="2864">it</mainReferent>
+    <tokens>of gout contracted it is said frequent intoxication</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_61" begin="2900" end="2908">
+    <text>recorded</text>
+    <mainVerb begin="2900" end="2908">recorded</mainVerb>
+    <mainReferent begin="2836" end="2840">died</mainReferent>
+    <tokens>recorded an interesting event in the following words : — _ Nonis Junii soli luna obstetit et nox _</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_62" begin="2997" end="2998">
+    <text>“</text>
+    <mainVerb begin="2997" end="2998">“</mainVerb>
+    <mainReferent begin="2994" end="2995">_</mainReferent>
+    <tokens>“</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_63" begin="3028" end="3031">
+    <text>was</text>
+    <mainVerb begin="3028" end="3031">was</mainVerb>
+    <mainReferent begin="3023" end="3027">Moon</mainReferent>
+    <tokens>On the Nones of June the Moon was in opposition to the Sun and night</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_64" begin="3105" end="3112">
+    <text>assumed</text>
+    <mainVerb begin="3105" end="3112">assumed</mainVerb>
+    <mainReferent begin="3084" end="3090">phrase</mainReferent>
+    <tokens>This singular phrase has long been assumed to allude to an eclipse of the Sun</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_65" begin="3219" end="3227">
+    <text>realised</text>
+    <mainVerb begin="3219" end="3227">realised</mainVerb>
+    <mainReferent begin="3084" end="3090">phrase</mainReferent>
+    <tokens>the precise interpretation of the words was not for a long time realised</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_66" begin="3265" end="3269">
+    <text>fell</text>
+    <mainVerb begin="3265" end="3269">fell</mainVerb>
+    <mainReferent begin="3250" end="3255">Nones</mainReferent>
+    <tokens>In Cicero ’s time the Nones of June fell on the 5th</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_67" begin="3313" end="3318">
+    <text>lived</text>
+    <mainVerb begin="3313" end="3318">lived</mainVerb>
+    <mainReferent begin="3301" end="3307">Ennius</mainReferent>
+    <tokens>Ennius lived a century a half before Cicero</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_68" begin="3374" end="3378">
+    <text>fell</text>
+    <mainVerb begin="3374" end="3378">fell</mainVerb>
+    <mainReferent begin="3250" end="3255">Nones</mainReferent>
+    <tokens>in the time of Ennius , who lived a century and a half before Cicero the Nones of June fell between June 5 and July 4 of the lunar years and the intercalary month of the Roman Calendar</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_69" begin="3525" end="3530">
+    <text>known</text>
+    <mainVerb begin="3525" end="3530">known</mainVerb>
+    <mainReferent begin="3490" end="3494">date</mainReferent>
+    <tokens>The date of this eclipse is distinctly known</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_70" begin="3570" end="3573">
+    <text>was</text>
+    <mainVerb begin="3570" end="3573">was</mainVerb>
+    <mainReferent begin="3565" end="3569">hour</mainReferent>
+    <tokens>the hour was in dispute</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_71" begin="3606" end="3611">
+    <text>found</text>
+    <mainVerb begin="3606" end="3611">found</mainVerb>
+    <mainReferent begin="3601" end="3605">Zech</mainReferent>
+    <tokens>Professor Zech found</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_72" begin="3626" end="3629">
+    <text>set</text>
+    <mainVerb begin="3626" end="3629">set</mainVerb>
+    <mainReferent begin="3622" end="3625">Sun</mainReferent>
+    <tokens>that the Sun set at Rome</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_73" begin="3638" end="3646">
+    <text>eclipsed</text>
+    <mainVerb begin="3638" end="3646">eclipsed</mainVerb>
+    <mainReferent begin="3626" end="3629">set</mainReferent>
+    <tokens>eclipsed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_74" begin="3675" end="3679">
+    <text>took</text>
+    <mainVerb begin="3675" end="3679">took</mainVerb>
+    <mainReferent begin="3622" end="3625">Sun</mainReferent>
+    <tokens>that the maximum phase took place after sun-set</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_75" begin="3743" end="3748">
+    <text>found</text>
+    <mainVerb begin="3743" end="3748">found</mainVerb>
+    <mainReferent begin="3702" end="3708">Hansen</mainReferent>
+    <tokens>Hansen however with his better Tables found</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_76" begin="3767" end="3770">
+    <text>was</text>
+    <mainVerb begin="3767" end="3770">was</mainVerb>
+    <mainReferent begin="3759" end="3766">eclipse</mainReferent>
+    <tokens>that the eclipse was at Rome</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_77" begin="3808" end="3813">
+    <text>ended</text>
+    <mainVerb begin="3808" end="3813">ended</mainVerb>
+    <mainReferent begin="3759" end="3766">eclipse</mainReferent>
+    <tokens>that the totality ended at 7.33 p.m. the Sun setting almost immediately afterwards at 7.36</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_78" begin="3914" end="3922">
+    <text>explains</text>
+    <mainVerb begin="3914" end="3922">explains</mainVerb>
+    <mainReferent begin="3889" end="3893">fact</mainReferent>
+    <tokens>This fact Hansen considers explains the otherwise unintelligible passage of Ennius quoted above : instead of saying _ et nox _ , he should have said _ et simul nox _ , “ and immediately it was night . ”</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_79" begin="3971" end="3977">
+    <text>quoted</text>
+    <mainVerb begin="3971" end="3977">quoted</mainVerb>
+    <mainReferent begin="3963" end="3969">Ennius</mainReferent>
+    <tokens>quoted above : instead of saying _ et nox _ , he should have said _ et simul nox _ , “ and immediately it was night . ”</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_80" begin="4028" end="4032">
+    <text>said</text>
+    <mainVerb begin="4028" end="4032">said</mainVerb>
+    <mainReferent begin="4080" end="4081">”</mainReferent>
+    <tokens>saying _ nox _ he should have said</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_81" begin="4037" end="4042">
+    <text>simul</text>
+    <mainVerb begin="4037" end="4042">simul</mainVerb>
+    <mainReferent begin="4028" end="4032">said</mainReferent>
+    <tokens>_ et simul nox _ “</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_82" begin="4070" end="4073">
+    <text>was</text>
+    <mainVerb begin="4070" end="4073">was</mainVerb>
+    <mainReferent begin="4067" end="4069">it</mainReferent>
+    <tokens>immediately it was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_83" begin="4090" end="4099">
+    <text>questions</text>
+    <mainVerb begin="4090" end="4099">questions</mainVerb>
+    <mainReferent begin="4082" end="4089">Newcomb</mainReferent>
+    <tokens>Newcomb questions the totality of this eclipse</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="the_story_of_eclipses_35.txt_84" begin="4135" end="4142">
+    <text>assigns</text>
+    <mainVerb begin="4135" end="4142">assigns</mainVerb>
+    <mainReferent begin="4082" end="4089">Newcomb</mainReferent>
+    <tokens>Newcomb assigns no clear reasons for his doubts</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+</document>

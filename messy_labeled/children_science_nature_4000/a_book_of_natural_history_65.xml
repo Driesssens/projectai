@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="a_book_of_natural_history_65.txt_1" begin="16" end="23">
+    <text>mention</text>
+    <mainVerb begin="16" end="23">mention</mainVerb>
+    <mainReferent begin="0" end="1">I</mainReferent>
+    <tokens>I may here just mention</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_2" begin="32" end="37">
+    <text>found</text>
+    <mainVerb begin="32" end="37">found</mainVerb>
+    <mainReferent begin="30" end="31">I</mainReferent>
+    <tokens>that I found near St. Fe Bajada , many large black spiders , with ruby-colored marks on their backs , having gregarious habits</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_3" begin="125" end="131">
+    <text>having</text>
+    <mainVerb begin="125" end="131">having</mainVerb>
+    <mainReferent begin="118" end="123">backs</mainReferent>
+    <tokens>having gregarious habits</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_4" begin="166" end="172">
+    <text>placed</text>
+    <mainVerb begin="166" end="172">placed</mainVerb>
+    <mainReferent begin="156" end="160">webs</mainReferent>
+    <tokens>The webs were placed vertically</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_5" begin="188" end="190">
+    <text>is</text>
+    <mainVerb begin="188" end="190">is</mainVerb>
+    <tokens>as is invariably the with the genus Epeira</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_6" begin="245" end="254">
+    <text>separated</text>
+    <mainVerb begin="245" end="254">separated</mainVerb>
+    <mainReferent begin="235" end="239">they</mainReferent>
+    <tokens>they were separated from each other a space of about two feet</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_7" begin="315" end="323">
+    <text>attached</text>
+    <mainVerb begin="315" end="323">attached</mainVerb>
+    <mainReferent begin="235" end="239">they</mainReferent>
+    <tokens>they were all attached to certain common lines , which were of great length , and extended to all parts of the community</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_8" begin="356" end="360">
+    <text>were</text>
+    <mainVerb begin="356" end="360">were</mainVerb>
+    <mainReferent begin="343" end="348">lines</mainReferent>
+    <tokens>certain common lines were of great length</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_9" begin="382" end="390">
+    <text>extended</text>
+    <mainVerb begin="382" end="390">extended</mainVerb>
+    <mainReferent begin="343" end="348">lines</mainReferent>
+    <tokens>certain common lines extended to all parts of the community</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_10" begin="474" end="485">
+    <text>encompassed</text>
+    <mainVerb begin="474" end="485">encompassed</mainVerb>
+    <mainReferent begin="442" end="446">tops</mainReferent>
+    <tokens>In this manner the tops of some large bushes were encompassed the nets</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_11" begin="493" end="499">
+    <text>united</text>
+    <mainVerb begin="493" end="499">united</mainVerb>
+    <tokens>united</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_12" begin="516" end="525">
+    <text>described</text>
+    <mainVerb begin="516" end="525">described</mainVerb>
+    <mainReferent begin="506" end="511">Azara</mainReferent>
+    <tokens>Azara has described a gregarious spider in Paraguay , which Walckenaer thinks must be a Theridion perhaps even</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_13" begin="577" end="583">
+    <text>thinks</text>
+    <mainVerb begin="577" end="583">thinks</mainVerb>
+    <mainReferent begin="566" end="576">Walckenaer</mainReferent>
+    <tokens>Paraguay Walckenaer thinks</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_14" begin="589" end="591">
+    <text>be</text>
+    <mainVerb begin="589" end="591">be</mainVerb>
+    <mainReferent begin="550" end="558">Paraguay</mainReferent>
+    <tokens>Paraguay must be a</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_15" begin="622" end="624">
+    <text>is</text>
+    <mainVerb begin="622" end="624">is</mainVerb>
+    <mainReferent begin="619" end="621">it</mainReferent>
+    <tokens>probably it is an perhaps even the same species with mine</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_16" begin="701" end="710">
+    <text>recollect</text>
+    <mainVerb begin="701" end="710">recollect</mainVerb>
+    <mainReferent begin="682" end="683">I</mainReferent>
+    <tokens>I can not however recollect</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_17" begin="711" end="717">
+    <text>seeing</text>
+    <mainVerb begin="711" end="717">seeing</mainVerb>
+    <tokens>seeing a central nest as large as a hat , in which , during autumn , when the spiders die , Azara says the eggs are deposited</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_18" begin="795" end="798">
+    <text>die</text>
+    <mainVerb begin="795" end="798">die</mainVerb>
+    <mainReferent begin="787" end="794">spiders</mainReferent>
+    <tokens>when the spiders die</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_19" begin="806" end="810">
+    <text>says</text>
+    <mainVerb begin="806" end="810">says</mainVerb>
+    <mainReferent begin="800" end="805">Azara</mainReferent>
+    <tokens>as a hat , in which , during autumn , when the spiders die , Azara says the eggs are deposited</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_20" begin="820" end="823">
+    <text>are</text>
+    <mainVerb begin="820" end="823">are</mainVerb>
+    <mainReferent begin="815" end="819">eggs</mainReferent>
+    <tokens>the eggs are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_21" begin="863" end="866">
+    <text>saw</text>
+    <mainVerb begin="863" end="866">saw</mainVerb>
+    <mainReferent begin="861" end="862">I</mainReferent>
+    <tokens>all the spiders I saw</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_22" begin="867" end="871">
+    <text>were</text>
+    <mainVerb begin="867" end="871">were</mainVerb>
+    <mainReferent begin="847" end="854">spiders</mainReferent>
+    <tokens>As all the spiders were of the same size</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_23" begin="906" end="910">
+    <text>been</text>
+    <mainVerb begin="906" end="910">been</mainVerb>
+    <mainReferent begin="890" end="894">they</mainReferent>
+    <tokens>they must have been nearly of the same age</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_24" begin="1013" end="1016">
+    <text>are</text>
+    <mainVerb begin="1013" end="1016">are</mainVerb>
+    <mainReferent begin="975" end="980">genus</mainReferent>
+    <tokens>so typical a genus as Epeira among insects are so solitary</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_25" begin="1071" end="1077">
+    <text>attack</text>
+    <mainVerb begin="1071" end="1077">attack</mainVerb>
+    <mainReferent begin="1065" end="1070">sexes</mainReferent>
+    <tokens>that even the two sexes attack each other</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_26" begin="1090" end="1092">
+    <text>is</text>
+    <mainVerb begin="1090" end="1092">is</mainVerb>
+    <mainReferent begin="951" end="956">habit</mainReferent>
+    <tokens>This gregarious habit in so typical a genus as Epeira , among insects , which are so bloodthirsty and solitary that even the two sexes attack each other is a very singular</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_27" begin="1167" end="1170">
+    <text>SAW</text>
+    <mainVerb begin="1167" end="1170">SAW</mainVerb>
+    <mainReferent begin="1165" end="1166">I</mainReferent>
+    <tokens>WHAT I SAW IN AN ANT 'S NEST ( FROM FACTS AND FICTIONS OF ZOÖLOGY . )</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_28" begin="1292" end="1299">
+    <text>Amongst</text>
+    <mainVerb begin="1292" end="1299">Amongst</mainVerb>
+    <tokens>Amongst those spectacles incidents in human existence</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_29" begin="1356" end="1362">
+    <text>remain</text>
+    <mainVerb begin="1356" end="1362">remain</mainVerb>
+    <mainReferent begin="1321" end="1330">incidents</mainReferent>
+    <tokens>those spectacles incidents in human existence remain</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_30" begin="1364" end="1369">
+    <text>fixed</text>
+    <mainVerb begin="1364" end="1369">fixed</mainVerb>
+    <tokens>fixed on the memory of the spectator from their sad or unwonted nature</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_31" begin="1469" end="1477">
+    <text>gathered</text>
+    <mainVerb begin="1469" end="1477">gathered</mainVerb>
+    <mainReferent begin="1437" end="1441">that</mainReferent>
+    <tokens>gathered the report of some national disaster</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_32" begin="1520" end="1526">
+    <text>stands</text>
+    <mainVerb begin="1520" end="1526">stands</mainVerb>
+    <mainReferent begin="1437" end="1441">that</mainReferent>
+    <tokens>that of a panic-stricken crowd stands pre-eminent</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_33" begin="1576" end="1578">
+    <text>is</text>
+    <mainVerb begin="1576" end="1578">is</mainVerb>
+    <mainReferent begin="1583" end="1590">history</mainReferent>
+    <tokens>Still more terrible in its details is the history of some catastrophe which has laid a city in ruins and wrought death and desolation to thousands of the inhabitants</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_34" begin="1621" end="1625">
+    <text>laid</text>
+    <mainVerb begin="1621" end="1625">laid</mainVerb>
+    <mainReferent begin="1599" end="1610">catastrophe</mainReferent>
+    <tokens>some catastrophe has laid a city in ruins</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_35" begin="1647" end="1654">
+    <text>wrought</text>
+    <mainVerb begin="1647" end="1654">wrought</mainVerb>
+    <mainReferent begin="1599" end="1610">catastrophe</mainReferent>
+    <tokens>some catastrophe wrought death desolation to thousands of the inhabitants</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_36" begin="1798" end="1800">
+    <text>is</text>
+    <mainVerb begin="1798" end="1800">is</mainVerb>
+    <mainReferent begin="1719" end="1727">epidemic</mainReferent>
+    <tokens>A deadly epidemic fatal plague searing a nation with its dread mysterious power is a appalling enough</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_37" begin="1859" end="1869">
+    <text>overthrown</text>
+    <mainVerb begin="1859" end="1869">overthrown</mainVerb>
+    <mainReferent begin="1854" end="1858">city</mainReferent>
+    <tokens>overthrown at one</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_38" begin="1877" end="1881">
+    <text>fell</text>
+    <mainVerb begin="1877" end="1881">fell</mainVerb>
+    <mainReferent begin="1803" end="1811">calamity</mainReferent>
+    <tokens>the spectacle of a city overthrown at one fell</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_39" begin="1925" end="1929">
+    <text>rank</text>
+    <mainVerb begin="1925" end="1929">rank</mainVerb>
+    <mainReferent begin="1882" end="1887">swoop</mainReferent>
+    <tokens>swoop by the earthquake shock may perhaps rank foremost amongst the untoward incidents which environ the sphere of man</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_40" begin="1977" end="1984">
+    <text>environ</text>
+    <mainVerb begin="1977" end="1984">environ</mainVerb>
+    <mainReferent begin="1960" end="1969">incidents</mainReferent>
+    <tokens>the untoward incidents environ the sphere of man</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_41" begin="2021" end="2030">
+    <text>occurring</text>
+    <mainVerb begin="2021" end="2030">occurring</mainVerb>
+    <mainReferent begin="2014" end="2019">event</mainReferent>
+    <tokens>occurring during a recent holiday the sea</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_42" begin="2068" end="2074">
+    <text>tended</text>
+    <mainVerb begin="2068" end="2074">tended</mainVerb>
+    <mainReferent begin="2014" end="2019">event</mainReferent>
+    <tokens>A certain event tended forcibly to impress upon the mind</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_43" begin="2154" end="2161">
+    <text>limited</text>
+    <mainVerb begin="2154" end="2161">limited</mainVerb>
+    <mainReferent begin="2125" end="2137">catastrophes</mainReferent>
+    <tokens>that the great catastrophes of life are not limited to humanity 's special sphere</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_44" begin="2232" end="2236">
+    <text>seem</text>
+    <mainVerb begin="2232" end="2236">seem</mainVerb>
+    <mainReferent begin="2125" end="2137">catastrophes</mainReferent>
+    <tokens>that in lower life panic and alarm seem to exercise no small influence as in man 's estate</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_45" begin="2310" end="2318">
+    <text>referred</text>
+    <mainVerb begin="2310" end="2318">referred</mainVerb>
+    <mainReferent begin="2125" end="2137">catastrophes</mainReferent>
+    <tokens>whilst the incident referred to also afforded food for reflection on topics not far removed from some weighty matters in the history of man 's own nature and constitution</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_46" begin="2375" end="2382">
+    <text>removed</text>
+    <mainVerb begin="2375" end="2382">removed</mainVerb>
+    <mainReferent begin="2360" end="2366">topics</mainReferent>
+    <tokens>not far removed from some weighty matters in the history of man 's own nature and constitution</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_47" begin="2502" end="2507">
+    <text>hoped</text>
+    <mainVerb begin="2502" end="2507">hoped</mainVerb>
+    <mainReferent begin="2485" end="2487">it</mainReferent>
+    <tokens>In this latter view it is especially hoped</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_48" begin="2568" end="2570">
+    <text>be</text>
+    <mainVerb begin="2568" end="2570">be</mainVerb>
+    <mainReferent begin="2512" end="2524">observations</mainReferent>
+    <tokens>the observations of a brief period of leisure-time may not be without their due meed of interest</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_49" begin="2669" end="2675">
+    <text>placed</text>
+    <mainVerb begin="2669" end="2675">placed</mainVerb>
+    <mainReferent begin="2663" end="2668">stone</mainReferent>
+    <tokens>placed in close proximity to the sea-beach , where the bliss of idleness was being fully exemplified by a small party of holiday-makers</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_50" begin="2759" end="2770">
+    <text>exemplified</text>
+    <mainVerb begin="2759" end="2770">exemplified</mainVerb>
+    <mainReferent begin="2724" end="2729">bliss</mainReferent>
+    <tokens>where the bliss of idleness was being fully exemplified a small party of holiday-makers</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_51" begin="2807" end="2813">
+    <text>proved</text>
+    <mainVerb begin="2807" end="2813">proved</mainVerb>
+    <mainReferent begin="2622" end="2629">removal</mainReferent>
+    <tokens>The chance removal from its secure site , of a large stone placed in close proximity to the sea-beach , where the bliss of idleness was being fully exemplified by a small party of holiday-makers , proved on close examination</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_52" begin="2894" end="2901">
+    <text>Imagine</text>
+    <mainVerb begin="2894" end="2901">Imagine</mainVerb>
+    <tokens>Imagine a city</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_53" begin="2933" end="2936">
+    <text>try</text>
+    <mainVerb begin="2933" end="2936">try</mainVerb>
+    <mainReferent begin="2894" end="2901">Imagine</mainReferent>
+    <tokens>try to conceive of the sudden downfall of houses and buildings , and the consequent panic of the inhabitants</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_54" begin="3056" end="3062">
+    <text>obtain</text>
+    <mainVerb begin="3056" end="3062">obtain</mainVerb>
+    <mainReferent begin="3048" end="3051">you</mainReferent>
+    <tokens>you may obtain an idea of the disturbance on simple procedure effected in the peaceable , well-ordered colony of ants which had located themselves securely beneath the friendly shelter of the stone</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_55" begin="3111" end="3119">
+    <text>effected</text>
+    <mainVerb begin="3111" end="3119">effected</mainVerb>
+    <mainReferent begin="3101" end="3110">procedure</mainReferent>
+    <tokens>effected in the peaceable , well-ordered colony of ants which had located themselves securely beneath the friendly shelter of the stone</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_56" begin="3177" end="3184">
+    <text>located</text>
+    <mainVerb begin="3177" end="3184">located</mainVerb>
+    <mainReferent begin="3162" end="3166">ants</mainReferent>
+    <tokens>ants had located themselves securely beneath the friendly shelter of the stone</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_57" begin="3259" end="3268">
+    <text>presented</text>
+    <mainVerb begin="3259" end="3268">presented</mainVerb>
+    <mainReferent begin="3253" end="3258">scene</mainReferent>
+    <tokens>presented to view</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_58" begin="3277" end="3280">
+    <text>was</text>
+    <mainVerb begin="3277" end="3280">was</mainVerb>
+    <mainReferent begin="3253" end="3258">scene</mainReferent>
+    <tokens>The scene was of the most curious and interesting which could engage the attention of an observer in any field of inquiry</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_59" begin="3334" end="3340">
+    <text>engage</text>
+    <mainVerb begin="3334" end="3340">engage</mainVerb>
+    <mainReferent begin="3298" end="3305">curious</mainReferent>
+    <tokens>the most curious interesting could engage the attention of an observer in any field of inquiry</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_60" begin="3426" end="3434">
+    <text>banished</text>
+    <mainVerb begin="3426" end="3434">banished</mainVerb>
+    <mainReferent begin="3253" end="3258">scene</mainReferent>
+    <tokens>the occurrence certainly banished the idle mood of the time</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_61" begin="3466" end="3470">
+    <text>lent</text>
+    <mainVerb begin="3466" end="3470">lent</mainVerb>
+    <mainReferent begin="3404" end="3414">occurrence</mainReferent>
+    <tokens>the occurrence lent a zest to the subsequent hours of our holiday</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_62" begin="3565" end="3569">
+    <text>were</text>
+    <mainVerb begin="3565" end="3569">were</mainVerb>
+    <mainReferent begin="3538" end="3545">thither</mainReferent>
+    <tokens>thither in wild confusion were the of this underground colony</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_63" begin="3634" end="3642">
+    <text>carrying</text>
+    <mainVerb begin="3634" end="3642">carrying</mainVerb>
+    <mainReferent begin="3628" end="3632">legs</mainReferent>
+    <tokens>carrying their curious globular bodies</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_64" begin="3673" end="3681">
+    <text>backward</text>
+    <mainVerb begin="3673" end="3681">backward</mainVerb>
+    <mainReferent begin="3628" end="3632">legs</mainReferent>
+    <tokens>their six little legs backward forward over the disturbed area from which the stone had been removed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_65" begin="3749" end="3756">
+    <text>removed</text>
+    <mainVerb begin="3749" end="3756">removed</mainVerb>
+    <mainReferent begin="3734" end="3739">stone</mainReferent>
+    <tokens>over the disturbed area from which the stone had been removed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_66" begin="3794" end="3798">
+    <text>were</text>
+    <mainVerb begin="3794" end="3798">were</mainVerb>
+    <mainReferent begin="3772" end="3781">movements</mainReferent>
+    <tokens>At first the movements of the ants were extremely purposeless</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_67" begin="3851" end="3859">
+    <text>appeared</text>
+    <mainVerb begin="3851" end="3859">appeared</mainVerb>
+    <mainReferent begin="3845" end="3850">alarm</mainReferent>
+    <tokens>Panic alarm appeared</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_68" begin="3917" end="3924">
+    <text>elapsed</text>
+    <mainVerb begin="3917" end="3924">elapsed</mainVerb>
+    <mainReferent begin="3902" end="3909">minutes</mainReferent>
+    <tokens>the few minutes elapsed after removal of the stone</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_69" begin="3977" end="3984">
+    <text>discern</text>
+    <mainVerb begin="3977" end="3984">discern</mainVerb>
+    <mainReferent begin="3966" end="3969">eye</mainReferent>
+    <tokens>But soon the eye could discern movements of purposive kind on the part of the alarmed residents</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_70" begin="4058" end="4061">
+    <text>was</text>
+    <mainVerb begin="4058" end="4061">was</mainVerb>
+    <mainReferent begin="4074" end="4081">chasing</mainReferent>
+    <tokens>There was " racing chasing " in all directions</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_71" begin="4135" end="4143">
+    <text>radiated</text>
+    <mainVerb begin="4135" end="4143">radiated</mainVerb>
+    <mainReferent begin="4111" end="4115">ants</mainReferent>
+    <tokens>the ants had at first radiated from the centre of disturbance on some definite quest soon</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_72" begin="4212" end="4220">
+    <text>returned</text>
+    <mainVerb begin="4212" end="4220">returned</mainVerb>
+    <mainReferent begin="4063" end="4069">racing</mainReferent>
+    <tokens>the ants returned thereunto</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_73" begin="4236" end="4245">
+    <text>continued</text>
+    <mainVerb begin="4236" end="4245">continued</mainVerb>
+    <mainReferent begin="4111" end="4115">ants</mainReferent>
+    <tokens>the ants continued to advance</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_74" begin="4262" end="4268">
+    <text>retire</text>
+    <mainVerb begin="4262" end="4268">retire</mainVerb>
+    <mainReferent begin="4111" end="4115">ants</mainReferent>
+    <tokens>retire from the field of action with tolerable regularity</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_75" begin="4358" end="4366">
+    <text>appeared</text>
+    <mainVerb begin="4358" end="4366">appeared</mainVerb>
+    <mainReferent begin="4326" end="4330">less</mainReferent>
+    <tokens>Not less than sixty or seventy ants appeared to be engaged in this labor scouring the country around</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_76" begin="4448" end="4456">
+    <text>repeated</text>
+    <mainVerb begin="4448" end="4456">repeated</mainVerb>
+    <tokens>repeated</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_77" begin="4494" end="4504">
+    <text>discovered</text>
+    <mainVerb begin="4494" end="4504">discovered</mainVerb>
+    <mainReferent begin="4432" end="4438">object</mainReferent>
+    <tokens>The object of their repeated journeys in all directions was soon discovered</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_78" begin="4511" end="4515">
+    <text>were</text>
+    <mainVerb begin="4511" end="4515">were</mainVerb>
+    <mainReferent begin="4506" end="4510">They</mainReferent>
+    <tokens>They were the self-appointed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_79" begin="4544" end="4551">
+    <text>engaged</text>
+    <mainVerb begin="4544" end="4551">engaged</mainVerb>
+    <mainReferent begin="4536" end="4542">scouts</mainReferent>
+    <tokens>engaged in the work of reconnoitring</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_80" begin="4597" end="4599">
+    <text>is</text>
+    <mainVerb begin="4597" end="4599">is</mainVerb>
+    <mainReferent begin="4582" end="4586">Such</mainReferent>
+    <tokens>Such at least is a fair of the acts of the ants</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_81" begin="4662" end="4664">
+    <text>is</text>
+    <mainVerb begin="4662" end="4664">is</mainVerb>
+    <mainReferent begin="4651" end="4655">such</mainReferent>
+    <tokens>such also is the</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_82" begin="4680" end="4685">
+    <text>borne</text>
+    <mainVerb begin="4680" end="4685">borne</mainVerb>
+    <mainReferent begin="4669" end="4679">conclusion</mainReferent>
+    <tokens>borne out the subsequent course of events</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_83" begin="4753" end="4758">
+    <text>spent</text>
+    <mainVerb begin="4753" end="4758">spent</mainVerb>
+    <mainReferent begin="4742" end="4748">scouts</mainReferent>
+    <tokens>after the scouts had spent a considerable time in their rapid journeys to the environments of the nest</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_84" begin="4855" end="4863">
+    <text>appeared</text>
+    <mainVerb begin="4855" end="4863">appeared</mainVerb>
+    <mainReferent begin="4843" end="4846">set</mainReferent>
+    <tokens>For a new set of ants appeared upon the scene</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_65.txt_85" begin="4881" end="4889">
+    <text>destined</text>
+    <mainVerb begin="4881" end="4889">destined</mainVerb>
+    <mainReferent begin="4855" end="4863">appeared</mainReferent>
+    <tokens>destined to perform a highly important series of labors</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+</document>

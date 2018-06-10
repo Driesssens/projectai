@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="animal_heroes_61.txt_1" begin="6" end="8">
+    <text>is</text>
+    <mainVerb begin="6" end="8">is</mainVerb>
+    <tokens>There is then but one remaining bond to chain him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_2" begin="75" end="80">
+    <text>claim</text>
+    <mainVerb begin="75" end="80">claim</mainVerb>
+    <mainReferent begin="32" end="36">bond</mainReferent>
+    <tokens>that the strongest claim</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_3" begin="99" end="102">
+    <text>own</text>
+    <mainVerb begin="99" end="102">own</mainVerb>
+    <mainReferent begin="86" end="94">anything</mainReferent>
+    <tokens>that anything can own the mightiest force on earth</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_4" begin="149" end="153">
+    <text>gone</text>
+    <mainVerb begin="149" end="153">gone</mainVerb>
+    <mainReferent begin="141" end="145">Wolf</mainReferent>
+    <tokens>The Wolf is gone</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_5" begin="181" end="185">
+    <text>lost</text>
+    <mainVerb begin="181" end="185">lost</mainVerb>
+    <mainReferent begin="164" end="169">relic</mainReferent>
+    <tokens>The last relic of him was lost in the burning Grammar School</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_6" begin="268" end="273">
+    <text>avers</text>
+    <mainVerb begin="268" end="273">avers</mainVerb>
+    <mainReferent begin="164" end="169">relic</mainReferent>
+    <tokens>to this day the sexton of St. Boniface Church avers</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_7" begin="320" end="325">
+    <text>fails</text>
+    <mainVerb begin="320" end="325">fails</mainVerb>
+    <mainReferent begin="292" end="296">bell</mainReferent>
+    <tokens>that the tolling bell on Christmas Eve never fails to provoke that weird melancholy Wolf-cry from the wooded graveyard a hundred steps away</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_8" begin="433" end="437">
+    <text>laid</text>
+    <mainVerb begin="433" end="437">laid</mainVerb>
+    <mainReferent begin="428" end="432">they</mainReferent>
+    <tokens>where they laid his Little Jim the only being on earth</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_9" begin="488" end="491">
+    <text>met</text>
+    <mainVerb begin="488" end="491">met</mainVerb>
+    <mainReferent begin="449" end="452">Jim</mainReferent>
+    <tokens>his Little Jim the only being on earth ever met him with the touch of love</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_10" begin="595" end="600">
+    <text>Skoal</text>
+    <mainVerb begin="595" end="600">Skoal</mainVerb>
+    <mainReferent begin="588" end="594">Norway</mainReferent>
+    <tokens>For Norway Skoal</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_11" begin="610" end="612">
+    <text>ye</text>
+    <mainVerb begin="610" end="612">ye</mainVerb>
+    <mainReferent begin="605" end="609">Sing</mainReferent>
+    <tokens>Sing ye the song of the Vand-dam troll</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_12" begin="658" end="664">
+    <text>hiding</text>
+    <mainVerb begin="658" end="664">hiding</mainVerb>
+    <mainReferent begin="653" end="654">I</mainReferent>
+    <tokens>When I am hiding Norway luck On a White Storbuk</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_13" begin="707" end="712">
+    <text>Comes</text>
+    <mainVerb begin="707" end="712">Comes</mainVerb>
+    <mainReferent begin="658" end="664">hiding</mainReferent>
+    <tokens>Comes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_14" begin="713" end="719">
+    <text>riding</text>
+    <mainVerb begin="713" end="719">riding</mainVerb>
+    <tokens>riding</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_15" begin="721" end="727">
+    <text>riding</text>
+    <mainVerb begin="721" end="727">riding</mainVerb>
+    <tokens>riding</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_16" begin="763" end="765">
+    <text>is</text>
+    <mainVerb begin="763" end="765">is</mainVerb>
+    <mainReferent begin="758" end="762">cold</mainReferent>
+    <tokens>cold is a long pocket of glacial water a crack in the globe a wrinkle in the high Norwegian mountains three thousand feet above its Mother Sea yet no closer to its Father Sun</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_17" begin="875" end="882">
+    <text>blocked</text>
+    <mainVerb begin="875" end="882">blocked</mainVerb>
+    <mainReferent begin="833" end="840">wrinkle</mainReferent>
+    <tokens>blocked with another mountain</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_18" begin="910" end="917">
+    <text>flooded</text>
+    <mainVerb begin="910" end="917">flooded</mainVerb>
+    <mainReferent begin="833" end="840">wrinkle</mainReferent>
+    <tokens>flooded with a frigid flood</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_19" begin="1049" end="1051">
+    <text>is</text>
+    <mainVerb begin="1049" end="1051">is</mainVerb>
+    <mainReferent begin="1043" end="1048">shore</mainReferent>
+    <tokens>Around its cheerless shore is a of stunted trees , that sends a long tail up the high valley , till it dwindles away to sticks and moss , as it also does some half-way up the granite hills that rise a thousand feet , encompassing the lake</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_20" begin="1082" end="1087">
+    <text>sends</text>
+    <mainVerb begin="1082" end="1087">sends</mainVerb>
+    <mainReferent begin="1070" end="1075">trees</mainReferent>
+    <tokens>stunted trees sends a long tail up the high valley</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_21" begin="1129" end="1137">
+    <text>dwindles</text>
+    <mainVerb begin="1129" end="1137">dwindles</mainVerb>
+    <mainReferent begin="1126" end="1128">it</mainReferent>
+    <tokens>till it dwindles away to sticks and moss</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_22" begin="1175" end="1179">
+    <text>does</text>
+    <mainVerb begin="1175" end="1179">does</mainVerb>
+    <mainReferent begin="1167" end="1169">it</mainReferent>
+    <tokens>as it also does some half-way up the granite hills that rise a thousand feet , encompassing the lake</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_23" begin="1220" end="1224">
+    <text>rise</text>
+    <mainVerb begin="1220" end="1224">rise</mainVerb>
+    <mainReferent begin="1209" end="1214">hills</mainReferent>
+    <tokens>the granite hills rise a thousand feet</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_24" begin="1243" end="1255">
+    <text>encompassing</text>
+    <mainVerb begin="1243" end="1255">encompassing</mainVerb>
+    <mainReferent begin="1209" end="1214">hills</mainReferent>
+    <tokens>encompassing the lake</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_25" begin="1271" end="1273">
+    <text>is</text>
+    <mainVerb begin="1271" end="1273">is</mainVerb>
+    <mainReferent begin="1266" end="1270">This</mainReferent>
+    <tokens>This is the of trees the end of the growth of wood</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_26" begin="1347" end="1350">
+    <text>are</text>
+    <mainVerb begin="1347" end="1350">are</mainVerb>
+    <mainReferent begin="1330" end="1335">birch</mainReferent>
+    <tokens>The birch willow are the to drop of the long fight with frost</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_27" begin="1428" end="1431">
+    <text>are</text>
+    <mainVerb begin="1428" end="1431">are</mainVerb>
+    <mainReferent begin="1419" end="1427">thickets</mainReferent>
+    <tokens>Their miniature thickets are with the cries of Fieldfare , Pipit , and Ptarmigan</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_28" begin="1504" end="1508">
+    <text>left</text>
+    <mainVerb begin="1504" end="1508">left</mainVerb>
+    <mainReferent begin="1419" end="1427">thickets</mainReferent>
+    <tokens>these are left behind nearing the upper plateau</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_29" begin="1585" end="1588">
+    <text>are</text>
+    <mainVerb begin="1585" end="1588">are</mainVerb>
+    <mainReferent begin="1553" end="1558">shade</mainReferent>
+    <tokens>where shade of rock and sough of wind are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_30" begin="1599" end="1603">
+    <text>take</text>
+    <mainVerb begin="1599" end="1603">take</mainVerb>
+    <mainReferent begin="1538" end="1545">plateau</mainReferent>
+    <tokens>the upper plateau take their place</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_31" begin="1637" end="1642">
+    <text>rolls</text>
+    <mainVerb begin="1637" end="1642">rolls</mainVerb>
+    <mainReferent begin="1628" end="1636">Hoifjeld</mainReferent>
+    <tokens>The chilly Hoifjeld rolls away a rugged rocky plain with great patches of snow in all the deeper hollows</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_32" begin="1745" end="1752">
+    <text>blocked</text>
+    <mainVerb begin="1745" end="1752">blocked</mainVerb>
+    <mainReferent begin="1628" end="1636">Hoifjeld</mainReferent>
+    <tokens>the distance blocked by snowy peaks</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_33" begin="1843" end="1850">
+    <text>uplifts</text>
+    <mainVerb begin="1843" end="1850">uplifts</mainVerb>
+    <mainReferent begin="1782" end="1786">roll</mainReferent>
+    <tokens>that rise roll whiter gleam till dim dazzling in the north uplifts the Jotunheim the home of spirits of glaciers the lasting snow</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_34" begin="1950" end="1952">
+    <text>is</text>
+    <mainVerb begin="1950" end="1952">is</mainVerb>
+    <mainReferent begin="1942" end="1949">stretch</mainReferent>
+    <tokens>The treeless stretch is one vast to the force of heat</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_35" begin="2033" end="2039">
+    <text>marked</text>
+    <mainVerb begin="2033" end="2039">marked</mainVerb>
+    <mainReferent begin="1997" end="2004">failure</mainReferent>
+    <tokens>Each failure of the sun by one degree is marked a lower realm of life</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_36" begin="2101" end="2103">
+    <text>is</text>
+    <mainVerb begin="2101" end="2103">is</mainVerb>
+    <mainReferent begin="2104" end="2108">less</mainReferent>
+    <tokens>The northern slope of each hollow is less than its southern side</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_37" begin="2166" end="2171">
+    <text>given</text>
+    <mainVerb begin="2166" end="2171">given</mainVerb>
+    <mainReferent begin="2154" end="2160">spruce</mainReferent>
+    <tokens>The pine spruce have given out long ago</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_38" begin="2204" end="2208">
+    <text>went</text>
+    <mainVerb begin="2204" end="2208">went</mainVerb>
+    <mainReferent begin="2190" end="2202">mountain-ash</mainReferent>
+    <tokens>the mountain-ash went next</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_39" begin="2236" end="2243">
+    <text>climbed</text>
+    <mainVerb begin="2236" end="2243">climbed</mainVerb>
+    <mainReferent begin="2229" end="2235">willow</mainReferent>
+    <tokens>the birch willow climbed up half the slope</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_40" begin="2278" end="2283">
+    <text>grows</text>
+    <mainVerb begin="2278" end="2283">grows</mainVerb>
+    <mainReferent begin="2270" end="2277">nothing</mainReferent>
+    <tokens>Here nothing grows creeping plants moss</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_41" begin="2331" end="2333">
+    <text>is</text>
+    <mainVerb begin="2331" end="2333">is</mainVerb>
+    <mainReferent begin="2324" end="2330">itself</mainReferent>
+    <tokens>itself is grayish green one vast expanse of reindeer-moss</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_42" begin="2394" end="2400">
+    <text>warmed</text>
+    <mainVerb begin="2394" end="2400">warmed</mainVerb>
+    <tokens>warmed at spots into orange by great beds of polytrichum , and , in sunnier nooks ,</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_43" begin="2477" end="2485">
+    <text>deepened</text>
+    <mainVerb begin="2477" end="2485">deepened</mainVerb>
+    <mainReferent begin="2318" end="2323">plain</mainReferent>
+    <tokens>The plain deepened to a herbal green</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_44" begin="2524" end="2533">
+    <text>scattered</text>
+    <mainVerb begin="2524" end="2533">scattered</mainVerb>
+    <mainReferent begin="2509" end="2514">rocks</mainReferent>
+    <tokens>The rocks are scattered everywhere</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_45" begin="2545" end="2548">
+    <text>are</text>
+    <mainVerb begin="2545" end="2548">are</mainVerb>
+    <mainReferent begin="2509" end="2514">rocks</mainReferent>
+    <tokens>The rocks are of a delicate lilac</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_46" begin="2583" end="2593">
+    <text>variegated</text>
+    <mainVerb begin="2583" end="2593">variegated</mainVerb>
+    <mainReferent begin="2509" end="2514">rocks</mainReferent>
+    <tokens>each is variegated spreading frill-edged plasters of gray-green lichen or orange powder-streaks and beauty-spots of black</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_47" begin="2717" end="2721">
+    <text>have</text>
+    <mainVerb begin="2717" end="2721">have</mainVerb>
+    <mainReferent begin="2711" end="2716">rocks</mainReferent>
+    <tokens>These rocks have great power to hold the heat</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_48" begin="2777" end="2787">
+    <text>surrounded</text>
+    <mainVerb begin="2777" end="2787">surrounded</mainVerb>
+    <mainReferent begin="2760" end="2764">each</mainReferent>
+    <tokens>so that each of them is surrounded a little belt of heat-loving plants</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_49" begin="2853" end="2857">
+    <text>live</text>
+    <mainVerb begin="2853" end="2857">live</mainVerb>
+    <mainReferent begin="2800" end="2804">belt</mainReferent>
+    <tokens>a little belt of heat-loving plants could not otherwise live so high</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_50" begin="2921" end="2924">
+    <text>are</text>
+    <mainVerb begin="2921" end="2924">are</mainVerb>
+    <mainReferent begin="2875" end="2890">representatives</mainReferent>
+    <tokens>Dwarfed representatives of the birch and willow both are here</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_51" begin="2931" end="2938">
+    <text>hugging</text>
+    <mainVerb begin="2931" end="2938">hugging</mainVerb>
+    <tokens>hugging the genial rock</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_52" begin="2983" end="2987">
+    <text>hugs</text>
+    <mainVerb begin="2983" end="2987">hugs</mainVerb>
+    <mainReferent begin="2974" end="2982">habitant</mainReferent>
+    <tokens>as an old French habitant hugs his stove in winter-time</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_53" begin="3014" end="3023">
+    <text>spreading</text>
+    <mainVerb begin="3014" end="3023">spreading</mainVerb>
+    <mainReferent begin="2974" end="2982">habitant</mainReferent>
+    <tokens>spreading their branches over it in the frigid air</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_54" begin="3094" end="3098">
+    <text>seen</text>
+    <mainVerb begin="3094" end="3098">seen</mainVerb>
+    <mainReferent begin="3081" end="3085">foot</mainReferent>
+    <tokens>A foot away is seen a chillier belt of heath</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_55" begin="3171" end="3175">
+    <text>grow</text>
+    <mainVerb begin="3171" end="3175">grow</mainVerb>
+    <mainReferent begin="3157" end="3161">none</mainReferent>
+    <tokens>where none else can grow</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_56" begin="3177" end="3179">
+    <text>is</text>
+    <mainVerb begin="3177" end="3179">is</mainVerb>
+    <mainReferent begin="3143" end="3149">colder</mainReferent>
+    <tokens>farther off colder is the omnipresent gray-green</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_57" begin="3227" end="3232">
+    <text>gives</text>
+    <mainVerb begin="3227" end="3232">gives</mainVerb>
+    <mainReferent begin="3208" end="3221">reindeer-moss</mainReferent>
+    <tokens>gives its color to the upland</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_58" begin="3281" end="3287">
+    <text>filled</text>
+    <mainVerb begin="3281" end="3287">filled</mainVerb>
+    <mainReferent begin="3263" end="3270">hollows</mainReferent>
+    <tokens>The hollows are still filled with snow</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_59" begin="3313" end="3315">
+    <text>is</text>
+    <mainVerb begin="3313" end="3315">is</mainVerb>
+    <mainReferent begin="3310" end="3312">it</mainReferent>
+    <tokens>though now it is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_60" begin="3359" end="3368">
+    <text>shrinking</text>
+    <mainVerb begin="3359" end="3368">shrinking</mainVerb>
+    <mainReferent begin="3327" end="3331">each</mainReferent>
+    <tokens>But each of these white expanses is shrinking</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_61" begin="3370" end="3378">
+    <text>spending</text>
+    <mainVerb begin="3370" end="3378">spending</mainVerb>
+    <mainReferent begin="3327" end="3331">each</mainReferent>
+    <tokens>spending itself in ice-cold streams that somehow reach the lake</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_62" begin="3420" end="3425">
+    <text>reach</text>
+    <mainVerb begin="3420" end="3425">reach</mainVerb>
+    <mainReferent begin="3399" end="3406">streams</mainReferent>
+    <tokens>ice-cold streams somehow reach the lake</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_63" begin="3452" end="3456">
+    <text>show</text>
+    <mainVerb begin="3452" end="3456">show</mainVerb>
+    <mainReferent begin="3442" end="3451">snö-flaks</mainReferent>
+    <tokens>These snö-flaks show no sign of life not even red-snow tinge</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_64" begin="3484" end="3487">
+    <text>the</text>
+    <mainVerb begin="3484" end="3487">the</mainVerb>
+    <mainReferent begin="3488" end="3489">'</mainReferent>
+    <tokens>the</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_65" begin="3522" end="3524">
+    <text>is</text>
+    <mainVerb begin="3522" end="3524">is</mainVerb>
+    <mainReferent begin="3517" end="3521">each</mainReferent>
+    <tokens>around each is a of barren earth to testify</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_66" begin="3595" end="3603">
+    <text>divorced</text>
+    <mainVerb begin="3595" end="3603">divorced</mainVerb>
+    <mainReferent begin="3575" end="3581">warmth</mainReferent>
+    <tokens>that life warmth can never be divorced</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_67" begin="3662" end="3669">
+    <text>extends</text>
+    <mainVerb begin="3662" end="3669">extends</mainVerb>
+    <mainReferent begin="3656" end="3661">waste</mainReferent>
+    <tokens>Birdless lifeless the gray-green snow-pied waste extends over all the stretch</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_68" begin="3697" end="3699">
+    <text>is</text>
+    <mainVerb begin="3697" end="3699">is</mainVerb>
+    <mainReferent begin="3684" end="3691">stretch</mainReferent>
+    <tokens>all the stretch is here between the timber-line and the snow-line , above which winter never quits its hold</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_69" begin="3774" end="3779">
+    <text>quits</text>
+    <mainVerb begin="3774" end="3779">quits</mainVerb>
+    <mainReferent begin="3761" end="3767">winter</mainReferent>
+    <tokens>between the timber-line and the snow-line , above which winter never quits its hold</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_70" begin="3809" end="3813">
+    <text>come</text>
+    <mainVerb begin="3809" end="3813">come</mainVerb>
+    <mainReferent begin="3790" end="3797">Farther</mainReferent>
+    <tokens>Farther north both come lower</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_71" begin="3843" end="3845">
+    <text>is</text>
+    <mainVerb begin="3843" end="3845">is</mainVerb>
+    <mainReferent begin="3831" end="3842">timber-line</mainReferent>
+    <tokens>till the timber-line is at the level of the sea</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_72" begin="3888" end="3890">
+    <text>is</text>
+    <mainVerb begin="3888" end="3890">is</mainVerb>
+    <mainReferent begin="3790" end="3797">Farther</mainReferent>
+    <tokens>all the land is in that treeless belt called Tundra in the Old World , and Barrens in the New , and that everywhere is the Home of the Reindeer -- the Realm of the Reindeer-moss</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_73" begin="3914" end="3920">
+    <text>called</text>
+    <mainVerb begin="3914" end="3920">called</mainVerb>
+    <mainReferent begin="4024" end="4029">Realm</mainReferent>
+    <tokens>that treeless belt called Tundra in the Old World , and Barrens in the New</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_74" begin="3991" end="3993">
+    <text>is</text>
+    <mainVerb begin="3991" end="3993">is</mainVerb>
+    <mainReferent begin="3980" end="3990">everywhere</mainReferent>
+    <tokens>that everywhere is the of the Reindeer</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_75" begin="4077" end="4081">
+    <text>flew</text>
+    <mainVerb begin="4077" end="4081">flew</mainVerb>
+    <mainReferent begin="4074" end="4076">it</mainReferent>
+    <tokens>it flew in out over the water</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_76" begin="4177" end="4183">
+    <text>walked</text>
+    <mainVerb begin="4177" end="4183">walked</mainVerb>
+    <mainReferent begin="4058" end="4059">I</mainReferent>
+    <tokens>as the Varsimle the leader doe of the Reindeer herd walked past on the vernal banks</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="animal_heroes_61.txt_77" begin="4218" end="4222">
+    <text>sang</text>
+    <mainVerb begin="4218" end="4222">sang</mainVerb>
+    <mainReferent begin="4129" end="4137">Varsimle</mainReferent>
+    <tokens>it sang</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+</document>

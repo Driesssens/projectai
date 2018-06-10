@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="a_book_of_natural_history_80.txt_1" begin="38" end="43">
+    <text>sleep</text>
+    <mainVerb begin="38" end="43">sleep</mainVerb>
+    <mainReferent begin="11" end="15">Bats</mainReferent>
+    <tokens>The common Bats like the Fruit Bats sleep</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_2" begin="62" end="70">
+    <text>consider</text>
+    <mainVerb begin="62" end="70">consider</mainVerb>
+    <mainReferent begin="11" end="15">Bats</mainReferent>
+    <tokens>what we should consider an exceedingly uncomfortable position namely with their heads downwards</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_3" begin="157" end="162">
+    <text>cling</text>
+    <mainVerb begin="157" end="162">cling</mainVerb>
+    <mainReferent begin="11" end="15">Bats</mainReferent>
+    <tokens>they cling by the claws of _ both _ hind feet to the small irregularities of the stone or wood forming the walls and other parts of the structure of their retreat</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_4" begin="246" end="253">
+    <text>forming</text>
+    <mainVerb begin="246" end="253">forming</mainVerb>
+    <mainReferent begin="232" end="237">stone</mainReferent>
+    <tokens>forming the walls other parts of the structure of their retreat</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_5" begin="321" end="329">
+    <text>frequent</text>
+    <mainVerb begin="321" end="329">frequent</mainVerb>
+    <mainReferent begin="316" end="320">They</mainReferent>
+    <tokens>They frequent the same places year after year so</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_6" begin="384" end="387">
+    <text>are</text>
+    <mainVerb begin="384" end="387">are</mainVerb>
+    <mainReferent begin="379" end="383">they</mainReferent>
+    <tokens>where they are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_7" begin="430" end="437">
+    <text>covered</text>
+    <mainVerb begin="430" end="437">covered</mainVerb>
+    <mainReferent begin="367" end="371">that</mainReferent>
+    <tokens>that the ground is often completely covered</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_8" begin="442" end="452">
+    <text>discolored</text>
+    <mainVerb begin="442" end="452">discolored</mainVerb>
+    <mainReferent begin="367" end="371">that</mainReferent>
+    <tokens>that discolored with their excrements , which in some cases accumulate in course of time to such an amount as to have given rise to the notion of carrying it away to be used as guano</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_9" begin="497" end="507">
+    <text>accumulate</text>
+    <mainVerb begin="497" end="507">accumulate</mainVerb>
+    <mainReferent begin="464" end="474">excrements</mainReferent>
+    <tokens>their excrements in some cases accumulate in course of time to such an amount as to have given rise to the notion of carrying it away to be used as guano</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_10" begin="669" end="678">
+    <text>mentioned</text>
+    <mainVerb begin="669" end="678">mentioned</mainVerb>
+    <mainReferent begin="656" end="660">Bats</mainReferent>
+    <tokens>The little blood-sucking Vampire Bats already mentioned</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_11" begin="679" end="683">
+    <text>take</text>
+    <mainVerb begin="679" end="683">take</mainVerb>
+    <tokens>take up their abode in caverns</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_12" begin="746" end="754">
+    <text>observed</text>
+    <mainVerb begin="746" end="754">observed</mainVerb>
+    <mainReferent begin="734" end="740">Hensel</mainReferent>
+    <tokens>Dr. Hensel observed their habits</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_13" begin="775" end="784">
+    <text>discharge</text>
+    <mainVerb begin="775" end="784">discharge</mainVerb>
+    <mainReferent begin="656" end="660">Bats</mainReferent>
+    <tokens>to Dr. Hensel they discharge their excrements pasty near the entrance of the cave just starting on their evening flight</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_14" begin="809" end="812">
+    <text>are</text>
+    <mainVerb begin="809" end="812">are</mainVerb>
+    <mainReferent begin="791" end="801">excrements</mainReferent>
+    <tokens>their excrements are pasty near the entrance of the cave</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_15" begin="938" end="943">
+    <text>forms</text>
+    <mainVerb begin="938" end="943">forms</mainVerb>
+    <mainReferent begin="656" end="660">Bats</mainReferent>
+    <tokens>this substance by degrees forms quite a thick layer ( one foot more ) on the floor of the cavern</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_16" begin="1023" end="1027">
+    <text>says</text>
+    <mainVerb begin="1023" end="1027">says</mainVerb>
+    <mainReferent begin="1016" end="1022">Doctor</mainReferent>
+    <tokens>The Doctor says</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_17" begin="1056" end="1060">
+    <text>paid</text>
+    <mainVerb begin="1056" end="1060">paid</mainVerb>
+    <mainReferent begin="1041" end="1044">dog</mainReferent>
+    <tokens>a large dog had paid a visit of curiosity to one of these caves</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_18" begin="1104" end="1108">
+    <text>came</text>
+    <mainVerb begin="1104" end="1108">came</mainVerb>
+    <mainReferent begin="1041" end="1044">dog</mainReferent>
+    <tokens>that a large dog came out again</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_19" begin="1119" end="1126">
+    <text>looking</text>
+    <mainVerb begin="1119" end="1126">looking</mainVerb>
+    <tokens>looking</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_20" begin="1141" end="1144">
+    <text>got</text>
+    <mainVerb begin="1141" end="1144">got</mainVerb>
+    <mainReferent begin="1134" end="1136">he</mainReferent>
+    <tokens>as if he had got long black boots on</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_21" begin="1243" end="1245">
+    <text>is</text>
+    <mainVerb begin="1243" end="1245">is</mainVerb>
+    <mainReferent begin="1227" end="1233">supply</mainReferent>
+    <tokens>where their supply of food is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_22" begin="1288" end="1293">
+    <text>known</text>
+    <mainVerb begin="1288" end="1293">known</mainVerb>
+    <mainReferent begin="1260" end="1268">activity</mainReferent>
+    <tokens>In the warmer regions of the earth 's surface , where their supply of food is constant the activity of the Bats is not known to have any intermission</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_23" begin="1362" end="1366">
+    <text>pass</text>
+    <mainVerb begin="1362" end="1366">pass</mainVerb>
+    <mainReferent begin="1260" end="1268">activity</mainReferent>
+    <tokens>in cold and temperate countries they pass the winter season in a state of torpidity</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_24" begin="1453" end="1459">
+    <text>called</text>
+    <mainVerb begin="1453" end="1459">called</mainVerb>
+    <mainReferent begin="1461" end="1467">varies</mainReferent>
+    <tokens>as it is called</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_25" begin="1461" end="1467">
+    <text>varies</text>
+    <mainVerb begin="1461" end="1467">varies</mainVerb>
+    <mainReferent begin="1415" end="1421">period</mainReferent>
+    <tokens>The period of this hibernation varies somewhat in the different species</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_26" begin="1520" end="1523">
+    <text>are</text>
+    <mainVerb begin="1520" end="1523">are</mainVerb>
+    <mainReferent begin="1415" end="1421">period</mainReferent>
+    <tokens>few of them are to be seen</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_27" begin="1535" end="1541">
+    <text>flying</text>
+    <mainVerb begin="1535" end="1541">flying</mainVerb>
+    <tokens>flying about</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_28" begin="1573" end="1575">
+    <text>is</text>
+    <mainVerb begin="1573" end="1575">is</mainVerb>
+    <mainReferent begin="1565" end="1572">weather</mainReferent>
+    <tokens>when the weather is decidedly</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_29" begin="1652" end="1655">
+    <text>has</text>
+    <mainVerb begin="1652" end="1655">has</mainVerb>
+    <mainReferent begin="1597" end="1606">commonest</mainReferent>
+    <tokens>The commonest of all our British species the Pipistrelle has a shorter winter sleep than any of its companions</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_30" begin="1719" end="1724">
+    <text>makes</text>
+    <mainVerb begin="1719" end="1724">makes</mainVerb>
+    <mainReferent begin="1708" end="1710">it</mainReferent>
+    <tokens>it usually makes its appearance on the wing by the middle of March</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_31" begin="1781" end="1790">
+    <text>continues</text>
+    <mainVerb begin="1781" end="1790">continues</mainVerb>
+    <mainReferent begin="1708" end="1710">it</mainReferent>
+    <tokens>it continues active until quite late in the year</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_32" begin="1851" end="1859">
+    <text>recorded</text>
+    <mainVerb begin="1851" end="1859">recorded</mainVerb>
+    <mainReferent begin="1841" end="1846">Gould</mainReferent>
+    <tokens>in fact Mr. Gould has recorded the fact of his</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_33" begin="1884" end="1888">
+    <text>shot</text>
+    <mainVerb begin="1884" end="1888">shot</mainVerb>
+    <mainReferent begin="1864" end="1868">fact</mainReferent>
+    <tokens>the fact of his having shot a specimen of it on a warm sunny day just before Christmas</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_34" begin="1990" end="1996">
+    <text>retire</text>
+    <mainVerb begin="1990" end="1996">retire</mainVerb>
+    <mainReferent begin="1985" end="1989">Bats</mainReferent>
+    <tokens>For the purpose of hibernation the Bats retire to their usual resting-places</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_35" begin="2117" end="2121">
+    <text>pack</text>
+    <mainVerb begin="2117" end="2121">pack</mainVerb>
+    <mainReferent begin="1985" end="1989">Bats</mainReferent>
+    <tokens>the Bats frequently suspending themselves by their hind feet when sleeping pack themselves away in small parties in holes and crevices an arrangement</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_36" begin="2209" end="2218">
+    <text>furnishes</text>
+    <mainVerb begin="2209" end="2218">furnishes</mainVerb>
+    <mainReferent begin="2182" end="2193">arrangement</mainReferent>
+    <tokens>an arrangement probably furnishes a better protection against the inclemency of the season</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_37" begin="2284" end="2286">
+    <text>is</text>
+    <mainVerb begin="2284" end="2286">is</mainVerb>
+    <mainReferent begin="2281" end="2283">It</mainReferent>
+    <tokens>It is probably in the dormitory</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_38" begin="2346" end="2351">
+    <text>takes</text>
+    <mainVerb begin="2346" end="2351">takes</mainVerb>
+    <mainReferent begin="2322" end="2327">birth</mainReferent>
+    <tokens>that the birth of the young bats takes place</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_39" begin="2383" end="2387">
+    <text>know</text>
+    <mainVerb begin="2383" end="2387">know</mainVerb>
+    <mainReferent begin="2380" end="2382">we</mainReferent>
+    <tokens>so far as we know</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_40" begin="2404" end="2412">
+    <text>affected</text>
+    <mainVerb begin="2404" end="2412">affected</mainVerb>
+    <mainReferent begin="2393" end="2400">process</mainReferent>
+    <tokens>at least the process is affected in a manner which must preclude active exertions on the part of the mother for some little time</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_41" begin="2437" end="2445">
+    <text>preclude</text>
+    <mainVerb begin="2437" end="2445">preclude</mainVerb>
+    <mainReferent begin="2419" end="2425">manner</mainReferent>
+    <tokens>a manner must preclude active exertions on the part of the mother for some little time</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_42" begin="2565" end="2575">
+    <text>acquainted</text>
+    <mainVerb begin="2565" end="2575">acquainted</mainVerb>
+    <mainReferent begin="2557" end="2559">we</mainReferent>
+    <tokens>of the operation with which we are acquainted</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_43" begin="2576" end="2578">
+    <text>is</text>
+    <mainVerb begin="2576" end="2578">is</mainVerb>
+    <mainReferent begin="2521" end="2528">account</mainReferent>
+    <tokens>The best account of the operation with which we are acquainted is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_44" begin="2584" end="2589">
+    <text>given</text>
+    <mainVerb begin="2584" end="2589">given</mainVerb>
+    <tokens>given</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_45" begin="2641" end="2645">
+    <text>read</text>
+    <mainVerb begin="2641" end="2645">read</mainVerb>
+    <mainReferent begin="2596" end="2601">years</mainReferent>
+    <tokens>ago by Mr. George Daniell , in a paper read before the Zoölogical Society , in which he described the habits of some Noctules</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_46" begin="2689" end="2698">
+    <text>described</text>
+    <mainVerb begin="2689" end="2698">described</mainVerb>
+    <mainReferent begin="2686" end="2688">he</mainReferent>
+    <tokens>before the Zoölogical Society , in which he described the habits of some Noctules</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_47" begin="2728" end="2732">
+    <text>kept</text>
+    <mainVerb begin="2728" end="2732">kept</mainVerb>
+    <mainReferent begin="2596" end="2601">years</mainReferent>
+    <tokens>that fifty years kept by him in captivity</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_48" begin="2772" end="2776">
+    <text>died</text>
+    <mainVerb begin="2772" end="2776">died</mainVerb>
+    <mainReferent begin="2754" end="2758">Four</mainReferent>
+    <tokens>Four out of five died</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_49" begin="2810" end="2818">
+    <text>observed</text>
+    <mainVerb begin="2810" end="2818">observed</mainVerb>
+    <mainReferent begin="2754" end="2758">Four</mainReferent>
+    <tokens>the survivor a female was observed on 23d June to become very restless to continue so for about an hour</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_50" begin="2911" end="2920">
+    <text>suspended</text>
+    <mainVerb begin="2911" end="2920">suspended</mainVerb>
+    <tokens>although still suspended by the hind limbs in the attitude of repose</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_51" begin="3012" end="3020">
+    <text>reversed</text>
+    <mainVerb begin="3012" end="3020">reversed</mainVerb>
+    <mainReferent begin="3008" end="3011">she</mainReferent>
+    <tokens>" Suddenly " to use Mr. Daniell words " she reversed her position</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_52" begin="3039" end="3047">
+    <text>attached</text>
+    <mainVerb begin="3039" end="3047">attached</mainVerb>
+    <mainReferent begin="3008" end="3011">she</mainReferent>
+    <tokens>she attached herself by her anterior limbs to a cross wire of the cage</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_53" begin="3108" end="3118">
+    <text>stretching</text>
+    <mainVerb begin="3108" end="3118">stretching</mainVerb>
+    <mainReferent begin="3008" end="3011">she</mainReferent>
+    <tokens>she stretching her hind limbs to their utmost extent</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_54" begin="3159" end="3166">
+    <text>curving</text>
+    <mainVerb begin="3159" end="3166">curving</mainVerb>
+    <mainReferent begin="3008" end="3011">she</mainReferent>
+    <tokens>curving the tail upwards</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_55" begin="3190" end="3199">
+    <text>expanding</text>
+    <mainVerb begin="3190" end="3199">expanding</mainVerb>
+    <mainReferent begin="3008" end="3011">she</mainReferent>
+    <tokens>expanding the interfemoral membrane so as to form a perfect nestlike cavity for the reception of the young perfectly destitute of hair blind</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_56" begin="3313" end="3317">
+    <text>born</text>
+    <mainVerb begin="3313" end="3317">born</mainVerb>
+    <mainReferent begin="3261" end="3267">cavity</mainReferent>
+    <tokens>a perfect nestlike cavity for the reception of the young was born on its back</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_57" begin="3388" end="3395">
+    <text>cleaned</text>
+    <mainVerb begin="3388" end="3395">cleaned</mainVerb>
+    <mainReferent begin="3376" end="3382">mother</mainReferent>
+    <tokens>The mother then cleaned it</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_58" begin="3401" end="3408">
+    <text>turning</text>
+    <mainVerb begin="3401" end="3408">turning</mainVerb>
+    <mainReferent begin="3376" end="3382">mother</mainReferent>
+    <tokens>turning it over in its nest</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_59" begin="3476" end="3482">
+    <text>placed</text>
+    <mainVerb begin="3476" end="3482">placed</mainVerb>
+    <mainReferent begin="3376" end="3382">mother</mainReferent>
+    <tokens>The mother afterwards resuming her usual position placed the young in the membrane of her wing</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_60" begin="3532" end="3539">
+    <text>cleaned</text>
+    <mainVerb begin="3532" end="3539">cleaned</mainVerb>
+    <mainReferent begin="3522" end="3525">She</mainReferent>
+    <tokens>She next cleaned herself</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_61" begin="3553" end="3560">
+    <text>wrapped</text>
+    <mainVerb begin="3553" end="3560">wrapped</mainVerb>
+    <mainReferent begin="3522" end="3525">She</mainReferent>
+    <tokens>She wrapped up the young one so closely as to prevent any observation of the process of suckling</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_62" begin="3680" end="3683">
+    <text>was</text>
+    <mainVerb begin="3680" end="3683">was</mainVerb>
+    <mainReferent begin="3674" end="3679">young</mainReferent>
+    <tokens>At the time of birth the young was than a new-born mouse its hind legs claws serviceable</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_63" begin="3743" end="3747">
+    <text>were</text>
+    <mainVerb begin="3743" end="3747">were</mainVerb>
+    <mainReferent begin="3736" end="3741">claws</mainReferent>
+    <tokens>its hind legs claws were remarkably serviceable</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_64" begin="3783" end="3791">
+    <text>enabling</text>
+    <mainVerb begin="3783" end="3791">enabling</mainVerb>
+    <tokens>enabling it not only to cling to its dam also to the deal sides of the cage</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_65" begin="3890" end="3894">
+    <text>took</text>
+    <mainVerb begin="3890" end="3894">took</mainVerb>
+    <mainReferent begin="3883" end="3889">animal</mainReferent>
+    <tokens>On the 24th the animal took her food in the morning "</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_66" begin="3924" end="3932">
+    <text>appeared</text>
+    <mainVerb begin="3924" end="3932">appeared</mainVerb>
+    <mainReferent begin="3883" end="3889">animal</mainReferent>
+    <tokens>the animal appeared very careful of her young</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_67" begin="3961" end="3969">
+    <text>shifting</text>
+    <mainVerb begin="3961" end="3969">shifting</mainVerb>
+    <tokens>shifting it from side to side to suckle it</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_68" begin="4009" end="4016">
+    <text>folding</text>
+    <mainVerb begin="4009" end="4016">folding</mainVerb>
+    <tokens>folding it in the membranes of the tail and wings</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_69" begin="4114" end="4117">
+    <text>cut</text>
+    <mainVerb begin="4114" end="4117">cut</mainVerb>
+    <mainReferent begin="4096" end="4108">observations</mainReferent>
+    <tokens>Unfortunately these interesting observations were cut short the death of the mother</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_70" begin="4181" end="4184">
+    <text>was</text>
+    <mainVerb begin="4181" end="4184">was</mainVerb>
+    <mainReferent begin="4167" end="4173">animal</mainReferent>
+    <tokens>the young animal was with some difficulty removed from the nipple</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_71" begin="4206" end="4213">
+    <text>removed</text>
+    <mainVerb begin="4206" end="4213">removed</mainVerb>
+    <mainReferent begin="4195" end="4205">difficulty</mainReferent>
+    <tokens>removed from the nipple</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_72" begin="4232" end="4240">
+    <text>survived</text>
+    <mainVerb begin="4232" end="4240">survived</mainVerb>
+    <mainReferent begin="4096" end="4108">observations</mainReferent>
+    <tokens>the young animal survived only eight days</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_73" begin="4278" end="4281">
+    <text>fed</text>
+    <mainVerb begin="4278" end="4281">fed</mainVerb>
+    <mainReferent begin="4271" end="4273">it</mainReferent>
+    <tokens>only eight days it was fed with milk from a sponge</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_74" begin="4312" end="4316">
+    <text>made</text>
+    <mainVerb begin="4312" end="4316">made</mainVerb>
+    <mainReferent begin="4271" end="4273">it</mainReferent>
+    <tokens>it made but little progress</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_75" begin="4360" end="4368">
+    <text>unopened</text>
+    <mainVerb begin="4360" end="4368">unopened</mainVerb>
+    <mainReferent begin="4096" end="4108">observations</mainReferent>
+    <tokens>its eyes being still unopened</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
+  </segment>
+  <segment instanceid="a_book_of_natural_history_80.txt_76" begin="4390" end="4398">
+    <text>hairless</text>
+    <mainVerb begin="4390" end="4398">hairless</mainVerb>
+    <mainReferent begin="4096" end="4108">observations</mainReferent>
+    <tokens>its body almost hairless</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
+  </segment>
+</document>
