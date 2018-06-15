@@ -5,742 +5,867 @@
     <text>Ha</text>
     <mainVerb begin="3" end="5">Ha</mainVerb>
     <tokens>" Ha</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_2" begin="28" end="32">
     <text>been</text>
     <mainVerb begin="28" end="32">been</mainVerb>
     <mainReferent begin="62" end="68">Thomas</mainReferent>
     <tokens>He must have been a very knowing Uncle Thomas</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_3" begin="73" end="77">
     <text>dare</text>
     <mainVerb begin="73" end="77">dare</mainVerb>
     <mainReferent begin="70" end="71">I</mainReferent>
     <tokens>I dare "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_4" begin="78" end="81">
     <text>say</text>
     <mainVerb begin="78" end="81">say</mainVerb>
     <tokens>say</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_5" begin="96" end="103">
     <text>behaved</text>
     <mainVerb begin="96" end="103">behaved</mainVerb>
     <mainReferent begin="87" end="95">cobblers</mainReferent>
     <tokens>the cobblers behaved better in future</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_6" begin="134" end="137">
     <text>say</text>
     <mainVerb begin="134" end="137">say</mainVerb>
     <mainReferent begin="127" end="128">I</mainReferent>
     <tokens>" I dare say Boys</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_7" begin="143" end="148">
     <text>would</text>
     <mainVerb begin="143" end="148">would</mainVerb>
     <mainReferent begin="138" end="142">they</mainReferent>
     <tokens>they would</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_8" begin="161" end="163">
     <text>is</text>
     <mainVerb begin="161" end="163">is</mainVerb>
     <mainReferent begin="172" end="177">story</mainReferent>
     <tokens>Here is another story of the same description "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_9" begin="230" end="236">
     <text>escape</text>
     <mainVerb begin="230" end="236">escape</mainVerb>
     <mainReferent begin="172" end="177">story</mainReferent>
     <tokens>the trickster did not escape so easily</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_10" begin="291" end="296">
     <text>lived</text>
     <mainVerb begin="291" end="296">lived</mainVerb>
     <mainReferent begin="255" end="261">person</mainReferent>
     <tokens>A person in the island of Ceylon lived near a place where elephants were daily led to water</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_11" begin="338" end="341">
     <text>led</text>
     <mainVerb begin="338" end="341">led</mainVerb>
     <mainReferent begin="317" end="326">elephants</mainReferent>
     <tokens>where elephants were daily led to water</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_12" begin="362" end="365">
     <text>sat</text>
     <mainVerb begin="362" end="365">sat</mainVerb>
     <mainReferent begin="255" end="261">person</mainReferent>
     <tokens>A person in the island of Ceylon often sat at the door of his house</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_13" begin="393" end="397">
     <text>used</text>
     <mainVerb begin="393" end="397">used</mainVerb>
     <mainReferent begin="255" end="261">person</mainReferent>
     <tokens>" A person in the island of Ceylon used occasionally to give one of these animals some fig leaves a food</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_14" begin="484" end="487">
     <text>are</text>
     <mainVerb begin="484" end="487">are</mainVerb>
     <mainReferent begin="474" end="483">elephants</mainReferent>
     <tokens>a food elephants are very</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_15" begin="510" end="514">
     <text>took</text>
     <mainVerb begin="510" end="514">took</mainVerb>
     <mainReferent begin="507" end="509">he</mainReferent>
     <tokens>Once he took it into his head to play one of the elephants a trick</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_16" begin="574" end="581">
     <text>wrapped</text>
     <mainVerb begin="574" end="581">wrapped</mainVerb>
     <mainReferent begin="571" end="573">He</mainReferent>
     <tokens>He wrapped a stone round with fig leaves</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_17" begin="618" end="622">
     <text>said</text>
     <mainVerb begin="618" end="622">said</mainVerb>
     <mainReferent begin="571" end="573">He</mainReferent>
     <tokens>He said to the carnac , ' This time I will give him a stone to eat , and see how it will agree with him</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_18" begin="656" end="660">
     <text>give</text>
     <mainVerb begin="656" end="660">give</mainVerb>
     <mainReferent begin="649" end="650">I</mainReferent>
     <tokens>I will give him a stone to eat</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_19" begin="686" end="689">
     <text>see</text>
     <mainVerb begin="686" end="689">see</mainVerb>
     <mainReferent begin="649" end="650">I</mainReferent>
     <tokens>I see</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_20" begin="702" end="707">
     <text>agree</text>
     <mainVerb begin="702" end="707">agree</mainVerb>
     <mainReferent begin="694" end="696">it</mainReferent>
     <tokens>how it will agree with him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_21" begin="730" end="738">
     <text>answered</text>
     <mainVerb begin="730" end="738">answered</mainVerb>
     <mainReferent begin="723" end="729">carnac</mainReferent>
     <tokens>The carnac answered</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_22" begin="770" end="772">
     <text>be</text>
     <mainVerb begin="770" end="772">be</mainVerb>
     <mainReferent begin="751" end="759">elephant</mainReferent>
     <tokens>that the elephant would not be such a as to swallow a stone</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_23" begin="828" end="835">
     <text>reached</text>
     <mainVerb begin="828" end="835">reached</mainVerb>
     <mainReferent begin="813" end="816">man</mainReferent>
     <tokens>The man however reached the stone to the elephant , who , taking it with his trunk , immediately let it fall to the ground</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_24" begin="907" end="910">
     <text>let</text>
     <mainVerb begin="907" end="910">let</mainVerb>
     <mainReferent begin="853" end="861">elephant</mainReferent>
     <tokens>the elephant taking it with his trunk immediately let</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_25" begin="914" end="918">
     <text>fall</text>
     <mainVerb begin="914" end="918">fall</mainVerb>
     <mainReferent begin="911" end="913">it</mainReferent>
     <tokens>it fall to the ground</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_26" begin="939" end="942">
     <text>see</text>
     <mainVerb begin="939" end="942">see</mainVerb>
     <mainReferent begin="935" end="938">You</mainReferent>
     <tokens>You see</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_27" begin="945" end="949">
     <text>said</text>
     <mainVerb begin="945" end="949">said</mainVerb>
     <mainReferent begin="955" end="961">keeper</mainReferent>
     <tokens>said the keeper</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_28" begin="971" end="974">
     <text>was</text>
     <mainVerb begin="971" end="974">was</mainVerb>
     <mainReferent begin="969" end="970">I</mainReferent>
     <tokens>that I was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_29" begin="1010" end="1015">
     <text>drove</text>
     <mainVerb begin="1010" end="1015">drove</mainVerb>
     <tokens>without further words drove away his elephants</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_30" begin="1048" end="1052">
     <text>were</text>
     <mainVerb begin="1048" end="1052">were</mainVerb>
     <mainReferent begin="1043" end="1047">they</mainReferent>
     <tokens>After they were</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_31" begin="1069" end="1079">
     <text>conducting</text>
     <mainVerb begin="1069" end="1079">conducting</mainVerb>
     <mainReferent begin="1062" end="1064">he</mainReferent>
     <tokens>he was conducting them again to their stable</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_32" begin="1125" end="1131">
     <text>played</text>
     <mainVerb begin="1125" end="1131">played</mainVerb>
     <mainReferent begin="1113" end="1116">man</mainReferent>
     <tokens>The man had played the elephant</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_33" begin="1166" end="1173">
     <text>sitting</text>
     <mainVerb begin="1166" end="1173">sitting</mainVerb>
     <mainReferent begin="1149" end="1154">trick</mainReferent>
     <tokens>the trick was still sitting at his door , when , before he was aware , the animal ran at him ,</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_34" begin="1203" end="1206">
     <text>was</text>
     <mainVerb begin="1203" end="1206">was</mainVerb>
     <mainReferent begin="1200" end="1202">he</mainReferent>
     <tokens>before he was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_35" begin="1225" end="1228">
     <text>ran</text>
     <mainVerb begin="1225" end="1228">ran</mainVerb>
     <mainReferent begin="1218" end="1224">animal</mainReferent>
     <tokens>his door when the animal ran at him</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_36" begin="1238" end="1243">
     <text>threw</text>
     <mainVerb begin="1238" end="1243">threw</mainVerb>
     <mainReferent begin="1113" end="1116">man</mainReferent>
     <tokens>The man threw his trunk around his body dashing him to the ground , trampled him immediately to death "</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_37" begin="1304" end="1312">
     <text>trampled</text>
     <mainVerb begin="1304" end="1312">trampled</mainVerb>
     <mainReferent begin="1295" end="1301">ground</mainReferent>
     <tokens>trampled him immediately to death</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_38" begin="1382" end="1392">
     <text>introduces</text>
     <mainVerb begin="1382" end="1392">introduces</mainVerb>
     <mainReferent begin="1375" end="1381">Thomas</mainReferent>
     <tokens>Uncle Thomas introduces to the Notice of the Young Folks the Ettrick Shepherd Stories about Sheep</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_39" begin="1480" end="1485">
     <text>tells</text>
     <mainVerb begin="1480" end="1485">tells</mainVerb>
     <mainReferent begin="1375" end="1381">Thomas</mainReferent>
     <tokens>Uncle Thomas tells them some Interesting Stories about the Goat , and its Peculiarities</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_40" begin="1569" end="1573">
     <text>dare</text>
     <mainVerb begin="1569" end="1573">dare</mainVerb>
     <mainReferent begin="1567" end="1568">I</mainReferent>
     <tokens>" I dare</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_41" begin="1574" end="1577">
     <text>say</text>
     <mainVerb begin="1574" end="1577">say</mainVerb>
     <tokens>say</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_42" begin="1598" end="1607">
     <text>forgotten</text>
     <mainVerb begin="1598" end="1607">forgotten</mainVerb>
     <mainReferent begin="1585" end="1588">you</mainReferent>
     <tokens>Boys you have not forgotten the Ettrick Shepherd wonderful stories about his dogs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_43" begin="1689" end="1696">
     <text>relates</text>
     <mainVerb begin="1689" end="1696">relates</mainVerb>
     <mainReferent begin="1686" end="1688">he</mainReferent>
     <tokens>those he relates about sheep</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_44" begin="1710" end="1713">
     <text>are</text>
     <mainVerb begin="1710" end="1713">are</mainVerb>
     <mainReferent begin="1666" end="1670">Some</mainReferent>
     <tokens>Some of those which he relates about sheep are equally "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_45" begin="1744" end="1749">
     <text>tells</text>
     <mainVerb begin="1744" end="1749">tells</mainVerb>
     <mainReferent begin="1741" end="1743">he</mainReferent>
     <tokens>as he tells them in the same pleasing style</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_46" begin="1786" end="1791">
     <text>think</text>
     <mainVerb begin="1786" end="1791">think</mainVerb>
     <mainReferent begin="1666" end="1670">Some</mainReferent>
     <tokens>I think</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_47" begin="1801" end="1803">
     <text>do</text>
     <mainVerb begin="1801" end="1803">do</mainVerb>
     <mainReferent begin="1792" end="1793">I</mainReferent>
     <tokens>I can not do better</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_48" begin="1816" end="1820">
     <text>read</text>
     <mainVerb begin="1816" end="1820">read</mainVerb>
     <mainReferent begin="1804" end="1810">better</mainReferent>
     <tokens>than read to you the chapter in ' The Shepherd 's Calendar</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_49" begin="1879" end="1886">
     <text>devotes</text>
     <mainVerb begin="1879" end="1886">devotes</mainVerb>
     <mainReferent begin="1816" end="1820">read</mainReferent>
     <tokens>which he devotes to this animal</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_50" begin="1908" end="1913">
     <text>Thank</text>
     <mainVerb begin="1908" end="1913">Thank</mainVerb>
     <tokens>" Thank you Uncle Thomas</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_51" begin="1936" end="1944">
     <text>remember</text>
     <mainVerb begin="1936" end="1944">remember</mainVerb>
     <mainReferent begin="1933" end="1935">We</mainReferent>
     <tokens>We remember very well his stories about Sirrah and Hector and Chieftain "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_52" begin="2030" end="2035">
     <text>grief</text>
     <mainVerb begin="2030" end="2035">grief</mainVerb>
     <mainReferent begin="1933" end="1935">We</mainReferent>
     <tokens>the old Shepherd 's grief at parting with his dog</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_53" begin="2071" end="2073">
     <text>'s</text>
     <mainVerb begin="2071" end="2073">'s</mainVerb>
     <mainReferent begin="2067" end="2071">That</mainReferent>
     <tokens>" That 's Boys</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_54" begin="2092" end="2099">
     <text>pleased</text>
     <mainVerb begin="2092" end="2099">pleased</mainVerb>
     <mainReferent begin="2087" end="2088">I</mainReferent>
     <tokens>I am pleased to think</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_55" begin="2125" end="2131">
     <text>forget</text>
     <mainVerb begin="2125" end="2131">forget</mainVerb>
     <mainReferent begin="2114" end="2117">you</mainReferent>
     <tokens>that you do not forget</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_56" begin="2140" end="2144">
     <text>tell</text>
     <mainVerb begin="2140" end="2144">tell</mainVerb>
     <mainReferent begin="2137" end="2138">I</mainReferent>
     <tokens>what I tell you</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_57" begin="2205" end="2213">
     <text>scarcely</text>
     <mainVerb begin="2205" end="2213">scarcely</mainVerb>
     <mainReferent begin="2195" end="2200">sheep</mainReferent>
     <tokens>" The sheep has scarcely any marked character save that of natural affection</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_58" begin="2280" end="2289">
     <text>possesses</text>
     <mainVerb begin="2280" end="2289">possesses</mainVerb>
     <mainReferent begin="2277" end="2279">it</mainReferent>
     <tokens>any marked character save that of natural affection it possesses a very great share</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_59" begin="2313" end="2315">
     <text>is</text>
     <mainVerb begin="2313" end="2315">is</mainVerb>
     <mainReferent begin="2310" end="2312">It</mainReferent>
     <tokens>It is otherwise a stupid indifferent having fewer expedients</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_60" begin="2367" end="2372">
     <text>wants</text>
     <mainVerb begin="2367" end="2372">wants</mainVerb>
     <mainReferent begin="2363" end="2366">few</mainReferent>
     <tokens>few wants</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_61" begin="2435" end="2439">
     <text>have</text>
     <mainVerb begin="2435" end="2439">have</mainVerb>
     <mainReferent begin="2428" end="2433">breed</mainReferent>
     <tokens>The old black-faced forest breed have far more powerful capabilities than any of the finer breeds that have been introduced into Scotland therefore "</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_62" begin="2516" end="2526">
     <text>introduced</text>
     <mainVerb begin="2516" end="2526">introduced</mainVerb>
     <mainReferent begin="2494" end="2500">breeds</mainReferent>
     <tokens>the finer breeds have been introduced into Scotland</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_63" begin="2584" end="2588">
     <text>have</text>
     <mainVerb begin="2584" end="2588">have</mainVerb>
     <mainReferent begin="2582" end="2583">I</mainReferent>
     <tokens>the few anecdotes I have to relate</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_64" begin="2609" end="2617">
     <text>confined</text>
     <mainVerb begin="2609" end="2617">confined</mainVerb>
     <mainReferent begin="2405" end="2416">black-faced</mainReferent>
     <tokens>the few anecdotes shall be confined to them</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_65" begin="2641" end="2643">
     <text>is</text>
     <mainVerb begin="2641" end="2643">is</mainVerb>
     <mainReferent begin="2631" end="2633">So</mainReferent>
     <tokens>So strong is the of the sheep to the place where they have been bred</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_66" begin="2707" end="2711">
     <text>bred</text>
     <mainVerb begin="2707" end="2711">bred</mainVerb>
     <mainReferent begin="2691" end="2695">they</mainReferent>
     <tokens>where they have been bred</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_67" begin="2725" end="2730">
     <text>heard</text>
     <mainVerb begin="2725" end="2730">heard</mainVerb>
     <mainReferent begin="2718" end="2719">I</mainReferent>
     <tokens>that I have heard of their returning from Yorkshire to the Highlands</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_68" begin="2806" end="2814">
     <text>inclined</text>
     <mainVerb begin="2806" end="2814">inclined</mainVerb>
     <mainReferent begin="2784" end="2785">I</mainReferent>
     <tokens>I was always somewhat inclined to suspect</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_69" begin="2853" end="2857">
     <text>lost</text>
     <mainVerb begin="2853" end="2857">lost</mainVerb>
     <mainReferent begin="2831" end="2835">they</mainReferent>
     <tokens>that they might have been lost the way</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_70" begin="2877" end="2879">
     <text>is</text>
     <mainVerb begin="2877" end="2879">is</mainVerb>
     <mainReferent begin="2874" end="2876">it</mainReferent>
     <tokens>it is however</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_71" begin="2933" end="2936">
     <text>get</text>
     <mainVerb begin="2933" end="2936">get</mainVerb>
     <mainReferent begin="2914" end="2917">one</mainReferent>
     <tokens>when once one a few sheep get from the rest of their acquaintances</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_72" begin="2986" end="2992">
     <text>return</text>
     <mainVerb begin="2986" end="2992">return</mainVerb>
     <mainReferent begin="2980" end="2984">they</mainReferent>
     <tokens>that they return homeward with great eagerness and perseverance</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_73" begin="3048" end="3053">
     <text>lived</text>
     <mainVerb begin="3048" end="3053">lived</mainVerb>
     <mainReferent begin="3041" end="3042">I</mainReferent>
     <tokens>I have lived beside a drove-road the better part of my life</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_74" begin="3123" end="3127">
     <text>have</text>
     <mainVerb begin="3123" end="3127">have</mainVerb>
     <mainReferent begin="3041" end="3042">I</mainReferent>
     <tokens>many stragglers have</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_75" begin="3131" end="3135">
     <text>seen</text>
     <mainVerb begin="3131" end="3135">seen</mainVerb>
     <mainReferent begin="3129" end="3130">I</mainReferent>
     <tokens>I seen</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_76" begin="3136" end="3143">
     <text>bending</text>
     <mainVerb begin="3136" end="3143">bending</mainVerb>
     <tokens>bending their steps northward in the spring of the year</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_77" begin="3212" end="3216">
     <text>sees</text>
     <mainVerb begin="3212" end="3216">sees</mainVerb>
     <mainReferent begin="3196" end="3204">shepherd</mainReferent>
     <tokens>A shepherd rarely sees these journeyers twice</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_78" begin="3247" end="3251">
     <text>sees</text>
     <mainVerb begin="3247" end="3251">sees</mainVerb>
     <mainReferent begin="3244" end="3246">he</mainReferent>
     <tokens>if he sees them</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_79" begin="3262" end="3267">
     <text>stops</text>
     <mainVerb begin="3262" end="3267">stops</mainVerb>
     <mainReferent begin="3244" end="3246">he</mainReferent>
     <tokens>he stops them in the morning</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_80" begin="3299" end="3303">
     <text>gone</text>
     <mainVerb begin="3299" end="3303">gone</mainVerb>
     <mainReferent begin="3290" end="3294">they</mainReferent>
     <tokens>they are gone long before night</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_81" begin="3333" end="3337">
     <text>sees</text>
     <mainVerb begin="3333" end="3337">sees</mainVerb>
     <mainReferent begin="3330" end="3332">he</mainReferent>
     <tokens>if he sees them at night</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_82" begin="3366" end="3370">
     <text>gone</text>
     <mainVerb begin="3366" end="3370">gone</mainVerb>
     <mainReferent begin="3290" end="3294">they</mainReferent>
     <tokens>they will be gone many miles before morning</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_83" begin="3453" end="3455">
     <text>is</text>
     <mainVerb begin="3453" end="3455">is</mainVerb>
     <mainReferent begin="3411" end="3421">attachment</mainReferent>
     <tokens>This strong attachment to the place of their nativity is much more in our old aboriginal breed than in any of the other kinds with which I am acquainted</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_84" begin="3555" end="3565">
     <text>acquainted</text>
     <mainVerb begin="3555" end="3565">acquainted</mainVerb>
     <mainReferent begin="3549" end="3550">I</mainReferent>
     <tokens>of the other kinds with which I am acquainted</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_85" begin="3605" end="3609">
     <text>know</text>
     <mainVerb begin="3605" end="3609">know</mainVerb>
     <mainReferent begin="3589" end="3597">instance</mainReferent>
     <tokens>that I know of</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_86" begin="3647" end="3649">
     <text>is</text>
     <mainVerb begin="3647" end="3649">is</mainVerb>
     <mainReferent begin="3589" end="3597">instance</mainReferent>
     <tokens>" The most singular instance to be quite well authenticated is of a black ewe , that returned with her lamb from a farm in the head of Glen-Lyon , to the farm of Harehope , in Tweeddale , and accomplished the journey in nine days</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_87" begin="3676" end="3684">
     <text>returned</text>
     <mainVerb begin="3676" end="3684">returned</mainVerb>
     <mainReferent begin="3666" end="3669">ewe</mainReferent>
     <tokens>a black ewe returned with her lamb from a farm in the head of Glen-Lyon to the farm of Harehope in Tweeddale</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_88" begin="3782" end="3794">
     <text>accomplished</text>
     <mainVerb begin="3782" end="3794">accomplished</mainVerb>
     <mainReferent begin="3666" end="3669">ewe</mainReferent>
     <tokens>a black ewe accomplished the journey in nine days</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_89" begin="3834" end="3840">
     <text>missed</text>
     <mainVerb begin="3834" end="3840">missed</mainVerb>
     <mainReferent begin="3821" end="3824">She</mainReferent>
     <tokens>She was soon missed her owner</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_90" begin="3875" end="3885">
     <text>despatched</text>
     <mainVerb begin="3875" end="3885">despatched</mainVerb>
     <mainReferent begin="3821" end="3824">She</mainReferent>
     <tokens>a shepherd was despatched in pursuit of her , who followed her all the way to Crieff , where he turned , and gave her up</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_91" begin="3909" end="3917">
     <text>followed</text>
     <mainVerb begin="3909" end="3917">followed</mainVerb>
     <mainReferent begin="3889" end="3896">pursuit</mainReferent>
     <tokens>pursuit of her followed her all the way to Crieff</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_92" begin="3955" end="3961">
     <text>turned</text>
     <mainVerb begin="3955" end="3961">turned</mainVerb>
     <mainReferent begin="3952" end="3954">he</mainReferent>
     <tokens>where he turned</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_93" begin="3967" end="3971">
     <text>gave</text>
     <mainVerb begin="3967" end="3971">gave</mainVerb>
     <mainReferent begin="3889" end="3896">pursuit</mainReferent>
     <tokens>pursuit of her gave her up</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_94" begin="3983" end="3986">
     <text>got</text>
     <mainVerb begin="3983" end="3986">got</mainVerb>
     <mainReferent begin="3980" end="3982">He</mainReferent>
     <tokens>He got intelligence of her all the way</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_95" begin="4035" end="4039">
     <text>told</text>
     <mainVerb begin="4035" end="4039">told</mainVerb>
     <mainReferent begin="3980" end="3982">He</mainReferent>
     <tokens>every one told him</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_96" begin="4065" end="4074">
     <text>persisted</text>
     <mainVerb begin="4065" end="4074">persisted</mainVerb>
     <mainReferent begin="4049" end="4052">she</mainReferent>
     <tokens>that she absolutely persisted travelling on</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_97" begin="4111" end="4117">
     <text>turned</text>
     <mainVerb begin="4111" end="4117">turned</mainVerb>
     <mainReferent begin="4094" end="4097">she</mainReferent>
     <tokens>she would not be turned regarding neither sheep</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_98" begin="4148" end="4156">
     <text>shepherd</text>
     <mainVerb begin="4148" end="4156">shepherd</mainVerb>
     <mainReferent begin="4094" end="4097">she</mainReferent>
     <tokens>she shepherd by the way</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_99" begin="4178" end="4181">
     <text>was</text>
     <mainVerb begin="4178" end="4181">was</mainVerb>
     <mainReferent begin="4173" end="4177">lamb</mainReferent>
     <tokens>Her lamb was often far behind</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_100" begin="4209" end="4212">
     <text>had</text>
     <mainVerb begin="4209" end="4212">had</mainVerb>
     <mainReferent begin="4173" end="4177">lamb</mainReferent>
     <tokens>she had constantly to urge it on by impatient bleating</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_101" begin="4276" end="4280">
     <text>came</text>
     <mainVerb begin="4276" end="4280">came</mainVerb>
     <mainReferent begin="4261" end="4264">She</mainReferent>
     <tokens>She unluckily came to Stirling on the morning of a great annual fair about the end of May</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_102" begin="4359" end="4366">
     <text>judging</text>
     <mainVerb begin="4359" end="4366">judging</mainVerb>
     <mainReferent begin="4425" end="4428">she</mainReferent>
     <tokens>judging it imprudent to venture through the crowd with her lamb</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_103" begin="4429" end="4435">
     <text>halted</text>
     <mainVerb begin="4429" end="4435">halted</mainVerb>
     <mainReferent begin="4261" end="4264">She</mainReferent>
     <tokens>she halted on the north side of the town the whole day , where she was seen by hundreds</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_104" begin="4496" end="4500">
     <text>seen</text>
     <mainVerb begin="4496" end="4500">seen</mainVerb>
     <mainReferent begin="4488" end="4491">she</mainReferent>
     <tokens>where she was seen hundreds</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_105" begin="4514" end="4519">
     <text>lying</text>
     <mainVerb begin="4514" end="4519">lying</mainVerb>
     <tokens>lying by the road-side</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_106" begin="4572" end="4578">
     <text>became</text>
     <mainVerb begin="4572" end="4578">became</mainVerb>
     <mainReferent begin="4568" end="4571">all</mainReferent>
     <tokens>when all became quiet</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_107" begin="4628" end="4636">
     <text>observed</text>
     <mainVerb begin="4628" end="4636">observed</mainVerb>
     <mainReferent begin="4619" end="4622">she</mainReferent>
     <tokens>But next morning a little after the break of day she was observed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_108" begin="4637" end="4645">
     <text>stealing</text>
     <mainVerb begin="4637" end="4645">stealing</mainVerb>
     <tokens>stealing quietly through the town in apparent terror of the dogs that were prowling about the street</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_109" begin="4714" end="4722">
     <text>prowling</text>
     <mainVerb begin="4714" end="4722">prowling</mainVerb>
     <mainReferent begin="4699" end="4703">dogs</mainReferent>
     <tokens>the dogs were prowling about the street</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_110" begin="4763" end="4767">
     <text>seen</text>
     <mainVerb begin="4763" end="4767">seen</mainVerb>
     <mainReferent begin="4755" end="4758">she</mainReferent>
     <tokens>she was seen on the road</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_111" begin="4781" end="4784">
     <text>was</text>
     <mainVerb begin="4781" end="4784">was</mainVerb>
     <mainReferent begin="4750" end="4754">time</mainReferent>
     <tokens>The last time was at a toll-bar near St. Ninian 's</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_112" begin="4826" end="4833">
     <text>stopped</text>
     <mainVerb begin="4826" end="4833">stopped</mainVerb>
     <mainReferent begin="4822" end="4825">man</mainReferent>
     <tokens>the man stopped her</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_113" begin="4840" end="4848">
     <text>thinking</text>
     <mainVerb begin="4840" end="4848">thinking</mainVerb>
     <mainReferent begin="4822" end="4825">man</mainReferent>
     <tokens>thinking</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_114" begin="4853" end="4856">
     <text>was</text>
     <mainVerb begin="4853" end="4856">was</mainVerb>
     <mainReferent begin="4849" end="4852">she</mainReferent>
     <tokens>she was a strayed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_115" begin="4899" end="4904">
     <text>claim</text>
     <mainVerb begin="4899" end="4904">claim</mainVerb>
     <mainReferent begin="4867" end="4873">animal</mainReferent>
     <tokens>that some one would claim her</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_116" begin="4915" end="4920">
     <text>tried</text>
     <mainVerb begin="4915" end="4920">tried</mainVerb>
     <mainReferent begin="4911" end="4914">She</mainReferent>
     <tokens>She tried several times to break through by force when he opened the gate</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_117" begin="4969" end="4975">
     <text>opened</text>
     <mainVerb begin="4969" end="4975">opened</mainVerb>
     <mainReferent begin="4966" end="4968">he</mainReferent>
     <tokens>force when he opened the gate</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_118" begin="5001" end="5010">
     <text>prevented</text>
     <mainVerb begin="5001" end="5010">prevented</mainVerb>
     <mainReferent begin="4911" end="4914">She</mainReferent>
     <tokens>he always prevented her</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_119" begin="5034" end="5040">
     <text>turned</text>
     <mainVerb begin="5034" end="5040">turned</mainVerb>
     <mainReferent begin="4991" end="4993">he</mainReferent>
     <tokens>at length she turned patiently back</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_120" begin="5066" end="5071">
     <text>found</text>
     <mainVerb begin="5066" end="5071">found</mainVerb>
     <mainReferent begin="5058" end="5061">She</mainReferent>
     <tokens>She had found some means eluding him however</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_121" begin="5122" end="5126">
     <text>came</text>
     <mainVerb begin="5122" end="5126">came</mainVerb>
     <mainReferent begin="5058" end="5061">She</mainReferent>
     <tokens>for home she came on a Sabbath morning early in June</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_122" begin="5172" end="5176">
     <text>left</text>
     <mainVerb begin="5172" end="5176">left</mainVerb>
     <mainReferent begin="5058" end="5061">She</mainReferent>
     <tokens>she left the farm of Lochs in Glen-Lyon either on the Thursday afternoon Friday morning a week two days before</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_123" begin="5316" end="5320">
     <text>paid</text>
     <mainVerb begin="5316" end="5320">paid</mainVerb>
     <mainReferent begin="5297" end="5303">farmer</mainReferent>
     <tokens>The farmer of Harehope paid the Highland farmer the price of her</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_124" begin="5368" end="5376">
     <text>remained</text>
     <mainVerb begin="5368" end="5376">remained</mainVerb>
     <mainReferent begin="5297" end="5303">farmer</mainReferent>
     <tokens>she remained on her native farm in her seventeenth year</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_the_instinct_of_animals_their_characters_and_habits_13.txt_125" begin="5406" end="5410">
     <text>died</text>
     <mainVerb begin="5406" end="5410">died</mainVerb>
     <mainReferent begin="5402" end="5405">she</mainReferent>
     <tokens>till she died of old age</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
 </document>

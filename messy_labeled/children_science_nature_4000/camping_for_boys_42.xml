@@ -6,236 +6,276 @@
     <mainVerb begin="51" end="59">Compiled</mainVerb>
     <mainReferent begin="17" end="22">TYPES</mainReferent>
     <tokens>( Compiled from the measurements of 5,476 school children )</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_2" begin="2113" end="2115">
     <text>is</text>
     <mainVerb begin="2113" end="2115">is</mainVerb>
     <mainReferent begin="2109" end="2112">boy</mainReferent>
     <tokens>If a boy is ( minor aches pains excepted )</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_3" begin="2169" end="2176">
     <text>growing</text>
     <mainVerb begin="2169" end="2176">growing</mainVerb>
     <mainReferent begin="2127" end="2132">aches</mainReferent>
     <tokens>( minor aches pains are frequently only growing pains excepted )</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_4" begin="2196" end="2203">
     <text>isolate</text>
     <mainVerb begin="2196" end="2203">isolate</mainVerb>
     <mainReferent begin="2096" end="2100">Tent</mainReferent>
     <tokens>Hospital Tent isolate him from the camp so that he quiet</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_5" begin="2234" end="2237">
     <text>may</text>
     <mainVerb begin="2234" end="2237">may</mainVerb>
     <tokens>may</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_6" begin="2238" end="2242">
     <text>have</text>
     <mainVerb begin="2238" end="2242">have</mainVerb>
     <mainReferent begin="2243" end="2248">quiet</mainReferent>
     <tokens>have</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_7" begin="2254" end="2261">
     <text>receive</text>
     <mainVerb begin="2254" end="2261">receive</mainVerb>
     <mainReferent begin="2231" end="2233">he</mainReferent>
     <tokens>he receive careful attention</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_8" begin="2320" end="2325">
     <text>known</text>
     <mainVerb begin="2320" end="2325">known</mainVerb>
     <mainReferent begin="2288" end="2292">tent</mainReferent>
     <tokens>known as the " Hospital Tent " or " Red Cross Tent</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_9" begin="2378" end="2380">
     <text>be</text>
     <mainVerb begin="2378" end="2380">be</mainVerb>
     <mainReferent begin="2288" end="2292">tent</mainReferent>
     <tokens>A tent with fly and board floor " should be a of the camp equipment</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_10" begin="2421" end="2423">
     <text>be</text>
     <mainVerb begin="2421" end="2423">be</mainVerb>
     <tokens>There may be no for its use</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_11" begin="2464" end="2466">
     <text>be</text>
     <mainVerb begin="2464" end="2466">be</mainVerb>
     <mainReferent begin="2454" end="2456">it</mainReferent>
     <tokens>it should be for any emergency</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_12" begin="2511" end="2515">
     <text>have</text>
     <mainVerb begin="2511" end="2515">have</mainVerb>
     <mainReferent begin="2497" end="2506">physician</mainReferent>
     <tokens>The physician may have his office in this tent</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_13" begin="2557" end="2559">
     <text>be</text>
     <mainVerb begin="2557" end="2559">be</mainVerb>
     <mainReferent begin="2541" end="2545">Boys</mainReferent>
     <tokens>Boys should not be " " at the same time it must not be forgotten that good , sympathetic attention and nursing are two-thirds responsible for speedy recovery from most ills</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_14" begin="2604" end="2613">
     <text>forgotten</text>
     <mainVerb begin="2604" end="2613">forgotten</mainVerb>
     <mainReferent begin="2589" end="2591">it</mainReferent>
     <tokens>it must not be forgotten</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_15" begin="2660" end="2663">
     <text>are</text>
     <mainVerb begin="2660" end="2663">are</mainVerb>
     <mainReferent begin="2652" end="2659">nursing</mainReferent>
     <tokens>the same time good sympathetic attention nursing are two-thirds for speedy recovery from most ills</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_16" begin="3076" end="3080">
     <text>make</text>
     <mainVerb begin="3076" end="3080">make</mainVerb>
     <mainReferent begin="2726" end="2735">Equipment</mainReferent>
     <tokens>Equipment A spring cot mattress pillow blankets a good medicine cabinet alcohol stove for boiling water , cooking food , and sterilizing instruments pans white enameled slop jar pitcher cup pail a table a folding camp reclining chair ( Gold Medal Camp Furniture Company ) a combination camp cot litter ( Gold Medal Brand ) will make up the equipment of the tent</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_17" begin="3147" end="3152">
     <text>given</text>
     <mainVerb begin="3147" end="3152">given</mainVerb>
     <mainReferent begin="3135" end="3146">suggestions</mainReferent>
     <tokens>given in this chapter</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_18" begin="3169" end="3172">
     <text>are</text>
     <mainVerb begin="3169" end="3172">are</mainVerb>
     <mainReferent begin="3135" end="3146">suggestions</mainReferent>
     <tokens>The information suggestions are the of many years ' experience in boys ' camps</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_19" begin="3263" end="3270">
     <text>vouched</text>
     <mainVerb begin="3263" end="3270">vouched</mainVerb>
     <mainReferent begin="3247" end="3258">information</mainReferent>
     <tokens>The technical information is vouched for by competent physicians</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_20" begin="3308" end="3316">
     <text>examined</text>
     <mainVerb begin="3308" end="3316">examined</mainVerb>
     <mainReferent begin="3288" end="3298">physicians</mainReferent>
     <tokens>competent physicians have examined the manuscript</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_21" begin="3383" end="3390">
     <text>written</text>
     <mainVerb begin="3383" end="3390">written</mainVerb>
     <mainReferent begin="3371" end="3378">chapter</mainReferent>
     <tokens>This chapter was written in 1911</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_22" begin="3435" end="3438">
     <text>are</text>
     <mainVerb begin="3435" end="3438">are</mainVerb>
     <mainReferent begin="3406" end="3418">observations</mainReferent>
     <tokens>Many observations suggestions are dangerous or illegal ]</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_23" begin="3539" end="3543">
     <text>have</text>
     <mainVerb begin="3539" end="3543">have</mainVerb>
     <mainReferent begin="3502" end="3505">man</mainReferent>
     <tokens>Pulse Rate Every man in charge of a boys ' camp should have a knowledge of certain physiological facts</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_24" begin="3664" end="3669">
     <text>taken</text>
     <mainVerb begin="3664" end="3669">taken</mainVerb>
     <mainReferent begin="3657" end="3662">pulse</mainReferent>
     <tokens>taken at the wrist</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_25" begin="3684" end="3686">
     <text>is</text>
     <mainVerb begin="3684" end="3686">is</mainVerb>
     <mainReferent begin="3657" end="3662">pulse</mainReferent>
     <tokens>The pulse is a fair of the condition of the body</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_26" begin="3757" end="3759">
     <text>do</text>
     <mainVerb begin="3757" end="3759">do</mainVerb>
     <tokens>taking the pulse-beat do so with the fingers not the thumb</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_27" begin="3852" end="3859">
     <text>confuse</text>
     <mainVerb begin="3852" end="3859">confuse</mainVerb>
     <mainReferent begin="3813" end="3820">beating</mainReferent>
     <tokens>as the beating of the artery in the thumb may confuse</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_28" begin="3876" end="3884">
     <text>modified</text>
     <mainVerb begin="3876" end="3884">modified</mainVerb>
     <mainReferent begin="3868" end="3872">rate</mainReferent>
     <tokens>Pulse rate is modified with age , rest , exercise , position , excitements , and elevation</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_29" begin="3965" end="3973">
     <text>produces</text>
     <mainVerb begin="3965" end="3973">produces</mainVerb>
     <mainReferent begin="3955" end="3964">elevation</mainReferent>
     <tokens>High elevation produces a more rapid pulse</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_30" begin="4034" end="4036">
     <text>is</text>
     <mainVerb begin="4034" end="4036">is</mainVerb>
     <mainReferent begin="4005" end="4009">rate</mainReferent>
     <tokens>The normal rate of boys in their teens is about 80 to 84 per minute</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_31" begin="4087" end="4096">
     <text>accounted</text>
     <mainVerb begin="4087" end="4096">accounted</mainVerb>
     <mainReferent begin="4073" end="4081">increase</mainReferent>
     <tokens>not accounted for by one of the above reasons</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_32" begin="4137" end="4142">
     <text>means</text>
     <mainVerb begin="4137" end="4142">means</mainVerb>
     <mainReferent begin="4073" end="4081">increase</mainReferent>
     <tokens>An increase usually means fever</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_33" begin="4163" end="4168">
     <text>beats</text>
     <mainVerb begin="4163" end="4168">beats</mainVerb>
     <mainReferent begin="4152" end="4156">rise</mainReferent>
     <tokens>a rise of 6 beats in pulse usually</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_34" begin="4272" end="4274">
     <text>is</text>
     <mainVerb begin="4272" end="4274">is</mainVerb>
     <mainReferent begin="4226" end="4231">Often</mainReferent>
     <tokens>Often more important than the rate however is the of the pulse</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_35" begin="4414" end="4416">
     <text>be</text>
     <mainVerb begin="4414" end="4416">be</mainVerb>
     <mainReferent begin="4385" end="4397">Irregularity</mainReferent>
     <tokens>Irregularity in the rate may be a serious</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_36" begin="4448" end="4455">
     <text>noticed</text>
     <mainVerb begin="4448" end="4455">noticed</mainVerb>
     <mainReferent begin="4442" end="4444">it</mainReferent>
     <tokens>when it is noticed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_37" begin="4488" end="4494">
     <text>called</text>
     <mainVerb begin="4488" end="4494">called</mainVerb>
     <mainReferent begin="4427" end="4431">sign</mainReferent>
     <tokens>a doctor should be immediately called</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_38" begin="4547" end="4552">
     <text>cause</text>
     <mainVerb begin="4547" end="4552">cause</mainVerb>
     <mainReferent begin="4496" end="4503">Failure</mainReferent>
     <tokens>Failure to find the artery should not necessarily cause uneasiness</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_39" begin="4608" end="4611">
     <text>see</text>
     <mainVerb begin="4608" end="4611">see</mainVerb>
     <mainReferent begin="4594" end="4602">director</mainReferent>
     <tokens>as trying on himself the director may see</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_42.txt_40" begin="4641" end="4643">
     <text>is</text>
     <mainVerb begin="4641" end="4643">is</mainVerb>
     <mainReferent begin="4621" end="4627">taking</mainReferent>
     <tokens>that the taking of the pulse is often a difficult</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
 </document>

@@ -6,337 +6,395 @@
     <mainVerb begin="25" end="27">is</mainVerb>
     <mainReferent begin="18" end="24">tongue</mainReferent>
     <tokens>The Tongue The tongue is a very misleading to the patient 's condition</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_2" begin="130" end="134">
     <text>laid</text>
     <mainVerb begin="130" end="134">laid</mainVerb>
     <mainReferent begin="46" end="51">guide</mainReferent>
     <tokens>no definite rule about its appearance can be laid down</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_3" begin="224" end="227">
     <text>are</text>
     <mainVerb begin="224" end="227">are</mainVerb>
     <mainReferent begin="147" end="152">signs</mainReferent>
     <tokens>Other signs such as temperature , general conditions , localization of pain , etc. are more</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_4" begin="319" end="323">
     <text>adds</text>
     <mainVerb begin="319" end="323">adds</mainVerb>
     <mainReferent begin="147" end="152">signs</mainReferent>
     <tokens>to the total result of such observations the appearance of the tongue adds little</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_5" begin="400" end="402">
     <text>is</text>
     <mainVerb begin="400" end="402">is</mainVerb>
     <mainReferent begin="335" end="346">Thermometer</mainReferent>
     <tokens>Thermometer The normal temperature of the human body by mouth is about 98.4</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_6" begin="469" end="472">
     <text>are</text>
     <mainVerb begin="469" end="472">are</mainVerb>
     <mainReferent begin="424" end="434">Variations</mainReferent>
     <tokens>Variations between 98 degrees and 99 degrees are not necessarily of disease</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_7" begin="556" end="560">
     <text>used</text>
     <mainVerb begin="556" end="560">used</mainVerb>
     <mainReferent begin="534" end="545">thermometer</mainReferent>
     <tokens>A reliable clinical thermometer should be used</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_8" begin="588" end="593">
     <text>taken</text>
     <mainVerb begin="588" end="593">taken</mainVerb>
     <mainReferent begin="563" end="574">Temperature</mainReferent>
     <tokens>Temperature is generally taken in the mouth</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_9" begin="608" end="614">
     <text>Insert</text>
     <mainVerb begin="608" end="614">Insert</mainVerb>
     <tokens>Insert the bulb of the thermometer well under the boy 's tongue</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_10" begin="673" end="677">
     <text>Tell</text>
     <mainVerb begin="673" end="677">Tell</mainVerb>
     <tokens>Tell him to close his lips not his teeth to breathe through his nose</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_11" begin="751" end="756">
     <text>Leave</text>
     <mainVerb begin="751" end="756">Leave</mainVerb>
     <tokens>Leave it in the mouth about three or four minutes</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_12" begin="803" end="809">
     <text>Remove</text>
     <mainVerb begin="803" end="809">Remove</mainVerb>
     <tokens>Remove towel</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_13" begin="842" end="847">
     <text>rinse</text>
     <mainVerb begin="842" end="847">rinse</mainVerb>
     <tokens>after noting temperature rinse it in cold water</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_14" begin="867" end="870">
     <text>dry</text>
     <mainVerb begin="867" end="870">dry</mainVerb>
     <tokens>dry it with a clean</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_15" begin="899" end="904">
     <text>shake</text>
     <mainVerb begin="899" end="904">shake</mainVerb>
     <tokens>shake the mercury down to 95 degrees</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_16" begin="951" end="953">
     <text>be</text>
     <mainVerb begin="951" end="953">be</mainVerb>
     <mainReferent begin="938" end="940">It</mainReferent>
     <tokens>It will then be</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_17" begin="964" end="967">
     <text>use</text>
     <mainVerb begin="964" end="967">use</mainVerb>
     <mainReferent begin="938" end="940">It</mainReferent>
     <tokens>use next time</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_18" begin="985" end="991">
     <text>return</text>
     <mainVerb begin="985" end="991">return</mainVerb>
     <tokens>Never return a thermometer to its case unwashed</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_19" begin="1045" end="1047">
     <text>is</text>
     <mainVerb begin="1045" end="1047">is</mainVerb>
     <mainReferent begin="1040" end="1044">Pain</mainReferent>
     <tokens>Pain Pain is an</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_20" begin="1073" end="1075">
     <text>is</text>
     <mainVerb begin="1073" end="1075">is</mainVerb>
     <mainReferent begin="1076" end="1085">something</mainReferent>
     <tokens>that there is something wrong with the body that should receive attention</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_21" begin="1119" end="1126">
     <text>receive</text>
     <mainVerb begin="1119" end="1126">receive</mainVerb>
     <mainReferent begin="1101" end="1105">body</mainReferent>
     <tokens>the body should receive attention</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_22" begin="1148" end="1151">
     <text>are</text>
     <mainVerb begin="1148" end="1151">are</mainVerb>
     <mainReferent begin="1143" end="1147">boys</mainReferent>
     <tokens>Some boys are more to pain than others , particularly boys of a highly strung , delicate , nervous nature</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_23" begin="1276" end="1281">
     <text>think</text>
     <mainVerb begin="1276" end="1281">think</mainVerb>
     <mainReferent begin="1259" end="1265">people</mainReferent>
     <tokens>Most people however think too much of their pains</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_24" begin="1333" end="1337">
     <text>fall</text>
     <mainVerb begin="1333" end="1337">fall</mainVerb>
     <mainReferent begin="1328" end="1332">boys</mainReferent>
     <tokens>Most pains boys fall heir</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_25" begin="1343" end="1346">
     <text>are</text>
     <mainVerb begin="1343" end="1346">are</mainVerb>
     <mainReferent begin="1312" end="1317">pains</mainReferent>
     <tokens>Most pains are to trouble in the stomach or intestines , or to fevers</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_26" begin="1428" end="1432">
     <text>feel</text>
     <mainVerb begin="1428" end="1432">feel</mainVerb>
     <mainReferent begin="1423" end="1427">boys</mainReferent>
     <tokens>Many pains boys feel</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_27" begin="1433" end="1437">
     <text>mean</text>
     <mainVerb begin="1433" end="1437">mean</mainVerb>
     <mainReferent begin="1412" end="1417">pains</mainReferent>
     <tokens>Many pains mean very little</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_28" begin="1456" end="1459">
     <text>are</text>
     <mainVerb begin="1456" end="1459">are</mainVerb>
     <mainReferent begin="1451" end="1455">They</mainReferent>
     <tokens>They are often to a sore or strained muscle or nerve</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_29" begin="1551" end="1556">
     <text>bring</text>
     <mainVerb begin="1551" end="1556">bring</mainVerb>
     <mainReferent begin="1516" end="1527">application</mainReferent>
     <tokens>A hot application massage will often bring relief</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_30" begin="1633" end="1635">
     <text>is</text>
     <mainVerb begin="1633" end="1635">is</mainVerb>
     <mainReferent begin="1586" end="1590">pain</mainReferent>
     <tokens>Sharply localized pain except as the result of external injury is not among healthy boys</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_31" begin="1676" end="1681">
     <text>found</text>
     <mainVerb begin="1676" end="1681">found</mainVerb>
     <tokens>if found</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_32" begin="1737" end="1748">
     <text>accompanied</text>
     <mainVerb begin="1737" end="1748">accompanied</mainVerb>
     <mainReferent begin="1812" end="1819">receive</mainReferent>
     <tokens>if accompanied by other disquieting signs ( temperature pulse etc. )</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_33" begin="1812" end="1819">
     <text>receive</text>
     <mainVerb begin="1812" end="1819">receive</mainVerb>
     <mainReferent begin="1586" end="1590">pain</mainReferent>
     <tokens>Sharply localized pain particularly in the well-known appendix area should receive medical attention</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_34" begin="1893" end="1898">
     <text>yield</text>
     <mainVerb begin="1893" end="1898">yield</mainVerb>
     <mainReferent begin="1874" end="1878">pain</mainReferent>
     <tokens>any abdominal pain does not yield in 24 hours to rest in bed with application of external heat</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_35" begin="1969" end="1973">
     <text>call</text>
     <mainVerb begin="1969" end="1973">call</mainVerb>
     <mainReferent begin="1874" end="1878">pain</mainReferent>
     <tokens>In a general way any abdominal pain should call for the advice of a physician</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_36" begin="2049" end="2060">
     <text>accompanied</text>
     <mainVerb begin="2049" end="2060">accompanied</mainVerb>
     <mainReferent begin="2017" end="2023">attack</mainReferent>
     <tokens>accompanied temperature not immediately traceable to some indiscretion in diet</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_37" begin="2139" end="2141">
     <text>is</text>
     <mainVerb begin="2139" end="2141">is</mainVerb>
     <mainReferent begin="2017" end="2023">attack</mainReferent>
     <tokens>Any severe attack of vomiting or diarrhea is for study</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_38" begin="2192" end="2196">
     <text>show</text>
     <mainVerb begin="2192" end="2196">show</mainVerb>
     <mainReferent begin="2166" end="2177">improvement</mainReferent>
     <tokens>if improvement does not soon show itself</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_39" begin="2228" end="2234">
     <text>called</text>
     <mainVerb begin="2228" end="2234">called</mainVerb>
     <mainReferent begin="2142" end="2147">cause</mainReferent>
     <tokens>a physician should be called</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_40" begin="2365" end="2367">
     <text>be</text>
     <mainVerb begin="2365" end="2367">be</mainVerb>
     <mainReferent begin="2301" end="2308">showing</mainReferent>
     <tokens>joints if not clearly showing signs of improvement in two or three days should also be the of a physician 's visit as a fracture near a joint</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_41" begin="2449" end="2456">
     <text>treated</text>
     <mainVerb begin="2449" end="2456">treated</mainVerb>
     <tokens>correctly treated early</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_42" begin="2469" end="2475">
     <text>result</text>
     <mainVerb begin="2469" end="2475">result</mainVerb>
     <mainReferent begin="2239" end="2244">Pains</mainReferent>
     <tokens>Pains in the extremities particularly may result in permanent deformity</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_43" begin="2550" end="2557">
     <text>assumes</text>
     <mainVerb begin="2550" end="2557">assumes</mainVerb>
     <mainReferent begin="2596" end="2603">enforce</mainReferent>
     <tokens>if he himself assumes the medical responsibilities</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_44" begin="2596" end="2603">
     <text>enforce</text>
     <mainVerb begin="2596" end="2603">enforce</mainVerb>
     <mainReferent begin="2526" end="2534">director</mainReferent>
     <tokens>The camp physician director should enforce the rule</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_45" begin="2638" end="2642">
     <text>have</text>
     <mainVerb begin="2638" end="2642">have</mainVerb>
     <mainReferent begin="2622" end="2626">boys</mainReferent>
     <tokens>all boys do not have a daily movement of the bowels</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_46" begin="2675" end="2678">
     <text>see</text>
     <mainVerb begin="2675" end="2678">see</mainVerb>
     <mainReferent begin="2622" end="2626">boys</mainReferent>
     <tokens>that all boys see him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_47" begin="2705" end="2707">
     <text>be</text>
     <mainVerb begin="2705" end="2707">be</mainVerb>
     <mainReferent begin="2688" end="2690">he</mainReferent>
     <tokens>he should always be to receive such cases</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_48" begin="2741" end="2745">
     <text>give</text>
     <mainVerb begin="2741" end="2745">give</mainVerb>
     <mainReferent begin="2688" end="2690">he</mainReferent>
     <tokens>he give them the necessary treatment</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_49" begin="2813" end="2823">
     <text>illustrate</text>
     <mainVerb begin="2813" end="2823">illustrate</mainVerb>
     <mainReferent begin="2783" end="2791">drawings</mainReferent>
     <tokens>The drawings by Albert G. Wegener illustrate in a general way</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_50" begin="2859" end="2861">
     <text>is</text>
     <mainVerb begin="2859" end="2861">is</mainVerb>
     <mainReferent begin="2851" end="2858">trouble</mainReferent>
     <tokens>what the trouble is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_51" begin="2871" end="2876">
     <text>feels</text>
     <mainVerb begin="2871" end="2876">feels</mainVerb>
     <mainReferent begin="2867" end="2870">one</mainReferent>
     <tokens>when one feels a distinct persistent pain</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_52" begin="2996" end="2999">
     <text>are</text>
     <mainVerb begin="2996" end="2999">are</mainVerb>
     <mainReferent begin="2947" end="2952">pains</mainReferent>
     <tokens>Among healthy boys in camp thoracic pains other than those due to muscular strain are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_53" begin="3041" end="3052">
     <text>accompanied</text>
     <mainVerb begin="3041" end="3052">accompanied</mainVerb>
     <mainReferent begin="3153" end="3165">investigated</mainReferent>
     <tokens>especially if accompanied by a rise of temperature ( over 99.5 degrees ) not readily succumbing to rest in bed</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_54" begin="3153" end="3165">
     <text>investigated</text>
     <mainVerb begin="3153" end="3165">investigated</mainVerb>
     <mainReferent begin="2947" end="2952">pains</mainReferent>
     <tokens>thoracic pains other than those due to muscular strain when severe not readily succumbing to rest in bed should be investigated a physician</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_55" begin="3221" end="3229">
     <text>indicate</text>
     <mainVerb begin="3221" end="3229">indicate</mainVerb>
     <mainReferent begin="3187" end="3191">PAIN</mainReferent>
     <tokens>PAIN The accompanying diagrams indicate</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_56" begin="3250" end="3256">
     <text>looked</text>
     <mainVerb begin="3250" end="3256">looked</mainVerb>
     <mainReferent begin="3235" end="3242">ailment</mainReferent>
     <tokens>what ailment may be looked for</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_57" begin="3271" end="3273">
     <text>is</text>
     <mainVerb begin="3271" end="3273">is</mainVerb>
     <mainReferent begin="3287" end="3291">pain</mainReferent>
     <tokens>if there is a persistent pain</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_43.txt_58" begin="3989" end="3997">
     <text>indicate</text>
     <mainVerb begin="3989" end="3997">indicate</mainVerb>
     <mainReferent begin="3983" end="3988">pains</mainReferent>
     <tokens>Sharp abdominal pains indicate the following Ulcer cancer of stomach Disease of intestines</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
 </document>

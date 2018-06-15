@@ -6,540 +6,632 @@
     <mainVerb begin="9" end="16">caution</mainVerb>
     <mainReferent begin="0" end="8">Exercise</mainReferent>
     <tokens>Exercise caution throwing aside tin cans</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_2" begin="67" end="76">
     <text>remaining</text>
     <mainVerb begin="67" end="76">remaining</mainVerb>
     <mainReferent begin="59" end="65">matter</mainReferent>
     <tokens>remaining in the cans</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_3" begin="94" end="100">
     <text>decays</text>
     <mainVerb begin="94" end="100">decays</mainVerb>
     <mainReferent begin="59" end="65">matter</mainReferent>
     <tokens>The vegetable matter soon decays</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_4" begin="105" end="113">
     <text>attracts</text>
     <mainVerb begin="105" end="113">attracts</mainVerb>
     <mainReferent begin="59" end="65">matter</mainReferent>
     <tokens>The vegetable matter attracts flies</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_5" begin="121" end="125">
     <text>Have</text>
     <mainVerb begin="121" end="125">Have</mainVerb>
     <tokens>Have a place</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_6" begin="159" end="165">
     <text>buried</text>
     <mainVerb begin="159" end="165">buried</mainVerb>
     <mainReferent begin="147" end="151">cans</mainReferent>
     <tokens>where these cans may be buried with other refuse each day</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_7" begin="169" end="175">
     <text>burned</text>
     <mainVerb begin="169" end="175">burned</mainVerb>
     <mainReferent begin="147" end="151">cans</mainReferent>
     <tokens>these cans burned</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_8" begin="204" end="208">
     <text>Keep</text>
     <mainVerb begin="204" end="208">Keep</mainVerb>
     <tokens>Keep the ground</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_9" begin="221" end="232">
     <text>surrounding</text>
     <mainVerb begin="221" end="232">surrounding</mainVerb>
     <mainReferent begin="214" end="220">ground</mainReferent>
     <tokens>surrounding the kitchen free from all kinds of garbage or refuse</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_10" begin="297" end="302">
     <text>throw</text>
     <mainVerb begin="297" end="302">throw</mainVerb>
     <tokens>Do not throw dirty dish water promiscuously upon the ground</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_11" begin="351" end="354">
     <text>Dig</text>
     <mainVerb begin="351" end="354">Dig</mainVerb>
     <tokens>Dig a trench</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_12" begin="369" end="372">
     <text>put</text>
     <mainVerb begin="369" end="372">put</mainVerb>
     <tokens>put the water in this trench</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_13" begin="444" end="448">
     <text>upon</text>
     <mainVerb begin="444" end="448">upon</mainVerb>
     <mainReferent begin="408" end="416">chloride</mainReferent>
     <tokens>Sprinkle chloride of lime or a disinfectant upon it each day</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_14" begin="512" end="515">
     <text>dug</text>
     <mainVerb begin="512" end="515">dug</mainVerb>
     <mainReferent begin="496" end="500">well</mainReferent>
     <tokens>In a permanent camp a waste water well should be dug</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_15" begin="520" end="525">
     <text>lined</text>
     <mainVerb begin="520" end="525">lined</mainVerb>
     <mainReferent begin="496" end="500">well</mainReferent>
     <tokens>a waste water well lined with stone</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_16" begin="563" end="567">
     <text>laid</text>
     <mainVerb begin="563" end="567">laid</mainVerb>
     <mainReferent begin="548" end="552">pipe</mainReferent>
     <tokens>The drain pipe should be laid from the kitchen to the well</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_17" begin="615" end="625">
     <text>disappears</text>
     <mainVerb begin="615" end="625">disappears</mainVerb>
     <mainReferent begin="604" end="609">water</mainReferent>
     <tokens>This water soon disappears in the soil</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_18" begin="652" end="658">
     <text>become</text>
     <mainVerb begin="652" end="658">become</mainVerb>
     <mainReferent begin="604" end="609">water</mainReferent>
     <tokens>This water does not become a nuisance</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_19" begin="671" end="675">
     <text>Make</text>
     <mainVerb begin="671" end="675">Make</mainVerb>
     <tokens>Make sure</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_20" begin="695" end="697">
     <text>is</text>
     <mainVerb begin="695" end="697">is</mainVerb>
     <mainReferent begin="690" end="694">well</mainReferent>
     <tokens>that the well is not in line with the water supply of the camp</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_21" begin="783" end="792">
     <text>dissolved</text>
     <mainVerb begin="783" end="792">dissolved</mainVerb>
     <mainReferent begin="778" end="782">soda</mainReferent>
     <tokens>dissolved in the sink</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_22" begin="811" end="815">
     <text>help</text>
     <mainVerb begin="811" end="815">help</mainVerb>
     <mainReferent begin="755" end="761">potash</mainReferent>
     <tokens>A little potash some washing soda will help to keep the drain clean</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_23" begin="844" end="849">
     <text>Place</text>
     <mainVerb begin="844" end="849">Place</mainVerb>
     <tokens>Place barrels in different parts of the camp for refuse and scraps</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_24" begin="953" end="957">
     <text>make</text>
     <mainVerb begin="953" end="957">make</mainVerb>
     <mainReferent begin="914" end="918">coat</mainReferent>
     <tokens>A coat of whitewash or white paint will make them conspicuous</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_25" begin="1031" end="1038">
     <text>painted</text>
     <mainVerb begin="1031" end="1038">painted</mainVerb>
     <mainReferent begin="1014" end="1017">bit</mainReferent>
     <tokens>In one camp the following suggestive bit of verse was painted on the waste barrels vacuum</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_26" begin="1085" end="1087">
     <text>am</text>
     <mainVerb begin="1085" end="1087">am</mainVerb>
     <mainReferent begin="1073" end="1079">Barrel</mainReferent>
     <tokens>Ravenous Barrel I am all vacuum</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_27" begin="1120" end="1123">
     <text>get</text>
     <mainVerb begin="1120" end="1123">get</mainVerb>
     <mainReferent begin="1112" end="1113">I</mainReferent>
     <tokens>I never get enough</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_28" begin="1136" end="1140">
     <text>cram</text>
     <mainVerb begin="1136" end="1140">cram</mainVerb>
     <tokens>So cram me full of fruit peels , Old papers , trash and stuff</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_29" begin="1235" end="1239">
     <text>feel</text>
     <mainVerb begin="1235" end="1239">feel</mainVerb>
     <mainReferent begin="1233" end="1234">I</mainReferent>
     <tokens>Epicurean Barrel O how sorry I feel for a boy Who litters clean places with trash , Who throws away papers and fruit peels Which form my favorite hash</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_30" begin="1257" end="1264">
     <text>litters</text>
     <mainVerb begin="1257" end="1264">litters</mainVerb>
     <mainReferent begin="1246" end="1249">boy</mainReferent>
     <tokens>a boy litters clean places with trash , Who throws away papers and fruit peels Which form my favorite hash</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_31" begin="1295" end="1301">
     <text>throws</text>
     <mainVerb begin="1295" end="1301">throws</mainVerb>
     <mainReferent begin="1283" end="1288">trash</mainReferent>
     <tokens>trash throws away papers fruit peels</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_32" begin="1339" end="1343">
     <text>form</text>
     <mainVerb begin="1339" end="1343">form</mainVerb>
     <mainReferent begin="1324" end="1329">peels</mainReferent>
     <tokens>papers fruit peels form my favorite hash</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_33" begin="1406" end="1409">
     <text>set</text>
     <mainVerb begin="1406" end="1409">set</mainVerb>
     <mainReferent begin="1388" end="1395">barrels</mainReferent>
     <tokens>Waste Barrels These barrels should be set upon two strips of wood placed parallel</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_34" begin="1434" end="1440">
     <text>placed</text>
     <mainVerb begin="1434" end="1440">placed</mainVerb>
     <mainReferent begin="1419" end="1425">strips</mainReferent>
     <tokens>placed parallel</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_35" begin="1457" end="1464">
     <text>permits</text>
     <mainVerb begin="1457" end="1464">permits</mainVerb>
     <mainReferent begin="1451" end="1455">This</mainReferent>
     <tokens>This permits the air to pass beneath the barrel</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_36" begin="1504" end="1509">
     <text>keeps</text>
     <mainVerb begin="1504" end="1509">keeps</mainVerb>
     <mainReferent begin="1451" end="1455">This</mainReferent>
     <tokens>This keeps its bottom decaying by contact with the ground</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_37" begin="1586" end="1593">
     <text>emptied</text>
     <mainVerb begin="1586" end="1593">emptied</mainVerb>
     <mainReferent begin="1568" end="1575">barrels</mainReferent>
     <tokens>The barrels should be emptied daily</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_38" begin="1615" end="1621">
     <text>burned</text>
     <mainVerb begin="1615" end="1621">burned</mainVerb>
     <mainReferent begin="1568" end="1575">barrels</mainReferent>
     <tokens>the trash burned</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_39" begin="1669" end="1673">
     <text>make</text>
     <mainVerb begin="1669" end="1673">make</mainVerb>
     <mainReferent begin="1659" end="1663">camp</mainReferent>
     <tokens>A dirty carelessly kept untidy camp will make discipline order very difficult to attain</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_40" begin="1752" end="1759">
     <text>noticed</text>
     <mainVerb begin="1752" end="1759">noticed</mainVerb>
     <mainReferent begin="1659" end="1663">camp</mainReferent>
     <tokens>the influence will soon be noticed in the careless personal habits of the boys</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_41" begin="1812" end="1814">
     <text>is</text>
     <mainVerb begin="1812" end="1814">is</mainVerb>
     <mainReferent begin="1840" end="1845">value</mainReferent>
     <tokens>There is an educational moral value in cleanliness</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_42" begin="1868" end="1870">
     <text>is</text>
     <mainVerb begin="1868" end="1870">is</mainVerb>
     <mainReferent begin="1840" end="1845">value</mainReferent>
     <tokens>an educational moral value in cleanliness is only to that of good health</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_43" begin="1957" end="1962">
     <text>noted</text>
     <mainVerb begin="1957" end="1962">noted</mainVerb>
     <tokens>noted</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_44" begin="1974" end="1976">
     <text>is</text>
     <mainVerb begin="1974" end="1976">is</mainVerb>
     <mainReferent begin="1944" end="1951">Winslow</mainReferent>
     <tokens>Water Supply Dr. Charles E. A. Winslow the biologist is for the following statement</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_45" begin="2073" end="2075">
     <text>is</text>
     <mainVerb begin="2073" end="2075">is</mainVerb>
     <mainReferent begin="2023" end="2033">Conference</mainReferent>
     <tokens>[ Camp Conference p. 61 ] " The source of danger in water is always human animal</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_46" begin="2126" end="2130">
     <text>find</text>
     <mainVerb begin="2126" end="2130">find</mainVerb>
     <mainReferent begin="2123" end="2125">we</mainReferent>
     <tokens>Occasionally we find water through lead pipes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_47" begin="2144" end="2146">
     <text>is</text>
     <mainVerb begin="2144" end="2146">is</mainVerb>
     <mainReferent begin="2131" end="2136">water</mainReferent>
     <tokens>water is to drink on account of minerals dissolved on its way through the ground account of passage</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_48" begin="2183" end="2192">
     <text>dissolved</text>
     <mainVerb begin="2183" end="2192">dissolved</mainVerb>
     <mainReferent begin="2174" end="2182">minerals</mainReferent>
     <tokens>dissolved on its way through the ground</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_49" begin="2284" end="2286">
     <text>is</text>
     <mainVerb begin="2284" end="2286">is</mainVerb>
     <mainReferent begin="2123" end="2125">we</mainReferent>
     <tokens>the danger is never from ordinary decomposing vegetable matter</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_50" begin="2345" end="2349">
     <text>have</text>
     <mainVerb begin="2345" end="2349">have</mainVerb>
     <mainReferent begin="2341" end="2344">you</mainReferent>
     <tokens>If you have to choose between a bright , clear stream which may be polluted at some point above , and a pond full of dead leaves and peaty matter , but which you can inspect all around and find free from contamination</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_51" begin="2402" end="2404">
     <text>be</text>
     <mainVerb begin="2402" end="2404">be</mainVerb>
     <mainReferent begin="2385" end="2391">stream</mainReferent>
     <tokens>a bright clear stream may be at some point above a pond full of dead leaves peaty matter</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_52" begin="2503" end="2510">
     <text>inspect</text>
     <mainVerb begin="2503" end="2510">inspect</mainVerb>
     <mainReferent begin="2385" end="2391">stream</mainReferent>
     <tokens>which you can inspect all around</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_53" begin="2527" end="2531">
     <text>find</text>
     <mainVerb begin="2527" end="2531">find</mainVerb>
     <mainReferent begin="2495" end="2498">you</mainReferent>
     <tokens>you find free from contamination</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_54" begin="2557" end="2563">
     <text>choose</text>
     <mainVerb begin="2557" end="2563">choose</mainVerb>
     <tokens>choose the pond</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_55" begin="2596" end="2598">
     <text>is</text>
     <mainVerb begin="2596" end="2598">is</mainVerb>
     <mainReferent begin="2593" end="2595">it</mainReferent>
     <tokens>Even in the woods it is not to find surface waters</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_56" begin="2647" end="2656">
     <text>protected</text>
     <mainVerb begin="2647" end="2656">protected</mainVerb>
     <mainReferent begin="2624" end="2630">waters</mainReferent>
     <tokens>surface waters are surely protected</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_57" begin="2684" end="2687">
     <text>are</text>
     <mainVerb begin="2684" end="2687">are</mainVerb>
     <mainReferent begin="2663" end="2670">streams</mainReferent>
     <tokens>streams particularly are dangerous of water supply</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_58" begin="2726" end="2730">
     <text>have</text>
     <mainVerb begin="2726" end="2730">have</mainVerb>
     <tokens>have</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_59" begin="2736" end="2739">
     <text>got</text>
     <mainVerb begin="2736" end="2739">got</mainVerb>
     <mainReferent begin="2740" end="2743">rid</mainReferent>
     <tokens>got</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_60" begin="2775" end="2783">
     <text>purifies</text>
     <mainVerb begin="2775" end="2783">purifies</mainVerb>
     <mainReferent begin="2769" end="2774">water</mainReferent>
     <tokens>that running water purifies itself</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_61" begin="2798" end="2806">
     <text>standing</text>
     <mainVerb begin="2798" end="2806">standing</mainVerb>
     <mainReferent begin="2792" end="2794">It</mainReferent>
     <tokens>It is standing water to die out</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_62" begin="2820" end="2828">
     <text>purifies</text>
     <mainVerb begin="2820" end="2828">purifies</mainVerb>
     <mainReferent begin="2808" end="2813">water</mainReferent>
     <tokens>water purifies itself if anything</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_63" begin="2874" end="2876">
     <text>is</text>
     <mainVerb begin="2874" end="2876">is</mainVerb>
     <mainReferent begin="2888" end="2894">chance</mainReferent>
     <tokens>for in stagnation there is much more chance for the disease germs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_64" begin="2982" end="2987">
     <text>carry</text>
     <mainVerb begin="2982" end="2987">carry</mainVerb>
     <mainReferent begin="3055" end="3060">water</mainReferent>
     <tokens>unless you can carry out a rather careful exploration of their surroundings</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_65" begin="3045" end="3047">
     <text>is</text>
     <mainVerb begin="3045" end="3047">is</mainVerb>
     <mainReferent begin="2982" end="2987">carry</mainReferent>
     <tokens>Better than either a pond or stream is ground from a well or spring</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_66" begin="3102" end="3104">
     <text>is</text>
     <mainVerb begin="3102" end="3104">is</mainVerb>
     <mainReferent begin="3091" end="3095">that</mainReferent>
     <tokens>though that again is not necessarily</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_67" begin="3140" end="3142">
     <text>is</text>
     <mainVerb begin="3140" end="3142">is</mainVerb>
     <mainReferent begin="3135" end="3139">well</mainReferent>
     <tokens>If the well is in good sandy soil with no cracks or fissures</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_68" begin="3211" end="3215">
     <text>been</text>
     <mainVerb begin="3211" end="3215">been</mainVerb>
     <mainReferent begin="3196" end="3201">water</mainReferent>
     <tokens>even water has been</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_69" begin="3237" end="3245">
     <text>purified</text>
     <mainVerb begin="3237" end="3245">purified</mainVerb>
     <mainReferent begin="3196" end="3201">water</mainReferent>
     <tokens>even water may be well purified</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_70" begin="3250" end="3254">
     <text>made</text>
     <mainVerb begin="3250" end="3254">made</mainVerb>
     <mainReferent begin="3196" end="3201">water</mainReferent>
     <tokens>even water made safe to drink</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_71" begin="3347" end="3353">
     <text>travel</text>
     <mainVerb begin="3347" end="3353">travel</mainVerb>
     <mainReferent begin="3320" end="3333">contaminating</mainReferent>
     <tokens>In a clayey or rocky region on the other hand contaminating material may travel for considerable distance under ground</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_72" begin="3416" end="3425">
     <text>protected</text>
     <mainVerb begin="3416" end="3425">protected</mainVerb>
     <mainReferent begin="3408" end="3412">well</mainReferent>
     <tokens>Even if your well is protected below</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_73" begin="3471" end="3473">
     <text>is</text>
     <mainVerb begin="3471" end="3473">is</mainVerb>
     <mainReferent begin="3450" end="3455">point</mainReferent>
     <tokens>a very important point to look after is the from the surface</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_74" begin="3508" end="3515">
     <text>believe</text>
     <mainVerb begin="3508" end="3515">believe</mainVerb>
     <mainReferent begin="3506" end="3507">I</mainReferent>
     <tokens>I believe</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_75" begin="3556" end="3559">
     <text>are</text>
     <mainVerb begin="3556" end="3559">are</mainVerb>
     <mainReferent begin="3521" end="3526">cases</mainReferent>
     <tokens>more cases of typhoid fever from wells are to surface pollution than to the character of the water itself</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_76" begin="3634" end="3636">
     <text>is</text>
     <mainVerb begin="3634" end="3636">is</mainVerb>
     <mainReferent begin="3629" end="3633">This</mainReferent>
     <tokens>This is a</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_77" begin="3671" end="3675">
     <text>done</text>
     <mainVerb begin="3671" end="3675">done</mainVerb>
     <mainReferent begin="3639" end="3645">danger</mainReferent>
     <tokens>can of course be done away with protection of the well from surface drainage seeing</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_78" begin="3776" end="3783">
     <text>allowed</text>
     <mainVerb begin="3776" end="3783">allowed</mainVerb>
     <mainReferent begin="3764" end="3768">wash</mainReferent>
     <tokens>that the surface wash is not allowed to drain toward it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_79" begin="3818" end="3827">
     <text>protected</text>
     <mainVerb begin="3818" end="3827">protected</mainVerb>
     <mainReferent begin="3764" end="3768">wash</mainReferent>
     <tokens>that it is protected a tight covering from the entrance of its own waste water</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_80" begin="3916" end="3923">
     <text>secured</text>
     <mainVerb begin="3916" end="3923">secured</mainVerb>
     <mainReferent begin="3899" end="3904">water</mainReferent>
     <tokens>If good water can not be secured in any of these ways</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_81" begin="3964" end="3972">
     <text>purified</text>
     <mainVerb begin="3964" end="3972">purified</mainVerb>
     <mainReferent begin="3950" end="3955">water</mainReferent>
     <tokens>the water must be purified</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_82" begin="3986" end="3990">
     <text>said</text>
     <mainVerb begin="3986" end="3990">said</mainVerb>
     <mainReferent begin="3974" end="3976">It</mainReferent>
     <tokens>It has been said not repentance filtering through either a Pasteur or a Berkefeld filter or best of all boiling "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_83" begin="4005" end="4011">
     <text>desire</text>
     <mainVerb begin="4005" end="4011">desire</mainVerb>
     <mainReferent begin="4002" end="4004">we</mainReferent>
     <tokens>what we desire in water supply</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_84" begin="4028" end="4030">
     <text>is</text>
     <mainVerb begin="4028" end="4030">is</mainVerb>
     <mainReferent begin="4005" end="4011">desire</mainReferent>
     <tokens>that is not repentance</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_85" begin="4080" end="4083">
     <text>get</text>
     <mainVerb begin="4080" end="4083">get</mainVerb>
     <mainReferent begin="4069" end="4072">you</mainReferent>
     <tokens>if you can not get pristine innocence</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_86" begin="4123" end="4129">
     <text>secure</text>
     <mainVerb begin="4123" end="4129">secure</mainVerb>
     <mainReferent begin="4104" end="4107">you</mainReferent>
     <tokens>but you can at least secure</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_87" begin="4136" end="4140">
     <text>meet</text>
     <mainVerb begin="4136" end="4140">meet</mainVerb>
     <mainReferent begin="4130" end="4135">works</mainReferent>
     <tokens>works meet for repentance</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_88" begin="4161" end="4165">
     <text>make</text>
     <mainVerb begin="4161" end="4165">make</mainVerb>
     <mainReferent begin="4130" end="4135">works</mainReferent>
     <tokens>works make the water safe</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_89" begin="4273" end="4277">
     <text>take</text>
     <mainVerb begin="4273" end="4277">take</mainVerb>
     <mainReferent begin="4244" end="4250">either</mainReferent>
     <tokens>either of those filters will take out bacteria very satisfactory</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_90" begin="4308" end="4315">
     <text>filters</text>
     <mainVerb begin="4308" end="4315">filters</mainVerb>
     <mainReferent begin="4302" end="4307">other</mainReferent>
     <tokens>while no other filters</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_91" begin="4323" end="4327">
     <text>know</text>
     <mainVerb begin="4323" end="4327">know</mainVerb>
     <mainReferent begin="4321" end="4322">I</mainReferent>
     <tokens>that I know of will by various chemical disinfectants , not any of them</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_8.txt_92" begin="4458" end="4465">
     <text>destroy</text>
     <mainVerb begin="4458" end="4465">destroy</mainVerb>
     <mainReferent begin="4431" end="4438">boiling</mainReferent>
     <tokens>boiling will surely destroy all disease germs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
 </document>

@@ -5,577 +5,675 @@
     <text>adjust</text>
     <mainVerb begin="105" end="111">adjust</mainVerb>
     <tokens>Afterward adjust the roll in the camera</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_2" begin="139" end="142">
     <text>see</text>
     <mainVerb begin="139" end="142">see</mainVerb>
     <tokens>see</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_3" begin="164" end="170">
     <text>placed</text>
     <mainVerb begin="164" end="170">placed</mainVerb>
     <mainReferent begin="148" end="150">it</mainReferent>
     <tokens>that it is properly placed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_4" begin="180" end="184">
     <text>turn</text>
     <mainVerb begin="180" end="184">turn</mainVerb>
     <mainReferent begin="148" end="150">it</mainReferent>
     <tokens>it will turn easily</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_5" begin="204" end="210">
     <text>loosen</text>
     <mainVerb begin="204" end="210">loosen</mainVerb>
     <mainReferent begin="200" end="203">you</mainReferent>
     <tokens>before you loosen the end of the film</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_6" begin="240" end="246">
     <text>detach</text>
     <mainVerb begin="240" end="246">detach</mainVerb>
     <mainReferent begin="236" end="239">you</mainReferent>
     <tokens>If you detach the gummed paper</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_7" begin="270" end="275">
     <text>keeps</text>
     <mainVerb begin="270" end="275">keeps</mainVerb>
     <mainReferent begin="258" end="263">paper</mainReferent>
     <tokens>the gummed paper keeps the film tightly wrapped placing the roll in the camera</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_8" begin="361" end="367">
     <text>spring</text>
     <mainVerb begin="361" end="367">spring</mainVerb>
     <mainReferent begin="351" end="355">film</mainReferent>
     <tokens>the whole film will spring loose from its spool</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_9" begin="394" end="400">
     <text>become</text>
     <mainVerb begin="394" end="400">become</mainVerb>
     <mainReferent begin="351" end="355">film</mainReferent>
     <tokens>the whole film become light-struck</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_10" begin="429" end="435">
     <text>adjust</text>
     <mainVerb begin="429" end="435">adjust</mainVerb>
     <mainReferent begin="421" end="424">you</mainReferent>
     <tokens>before you can adjust it</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_11" begin="510" end="512">
     <text>is</text>
     <mainVerb begin="510" end="512">is</mainVerb>
     <mainReferent begin="507" end="509">it</mainReferent>
     <tokens>it is well to learn the number of</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_12" begin="531" end="539">
     <text>remember</text>
     <mainVerb begin="531" end="539">remember</mainVerb>
     <mainReferent begin="507" end="509">it</mainReferent>
     <tokens>it remember</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_13" begin="555" end="560">
     <text>turns</text>
     <mainVerb begin="555" end="560">turns</mainVerb>
     <mainReferent begin="456" end="461">Turns</mainReferent>
     <tokens>= Count the Turns of the Key = With your first roll of films it is well to learn and remember the number of turns</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_14" begin="570" end="574">
     <text>give</text>
     <mainVerb begin="570" end="574">give</mainVerb>
     <mainReferent begin="561" end="564">you</mainReferent>
     <tokens>you must give the key to bring a new exposure into place</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_15" begin="641" end="646">
     <text>takes</text>
     <mainVerb begin="641" end="646">takes</mainVerb>
     <mainReferent begin="628" end="634">camera</mainReferent>
     <tokens>my camera takes a four-by-five picture</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_16" begin="694" end="697">
     <text>are</text>
     <mainVerb begin="694" end="697">are</mainVerb>
     <mainReferent begin="676" end="681">turns</mainReferent>
     <tokens>With my camera which takes a four-by-five picture five turns of the key are between the exposures</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_17" begin="731" end="738">
     <text>Knowing</text>
     <mainVerb begin="731" end="738">Knowing</mainVerb>
     <mainReferent begin="745" end="746">I</mainReferent>
     <tokens>Knowing this</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_18" begin="747" end="752">
     <text>count</text>
     <mainVerb begin="747" end="752">count</mainVerb>
     <mainReferent begin="745" end="746">I</mainReferent>
     <tokens>I count</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_19" begin="774" end="778">
     <text>turn</text>
     <mainVerb begin="774" end="778">turn</mainVerb>
     <mainReferent begin="768" end="773">fifth</mainReferent>
     <tokens>when the fifth turn</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_20" begin="782" end="789">
     <text>reached</text>
     <mainVerb begin="782" end="789">reached</mainVerb>
     <mainReferent begin="745" end="746">I</mainReferent>
     <tokens>is reached</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_21" begin="792" end="800">
     <text>complete</text>
     <mainVerb begin="792" end="800">complete</mainVerb>
     <mainReferent begin="790" end="791">I</mainReferent>
     <tokens>I complete it slowly</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_22" begin="812" end="820">
     <text>watching</text>
     <mainVerb begin="812" end="820">watching</mainVerb>
     <mainReferent begin="790" end="791">I</mainReferent>
     <tokens>watching carefully the while for the new number to appear in the little red celluloid window</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_23" begin="931" end="938">
     <text>hurried</text>
     <mainVerb begin="931" end="938">hurried</mainVerb>
     <tokens>even when hurried excited</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_24" begin="960" end="964">
     <text>lose</text>
     <mainVerb begin="960" end="964">lose</mainVerb>
     <mainReferent begin="951" end="952">I</mainReferent>
     <tokens>In this way excited I do not lose an exposure turning the key once too often</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_25" begin="1020" end="1028">
     <text>remember</text>
     <mainVerb begin="1020" end="1028">remember</mainVerb>
     <mainReferent begin="1013" end="1019">Always</mainReferent>
     <tokens>Always remember to place a new exposure _ directly _ taking a picture to make sure</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_26" begin="1121" end="1125">
     <text>take</text>
     <mainVerb begin="1121" end="1125">take</mainVerb>
     <mainReferent begin="1107" end="1110">you</mainReferent>
     <tokens>that you will not take two on one film</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_27" begin="1201" end="1204">
     <text>are</text>
     <mainVerb begin="1201" end="1204">are</mainVerb>
     <mainReferent begin="1210" end="1216">things</mainReferent>
     <tokens>for there are four things taking a photograph counting</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_28" begin="1226" end="1228">
     <text>be</text>
     <mainVerb begin="1226" end="1228">be</mainVerb>
     <mainReferent begin="1217" end="1220">one</mainReferent>
     <tokens>one must be of with most cameras</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_29" begin="1309" end="1313">
     <text>know</text>
     <mainVerb begin="1309" end="1313">know</mainVerb>
     <mainReferent begin="1300" end="1303">you</mainReferent>
     <tokens>you will know</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_30" begin="1332" end="1339">
     <text>omitted</text>
     <mainVerb begin="1332" end="1339">omitted</mainVerb>
     <mainReferent begin="1317" end="1320">any</mainReferent>
     <tokens>if any have been omitted</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_31" begin="1358" end="1361">
     <text>See</text>
     <mainVerb begin="1358" end="1361">See</mainVerb>
     <tokens>making ready for a new subject count again ( 1 ) See</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_32" begin="1384" end="1386">
     <text>is</text>
     <mainVerb begin="1384" end="1386">is</mainVerb>
     <mainReferent begin="1375" end="1383">exposure</mainReferent>
     <tokens>that a fresh exposure is in place</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_33" begin="1414" end="1417">
     <text>See</text>
     <mainVerb begin="1414" end="1417">See</mainVerb>
     <tokens>( 2 ) See</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_34" begin="1447" end="1455">
     <text>adjusted</text>
     <mainVerb begin="1447" end="1455">adjusted</mainVerb>
     <mainReferent begin="1427" end="1434">shutter</mainReferent>
     <tokens>that the shutter is properly adjusted for instantaneous ( or time ) exposure</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_35" begin="1522" end="1525">
     <text>See</text>
     <mainVerb begin="1522" end="1525">See</mainVerb>
     <tokens>( 3 ) See</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_36" begin="1549" end="1552">
     <text>set</text>
     <mainVerb begin="1549" end="1552">set</mainVerb>
     <mainReferent begin="1541" end="1545">stop</mainReferent>
     <tokens>that diaphragm stop is set at the proper opening for the light you will have</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_37" begin="1609" end="1613">
     <text>have</text>
     <mainVerb begin="1609" end="1613">have</mainVerb>
     <mainReferent begin="1600" end="1603">you</mainReferent>
     <tokens>you will have</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_38" begin="1632" end="1635">
     <text>See</text>
     <mainVerb begin="1632" end="1635">See</mainVerb>
     <tokens>( 4 ) See</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_39" begin="1667" end="1675">
     <text>focussed</text>
     <mainVerb begin="1667" end="1675">focussed</mainVerb>
     <mainReferent begin="1645" end="1653">distance</mainReferent>
     <tokens>that the distance is correctly focussed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_40" begin="1686" end="1689">
     <text>are</text>
     <mainVerb begin="1686" end="1689">are</mainVerb>
     <mainReferent begin="1690" end="1697">cameras</mainReferent>
     <tokens>There are cameras however</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_41" begin="1713" end="1716">
     <text>are</text>
     <mainVerb begin="1713" end="1716">are</mainVerb>
     <mainReferent begin="1690" end="1697">cameras</mainReferent>
     <tokens>cameras however are of universal focus</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_42" begin="1747" end="1751">
     <text>need</text>
     <mainVerb begin="1747" end="1751">need</mainVerb>
     <mainReferent begin="1690" end="1697">cameras</mainReferent>
     <tokens>cameras however do not need adjustment</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_43" begin="1775" end="1785">
     <text>convenient</text>
     <mainVerb begin="1775" end="1785">convenient</mainVerb>
     <mainReferent begin="1765" end="1770">These</mainReferent>
     <tokens>These are convenient ones for the trail</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_44" begin="1814" end="1817">
     <text>are</text>
     <mainVerb begin="1814" end="1817">are</mainVerb>
     <mainReferent begin="1809" end="1813">they</mainReferent>
     <tokens>as they are always</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_45" begin="1843" end="1847">
     <text>used</text>
     <mainVerb begin="1843" end="1847">used</mainVerb>
     <mainReferent begin="1809" end="1813">they</mainReferent>
     <tokens>they can be used quickly</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_46" begin="1875" end="1878">
     <text>are</text>
     <mainVerb begin="1875" end="1878">are</mainVerb>
     <mainReferent begin="1870" end="1874">they</mainReferent>
     <tokens>they are also to carry</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_47" begin="1997" end="1999">
     <text>is</text>
     <mainVerb begin="1997" end="1999">is</mainVerb>
     <mainReferent begin="1978" end="1984">taking</mainReferent>
     <tokens>when taking photographs is</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_48" begin="2050" end="2052">
     <text>is</text>
     <mainVerb begin="2050" end="2052">is</mainVerb>
     <mainReferent begin="1978" end="1984">taking</mainReferent>
     <tokens>taking photographs especially is this so when on the trail</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_49" begin="2097" end="2099">
     <text>is</text>
     <mainVerb begin="2097" end="2099">is</mainVerb>
     <mainReferent begin="2090" end="2096">supply</mainReferent>
     <tokens>for your supply is then necessarily</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_50" begin="2188" end="2198">
     <text>photograph</text>
     <mainVerb begin="2188" end="2198">photograph</mainVerb>
     <mainReferent begin="2174" end="2182">amateurs</mainReferent>
     <tokens>Merely for the sake of using the new toy many amateurs will photograph subjects</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_51" begin="2213" end="2216">
     <text>are</text>
     <mainVerb begin="2213" end="2216">are</mainVerb>
     <mainReferent begin="2199" end="2207">subjects</mainReferent>
     <tokens>subjects are not of the slightest interest to any one , and very often , when a scene or object does present itself that is well worth while , all the films will have been wasted and no picture can be taken</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_52" begin="2305" end="2312">
     <text>present</text>
     <mainVerb begin="2305" end="2312">present</mainVerb>
     <mainReferent begin="2269" end="2274">often</mainReferent>
     <tokens>when a scene object does present itself</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_53" begin="2325" end="2327">
     <text>is</text>
     <mainVerb begin="2325" end="2327">is</mainVerb>
     <mainReferent begin="2320" end="2324">that</mainReferent>
     <tokens>that is well</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_54" begin="2376" end="2382">
     <text>wasted</text>
     <mainVerb begin="2376" end="2382">wasted</mainVerb>
     <mainReferent begin="2320" end="2324">that</mainReferent>
     <tokens>that while all the films will have been wasted</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_55" begin="2405" end="2410">
     <text>taken</text>
     <mainVerb begin="2405" end="2410">taken</mainVerb>
     <mainReferent begin="2320" end="2324">that</mainReferent>
     <tokens>no picture can be taken</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_56" begin="2468" end="2470">
     <text>is</text>
     <mainVerb begin="2468" end="2470">is</mainVerb>
     <mainReferent begin="2428" end="2436">Pictures</mainReferent>
     <tokens>= Plan Your Pictures to Illustrate Your Trip = It is a good to plan your pictures</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_57" begin="2523" end="2533">
     <text>illustrate</text>
     <mainVerb begin="2523" end="2533">illustrate</mainVerb>
     <mainReferent begin="2513" end="2517">they</mainReferent>
     <tokens>so that they will illustrate your trip beginning to end</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_58" begin="2594" end="2602">
     <text>starting</text>
     <mainVerb begin="2594" end="2602">starting</mainVerb>
     <mainReferent begin="2588" end="2593">party</mainReferent>
     <tokens>starting on the trail , another of the country through which you pass , with , perhaps , one or two</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_59" begin="2659" end="2663">
     <text>pass</text>
     <mainVerb begin="2659" end="2663">pass</mainVerb>
     <mainReferent begin="2655" end="2658">you</mainReferent>
     <tokens>of the country through which you pass</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_60" begin="2692" end="2699">
     <text>figures</text>
     <mainVerb begin="2692" end="2699">figures</mainVerb>
     <mainReferent begin="2570" end="2579">snap-shot</mainReferent>
     <tokens>A snap-shot of your party starting on the trail , another of the country through which you pass , with , perhaps , one or two figures in it</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_61" begin="2738" end="2742">
     <text>used</text>
     <mainVerb begin="2738" end="2742">used</mainVerb>
     <mainReferent begin="2732" end="2737">films</mainReferent>
     <tokens>used on objects of interest</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_62" begin="2767" end="2772">
     <text>found</text>
     <mainVerb begin="2767" end="2772">found</mainVerb>
     <mainReferent begin="2570" end="2579">snap-shot</mainReferent>
     <tokens>the remainder of the films used on objects of interest found on the way</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_63" begin="2796" end="2802">
     <text>secure</text>
     <mainVerb begin="2796" end="2802">secure</mainVerb>
     <mainReferent begin="2788" end="2791">you</mainReferent>
     <tokens>If you can secure pictures of any wild animals you may see</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_64" begin="2841" end="2844">
     <text>see</text>
     <mainVerb begin="2841" end="2844">see</mainVerb>
     <mainReferent begin="2833" end="2836">you</mainReferent>
     <tokens>you may see</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_65" begin="2856" end="2860">
     <text>make</text>
     <mainVerb begin="2856" end="2860">make</mainVerb>
     <mainReferent begin="2846" end="2850">they</mainReferent>
     <tokens>they will make the series doubly interesting valuable</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_66" begin="2915" end="2917">
     <text>go</text>
     <mainVerb begin="2915" end="2917">go</mainVerb>
     <mainReferent begin="2911" end="2914">you</mainReferent>
     <tokens>When you go into camp a view of the camp</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_67" begin="2957" end="2965">
     <text>included</text>
     <mainVerb begin="2957" end="2965">included</mainVerb>
     <mainReferent begin="2915" end="2917">go</mainReferent>
     <tokens>should be included</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_68" begin="2990" end="2997">
     <text>printed</text>
     <mainVerb begin="2990" end="2997">printed</mainVerb>
     <mainReferent begin="2977" end="2985">pictures</mainReferent>
     <tokens>When the pictures are printed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_69" begin="2998" end="3003">
     <text>write</text>
     <mainVerb begin="2998" end="3003">write</mainVerb>
     <mainReferent begin="2990" end="2997">printed</mainReferent>
     <tokens>write on the back of each what it represents , where taken , and the date trustworthy reminders</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_70" begin="3033" end="3043">
     <text>represents</text>
     <mainVerb begin="3033" end="3043">represents</mainVerb>
     <mainReferent begin="3029" end="3031">it</mainReferent>
     <tokens>each it represents</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_71" begin="3051" end="3056">
     <text>taken</text>
     <mainVerb begin="3051" end="3056">taken</mainVerb>
     <tokens>where taken</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_72" begin="3087" end="3089">
     <text>be</text>
     <mainVerb begin="3087" end="3089">be</mainVerb>
     <mainReferent begin="3072" end="3076">they</mainReferent>
     <tokens>they will then be valuable trustworthy reminders</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_73" begin="3161" end="3165">
     <text>Look</text>
     <mainVerb begin="3161" end="3165">Look</mainVerb>
     <mainReferent begin="3145" end="3156">Backgrounds</mainReferent>
     <tokens>= Backgrounds = Look for the best view of a subject using your camera</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_74" begin="3229" end="3231">
     <text>is</text>
     <mainVerb begin="3229" end="3231">is</mainVerb>
     <mainReferent begin="3242" end="3248">choice</mainReferent>
     <tokens>there is always a choice</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_75" begin="3263" end="3265">
     <text>be</text>
     <mainVerb begin="3263" end="3265">be</mainVerb>
     <mainReferent begin="3254" end="3258">side</mainReferent>
     <tokens>One side may be much more more characteristic than the other</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_76" begin="3332" end="3336">
     <text>show</text>
     <mainVerb begin="3332" end="3336">show</mainVerb>
     <mainReferent begin="3276" end="3284">pleasing</mainReferent>
     <tokens>One side may show interesting details more plainly</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_77" begin="3384" end="3391">
     <text>studied</text>
     <mainVerb begin="3384" end="3391">studied</mainVerb>
     <mainReferent begin="3375" end="3378">you</mainReferent>
     <tokens>If you have studied</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_78" begin="3392" end="3399">
     <text>drawing</text>
     <mainVerb begin="3392" end="3399">drawing</mainVerb>
     <tokens>drawing you</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_79" begin="3409" end="3411">
     <text>be</text>
     <mainVerb begin="3409" end="3411">be</mainVerb>
     <mainReferent begin="3384" end="3391">studied</mainReferent>
     <tokens>will be also to find the view</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_80" begin="3446" end="3451">
     <text>makes</text>
     <mainVerb begin="3446" end="3451">makes</mainVerb>
     <mainReferent begin="3435" end="3439">view</mainReferent>
     <tokens>the view makes the best composition</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_81" begin="3504" end="3514">
     <text>considered</text>
     <mainVerb begin="3504" end="3514">considered</mainVerb>
     <mainReferent begin="3478" end="3488">background</mainReferent>
     <tokens>The background too must be considered and the position of the sun</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_82" begin="3601" end="3603">
     <text>is</text>
     <mainVerb begin="3601" end="3603">is</mainVerb>
     <mainReferent begin="3593" end="3600">foliage</mainReferent>
     <tokens>Near-by foliage is not for figures</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_83" begin="3636" end="3644">
     <text>confused</text>
     <mainVerb begin="3636" end="3644">confused</mainVerb>
     <mainReferent begin="3626" end="3628">it</mainReferent>
     <tokens>it is too confused</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_84" begin="3667" end="3673">
     <text>mingle</text>
     <mainVerb begin="3667" end="3673">mingle</mainVerb>
     <mainReferent begin="3626" end="3628">it</mainReferent>
     <tokens>the figures will mingle with it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_85" begin="3737" end="3744">
     <text>slipped</text>
     <mainVerb begin="3737" end="3744">slipped</mainVerb>
     <mainReferent begin="3708" end="3721">portrait-lens</mainReferent>
     <tokens>the adjustable portrait-lens can be slipped over the other</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_86" begin="3766" end="3773">
     <text>obviate</text>
     <mainVerb begin="3766" end="3773">obviate</mainVerb>
     <mainReferent begin="3708" end="3721">portrait-lens</mainReferent>
     <tokens>Sometimes the adjustable portrait-lens will obviate that trouble blurring everything not in exact focus</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_87" begin="3850" end="3855">
     <text>allow</text>
     <mainVerb begin="3850" end="3855">allow</mainVerb>
     <mainReferent begin="3708" end="3721">portrait-lens</mainReferent>
     <tokens>this lens will allow you to stand</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_88" begin="3870" end="3876">
     <text>nearer</text>
     <mainVerb begin="3870" end="3876">nearer</mainVerb>
     <tokens>nearer the object</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_89" begin="3895" end="3899">
     <text>make</text>
     <mainVerb begin="3895" end="3899">make</mainVerb>
     <mainReferent begin="3856" end="3859">you</mainReferent>
     <tokens>you so make it larger on the film</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_90" begin="3934" end="3942">
     <text>intended</text>
     <mainVerb begin="3934" end="3942">intended</mainVerb>
     <mainReferent begin="3923" end="3925">It</mainReferent>
     <tokens>It is not intended for distant views</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_91" begin="3987" end="3989">
     <text>be</text>
     <mainVerb begin="3987" end="3989">be</mainVerb>
     <mainReferent begin="3969" end="3975">camera</mainReferent>
     <tokens>the camera should not be more than six from the subject when it is used</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_92" begin="4038" end="4042">
     <text>used</text>
     <mainVerb begin="4038" end="4042">used</mainVerb>
     <mainReferent begin="4032" end="4034">it</mainReferent>
     <tokens>the subject when it is used</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_93" begin="4071" end="4076">
     <text>makes</text>
     <mainVerb begin="4071" end="4076">makes</mainVerb>
     <mainReferent begin="4065" end="4070">water</mainReferent>
     <tokens>Quiet water makes an excellent background also distant foliage hills flat fields meadows</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_94" begin="4173" end="4181">
     <text>obtained</text>
     <mainVerb begin="4173" end="4181">obtained</mainVerb>
     <mainReferent begin="4160" end="4165">These</mainReferent>
     <tokens>These may be obtained for figures</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_95" begin="4226" end="4230">
     <text>want</text>
     <mainVerb begin="4226" end="4230">want</mainVerb>
     <mainReferent begin="4222" end="4225">you</mainReferent>
     <tokens>you want to photograph most</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_96" begin="4250" end="4253">
     <text>are</text>
     <mainVerb begin="4250" end="4253">are</mainVerb>
     <mainReferent begin="4160" end="4165">These</mainReferent>
     <tokens>often the very things are in the woods with foliage close to all around them then</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_97" begin="4332" end="4334">
     <text>do</text>
     <mainVerb begin="4332" end="4334">do</mainVerb>
     <mainReferent begin="4316" end="4319">you</mainReferent>
     <tokens>you must simply do the best you under the circumstances</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_54.txt_98" begin="4349" end="4352">
     <text>can</text>
     <mainVerb begin="4349" end="4352">can</mainVerb>
     <tokens>can</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
 </document>

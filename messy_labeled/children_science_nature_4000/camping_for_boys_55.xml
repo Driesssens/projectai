@@ -6,471 +6,552 @@
     <mainVerb begin="7" end="11">keep</mainVerb>
     <mainReferent begin="3" end="6">you</mainReferent>
     <tokens>If you keep your head getting hot</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_2" begin="44" end="48">
     <text>keep</text>
     <mainVerb begin="44" end="48">keep</mainVerb>
     <mainReferent begin="3" end="6">you</mainReferent>
     <tokens>you keep your feet dry</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_3" begin="76" end="78">
     <text>be</text>
     <mainVerb begin="76" end="78">be</mainVerb>
     <tokens>there will be little of sickness</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_4" begin="122" end="126">
     <text>gets</text>
     <mainVerb begin="122" end="126">gets</mainVerb>
     <mainReferent begin="131" end="134">hot</mainReferent>
     <tokens>gets</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_5" begin="136" end="139">
     <text>put</text>
     <mainVerb begin="136" end="139">put</mainVerb>
     <tokens>If your head too hot put green leaves inside your hat</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_6" begin="188" end="190">
     <text>is</text>
     <mainVerb begin="188" end="190">is</mainVerb>
     <mainReferent begin="181" end="187">throat</mainReferent>
     <tokens>If your throat is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_7" begin="211" end="214">
     <text>get</text>
     <mainVerb begin="211" end="214">get</mainVerb>
     <mainReferent begin="181" end="187">throat</mainReferent>
     <tokens>you can get no water</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_8" begin="225" end="228">
     <text>put</text>
     <mainVerb begin="225" end="228">put</mainVerb>
     <tokens>put a pebble in your mouth</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_9" begin="264" end="269">
     <text>start</text>
     <mainVerb begin="264" end="269">start</mainVerb>
     <mainReferent begin="254" end="258">This</mainReferent>
     <tokens>This will start the saliva</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_10" begin="285" end="291">
     <text>quench</text>
     <mainVerb begin="285" end="291">quench</mainVerb>
     <mainReferent begin="254" end="258">This</mainReferent>
     <tokens>This quench the thirst</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_11" begin="340" end="344">
     <text>Keep</text>
     <mainVerb begin="340" end="344">Keep</mainVerb>
     <mainReferent begin="325" end="335">QUOTATIONS</mainReferent>
     <tokens>HEALTH MAXIMS QUOTATIONS " Keep thyself pure "</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_12" begin="371" end="373">
     <text>is</text>
     <mainVerb begin="371" end="373">is</mainVerb>
     <mainReferent begin="364" end="370">Health</mainReferent>
     <tokens>" Health is "</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_13" begin="389" end="394">
     <text>sound</text>
     <mainVerb begin="389" end="394">sound</mainVerb>
     <mainReferent begin="387" end="388">A</mainReferent>
     <tokens>" A sound mind in a sound body "</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_14" begin="445" end="448">
     <text>are</text>
     <mainVerb begin="445" end="448">are</mainVerb>
     <mainReferent begin="436" end="444">sunshine</mainReferent>
     <tokens>" Fresh air sunshine are to good health "</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_15" begin="492" end="494">
     <text>is</text>
     <mainVerb begin="492" end="494">is</mainVerb>
     <mainReferent begin="480" end="491">Cleanliness</mainReferent>
     <tokens>" Cleanliness is the best against disease "</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_16" begin="546" end="548">
     <text>is</text>
     <mainVerb begin="546" end="548">is</mainVerb>
     <mainReferent begin="540" end="545">mouth</mainReferent>
     <tokens>" A clean mouth is as as a clean body "</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_17" begin="597" end="602">
     <text>dwelt</text>
     <mainVerb begin="597" end="602">dwelt</mainVerb>
     <mainReferent begin="584" end="590">Virtue</mainReferent>
     <tokens>" Virtue never dwelt long with filth "</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_18" begin="659" end="663">
     <text>Slam</text>
     <mainVerb begin="659" end="663">Slam</mainVerb>
     <mainReferent begin="651" end="657">repose</mainReferent>
     <tokens>" Temperance exercise repose Slam the door on the doctor 's nose "</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_19" begin="727" end="729">
     <text>is</text>
     <mainVerb begin="727" end="729">is</mainVerb>
     <mainReferent begin="715" end="726">Cleanliness</mainReferent>
     <tokens>" Cleanliness is to Godliness "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_20" begin="786" end="791">
     <text>beget</text>
     <mainVerb begin="786" end="791">beget</mainVerb>
     <mainReferent begin="763" end="775">cheerfulness</mainReferent>
     <tokens>" Health cheerfulness naturally beget each other "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_21" begin="865" end="869">
     <text>give</text>
     <mainVerb begin="865" end="869">give</mainVerb>
     <mainReferent begin="835" end="840">honor</mainReferent>
     <tokens>" Nor love honor wealth power Can give the heart a cheerful hour</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_22" begin="913" end="917">
     <text>lost</text>
     <mainVerb begin="913" end="917">lost</mainVerb>
     <mainReferent begin="903" end="909">health</mainReferent>
     <tokens>When health is lost</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_23" begin="919" end="921">
     <text>Be</text>
     <mainVerb begin="919" end="921">Be</mainVerb>
     <tokens>Be truly</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_24" begin="997" end="999">
     <text>is</text>
     <mainVerb begin="997" end="999">is</mainVerb>
     <mainReferent begin="990" end="996">Health</mainReferent>
     <tokens>" Health is a second "</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_25" begin="1034" end="1037">
     <text>are</text>
     <mainVerb begin="1034" end="1037">are</mainVerb>
     <mainReferent begin="1026" end="1033">mortals</mainReferent>
     <tokens>that we mortals are of a blessing</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_26" begin="1080" end="1083">
     <text>buy</text>
     <mainVerb begin="1080" end="1083">buy</mainVerb>
     <mainReferent begin="1053" end="1061">blessing</mainReferent>
     <tokens>that money can not buy</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_27" begin="1107" end="1110">
     <text>are</text>
     <mainVerb begin="1107" end="1110">are</mainVerb>
     <mainReferent begin="1117" end="1122">wicks</mainReferent>
     <tokens>" There are three wicks to the lamp of a man 's life : brain , blood , and breath</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_28" begin="1128" end="1132">
     <text>know</text>
     <mainVerb begin="1128" end="1132">know</mainVerb>
     <mainReferent begin="1124" end="1127">you</mainReferent>
     <tokens>you know</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_29" begin="1226" end="1230">
     <text>goes</text>
     <mainVerb begin="1226" end="1230">goes</mainVerb>
     <mainReferent begin="1200" end="1205">brain</mainReferent>
     <tokens>its light goes out</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_30" begin="1236" end="1244">
     <text>followed</text>
     <mainVerb begin="1236" end="1244">followed</mainVerb>
     <mainReferent begin="1190" end="1195">Press</mainReferent>
     <tokens>followed both the others</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_31" begin="1266" end="1270">
     <text>Stop</text>
     <mainVerb begin="1266" end="1270">Stop</mainVerb>
     <tokens>Stop the heart a minute</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_32" begin="1299" end="1301">
     <text>go</text>
     <mainVerb begin="1299" end="1301">go</mainVerb>
     <tokens>out go all three of the wicks</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_33" begin="1327" end="1332">
     <text>Choke</text>
     <mainVerb begin="1327" end="1332">Choke</mainVerb>
     <tokens>Choke the air out of the lungs "</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_34" begin="1383" end="1389">
     <text>ceases</text>
     <mainVerb begin="1383" end="1389">ceases</mainVerb>
     <mainReferent begin="1377" end="1382">fluid</mainReferent>
     <tokens>presently the fluid ceases to supply the other centres of flame all cold darkness</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_35" begin="1437" end="1439">
     <text>is</text>
     <mainVerb begin="1437" end="1439">is</mainVerb>
     <mainReferent begin="1433" end="1436">all</mainReferent>
     <tokens>all is soon cold darkness</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_36" begin="2011" end="2017">
     <text>ARROWS</text>
     <mainVerb begin="2011" end="2017">ARROWS</mainVerb>
     <mainReferent begin="1513" end="1517">XVII</mainReferent>
     <tokens>ATHLETICS CAMPUS GAMES AQUATICS WATER SPORTS PURPOSE OF GAMES BASEBALL LEAGUE GROUP CLASSIFICATION WHAT TO AVOID ATHLETIC EVENTS AWARDS MAKING ATHLETIC APPARATUS CAMPUS GAMES CIRCLE JUMPING WOLF ROVER ALL COME OVER INDIAN AND WHITE MAN GERMAN BOWLING TETHER BALL VOLLEY BALL AQUATIC SPORTS WATER GAMES WATER BASKET BALL WATER BASEBALL OLD CLOTHES RACE TILTING CANOE TAG WHALE HUNT MAKING A " SHOOT-THE-CHUTE " ARCHERY THE TARGET THE BOW MAKING A BOW MAKING ARROWS</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_37" begin="2076" end="2081">
     <text>teach</text>
     <mainVerb begin="2076" end="2081">teach</mainVerb>
     <mainReferent begin="2011" end="2017">ARROWS</mainReferent>
     <tokens>ESSENTIAL POINTS IN ARCHERY BIBLIOGRAPHY If I can teach these boys to study</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_38" begin="2106" end="2110">
     <text>play</text>
     <mainVerb begin="2106" end="2110">play</mainVerb>
     <mainReferent begin="2070" end="2071">I</mainReferent>
     <tokens>I play together freely</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_39" begin="2171" end="2175">
     <text>make</text>
     <mainVerb begin="2171" end="2175">make</mainVerb>
     <mainReferent begin="2070" end="2071">I</mainReferent>
     <tokens>with fairness to one another I shall make</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_40" begin="2181" end="2184">
     <text>fit</text>
     <mainVerb begin="2181" end="2184">fit</mainVerb>
     <mainReferent begin="2176" end="2180">them</mainReferent>
     <tokens>them fit to live</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_41" begin="2197" end="2201">
     <text>work</text>
     <mainVerb begin="2197" end="2201">work</mainVerb>
     <mainReferent begin="2176" end="2180">them</mainReferent>
     <tokens>them work together in society</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_42" begin="2304" end="2313">
     <text>destroyed</text>
     <mainVerb begin="2304" end="2313">destroyed</mainVerb>
     <mainReferent begin="2268" end="2274">spirit</mainReferent>
     <tokens>Purpose of Games The spirit of camping is too frequently destroyed over-emphasis upon competitive games</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_43" begin="2361" end="2363">
     <text>is</text>
     <mainVerb begin="2361" end="2363">is</mainVerb>
     <mainReferent begin="2356" end="2360">Play</mainReferent>
     <tokens>Play is for the growing boy</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_44" begin="2398" end="2402">
     <text>play</text>
     <mainVerb begin="2398" end="2402">play</mainVerb>
     <mainReferent begin="2356" end="2360">Play</mainReferent>
     <tokens>Play play</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_45" begin="2435" end="2438">
     <text>has</text>
     <mainVerb begin="2435" end="2438">has</mainVerb>
     <mainReferent begin="2422" end="2434">participants</mainReferent>
     <tokens>that engages many participants has the most value</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_46" begin="2472" end="2481">
     <text>suffering</text>
     <mainVerb begin="2472" end="2481">suffering</mainVerb>
     <mainReferent begin="2455" end="2462">America</mainReferent>
     <tokens>America today is suffering from highly specialized , semi-professional athletics and games</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_47" begin="2564" end="2574">
     <text>degenerate</text>
     <mainVerb begin="2564" end="2574">degenerate</mainVerb>
     <mainReferent begin="2554" end="2563">athletics</mainReferent>
     <tokens>When athletics degenerate into a mere spectacle</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_48" begin="2635" end="2643">
     <text>weakened</text>
     <mainVerb begin="2635" end="2643">weakened</mainVerb>
     <tokens>" then is the stability of the nation weakened</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_49" begin="2652" end="2655">
     <text>led</text>
     <mainVerb begin="2652" end="2655">led</mainVerb>
     <mainReferent begin="2645" end="2651">Greece</mainReferent>
     <tokens>Greece led the world</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_50" begin="2706" end="2712">
     <text>deemed</text>
     <mainVerb begin="2706" end="2712">deemed</mainVerb>
     <mainReferent begin="2677" end="2682">youth</mainReferent>
     <tokens>while the youth of that great country deemed it an honor to struggle for the laurel leaf</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_51" begin="2774" end="2778">
     <text>were</text>
     <mainVerb begin="2774" end="2778">were</mainVerb>
     <mainReferent begin="2677" end="2682">youth</mainReferent>
     <tokens>gymnasiums were everywhere</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_52" begin="2806" end="2810">
     <text>used</text>
     <mainVerb begin="2806" end="2810">used</mainVerb>
     <mainReferent begin="2762" end="2772">gymnasiums</mainReferent>
     <tokens>gymnasiums universally used</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_53" begin="2826" end="2829">
     <text>saw</text>
     <mainVerb begin="2826" end="2829">saw</mainVerb>
     <mainReferent begin="2677" end="2682">youth</mainReferent>
     <tokens>the people saw little good in an education that neglected the body</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_54" begin="2864" end="2873">
     <text>neglected</text>
     <mainVerb begin="2864" end="2873">neglected</mainVerb>
     <mainReferent begin="2849" end="2858">education</mainReferent>
     <tokens>an education neglected the body</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_55" begin="2887" end="2889">
     <text>is</text>
     <mainVerb begin="2887" end="2889">is</mainVerb>
     <mainReferent begin="2884" end="2886">It</mainReferent>
     <tokens>It is a significant</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_56" begin="2944" end="2955">
     <text>synchronous</text>
     <mainVerb begin="2944" end="2955">synchronous</mainVerb>
     <mainReferent begin="2919" end="2929">degeneracy</mainReferent>
     <tokens>that the degeneracy of Greece was synchronous with the degrading of athletics into mere professional contests</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_57" begin="3031" end="3035">
     <text>been</text>
     <mainVerb begin="3031" end="3035">been</mainVerb>
     <mainReferent begin="3022" end="3026">What</mainReferent>
     <tokens>What had been the of the people</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_58" begin="3065" end="3071">
     <text>became</text>
     <mainVerb begin="3065" end="3071">became</mainVerb>
     <mainReferent begin="3040" end="3049">athletics</mainReferent>
     <tokens>became a spectacle for the people "</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_59" begin="3186" end="3191">
     <text>allow</text>
     <mainVerb begin="3186" end="3191">allow</mainVerb>
     <mainReferent begin="3169" end="3175">League</mainReferent>
     <tokens>Baseball League Do not allow the athletics games of the camp to become a mere spectacle for the campers</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_60" begin="3293" end="3300">
     <text>planned</text>
     <mainVerb begin="3293" end="3300">planned</mainVerb>
     <mainReferent begin="3273" end="3282">Something</mainReferent>
     <tokens>Something should be planned</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_61" begin="3330" end="3340">
     <text>encouraged</text>
     <mainVerb begin="3330" end="3340">encouraged</mainVerb>
     <mainReferent begin="3311" end="3314">boy</mainReferent>
     <tokens>for every boy every boy encouraged to participate in the program</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_62" begin="3388" end="3393">
     <text>taken</text>
     <mainVerb begin="3388" end="3393">taken</mainVerb>
     <mainReferent begin="3372" end="3379">Nothing</mainReferent>
     <tokens>Nothing has yet taken the place of the good old American game of baseball</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_63" begin="3448" end="3454">
     <text>Divide</text>
     <mainVerb begin="3448" end="3454">Divide</mainVerb>
     <tokens>Divide the camp boys into teams</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_64" begin="3482" end="3486">
     <text>Have</text>
     <mainVerb begin="3482" end="3486">Have</mainVerb>
     <tokens>Have a league</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_65" begin="3496" end="3503">
     <text>playing</text>
     <mainVerb begin="3496" end="3503">playing</mainVerb>
     <tokens>playing a series of games</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_66" begin="3541" end="3546">
     <text>named</text>
     <mainVerb begin="3541" end="3546">named</mainVerb>
     <mainReferent begin="3527" end="3532">teams</mainReferent>
     <tokens>The teams may be named after the different colleges or prominent cities as one camp "</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_67" begin="3612" end="3617">
     <text>named</text>
     <mainVerb begin="3612" end="3617">named</mainVerb>
     <mainReferent begin="3541" end="3546">named</mainReferent>
     <tokens>named the league the " Food League " after popular camp dishes such as " Prunes " " Beans " " Soup " " Hash " " Mush " " Chipped Beef</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_68" begin="3747" end="3749">
     <text>is</text>
     <mainVerb begin="3747" end="3749">is</mainVerb>
     <mainReferent begin="3744" end="3746">It</mainReferent>
     <tokens>It is to state</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_69" begin="3806" end="3809">
     <text>had</text>
     <mainVerb begin="3806" end="3809">had</mainVerb>
     <mainReferent begin="3778" end="3782">boys</mainReferent>
     <tokens>that the boys in the league not only had a lot of fun</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_70" begin="3844" end="3853">
     <text>contained</text>
     <mainVerb begin="3844" end="3853">contained</mainVerb>
     <mainReferent begin="3744" end="3746">It</mainReferent>
     <tokens>the camp paper contained very amusing accounts of the games played</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_71" begin="3889" end="3895">
     <text>played</text>
     <mainVerb begin="3889" end="3895">played</mainVerb>
     <mainReferent begin="3883" end="3888">games</mainReferent>
     <tokens>played</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_72" begin="3900" end="3907">
     <text>Arrange</text>
     <mainVerb begin="3900" end="3907">Arrange</mainVerb>
     <tokens>Arrange a schedule of games</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_73" begin="3932" end="3936">
     <text>keep</text>
     <mainVerb begin="3932" end="3936">keep</mainVerb>
     <tokens>keep accurate records of all games played either in the " Camp Log " or camp paper</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_74" begin="3967" end="3973">
     <text>played</text>
     <mainVerb begin="3967" end="3973">played</mainVerb>
     <mainReferent begin="3961" end="3966">games</mainReferent>
     <tokens>played either in the " Camp Log " camp paper</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_75" begin="4024" end="4029">
     <text>given</text>
     <mainVerb begin="4024" end="4029">given</mainVerb>
     <mainReferent begin="4017" end="4023">dinner</mainReferent>
     <tokens>given to the winning team</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_76" begin="4051" end="4055">
     <text>adds</text>
     <mainVerb begin="4051" end="4055">adds</mainVerb>
     <mainReferent begin="4017" end="4023">dinner</mainReferent>
     <tokens>A dinner adds to the excitement of the league 's existence</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_77" begin="4108" end="4115">
     <text>neglect</text>
     <mainVerb begin="4108" end="4115">neglect</mainVerb>
     <tokens>Do not neglect the younger boys</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_78" begin="4135" end="4139">
     <text>have</text>
     <mainVerb begin="4135" end="4139">have</mainVerb>
     <mainReferent begin="4108" end="4115">neglect</mainReferent>
     <tokens>have two " Midget " teams</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_79" begin="4159" end="4165">
     <text>engage</text>
     <mainVerb begin="4159" end="4165">engage</mainVerb>
     <mainReferent begin="4108" end="4115">neglect</mainReferent>
     <tokens>engage in a series for best two out of three games</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_80" begin="4267" end="4269">
     <text>is</text>
     <mainVerb begin="4267" end="4269">is</mainVerb>
     <mainReferent begin="4227" end="4231">game</mainReferent>
     <tokens>Occasionally a game between the leaders and older boys is the exciting of the season</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_55.txt_81" begin="4334" end="4342">
     <text>defeated</text>
     <mainVerb begin="4334" end="4342">defeated</mainVerb>
     <mainReferent begin="4284" end="4288">game</mainReferent>
     <tokens>especially if the leaders are defeated</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
 </document>

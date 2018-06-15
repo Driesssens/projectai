@@ -6,381 +6,445 @@
     <mainVerb begin="17" end="19">is</mainVerb>
     <mainReferent begin="4" end="16">Klipspringer</mainReferent>
     <tokens>The Klipspringer is a small</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_2" begin="42" end="50">
     <text>inhabits</text>
     <mainVerb begin="42" end="50">inhabits</mainVerb>
     <mainReferent begin="28" end="36">antelope</mainReferent>
     <tokens>inhabits the most inaccessible mountains of Southern Africa</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_3" begin="159" end="161">
     <text>is</text>
     <mainVerb begin="159" end="161">is</mainVerb>
     <mainReferent begin="28" end="36">antelope</mainReferent>
     <tokens>like its near congener the chamois of the Alps is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_4" begin="225" end="228">
     <text>are</text>
     <mainVerb begin="225" end="228">are</mainVerb>
     <mainReferent begin="217" end="224">kindred</mainReferent>
     <tokens>as much at home on the narrow ledges of cliffs as its kindred are upon the open plains</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_5" begin="255" end="257">
     <text>is</text>
     <mainVerb begin="255" end="257">is</mainVerb>
     <mainReferent begin="252" end="254">It</mainReferent>
     <tokens>It is a long-haired shaggy little</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_6" begin="325" end="332">
     <text>protect</text>
     <mainVerb begin="325" end="332">protect</mainVerb>
     <mainReferent begin="288" end="296">creature</mainReferent>
     <tokens>its long hair does not protect it from the bullet of the hunter</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_7" begin="393" end="397">
     <text>fall</text>
     <mainVerb begin="393" end="397">fall</mainVerb>
     <mainReferent begin="288" end="296">creature</mainReferent>
     <tokens>its young frequently fall victims to the eagle , and the great lammer-geyer vulture , which also dwells among these mountains</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_8" begin="468" end="474">
     <text>dwells</text>
     <mainVerb begin="468" end="474">dwells</mainVerb>
     <mainReferent begin="413" end="418">eagle</mainReferent>
     <tokens>which also dwells among these mountains</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_9" begin="522" end="531">
     <text>described</text>
     <mainVerb begin="522" end="531">described</mainVerb>
     <mainReferent begin="516" end="521">those</mainReferent>
     <tokens>described</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_10" begin="539" end="542">
     <text>are</text>
     <mainVerb begin="539" end="542">are</mainVerb>
     <mainReferent begin="554" end="561">species</mainReferent>
     <tokens>to those described there are many other species of antelopes in Africa</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_11" begin="623" end="629">
     <text>called</text>
     <mainVerb begin="623" end="629">called</mainVerb>
     <mainReferent begin="592" end="602">Duyker-boc</mainReferent>
     <tokens>so called from its habit of ducking or diving under the bushes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_12" begin="689" end="696">
     <text>pursued</text>
     <mainVerb begin="689" end="696">pursued</mainVerb>
     <tokens>when pursued</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_13" begin="698" end="700">
     <text>is</text>
     <mainVerb begin="698" end="700">is</mainVerb>
     <mainReferent begin="623" end="629">called</mainReferent>
     <tokens>The Duyker-boc Diving-buck is a Cape</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_14" begin="728" end="730">
     <text>is</text>
     <mainVerb begin="728" end="730">is</mainVerb>
     <mainReferent begin="709" end="716">species</mainReferent>
     <tokens>there is another diving-buck</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_15" begin="752" end="758">
     <text>called</text>
     <mainVerb begin="752" end="758">called</mainVerb>
     <mainReferent begin="739" end="750">diving-buck</mainReferent>
     <tokens>called</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_16" begin="820" end="826">
     <text>termed</text>
     <mainVerb begin="820" end="826">termed</mainVerb>
     <mainReferent begin="763" end="774">Black-faced</mainReferent>
     <tokens>the Black-faced still another of these bush antelopes termed Burchell bush-boc</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_17" begin="861" end="863">
     <text>is</text>
     <mainVerb begin="861" end="863">is</mainVerb>
     <mainReferent begin="880" end="888">antelope</mainReferent>
     <tokens>Then there is the Four-tufted antelope of Senegal the Red-crowned bush-boc Western Africa belonging to the same region , the White-backed bush-boc</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_18" begin="1054" end="1059">
     <text>found</text>
     <mainVerb begin="1054" end="1059">found</mainVerb>
     <mainReferent begin="1093" end="1095">in</mainReferent>
     <tokens>In the Island of Fernando Po there is found the Black-striped bush-boc in Abyssinia the Madoqua Abyssinian bush-goat of a yellow colour</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_19" begin="1203" end="1206">
     <text>are</text>
     <mainVerb begin="1203" end="1206">are</mainVerb>
     <mainReferent begin="1175" end="1184">bush-buck</mainReferent>
     <tokens>The Bay bush-buck Bay bush-goat are two</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_20" begin="1220" end="1229">
     <text>described</text>
     <mainVerb begin="1220" end="1229">described</mainVerb>
     <mainReferent begin="1212" end="1219">species</mainReferent>
     <tokens>described as natives of Sierra Leone</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_21" begin="1313" end="1318">
     <text>found</text>
     <mainVerb begin="1313" end="1318">found</mainVerb>
     <mainReferent begin="1212" end="1219">species</mainReferent>
     <tokens>while the Black bush-boc of a sooty black colour is found on the coast of Guinea</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_22" begin="1360" end="1362">
     <text>is</text>
     <mainVerb begin="1360" end="1362">is</mainVerb>
     <mainReferent begin="1350" end="1359">Coquetoon</mainReferent>
     <tokens>The Coquetoon is a of a deep-reddish bay colour</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_23" begin="1403" end="1412">
     <text>belonging</text>
     <mainVerb begin="1403" end="1412">belonging</mainVerb>
     <mainReferent begin="1365" end="1372">species</mainReferent>
     <tokens>belonging to Western Africa</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_24" begin="1466" end="1470">
     <text>meet</text>
     <mainVerb begin="1466" end="1470">meet</mainVerb>
     <mainReferent begin="1365" end="1372">species</mainReferent>
     <tokens>on the Senegal and Gambia we meet with another sooty species , called the Guevei</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_25" begin="1500" end="1506">
     <text>called</text>
     <mainVerb begin="1500" end="1506">called</mainVerb>
     <mainReferent begin="1491" end="1498">species</mainReferent>
     <tokens>called the Guevei</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_26" begin="1558" end="1560">
     <text>is</text>
     <mainVerb begin="1558" end="1560">is</mainVerb>
     <mainReferent begin="1568" end="1575">species</mainReferent>
     <tokens>At Port Natal in South Africa there is a red species</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_27" begin="1576" end="1582">
     <text>called</text>
     <mainVerb begin="1576" end="1582">called</mainVerb>
     <mainReferent begin="1568" end="1575">species</mainReferent>
     <tokens>called the Natal bush-boc</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_28" begin="1730" end="1737">
     <text>belongs</text>
     <mainVerb begin="1730" end="1737">belongs</mainVerb>
     <mainReferent begin="1568" end="1575">species</mainReferent>
     <tokens>the Kleene-boc a diminutive little creature only about twelve inches in height a very pigmy among the antelopes also belongs to the same region</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_29" begin="1798" end="1807">
     <text>antelopes</text>
     <mainVerb begin="1798" end="1807">antelopes</mainVerb>
     <mainReferent begin="1792" end="1797">pigmy</mainReferent>
     <tokens>or pigmy antelopes</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_30" begin="1821" end="1827">
     <text>termed</text>
     <mainVerb begin="1821" end="1827">termed</mainVerb>
     <mainReferent begin="1812" end="1816">they</mainReferent>
     <tokens>as they are termed</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_31" begin="1833" end="1838">
     <text>found</text>
     <mainVerb begin="1833" end="1838">found</mainVerb>
     <mainReferent begin="1780" end="1787">species</mainReferent>
     <tokens>Several other small species are found along the west coast of Africa , viz. , the Black-rumped guevei of Fernando Po ; the Grisled guevei of Sierra Leone ; and the White-footed guevei of the same region</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_32" begin="2025" end="2030">
     <text>known</text>
     <mainVerb begin="2025" end="2030">known</mainVerb>
     <mainReferent begin="2016" end="2024">creature</mainReferent>
     <tokens>known as the Royal antelope , or Guinea-musk ,</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_33" begin="2071" end="2073">
     <text>is</text>
     <mainVerb begin="2071" end="2073">is</mainVerb>
     <mainReferent begin="2016" end="2024">creature</mainReferent>
     <tokens>The little creature is a of Guinea</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_34" begin="2124" end="2127">
     <text>are</text>
     <mainVerb begin="2124" end="2127">are</mainVerb>
     <mainReferent begin="2101" end="2107">others</mainReferent>
     <tokens>Still others in South Africa are the the Reed-boc the latter deriving its name from its habit of frequenting the reeds that grow along the banks of the South African rivers</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_35" begin="2234" end="2238">
     <text>grow</text>
     <mainVerb begin="2234" end="2238">grow</mainVerb>
     <mainReferent begin="2223" end="2228">reeds</mainReferent>
     <tokens>the reeds grow along the banks of the South African rivers</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_36" begin="2318" end="2320">
     <text>is</text>
     <mainVerb begin="2318" end="2320">is</mainVerb>
     <mainReferent begin="2334" end="2341">species</mainReferent>
     <tokens>In the Island of Zanzibar there is a very small species of antelope</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_37" begin="2368" end="2373">
     <text>found</text>
     <mainVerb begin="2368" end="2373">found</mainVerb>
     <mainReferent begin="2334" end="2341">species</mainReferent>
     <tokens>another found in Abyssinia</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_38" begin="2392" end="2398">
     <text>called</text>
     <mainVerb begin="2392" end="2398">called</mainVerb>
     <mainReferent begin="2360" end="2367">another</mainReferent>
     <tokens>another called also the Madoqua</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_39" begin="2421" end="2425">
     <text>said</text>
     <mainVerb begin="2421" end="2425">said</mainVerb>
     <mainReferent begin="2360" end="2367">another</mainReferent>
     <tokens>another is said</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_40" begin="2550" end="2556">
     <text>exists</text>
     <mainVerb begin="2550" end="2556">exists</mainVerb>
     <tokens>In North Africa -- in the Sahara Desert -- exists a large species the Wild Ox</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_41" begin="2574" end="2580">
     <text>called</text>
     <mainVerb begin="2574" end="2580">called</mainVerb>
     <mainReferent begin="2565" end="2572">species</mainReferent>
     <tokens>called the Arabs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_42" begin="2612" end="2614">
     <text>is</text>
     <mainVerb begin="2612" end="2614">is</mainVerb>
     <mainReferent begin="2609" end="2611">It</mainReferent>
     <tokens>It is of the clumsiest in shape of the whole tribe</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_43" begin="2690" end="2693">
     <text>are</text>
     <mainVerb begin="2690" end="2693">are</mainVerb>
     <mainReferent begin="2684" end="2689">kinds</mainReferent>
     <tokens>In the south two kinds are near to it -- the Harte-beest or Secaama the Sassaby Bastard harte-beest</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_44" begin="2794" end="2796">
     <text>is</text>
     <mainVerb begin="2794" end="2796">is</mainVerb>
     <mainReferent begin="2785" end="2793">Korrigun</mainReferent>
     <tokens>The Korrigun is of these large antelopes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_45" begin="2832" end="2841">
     <text>belonging</text>
     <mainVerb begin="2832" end="2841">belonging</mainVerb>
     <mainReferent begin="2798" end="2805">another</mainReferent>
     <tokens>belonging to Western Africa</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_46" begin="2893" end="2896">
     <text>are</text>
     <mainVerb begin="2893" end="2896">are</mainVerb>
     <mainReferent begin="2884" end="2892">Bles-boc</mainReferent>
     <tokens>the Bonte-boc Bles-boc are two similar existing in the country of the Hottentots</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_47" begin="2990" end="2992">
     <text>is</text>
     <mainVerb begin="2990" end="2992">is</mainVerb>
     <mainReferent begin="2965" end="2974">Bosch-boc</mainReferent>
     <tokens>The Bosch-boc Bush-goat is still of the southern antelopes , which derives its name from its dwelling-place -- the bushy thickets -- out</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_48" begin="3041" end="3048">
     <text>derives</text>
     <mainVerb begin="3041" end="3048">derives</mainVerb>
     <mainReferent begin="3024" end="3033">antelopes</mainReferent>
     <tokens>the southern antelopes derives its name from its dwelling-place -- the bushy thickets -- out</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_49" begin="3126" end="3131">
     <text>shows</text>
     <mainVerb begin="3126" end="3131">shows</mainVerb>
     <mainReferent begin="3117" end="3119">it</mainReferent>
     <tokens>it never shows itself</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_50" begin="3178" end="3180">
     <text>is</text>
     <mainVerb begin="3178" end="3180">is</mainVerb>
     <mainReferent begin="2999" end="3006">another</mainReferent>
     <tokens>to all these there is the Decula of Abyssinia the Guib of the western coast the Ingala of Natal the Broad-horned antelope of the Bight of Biafra</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_51" begin="3333" end="3342">
     <text>mentioned</text>
     <mainVerb begin="3333" end="3342">mentioned</mainVerb>
     <mainReferent begin="3317" end="3319">We</mainReferent>
     <tokens>We have not yet mentioned the _ Gazelles _</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_52" begin="3365" end="3368">
     <text>are</text>
     <mainVerb begin="3365" end="3368">are</mainVerb>
     <mainReferent begin="3356" end="3357">_</mainReferent>
     <tokens>the _ Gazelles _ are perhaps the most of all the antelope tribe</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_53" begin="3432" end="3434">
     <text>is</text>
     <mainVerb begin="3432" end="3434">is</mainVerb>
     <mainReferent begin="3429" end="3431">It</mainReferent>
     <tokens>It is not to describe their forms</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_54" begin="3478" end="3484">
     <text>dilate</text>
     <mainVerb begin="3478" end="3484">dilate</mainVerb>
     <mainReferent begin="3429" end="3431">It</mainReferent>
     <tokens>It dilate upon the gracefulness of their movements and appearance</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_55" begin="3570" end="3574">
     <text>been</text>
     <mainVerb begin="3570" end="3574">been</mainVerb>
     <mainReferent begin="3560" end="3564">eyes</mainReferent>
     <tokens>Their beautiful eyes have been a for the admiration of all ages</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_56" begin="3631" end="3637">
     <text>remark</text>
     <mainVerb begin="3631" end="3637">remark</mainVerb>
     <mainReferent begin="3617" end="3619">We</mainReferent>
     <tokens>We shall only remark here</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_57" begin="3655" end="3658">
     <text>are</text>
     <mainVerb begin="3655" end="3658">are</mainVerb>
     <mainReferent begin="3667" end="3674">species</mainReferent>
     <tokens>that there are several species of antelopes called gazelles</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_58" begin="3689" end="3695">
     <text>called</text>
     <mainVerb begin="3689" end="3695">called</mainVerb>
     <mainReferent begin="3679" end="3688">antelopes</mainReferent>
     <tokens>called gazelles</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_59" begin="3720" end="3723">
     <text>are</text>
     <mainVerb begin="3720" end="3723">are</mainVerb>
     <mainReferent begin="3715" end="3719">they</mainReferent>
     <tokens>that they are all of Africa</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_60" begin="3754" end="3756">
     <text>is</text>
     <mainVerb begin="3754" end="3756">is</mainVerb>
     <mainReferent begin="3786" end="3793">Barbary</mainReferent>
     <tokens>There is the Dorcas gazelle of Egypt Barbary Asia Minor the Isabella gazelle of Egypt and Kordofan the Mhorr of Western Africa the Abyssinian mhorr of the eastern parts of the continent the Andora of Sennaar , Dongola , and Kordofan lastly the Korin</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_61" begin="4024" end="4027">
     <text>are</text>
     <mainVerb begin="4024" end="4027">are</mainVerb>
     <mainReferent begin="4018" end="4023">These</mainReferent>
     <tokens>These are all</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_62" begin="4053" end="4061">
     <text>believed</text>
     <mainVerb begin="4053" end="4061">believed</mainVerb>
     <mainReferent begin="4033" end="4041">gazelles</mainReferent>
     <tokens>it is believed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_63" begin="4100" end="4105">
     <text>found</text>
     <mainVerb begin="4100" end="4105">found</mainVerb>
     <mainReferent begin="4081" end="4088">species</mainReferent>
     <tokens>that several other species may yet be found in the interior parts of Africa</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_51.txt_64" begin="4146" end="4148">
     <text>is</text>
     <mainVerb begin="4146" end="4148">is</mainVerb>
     <mainReferent begin="4141" end="4145">Such</mainReferent>
     <tokens>Such is the of African antelopes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
 </document>

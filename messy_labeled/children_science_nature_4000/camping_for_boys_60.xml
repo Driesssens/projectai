@@ -6,370 +6,435 @@
     <mainVerb begin="26" end="30">made</mainVerb>
     <mainReferent begin="15" end="18">bow</mainReferent>
     <tokens>The bow may be made from any of the following woods</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_2" begin="180" end="186">
     <text>select</text>
     <mainVerb begin="180" end="186">select</mainVerb>
     <tokens>making a bow select wood with straight grain</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_3" begin="243" end="245">
     <text>be</text>
     <mainVerb begin="243" end="245">be</mainVerb>
     <mainReferent begin="217" end="223">length</mainReferent>
     <tokens>The length of the bow should be about the height of the boy using it not more than five feet</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_4" begin="274" end="279">
     <text>using</text>
     <mainVerb begin="274" end="279">using</mainVerb>
     <mainReferent begin="270" end="273">boy</mainReferent>
     <tokens>using it</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_5" begin="298" end="300">
     <text>is</text>
     <mainVerb begin="298" end="300">is</mainVerb>
     <mainReferent begin="294" end="297">boy</mainReferent>
     <tokens>if the boy is between ten and fifteen years of age</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_6" begin="359" end="361">
     <text>be</text>
     <mainVerb begin="359" end="361">be</mainVerb>
     <mainReferent begin="344" end="347">bow</mainReferent>
     <tokens>his bow should not be less than four in length not more than five feet</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_7" begin="440" end="443">
     <text>get</text>
     <mainVerb begin="440" end="443">get</mainVerb>
     <mainReferent begin="427" end="433">buying</mainReferent>
     <tokens>When buying a bow get one of lancewood</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_8" begin="462" end="468">
     <text>backed</text>
     <mainVerb begin="462" end="468">backed</mainVerb>
     <tokens>backed with hickory</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_9" begin="537" end="546">
     <text>described</text>
     <mainVerb begin="537" end="546">described</mainVerb>
     <mainReferent begin="506" end="512">making</mainReferent>
     <tokens>The making of the bow and arrow is described A. Neeley Hall</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_10" begin="570" end="577">
     <text>follows</text>
     <mainVerb begin="570" end="577">follows</mainVerb>
     <mainReferent begin="560" end="564">Hall</mainReferent>
     <tokens>as follows "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_11" begin="580" end="583">
     <text>Cut</text>
     <mainVerb begin="580" end="583">Cut</mainVerb>
     <mainReferent begin="570" end="577">follows</mainReferent>
     <tokens>Cut your piece of wood five feet long thick at the handle</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_12" begin="682" end="687">
     <text>shape</text>
     <mainVerb begin="682" end="687">shape</mainVerb>
     <mainReferent begin="570" end="577">follows</mainReferent>
     <tokens>after placing it in a bench vise to hold it in position shape it down with a drawknife or plane</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_13" begin="732" end="734">
     <text>is</text>
     <mainVerb begin="732" end="734">is</mainVerb>
     <mainReferent begin="729" end="731">it</mainReferent>
     <tokens>until it is one inch by one-half inch</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_14" begin="807" end="811">
     <text>inch</text>
     <mainVerb begin="807" end="811">inch</mainVerb>
     <mainReferent begin="798" end="806">quarters</mainReferent>
     <tokens>three quarters inch wide by one-quarter inch thick at the ends</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_15" begin="872" end="876">
     <text>made</text>
     <mainVerb begin="872" end="876">made</mainVerb>
     <mainReferent begin="860" end="863">bow</mainReferent>
     <tokens>The bow can be made round flat on the face toward the archer</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_16" begin="975" end="980">
     <text>shown</text>
     <mainVerb begin="975" end="980">shown</mainVerb>
     <mainReferent begin="922" end="925">Cut</mainReferent>
     <tokens>Cut a notch in the bow two inches from each end shown in the illustration , from which to attach the bow-string</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_17" begin="1096" end="1100">
     <text>used</text>
     <mainVerb begin="1096" end="1100">used</mainVerb>
     <mainReferent begin="1042" end="1046">cord</mainReferent>
     <tokens>A cord with as little elasticity as possible should be used for this</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_18" begin="1132" end="1141">
     <text>purchased</text>
     <mainVerb begin="1132" end="1141">purchased</mainVerb>
     <mainReferent begin="1118" end="1124">string</mainReferent>
     <tokens>A good string can be purchased for twenty-five cents</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_19" begin="1174" end="1177">
     <text>cut</text>
     <mainVerb begin="1174" end="1177">cut</mainVerb>
     <mainReferent begin="1169" end="1173">head</mainReferent>
     <tokens>cut off ( arrow head ) Old Canvas Stuffed ( target )</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_20" begin="1307" end="1311">
     <text>made</text>
     <mainVerb begin="1307" end="1311">made</mainVerb>
     <mainReferent begin="1292" end="1296">loop</mainReferent>
     <tokens>With a home-made bow-string a loop should be made in one end</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_21" begin="1327" end="1332">
     <text>bound</text>
     <mainVerb begin="1327" end="1332">bound</mainVerb>
     <mainReferent begin="1292" end="1296">loop</mainReferent>
     <tokens>a loop bound with thread</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_22" begin="1350" end="1355">
     <text>shown</text>
     <mainVerb begin="1350" end="1355">shown</mainVerb>
     <tokens>as shown in illustration , p. 227</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_23" begin="1381" end="1385">
     <text>Slip</text>
     <mainVerb begin="1381" end="1385">Slip</mainVerb>
     <tokens>Slip the loop over the upper notch</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_24" begin="1418" end="1422">
     <text>bend</text>
     <mainVerb begin="1418" end="1422">bend</mainVerb>
     <tokens>bend the bow</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_25" begin="1462" end="1464">
     <text>is</text>
     <mainVerb begin="1462" end="1464">is</mainVerb>
     <mainReferent begin="1441" end="1447">center</mainReferent>
     <tokens>until the center of the string is about five inches from the handle</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_26" begin="1510" end="1516">
     <text>attach</text>
     <mainVerb begin="1510" end="1516">attach</mainVerb>
     <tokens>attach the loose end to the lower notch by means of a slip-knot similar to that shown in the drawing</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_27" begin="1591" end="1596">
     <text>shown</text>
     <mainVerb begin="1591" end="1596">shown</mainVerb>
     <mainReferent begin="1586" end="1590">that</mainReferent>
     <tokens>that shown in the drawing</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_28" begin="1637" end="1648">
     <text>sandpapered</text>
     <mainVerb begin="1637" end="1648">sandpapered</mainVerb>
     <mainReferent begin="1617" end="1620">bow</mainReferent>
     <tokens>The bow should then be sandpapered until smooth</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_29" begin="1678" end="1683">
     <text>oiled</text>
     <mainVerb begin="1678" end="1683">oiled</mainVerb>
     <mainReferent begin="1617" end="1620">bow</mainReferent>
     <tokens>The bow thoroughly oiled with linseed oil</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_30" begin="1703" end="1707">
     <text>Glue</text>
     <mainVerb begin="1703" end="1707">Glue</mainVerb>
     <tokens>Glue a piece of velvet about three inches wide around the center for a handle "</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_31" begin="1815" end="1822">
     <text>divided</text>
     <mainVerb begin="1815" end="1822">divided</mainVerb>
     <mainReferent begin="1804" end="1810">Arrows</mainReferent>
     <tokens>Making Arrows Arrows are divided into three parts</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_32" begin="1861" end="1867">
     <text>called</text>
     <mainVerb begin="1861" end="1867">called</mainVerb>
     <mainReferent begin="1845" end="1849">head</mainReferent>
     <tokens>the head sometimes called the pile the shaft the feathers</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_33" begin="1930" end="1934">
     <text>made</text>
     <mainVerb begin="1930" end="1934">made</mainVerb>
     <mainReferent begin="1911" end="1916">shaft</mainReferent>
     <tokens>The shaft is generally made of hickory , ash , elm or pine</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_34" begin="1981" end="1983">
     <text>is</text>
     <mainVerb begin="1981" end="1983">is</mainVerb>
     <mainReferent begin="1974" end="1980">length</mainReferent>
     <tokens>its length is upon that of the bow</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_35" begin="2038" end="2042">
     <text>make</text>
     <mainVerb begin="2038" end="2042">make</mainVerb>
     <tokens>For a five-foot bow make the length two feet the width thickness about one-half inch</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_36" begin="2145" end="2151">
     <text>driven</text>
     <mainVerb begin="2145" end="2151">driven</mainVerb>
     <mainReferent begin="2140" end="2144">nail</mainReferent>
     <tokens>driven into the end of the pile</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_37" begin="2182" end="2187">
     <text>shown</text>
     <mainVerb begin="2182" end="2187">shown</mainVerb>
     <tokens>shown on page 227 with the head of the nail</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_38" begin="2227" end="2232">
     <text>filed</text>
     <mainVerb begin="2227" end="2232">filed</mainVerb>
     <mainReferent begin="2251" end="2256">makes</mainReferent>
     <tokens>as filed off</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_39" begin="2242" end="2249">
     <text>pointed</text>
     <mainVerb begin="2242" end="2249">pointed</mainVerb>
     <mainReferent begin="2182" end="2187">shown</mainReferent>
     <tokens>pointed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_40" begin="2251" end="2256">
     <text>makes</text>
     <mainVerb begin="2251" end="2256">makes</mainVerb>
     <mainReferent begin="2140" end="2144">nail</mainReferent>
     <tokens>For target practice a wire nail makes an excellent head</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_41" begin="2287" end="2289">
     <text>is</text>
     <mainVerb begin="2287" end="2289">is</mainVerb>
     <mainReferent begin="2276" end="2286">Feathering</mainReferent>
     <tokens>Feathering is the next</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_42" begin="2351" end="2355">
     <text>used</text>
     <mainVerb begin="2351" end="2355">used</mainVerb>
     <mainReferent begin="2310" end="2316">Turkey</mainReferent>
     <tokens>Turkey goose feathers are generally used</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_43" begin="2357" end="2362">
     <text>Strip</text>
     <mainVerb begin="2357" end="2362">Strip</mainVerb>
     <tokens>Strip off the broader side of the vane of three feathers</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_44" begin="2419" end="2423">
     <text>glue</text>
     <mainVerb begin="2419" end="2423">glue</mainVerb>
     <tokens>glue them to the shaft one inch and a quarter from the notch</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_45" begin="2482" end="2489">
     <text>spacing</text>
     <mainVerb begin="2482" end="2489">spacing</mainVerb>
     <tokens>spacing them equally from each other</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_46" begin="2543" end="2549">
     <text>placed</text>
     <mainVerb begin="2543" end="2549">placed</mainVerb>
     <mainReferent begin="2524" end="2531">feather</mainReferent>
     <tokens>One feather should be placed at right angles to the notch</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_47" begin="2588" end="2593">
     <text>known</text>
     <mainVerb begin="2588" end="2593">known</mainVerb>
     <mainReferent begin="2580" end="2584">This</mainReferent>
     <tokens>This is known as the cock feather</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_48" begin="2633" end="2638">
     <text>point</text>
     <mainVerb begin="2633" end="2638">point</mainVerb>
     <mainReferent begin="2580" end="2584">This</mainReferent>
     <tokens>This should always point from the bow when the arrow is shot</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_49" begin="2675" end="2679">
     <text>shot</text>
     <mainVerb begin="2675" end="2679">shot</mainVerb>
     <mainReferent begin="2666" end="2671">arrow</mainReferent>
     <tokens>the bow when the arrow is shot</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_50" begin="2735" end="2738">
     <text>are</text>
     <mainVerb begin="2735" end="2738">are</mainVerb>
     <mainReferent begin="2699" end="2704">rules</mainReferent>
     <tokens>Archery The rules for the five essential points are Standing</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_51" begin="2810" end="2812">
     <text>be</text>
     <mainVerb begin="2810" end="2812">be</mainVerb>
     <mainReferent begin="2799" end="2804">heels</mainReferent>
     <tokens>taking position to draw the bow the heels must be seven to eight inches apart firm on the ground easy springy not rigid</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_52" begin="2922" end="2934">
     <text>manipulating</text>
     <mainVerb begin="2922" end="2934">manipulating</mainVerb>
     <mainReferent begin="2905" end="2912">Nocking</mainReferent>
     <tokens>Nocking This is manipulating the bow string</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_53" begin="2951" end="2955">
     <text>Hold</text>
     <mainVerb begin="2951" end="2955">Hold</mainVerb>
     <tokens>Hold the string with two fingers and the arrow between the first and second fingers</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_54" begin="3037" end="3041">
     <text>Grip</text>
     <mainVerb begin="3037" end="3041">Grip</mainVerb>
     <tokens>Grip firmly not so as to give awkwardness to any finger</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_55" begin="3250" end="3255">
     <text>raise</text>
     <mainVerb begin="3250" end="3255">raise</mainVerb>
     <tokens>Then raise the bow with the left hand</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_56" begin="3284" end="3291">
     <text>keeping</text>
     <mainVerb begin="3284" end="3291">keeping</mainVerb>
     <tokens>keeping the upper end inclined one or two degrees from the body</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_57" begin="3370" end="3374">
     <text>draw</text>
     <mainVerb begin="3370" end="3374">draw</mainVerb>
     <mainReferent begin="3365" end="3369">hand</mainReferent>
     <tokens>With the right hand draw the arrow to chin-level below the ear</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_58" begin="3431" end="3437">
     <text>Steady</text>
     <mainVerb begin="3431" end="3437">Steady</mainVerb>
     <mainReferent begin="3422" end="3429">Holding</mainReferent>
     <tokens>Steady the aim a moment</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_59" begin="3459" end="3463">
     <text>keep</text>
     <mainVerb begin="3459" end="3463">keep</mainVerb>
     <mainReferent begin="3422" end="3429">Holding</mainReferent>
     <tokens>keep the point of aim directly in view</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_60" begin="3500" end="3507">
     <text>looking</text>
     <mainVerb begin="3500" end="3507">looking</mainVerb>
     <tokens>looking along the whole length of the arrow</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_61" begin="3578" end="3580">
     <text>go</text>
     <mainVerb begin="3578" end="3580">go</mainVerb>
     <mainReferent begin="3572" end="3577">arrow</mainReferent>
     <tokens>the arrow go</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_62" begin="3589" end="3593">
     <text>jerk</text>
     <mainVerb begin="3589" end="3593">jerk</mainVerb>
     <tokens>Loosing letting do not jerk loose smoothly</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_63" begin="3619" end="3621">
     <text>be</text>
     <mainVerb begin="3619" end="3621">be</mainVerb>
     <tokens>be</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_64" begin="3653" end="3657">
     <text>move</text>
     <mainVerb begin="3653" end="3657">move</mainVerb>
     <mainReferent begin="3640" end="3643">arm</mainReferent>
     <tokens>your bow arm does not move when loosing</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_60.txt_65" begin="3701" end="3703">
     <text>is</text>
     <mainVerb begin="3701" end="3703">is</mainVerb>
     <mainReferent begin="3675" end="3678">get</mainReferent>
     <tokens>To get a clean sharp loose is more than half hitting the target</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
 </document>

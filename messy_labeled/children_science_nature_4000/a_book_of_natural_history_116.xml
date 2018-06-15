@@ -6,491 +6,574 @@
     <mainVerb begin="31" end="37">mimics</mainVerb>
     <mainReferent begin="23" end="30">species</mainReferent>
     <tokens>The cases one species mimics another</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_2" begin="53" end="60">
     <text>divided</text>
     <mainVerb begin="53" end="60">divided</mainVerb>
     <mainReferent begin="4" end="9">cases</mainReferent>
     <tokens>The cases may be divided to the kind of benefit derived into four classes : Class 1</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_3" begin="96" end="103">
     <text>derived</text>
     <mainVerb begin="96" end="103">derived</mainVerb>
     <mainReferent begin="88" end="95">benefit</mainReferent>
     <tokens>derived</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_4" begin="154" end="158">
     <text>find</text>
     <mainVerb begin="154" end="158">find</mainVerb>
     <mainReferent begin="151" end="153">we</mainReferent>
     <tokens>where we find one species</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_5" begin="171" end="180">
     <text>mimicking</text>
     <mainVerb begin="171" end="180">mimicking</mainVerb>
     <mainReferent begin="163" end="170">species</mainReferent>
     <tokens>mimicking another</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_6" begin="212" end="221">
     <text>possesses</text>
     <mainVerb begin="212" end="221">possesses</mainVerb>
     <mainReferent begin="204" end="211">species</mainReferent>
     <tokens>As a rule the mimicked species possesses some special means of defence against the enemies of both</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_7" begin="299" end="306">
     <text>consist</text>
     <mainVerb begin="299" end="306">consist</mainVerb>
     <mainReferent begin="287" end="294">defence</mainReferent>
     <tokens>This defence may consist of a disagreeable taste or odor as in the Heliconidæ , which are mimicked by other butterflies ; of some special weapon of offence , as where wasps and bees are mimicked by flies and moths , or poisonous vipers by harmless caterpillars ; or of a hard shell , as where the coriaceous beetles are mimicked by those that are soft-bodied</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_8" begin="373" end="381">
     <text>mimicked</text>
     <mainVerb begin="373" end="381">mimicked</mainVerb>
     <mainReferent begin="351" end="361">Heliconidæ</mainReferent>
     <tokens>the Heliconidæ are mimicked other butterflies of some special weapon of offence , as where wasps and bees are mimicked by flies and moths , or poisonous vipers by harmless caterpillars of a hard shell</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_9" begin="468" end="476">
     <text>mimicked</text>
     <mainVerb begin="468" end="476">mimicked</mainVerb>
     <mainReferent begin="459" end="463">bees</mainReferent>
     <tokens>where wasps bees are mimicked flies moths</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_10" begin="601" end="609">
     <text>mimicked</text>
     <mainVerb begin="601" end="609">mimicked</mainVerb>
     <mainReferent begin="351" end="361">Heliconidæ</mainReferent>
     <tokens>where the coriaceous beetles are mimicked those</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_11" begin="625" end="628">
     <text>are</text>
     <mainVerb begin="625" end="628">are</mainVerb>
     <mainReferent begin="613" end="618">those</mainReferent>
     <tokens>those are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_12" begin="668" end="671">
     <text>are</text>
     <mainVerb begin="668" end="671">are</mainVerb>
     <mainReferent begin="645" end="654">Instances</mainReferent>
     <tokens>Instances of this rule are exceedingly</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_13" begin="710" end="714">
     <text>says</text>
     <mainVerb begin="710" end="714">says</mainVerb>
     <mainReferent begin="702" end="709">Wallace</mainReferent>
     <tokens>indeed Wallace says</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_14" begin="731" end="740">
     <text>protected</text>
     <mainVerb begin="731" end="740">protected</mainVerb>
     <tokens>specially protected</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_15" begin="758" end="766">
     <text>mimicked</text>
     <mainVerb begin="758" end="766">mimicked</mainVerb>
     <mainReferent begin="741" end="746">forms</mainReferent>
     <tokens>that forms are always mimicked</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_16" begin="777" end="781">
     <text>have</text>
     <mainVerb begin="777" end="781">have</mainVerb>
     <mainReferent begin="774" end="776">we</mainReferent>
     <tokens>still we have nothing</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_17" begin="791" end="800">
     <text>mimicking</text>
     <mainVerb begin="791" end="800">mimicking</mainVerb>
     <mainReferent begin="783" end="790">nothing</mainReferent>
     <tokens>mimicking our Gasteracanthidæ</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_18" begin="850" end="854">
     <text>prey</text>
     <mainVerb begin="850" end="854">prey</mainVerb>
     <mainReferent begin="838" end="845">mimetic</mainReferent>
     <tokens>The mimetic may prey upon the mimicked species , its disguise</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_19" begin="896" end="904">
     <text>enabling</text>
     <mainVerb begin="896" end="904">enabling</mainVerb>
     <tokens>enabling it to gain a near approach to its victims as the mantis , mentioned by Bates as exactly resembling the white ants upon which it feeds ; and the flies which mimic bees</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_20" begin="964" end="973">
     <text>mentioned</text>
     <mainVerb begin="964" end="973">mentioned</mainVerb>
     <mainReferent begin="955" end="961">mantis</mainReferent>
     <tokens>mentioned Bates exactly resembling the white ants</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_21" begin="1035" end="1040">
     <text>feeds</text>
     <mainVerb begin="1035" end="1040">feeds</mainVerb>
     <mainReferent begin="1031" end="1033">it</mainReferent>
     <tokens>which it feeds</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_22" begin="1062" end="1067">
     <text>mimic</text>
     <mainVerb begin="1062" end="1067">mimic</mainVerb>
     <mainReferent begin="1050" end="1055">flies</mainReferent>
     <tokens>the flies mimic bees</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_23" begin="1090" end="1093">
     <text>are</text>
     <mainVerb begin="1090" end="1093">are</mainVerb>
     <mainReferent begin="1085" end="1089">they</mainReferent>
     <tokens>which they are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_24" begin="1110" end="1113">
     <text>are</text>
     <mainVerb begin="1110" end="1113">are</mainVerb>
     <mainReferent begin="1085" end="1089">they</mainReferent>
     <tokens>they are thus to enter the nests of the bees</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_25" begin="1159" end="1162">
     <text>lay</text>
     <mainVerb begin="1159" end="1162">lay</mainVerb>
     <mainReferent begin="1085" end="1089">they</mainReferent>
     <tokens>lay eggs on the larvæ</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_26" begin="1241" end="1250">
     <text>protected</text>
     <mainVerb begin="1241" end="1250">protected</mainVerb>
     <mainReferent begin="1207" end="1214">species</mainReferent>
     <tokens>The mimetic species may its imitation be protected from the attacks of the creature it mimics</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_27" begin="1288" end="1294">
     <text>mimics</text>
     <mainVerb begin="1288" end="1294">mimics</mainVerb>
     <mainReferent begin="1285" end="1287">it</mainReferent>
     <tokens>it mimics</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_28" begin="1299" end="1301">
     <text>is</text>
     <mainVerb begin="1299" end="1301">is</mainVerb>
     <tokens>as is the with the crickets and grasshoppers which mimic their deadly foe , the hunter wasp</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_29" begin="1353" end="1358">
     <text>mimic</text>
     <mainVerb begin="1353" end="1358">mimic</mainVerb>
     <mainReferent begin="1321" end="1329">crickets</mainReferent>
     <tokens>the crickets grasshoppers mimic their deadly foe the hunter wasp</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_30" begin="1431" end="1435">
     <text>prey</text>
     <mainVerb begin="1431" end="1435">prey</mainVerb>
     <mainReferent begin="1419" end="1426">species</mainReferent>
     <tokens>The mimetic species may prey upon some creature which is found commonly with , and is not eaten by , the mimicked species</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_31" begin="1465" end="1470">
     <text>found</text>
     <mainVerb begin="1465" end="1470">found</mainVerb>
     <mainReferent begin="1446" end="1454">creature</mainReferent>
     <tokens>upon some creature which is found commonly with , and is not eaten by , the mimicked species</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_32" begin="1497" end="1502">
     <text>eaten</text>
     <mainVerb begin="1497" end="1502">eaten</mainVerb>
     <mainReferent begin="1446" end="1454">creature</mainReferent>
     <tokens>some creature is not eaten the mimicked species</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_33" begin="1556" end="1559">
     <text>are</text>
     <mainVerb begin="1556" end="1559">are</mainVerb>
     <mainReferent begin="1535" end="1538">two</mainReferent>
     <tokens>No two of these classes are mutually</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_34" begin="1639" end="1645">
     <text>gained</text>
     <mainVerb begin="1639" end="1645">gained</mainVerb>
     <mainReferent begin="1622" end="1631">advantage</mainReferent>
     <tokens>so that in any case of mimicry a double advantage may be gained</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_35" begin="1650" end="1653">
     <text>Let</text>
     <mainVerb begin="1650" end="1653">Let</mainVerb>
     <tokens>Let</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_36" begin="1657" end="1660">
     <text>see</text>
     <mainVerb begin="1657" end="1660">see</mainVerb>
     <mainReferent begin="1654" end="1656">us</mainReferent>
     <tokens>us see</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_37" begin="1691" end="1699">
     <text>directed</text>
     <mainVerb begin="1691" end="1699">directed</mainVerb>
     <mainReferent begin="1661" end="1666">which</mainReferent>
     <tokens>which of these advantages has directed the development of mimetic tendencies among spiders</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_38" begin="1810" end="1814">
     <text>find</text>
     <mainVerb begin="1810" end="1814">find</mainVerb>
     <mainReferent begin="1793" end="1795">we</mainReferent>
     <tokens>While among beetles and butterflies we most commonly find mimicry of one species by another within the same order</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_39" begin="1876" end="1880">
     <text>have</text>
     <mainVerb begin="1876" end="1880">have</mainVerb>
     <mainReferent begin="1873" end="1875">we</mainReferent>
     <tokens>we have no instance of a spider mimicking another spider</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_40" begin="1906" end="1915">
     <text>mimicking</text>
     <mainVerb begin="1906" end="1915">mimicking</mainVerb>
     <mainReferent begin="1899" end="1905">spider</mainReferent>
     <tokens>mimicking another spider</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_41" begin="1944" end="1953">
     <text>accounted</text>
     <mainVerb begin="1944" end="1953">accounted</mainVerb>
     <mainReferent begin="1932" end="1936">This</mainReferent>
     <tokens>This may be accounted for by the fact</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_42" begin="1990" end="1999">
     <text>protected</text>
     <mainVerb begin="1990" end="1999">protected</mainVerb>
     <tokens>specially protected</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_43" begin="2008" end="2014">
     <text>depend</text>
     <mainVerb begin="2008" end="2014">depend</mainVerb>
     <mainReferent begin="1965" end="1969">fact</mainReferent>
     <tokens>that the spiders depend for their safety upon the possession of hard plates and spinous processes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_44" begin="2109" end="2117">
     <text>hardened</text>
     <mainVerb begin="2109" end="2117">hardened</mainVerb>
     <tokens>hardened</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_45" begin="2137" end="2145">
     <text>imitated</text>
     <mainVerb begin="2137" end="2145">imitated</mainVerb>
     <mainReferent begin="2118" end="2127">epidermis</mainReferent>
     <tokens>although the epidermis might be imitated</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_46" begin="2150" end="2154">
     <text>know</text>
     <mainVerb begin="2150" end="2154">know</mainVerb>
     <mainReferent begin="2147" end="2149">we</mainReferent>
     <tokens>( we know )</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_47" begin="2186" end="2194">
     <text>mimicked</text>
     <mainVerb begin="2186" end="2194">mimicked</mainVerb>
     <mainReferent begin="2174" end="2181">beetles</mainReferent>
     <tokens>that hard-shelled beetles are mimicked others</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_48" begin="2210" end="2213">
     <text>are</text>
     <mainVerb begin="2210" end="2213">are</mainVerb>
     <mainReferent begin="2198" end="2204">others</mainReferent>
     <tokens>others are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_49" begin="2247" end="2255">
     <text>imitated</text>
     <mainVerb begin="2247" end="2255">imitated</mainVerb>
     <mainReferent begin="1932" end="1936">This</mainReferent>
     <tokens>spines could scarcely be imitated a soft-bodied creature with sufficient accuracy to insure disguise</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_50" begin="2359" end="2364">
     <text>mimic</text>
     <mainVerb begin="2359" end="2364">mimic</mainVerb>
     <mainReferent begin="2337" end="2344">spiders</mainReferent>
     <tokens>While spiders most commonly mimic ants</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_51" begin="2374" end="2378">
     <text>hear</text>
     <mainVerb begin="2374" end="2378">hear</mainVerb>
     <mainReferent begin="2371" end="2373">we</mainReferent>
     <tokens>we hear also of their imitating beetles , snail-shells , ichneumons and horseflies</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_52" begin="2460" end="2462">
     <text>is</text>
     <mainVerb begin="2460" end="2462">is</mainVerb>
     <mainReferent begin="2490" end="2497">species</mainReferent>
     <tokens>There is also a curious Madagascar species</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_53" begin="2504" end="2509">
     <text>looks</text>
     <mainVerb begin="2504" end="2509">looks</mainVerb>
     <mainReferent begin="2490" end="2497">species</mainReferent>
     <tokens>a curious Madagascar species looks exactly like a little scorpion the resemblance</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_54" begin="2565" end="2575">
     <text>heightened</text>
     <mainVerb begin="2565" end="2575">heightened</mainVerb>
     <mainReferent begin="2547" end="2558">resemblance</mainReferent>
     <tokens>being heightened its habit curving its flexible tail up over its back when irritated</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_55" begin="2666" end="2674">
     <text>resemble</text>
     <mainVerb begin="2666" end="2674">resemble</mainVerb>
     <mainReferent begin="2655" end="2660">Those</mainReferent>
     <tokens>Those resemble beetles</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_56" begin="2683" end="2691">
     <text>comprise</text>
     <mainVerb begin="2683" end="2691">comprise</mainVerb>
     <mainReferent begin="2655" end="2660">Those</mainReferent>
     <tokens>Those comprise nearly all the species of the genera Coccorchestes and Homalattus</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_57" begin="2766" end="2769">
     <text>are</text>
     <mainVerb begin="2766" end="2769">are</mainVerb>
     <mainReferent begin="2760" end="2765">These</mainReferent>
     <tokens>These are small with short , convex bodies</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_58" begin="2824" end="2828">
     <text>fits</text>
     <mainVerb begin="2824" end="2828">fits</mainVerb>
     <mainReferent begin="2816" end="2823">abdomen</mainReferent>
     <tokens>The abdomen fits closely over the cephalothorax</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_59" begin="2887" end="2890">
     <text>has</text>
     <mainVerb begin="2887" end="2890">has</mainVerb>
     <mainReferent begin="2870" end="2879">epidermis</mainReferent>
     <tokens>the epidermis has usually a metallic lustre</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_60" begin="2918" end="2920">
     <text>is</text>
     <mainVerb begin="2918" end="2920">is</mainVerb>
     <mainReferent begin="2870" end="2879">epidermis</mainReferent>
     <tokens>the epidermis is sometimes</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_61" begin="2966" end="2971">
     <text>found</text>
     <mainVerb begin="2966" end="2971">found</mainVerb>
     <mainReferent begin="2953" end="2961">examples</mainReferent>
     <tokens>Striking examples are found in H. coccinelloides , which bears a strong resemblance to beetles of the family Coccinelloidæ , in C. cupreus , in which certain marks on the abdomen imitate the elytra of beetles</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_62" begin="3001" end="3006">
     <text>bears</text>
     <mainVerb begin="3001" end="3006">bears</mainVerb>
     <mainReferent begin="2978" end="2992">coccinelloides</mainReferent>
     <tokens>H. coccinelloides bears a strong resemblance to beetles of the family Coccinelloidæ C. cupreus</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_63" begin="3126" end="3133">
     <text>imitate</text>
     <mainVerb begin="3126" end="3133">imitate</mainVerb>
     <mainReferent begin="3105" end="3110">marks</mainReferent>
     <tokens>in C. cupreus , in which certain marks on the abdomen imitate the elytra of beetles</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_64" begin="3201" end="3207">
     <text>mimics</text>
     <mainVerb begin="3201" end="3207">mimics</mainVerb>
     <mainReferent begin="3188" end="3194">spider</mainReferent>
     <tokens>a spider mimics a snail-shell</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_65" begin="3225" end="3230">
     <text>given</text>
     <mainVerb begin="3225" end="3230">given</mainVerb>
     <mainReferent begin="3175" end="3182">account</mainReferent>
     <tokens>The following account of a spider which mimics a snail-shell is given Mr. G. F. Atkinson "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_66" begin="3301" end="3307">
     <text>mimics</text>
     <mainVerb begin="3301" end="3307">mimics</mainVerb>
     <mainReferent begin="3276" end="3283">species</mainReferent>
     <tokens>An undescribed species of _ Cyrtarachne _ mimics a snail-shell</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_67" begin="3377" end="3379">
     <text>is</text>
     <mainVerb begin="3377" end="3379">is</mainVerb>
     <mainReferent begin="3328" end="3338">inhabitant</mainReferent>
     <tokens>a snail-shell the inhabitant during the summer and fall is very on the leaves of plants in this place</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_68" begin="3484" end="3490">
     <text>covers</text>
     <mainVerb begin="3484" end="3490">covers</mainVerb>
     <mainReferent begin="3469" end="3476">abdomen</mainReferent>
     <tokens>In the species of Cyrtarachne the abdomen partly covers the cephalothorax</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_69" begin="3510" end="3512">
     <text>is</text>
     <mainVerb begin="3510" end="3512">is</mainVerb>
     <mainReferent begin="3469" end="3476">abdomen</mainReferent>
     <tokens>the abdomen is very at the base in this species broader than the length of the spider</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_70" begin="3597" end="3603">
     <text>rounds</text>
     <mainVerb begin="3597" end="3603">rounds</mainVerb>
     <mainReferent begin="3469" end="3476">abdomen</mainReferent>
     <tokens>the abdomen rounds off at the apex</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_71" begin="3630" end="3635">
     <text>rests</text>
     <mainVerb begin="3630" end="3635">rests</mainVerb>
     <mainReferent begin="3627" end="3629">it</mainReferent>
     <tokens>When it rests upon the under side of a leaf with its legs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_72" begin="3681" end="3690">
     <text>retracted</text>
     <mainVerb begin="3681" end="3690">retracted</mainVerb>
     <mainReferent begin="3630" end="3635">rests</mainReferent>
     <tokens>retracted</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_73" begin="3703" end="3712">
     <text>resembles</text>
     <mainVerb begin="3703" end="3712">resembles</mainVerb>
     <mainReferent begin="3691" end="3693">it</mainReferent>
     <tokens>it strongly resembles one of these snail-shells by the color and shape of its abdomen</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_74" begin="3805" end="3814">
     <text>collected</text>
     <mainVerb begin="3805" end="3814">collected</mainVerb>
     <mainReferent begin="3803" end="3804">I</mainReferent>
     <tokens>The two specimens I collected</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_75" begin="3815" end="3823">
     <text>deceived</text>
     <mainVerb begin="3815" end="3823">deceived</mainVerb>
     <mainReferent begin="3787" end="3796">specimens</mainReferent>
     <tokens>The two specimens deceived me at first</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_76" begin="3864" end="3867">
     <text>led</text>
     <mainVerb begin="3864" end="3867">led</mainVerb>
     <mainReferent begin="3787" end="3796">specimens</mainReferent>
     <tokens>a few threads of silk led me to make the examination</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_77" begin="3908" end="3914">
     <text>seemed</text>
     <mainVerb begin="3908" end="3914">seemed</mainVerb>
     <mainReferent begin="3901" end="3907">spider</mainReferent>
     <tokens>The spider seemed so confident of its protection</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_78" begin="3965" end="3969">
     <text>move</text>
     <mainVerb begin="3965" end="3969">move</mainVerb>
     <mainReferent begin="3951" end="3953">it</mainReferent>
     <tokens>that it would not move</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_79" begin="3977" end="3983">
     <text>jarred</text>
     <mainVerb begin="3977" end="3983">jarred</mainVerb>
     <mainReferent begin="3975" end="3976">I</mainReferent>
     <tokens>when I jarred the plant</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_80" begin="3995" end="4003">
     <text>striking</text>
     <mainVerb begin="3995" end="4003">striking</mainVerb>
     <mainReferent begin="3975" end="3976">I</mainReferent>
     <tokens>striking it several hard blows</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_81" begin="4030" end="4036">
     <text>pulled</text>
     <mainVerb begin="4030" end="4036">pulled</mainVerb>
     <mainReferent begin="4027" end="4028">I</mainReferent>
     <tokens>I pulled the spider forcibly from the leaf "</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_82" begin="4087" end="4094">
     <text>exhibit</text>
     <mainVerb begin="4087" end="4094">exhibit</mainVerb>
     <mainReferent begin="4027" end="4028">I</mainReferent>
     <tokens>it did not exhibit any signs of movement</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_116.txt_83" begin="4124" end="4135">
     <text>transferred</text>
     <mainVerb begin="4124" end="4135">transferred</mainVerb>
     <mainReferent begin="4076" end="4078">it</mainReferent>
     <tokens>transferred to the cyanide bottle</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
 </document>

@@ -6,254 +6,297 @@
     <mainVerb begin="25" end="27">is</mainVerb>
     <mainReferent begin="20" end="24">Swan</mainReferent>
     <tokens>The Swan is a very beautiful</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_2" begin="54" end="56">
     <text>is</text>
     <mainVerb begin="54" end="56">is</mainVerb>
     <mainReferent begin="51" end="53">It</mainReferent>
     <tokens>It is generally</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_3" begin="104" end="114">
     <text>discovered</text>
     <mainVerb begin="104" end="114">discovered</mainVerb>
     <mainReferent begin="90" end="94">swan</mainReferent>
     <tokens>though a black swan has been discovered in Australia</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_4" begin="150" end="154">
     <text>seen</text>
     <mainVerb begin="150" end="154">seen</mainVerb>
     <mainReferent begin="129" end="131">It</mainReferent>
     <tokens>It is not very often seen in this country</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_5" begin="180" end="187">
     <text>brought</text>
     <mainVerb begin="180" end="187">brought</mainVerb>
     <mainReferent begin="173" end="175">It</mainReferent>
     <tokens>It was brought from Asia and Eastern Europe into England</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_6" begin="286" end="296">
     <text>introduced</text>
     <mainVerb begin="286" end="296">introduced</mainVerb>
     <mainReferent begin="266" end="275">specimens</mainReferent>
     <tokens>from whence most probably a few specimens have been introduced into this country</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_7" begin="326" end="328">
     <text>is</text>
     <mainVerb begin="326" end="328">is</mainVerb>
     <mainReferent begin="321" end="325">Swan</mainReferent>
     <tokens>The Swan is very in the water</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_8" begin="372" end="374">
     <text>is</text>
     <mainVerb begin="372" end="374">is</mainVerb>
     <mainReferent begin="369" end="371">it</mainReferent>
     <tokens>on land it is an awkward</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_9" begin="444" end="449">
     <text>found</text>
     <mainVerb begin="444" end="449">found</mainVerb>
     <mainReferent begin="426" end="430">Coot</mainReferent>
     <tokens>The Coot is generally found in large sheets of water</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_10" begin="493" end="499">
     <text>shaded</text>
     <mainVerb begin="493" end="499">shaded</mainVerb>
     <tokens>particularly if shaded by trees</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_11" begin="519" end="521">
     <text>is</text>
     <mainVerb begin="519" end="521">is</mainVerb>
     <mainReferent begin="514" end="518">nest</mainReferent>
     <tokens>The nest is a of flags , reeds , and grass usually at the water 's edge sometimes actually in the water</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_12" begin="641" end="644">
     <text>are</text>
     <mainVerb begin="641" end="644">are</mainVerb>
     <mainReferent begin="636" end="640">eggs</mainReferent>
     <tokens>The Coot eggs are generally in number</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_13" begin="703" end="710">
     <text>spotted</text>
     <mainVerb begin="703" end="710">spotted</mainVerb>
     <mainReferent begin="672" end="676">They</mainReferent>
     <tokens>They are of a greenish-white spotted</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_14" begin="755" end="757">
     <text>is</text>
     <mainVerb begin="755" end="757">is</mainVerb>
     <mainReferent begin="746" end="754">Dabchick</mainReferent>
     <tokens>The Dabchick is a very timid dives</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_15" begin="786" end="793">
     <text>alarmed</text>
     <mainVerb begin="786" end="793">alarmed</mainVerb>
     <mainReferent begin="771" end="775">bird</mainReferent>
     <tokens>when alarmed instantly</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_16" begin="827" end="829">
     <text>is</text>
     <mainVerb begin="827" end="829">is</mainVerb>
     <mainReferent begin="824" end="826">it</mainReferent>
     <tokens>dives it is to look after the bird</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_17" begin="876" end="888">
     <text>domesticated</text>
     <mainVerb begin="876" end="888">domesticated</mainVerb>
     <mainReferent begin="862" end="864">It</mainReferent>
     <tokens>It is easily domesticated</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_18" begin="903" end="907">
     <text>seen</text>
     <mainVerb begin="903" end="907">seen</mainVerb>
     <mainReferent begin="862" end="864">It</mainReferent>
     <tokens>It is often seen</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_19" begin="908" end="914">
     <text>placed</text>
     <mainVerb begin="908" end="914">placed</mainVerb>
     <mainReferent begin="903" end="907">seen</mainReferent>
     <tokens>placed as an ornament to ponds , where it swims about very merrily</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_20" begin="950" end="955">
     <text>swims</text>
     <mainVerb begin="950" end="955">swims</mainVerb>
     <mainReferent begin="946" end="948">it</mainReferent>
     <tokens>where it swims about very merrily</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_21" begin="980" end="985">
     <text>seems</text>
     <mainVerb begin="980" end="985">seems</mainVerb>
     <mainReferent begin="862" end="864">It</mainReferent>
     <tokens>It seems to enjoy a game of hide</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_22" begin="1014" end="1018">
     <text>seek</text>
     <mainVerb begin="1014" end="1018">seek</mainVerb>
     <mainReferent begin="862" end="864">It</mainReferent>
     <tokens>seek with any one who is attempting to watch its movements</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_23" begin="1040" end="1050">
     <text>attempting</text>
     <mainVerb begin="1040" end="1050">attempting</mainVerb>
     <mainReferent begin="1029" end="1032">one</mainReferent>
     <tokens>any one is attempting to watch its movements</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_24" begin="1110" end="1112">
     <text>is</text>
     <mainVerb begin="1110" end="1112">is</mainVerb>
     <mainReferent begin="1105" end="1109">Teal</mainReferent>
     <tokens>The Teal is the of the ducks</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_25" begin="1162" end="1164">
     <text>is</text>
     <mainVerb begin="1162" end="1164">is</mainVerb>
     <mainReferent begin="1157" end="1161">Teal</mainReferent>
     <tokens>The Green-winged Teal is the</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_26" begin="1183" end="1188">
     <text>feeds</text>
     <mainVerb begin="1183" end="1188">feeds</mainVerb>
     <mainReferent begin="1180" end="1182">It</mainReferent>
     <tokens>It feeds on fresh-water insects , seeds , and aquatic plants</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_27" begin="1256" end="1266">
     <text>considered</text>
     <mainVerb begin="1256" end="1266">considered</mainVerb>
     <mainReferent begin="1250" end="1252">it</mainReferent>
     <tokens>it is considered a great luxury</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_28" begin="1303" end="1307">
     <text>seen</text>
     <mainVerb begin="1303" end="1307">seen</mainVerb>
     <mainReferent begin="1283" end="1285">It</mainReferent>
     <tokens>It is almost always seen on well furnished tables</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_29" begin="1317" end="1326">
     <text>furnished</text>
     <mainVerb begin="1317" end="1326">furnished</mainVerb>
     <tokens>well furnished</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_30" begin="1348" end="1353">
     <text>feeds</text>
     <mainVerb begin="1348" end="1353">feeds</mainVerb>
     <mainReferent begin="1335" end="1337">It</mainReferent>
     <tokens>It generally feeds at night</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_31" begin="1367" end="1372">
     <text>flies</text>
     <mainVerb begin="1367" end="1372">flies</mainVerb>
     <mainReferent begin="1364" end="1366">It</mainReferent>
     <tokens>It flies very swiftly</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_32" begin="1392" end="1398">
     <text>utters</text>
     <mainVerb begin="1392" end="1398">utters</mainVerb>
     <mainReferent begin="1364" end="1366">It</mainReferent>
     <tokens>It utters a whistling cry</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_33" begin="1453" end="1455">
     <text>is</text>
     <mainVerb begin="1453" end="1455">is</mainVerb>
     <mainReferent begin="1447" end="1452">Goose</mainReferent>
     <tokens>The Goose is a very common</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_34" begin="1523" end="1527">
     <text>bred</text>
     <mainVerb begin="1523" end="1527">bred</mainVerb>
     <mainReferent begin="1512" end="1518">flocks</mainReferent>
     <tokens>In Lincolnshire , England enormous flocks are bred</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_35" begin="1529" end="1539">
     <text>containing</text>
     <mainVerb begin="1529" end="1539">containing</mainVerb>
     <tokens>containing from two to ten thousand each</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_36" begin="1581" end="1590">
     <text>subjected</text>
     <mainVerb begin="1581" end="1590">subjected</mainVerb>
     <mainReferent begin="1571" end="1575">They</mainReferent>
     <tokens>They are subjected to the plucking of their wing-feathers periodically in order to supply the demand for quills</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_37" begin="1742" end="1747">
     <text>feeds</text>
     <mainVerb begin="1742" end="1747">feeds</mainVerb>
     <mainReferent begin="1734" end="1741">Catcher</mainReferent>
     <tokens>The Oyster Catcher feeds generally on shell-fish , oysters , limpets , &amp; c</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_38" begin="1799" end="1807">
     <text>detaches</text>
     <mainVerb begin="1799" end="1807">detaches</mainVerb>
     <mainReferent begin="1796" end="1798">He</mainReferent>
     <tokens>He detaches them from the rocks to which they are fastened</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_39" begin="1846" end="1854">
     <text>fastened</text>
     <mainVerb begin="1846" end="1854">fastened</mainVerb>
     <mainReferent begin="1837" end="1841">they</mainReferent>
     <tokens>from the rocks to which they are fastened</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_40" begin="1860" end="1865">
     <text>opens</text>
     <mainVerb begin="1860" end="1865">opens</mainVerb>
     <mainReferent begin="1796" end="1798">He</mainReferent>
     <tokens>He opens them with his long , stout bill</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_41" begin="1924" end="1927">
     <text>are</text>
     <mainVerb begin="1924" end="1927">are</mainVerb>
     <mainReferent begin="1919" end="1923">body</mainReferent>
     <tokens>The head neck body are</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_42" begin="1939" end="1943">
     <text>lays</text>
     <mainVerb begin="1939" end="1943">lays</mainVerb>
     <mainReferent begin="1935" end="1937">It</mainReferent>
     <tokens>It lays two olive-brown eggs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="childs_book_of_water_birds_2.txt_43" begin="1966" end="1973">
     <text>spotted</text>
     <mainVerb begin="1966" end="1973">spotted</mainVerb>
     <mainReferent begin="1960" end="1964">eggs</mainReferent>
     <tokens>spotted with black</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
 </document>

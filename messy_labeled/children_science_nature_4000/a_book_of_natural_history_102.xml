@@ -6,477 +6,558 @@
     <mainVerb begin="28" end="34">allied</mainVerb>
     <mainReferent begin="10" end="17">Sitaris</mainReferent>
     <tokens>The genus Sitaris is allied to the blister-fly to the oil-beetle</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_2" begin="78" end="80">
     <text>is</text>
     <mainVerb begin="78" end="80">is</mainVerb>
     <mainReferent begin="10" end="17">Sitaris</mainReferent>
     <tokens>The genus Sitaris is on a kind of solitary bee which excavates subterranean galleries , each leading to a cell</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_3" begin="123" end="132">
     <text>excavates</text>
     <mainVerb begin="123" end="132">excavates</mainVerb>
     <mainReferent begin="96" end="100">kind</mainReferent>
     <tokens>a kind of solitary bee excavates subterranean galleries each</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_4" begin="163" end="170">
     <text>leading</text>
     <mainVerb begin="163" end="170">leading</mainVerb>
     <mainReferent begin="158" end="162">each</mainReferent>
     <tokens>leading to a cell</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_5" begin="217" end="226">
     <text>deposited</text>
     <mainVerb begin="217" end="226">deposited</mainVerb>
     <mainReferent begin="186" end="190">eggs</mainReferent>
     <tokens>The eggs of the beetle are deposited at the entrance of the galleries made by the bees</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_6" begin="260" end="264">
     <text>made</text>
     <mainVerb begin="260" end="264">made</mainVerb>
     <mainReferent begin="250" end="259">galleries</mainReferent>
     <tokens>made the bees</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_7" begin="283" end="290">
     <text>hatched</text>
     <mainVerb begin="283" end="290">hatched</mainVerb>
     <mainReferent begin="186" end="190">eggs</mainReferent>
     <tokens>The eggs of the beetle are hatched at the end of September beginning of October</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_8" begin="370" end="376">
     <text>expect</text>
     <mainVerb begin="370" end="376">expect</mainVerb>
     <mainReferent begin="186" end="190">eggs</mainReferent>
     <tokens>we might not unnaturally expect</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_9" begin="406" end="409">
     <text>are</text>
     <mainVerb begin="406" end="409">are</mainVerb>
     <mainReferent begin="392" end="397">larvæ</mainReferent>
     <tokens>the young larvæ are active little with six serviceable legs</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_10" begin="476" end="479">
     <text>eat</text>
     <mainVerb begin="476" end="479">eat</mainVerb>
     <mainReferent begin="392" end="397">larvæ</mainReferent>
     <tokens>that the young larvæ would at once eat their way into the cells of the bee</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_11" begin="572" end="578">
     <text>remain</text>
     <mainVerb begin="572" end="578">remain</mainVerb>
     <mainReferent begin="525" end="530">thing</mainReferent>
     <tokens>till the month of April following they remain leaving their birthplace in form size</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_12" begin="649" end="651">
     <text>do</text>
     <mainVerb begin="649" end="651">do</mainVerb>
     <mainReferent begin="567" end="571">they</mainReferent>
     <tokens>they consequently without food do they in this long time change either in form size</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_13" begin="716" end="727">
     <text>ascertained</text>
     <mainVerb begin="716" end="727">ascertained</mainVerb>
     <mainReferent begin="710" end="715">Fabre</mainReferent>
     <tokens>M. Fabre ascertained this not only examining the burrow of the bees also direct observations of some young larvæ kept in captivity</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_14" begin="834" end="838">
     <text>kept</text>
     <mainVerb begin="834" end="838">kept</mainVerb>
     <mainReferent begin="828" end="833">larvæ</mainReferent>
     <tokens>kept in captivity</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_15" begin="894" end="899">
     <text>awoke</text>
     <mainVerb begin="894" end="899">awoke</mainVerb>
     <mainReferent begin="876" end="884">captives</mainReferent>
     <tokens>In April however his captives at last awoke from their long lethargy</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_16" begin="930" end="937">
     <text>hurried</text>
     <mainVerb begin="930" end="937">hurried</mainVerb>
     <mainReferent begin="876" end="884">captives</mainReferent>
     <tokens>his captives hurried anxiously about their prisons</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_17" begin="980" end="989">
     <text>inferring</text>
     <mainVerb begin="980" end="989">inferring</mainVerb>
     <mainReferent begin="1028" end="1033">Fabre</mainReferent>
     <tokens>Naturally inferring</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_18" begin="1000" end="1004">
     <text>were</text>
     <mainVerb begin="1000" end="1004">were</mainVerb>
     <mainReferent begin="995" end="999">they</mainReferent>
     <tokens>that they were in search of food</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_19" begin="1034" end="1042">
     <text>supposed</text>
     <mainVerb begin="1034" end="1042">supposed</mainVerb>
     <mainReferent begin="1028" end="1033">Fabre</mainReferent>
     <tokens>M. Fabre supposed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_20" begin="1059" end="1066">
     <text>consist</text>
     <mainVerb begin="1059" end="1066">consist</mainVerb>
     <mainReferent begin="1048" end="1052">this</mainReferent>
     <tokens>that this would consist either of the larvæ or pupæ of the bee of the honey with which it stores its cell</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_21" begin="1138" end="1144">
     <text>stores</text>
     <mainVerb begin="1138" end="1144">stores</mainVerb>
     <mainReferent begin="1135" end="1137">it</mainReferent>
     <tokens>of the honey with which it stores its cell</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_22" begin="1171" end="1176">
     <text>tried</text>
     <mainVerb begin="1171" end="1176">tried</mainVerb>
     <mainReferent begin="1155" end="1158">All</mainReferent>
     <tokens>All three were tried without success</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_23" begin="1213" end="1222">
     <text>neglected</text>
     <mainVerb begin="1213" end="1222">neglected</mainVerb>
     <mainReferent begin="1204" end="1207">two</mainReferent>
     <tokens>The first two were neglected</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_24" begin="1245" end="1251">
     <text>placed</text>
     <mainVerb begin="1245" end="1251">placed</mainVerb>
     <tokens>when placed on the latter either</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_25" begin="1274" end="1281">
     <text>hurried</text>
     <mainVerb begin="1274" end="1281">hurried</mainVerb>
     <tokens>hurried away</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_26" begin="1290" end="1298">
     <text>perished</text>
     <mainVerb begin="1290" end="1298">perished</mainVerb>
     <tokens>perished in the attempt</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_27" begin="1322" end="1331">
     <text>evidently</text>
     <mainVerb begin="1322" end="1331">evidently</mainVerb>
     <mainReferent begin="1204" end="1207">two</mainReferent>
     <tokens>the larvæ being evidently unable to deal with the sticky substance</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_28" begin="1384" end="1387">
     <text>was</text>
     <mainVerb begin="1384" end="1387">was</mainVerb>
     <mainReferent begin="1378" end="1383">Fabre</mainReferent>
     <tokens>M. Fabre was in despair</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_29" begin="1423" end="1427">
     <text>came</text>
     <mainVerb begin="1423" end="1427">came</mainVerb>
     <mainReferent begin="1410" end="1413">ray</mainReferent>
     <tokens>The first ray of light came to him from our countryman Newport , who ascertained that a small parasite found on one of the wild bees was , in fact , the larva of the oil-beetle</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_30" begin="1469" end="1480">
     <text>ascertained</text>
     <mainVerb begin="1469" end="1480">ascertained</mainVerb>
     <mainReferent begin="1456" end="1463">Newport</mainReferent>
     <tokens>our countryman Newport ascertained</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_31" begin="1503" end="1508">
     <text>found</text>
     <mainVerb begin="1503" end="1508">found</mainVerb>
     <mainReferent begin="1494" end="1502">parasite</mainReferent>
     <tokens>found on one of the wild bees</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_32" begin="1534" end="1537">
     <text>was</text>
     <mainVerb begin="1534" end="1537">was</mainVerb>
     <mainReferent begin="1494" end="1502">parasite</mainReferent>
     <tokens>that a small parasite was in fact the of the oil-beetle</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_33" begin="1604" end="1613">
     <text>resembled</text>
     <mainVerb begin="1604" end="1613">resembled</mainVerb>
     <mainReferent begin="1581" end="1586">larvæ</mainReferent>
     <tokens>The larvæ of Sitaris much resembled this larva</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_34" begin="1626" end="1632">
     <text>Acting</text>
     <mainVerb begin="1626" end="1632">Acting</mainVerb>
     <mainReferent begin="1650" end="1655">Fabre</mainReferent>
     <tokens>Acting on this hint</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_35" begin="1657" end="1665">
     <text>examined</text>
     <mainVerb begin="1657" end="1665">examined</mainVerb>
     <mainReferent begin="1650" end="1655">Fabre</mainReferent>
     <tokens>M. Fabre examined many specimens of the bee</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_36" begin="1697" end="1702">
     <text>found</text>
     <mainVerb begin="1697" end="1702">found</mainVerb>
     <mainReferent begin="1650" end="1655">Fabre</mainReferent>
     <tokens>M. Fabre found on them at last the larvæ of his Sitaris</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_37" begin="1767" end="1773">
     <text>emerge</text>
     <mainVerb begin="1767" end="1773">emerge</mainVerb>
     <mainReferent begin="1750" end="1755">males</mainReferent>
     <tokens>The males of the bee emerge from the pupæ sooner than the females</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_38" begin="1827" end="1838">
     <text>ascertained</text>
     <mainVerb begin="1827" end="1838">ascertained</mainVerb>
     <mainReferent begin="1750" end="1755">males</mainReferent>
     <tokens>M. Fabre ascertained that</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_39" begin="1853" end="1857">
     <text>come</text>
     <mainVerb begin="1853" end="1857">come</mainVerb>
     <mainReferent begin="1848" end="1852">they</mainReferent>
     <tokens>as they come of their galleries the little Sitaris larvæ fasten upon them</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_40" begin="1858" end="1861">
     <text>out</text>
     <mainVerb begin="1858" end="1861">out</mainVerb>
     <tokens>out</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_41" begin="1960" end="1967">
     <text>teaches</text>
     <mainVerb begin="1960" end="1967">teaches</mainVerb>
     <tokens>however for long instinct teaches them that they not yet in the straight path of development watching their opportunity</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_42" begin="1983" end="1986">
     <text>are</text>
     <mainVerb begin="1983" end="1986">are</mainVerb>
     <tokens>are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_43" begin="2072" end="2076">
     <text>pass</text>
     <mainVerb begin="2072" end="2076">pass</mainVerb>
     <mainReferent begin="2066" end="2070">they</mainReferent>
     <tokens>Not watching their opportunity they pass from the male to the female bee</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_44" begin="2110" end="2116">
     <text>Guided</text>
     <mainVerb begin="2110" end="2116">Guided</mainVerb>
     <mainReferent begin="2143" end="2148">Fabre</mainReferent>
     <tokens>Guided these indications</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_45" begin="2149" end="2157">
     <text>examined</text>
     <mainVerb begin="2149" end="2157">examined</mainVerb>
     <mainReferent begin="2143" end="2148">Fabre</mainReferent>
     <tokens>M. Fabre examined several cells of the bee</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_46" begin="2213" end="2220">
     <text>floated</text>
     <mainVerb begin="2213" end="2220">floated</mainVerb>
     <mainReferent begin="2197" end="2200">egg</mainReferent>
     <tokens>in some the egg of the bee floated by itself on the surface of the honey</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_47" begin="2298" end="2301">
     <text>sat</text>
     <mainVerb begin="2298" end="2301">sat</mainVerb>
     <tokens>in others , on the egg as on a raft sat the still more minute larva of the Sitaris</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_48" begin="2363" end="2369">
     <text>solved</text>
     <mainVerb begin="2363" end="2369">solved</mainVerb>
     <mainReferent begin="2351" end="2358">mystery</mainReferent>
     <tokens>The mystery was solved</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_49" begin="2401" end="2405">
     <text>laid</text>
     <mainVerb begin="2401" end="2405">laid</mainVerb>
     <mainReferent begin="2394" end="2397">egg</mainReferent>
     <tokens>the moment when the egg is laid</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_50" begin="2426" end="2433">
     <text>springs</text>
     <mainVerb begin="2426" end="2433">springs</mainVerb>
     <mainReferent begin="2420" end="2425">larva</mainReferent>
     <tokens>At the moment when the egg is laid the Sitaris larva springs upon it</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_51" begin="2484" end="2493">
     <text>fastening</text>
     <mainVerb begin="2484" end="2493">fastening</mainVerb>
     <mainReferent begin="2463" end="2469">mother</mainReferent>
     <tokens>Even while the poor mother is carefully fastening up her cell</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_52" begin="2527" end="2536">
     <text>beginning</text>
     <mainVerb begin="2527" end="2536">beginning</mainVerb>
     <mainReferent begin="2518" end="2523">enemy</mainReferent>
     <tokens>her mortal enemy is beginning to devour her offspring</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_53" begin="2586" end="2592">
     <text>serves</text>
     <mainVerb begin="2586" end="2592">serves</mainVerb>
     <mainReferent begin="2571" end="2574">egg</mainReferent>
     <tokens>for the egg of the bee serves not only as a raft a repast</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_54" begin="2648" end="2650">
     <text>is</text>
     <mainVerb begin="2648" end="2650">is</mainVerb>
     <mainReferent begin="2635" end="2640">honey</mainReferent>
     <tokens>The honey is for either</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_55" begin="2676" end="2678">
     <text>be</text>
     <mainVerb begin="2676" end="2678">be</mainVerb>
     <mainReferent begin="2635" end="2640">honey</mainReferent>
     <tokens>The honey would be too for both</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_56" begin="2748" end="2756">
     <text>relieves</text>
     <mainVerb begin="2748" end="2756">relieves</mainVerb>
     <mainReferent begin="2635" end="2640">honey</mainReferent>
     <tokens>the Sitaris therefore at its first meal relieves itself from its only rival</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_57" begin="2814" end="2822">
     <text>consumed</text>
     <mainVerb begin="2814" end="2822">consumed</mainVerb>
     <mainReferent begin="2807" end="2810">egg</mainReferent>
     <tokens>After eight days the egg is consumed</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_58" begin="2860" end="2869">
     <text>undergoes</text>
     <mainVerb begin="2860" end="2869">undergoes</mainVerb>
     <mainReferent begin="2807" end="2810">egg</mainReferent>
     <tokens>on the empty shell the Sitaris undergoes its first transformation</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_59" begin="2900" end="2905">
     <text>makes</text>
     <mainVerb begin="2900" end="2905">makes</mainVerb>
     <mainReferent begin="2852" end="2859">Sitaris</mainReferent>
     <tokens>the Sitaris makes its appearance in a very different form</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_60" begin="2968" end="2971">
     <text>was</text>
     <mainVerb begin="2968" end="2971">was</mainVerb>
     <mainReferent begin="2955" end="2960">honey</mainReferent>
     <tokens>The honey was</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_61" begin="2986" end="2988">
     <text>is</text>
     <mainVerb begin="2986" end="2988">is</mainVerb>
     <mainReferent begin="2955" end="2960">honey</mainReferent>
     <tokens>The honey is now</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_62" begin="3032" end="3035">
     <text>was</text>
     <mainVerb begin="3032" end="3035">was</mainVerb>
     <mainReferent begin="3008" end="3016">activity</mainReferent>
     <tokens>the activity before was</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_63" begin="3047" end="3049">
     <text>is</text>
     <mainVerb begin="3047" end="3049">is</mainVerb>
     <mainReferent begin="3008" end="3016">activity</mainReferent>
     <tokens>the activity is now</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_64" begin="3126" end="3133">
     <text>changes</text>
     <mainVerb begin="3126" end="3133">changes</mainVerb>
     <mainReferent begin="3120" end="3125">larva</mainReferent>
     <tokens>consequently with the change of skin the active slim larva changes into a white fleshy grub , so organized as to float on the surface of the honey , with the mouth beneath and the breathing-holes above the surface</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_65" begin="3164" end="3173">
     <text>organized</text>
     <mainVerb begin="3164" end="3173">organized</mainVerb>
     <tokens>so organized as to float on the surface of the honey with the mouth beneath the breathing-holes above the surface</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_66" begin="3295" end="3302">
     <text>breathe</text>
     <mainVerb begin="3295" end="3302">breathe</mainVerb>
     <mainReferent begin="3286" end="3293">insects</mainReferent>
     <tokens>for insects breathe</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_67" begin="3314" end="3316">
     <text>do</text>
     <mainVerb begin="3314" end="3316">do</mainVerb>
     <mainReferent begin="3311" end="3313">we</mainReferent>
     <tokens>not as we do through the mouth through a row of holes arranged along the side</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_68" begin="3364" end="3372">
     <text>arranged</text>
     <mainVerb begin="3364" end="3372">arranged</mainVerb>
     <mainReferent begin="3357" end="3362">holes</mainReferent>
     <tokens>arranged along the side</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_69" begin="3406" end="3413">
     <text>remains</text>
     <mainVerb begin="3406" end="3413">remains</mainVerb>
     <mainReferent begin="3403" end="3405">it</mainReferent>
     <tokens>In this state it remains</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_70" begin="3434" end="3442">
     <text>consumed</text>
     <mainVerb begin="3434" end="3442">consumed</mainVerb>
     <mainReferent begin="3424" end="3429">honey</mainReferent>
     <tokens>until the honey is consumed</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_71" begin="3460" end="3469">
     <text>contracts</text>
     <mainVerb begin="3460" end="3469">contracts</mainVerb>
     <mainReferent begin="3453" end="3459">animal</mainReferent>
     <tokens>then the animal contracts</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_72" begin="3475" end="3483">
     <text>detaches</text>
     <mainVerb begin="3475" end="3483">detaches</mainVerb>
     <mainReferent begin="3460" end="3469">contracts</mainReferent>
     <tokens>and detaches itself from its skin</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_73" begin="3548" end="3552">
     <text>take</text>
     <mainVerb begin="3548" end="3552">take</mainVerb>
     <mainReferent begin="3453" end="3459">animal</mainReferent>
     <tokens>which the further transformations take place</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_74" begin="3589" end="3592">
     <text>has</text>
     <mainVerb begin="3589" end="3592">has</mainVerb>
     <mainReferent begin="3583" end="3588">larva</mainReferent>
     <tokens>In the next stage the larva has a solid corneous envelope an oval shape</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_75" begin="3687" end="3696">
     <text>resembles</text>
     <mainVerb begin="3687" end="3696">resembles</mainVerb>
     <mainReferent begin="3583" end="3588">larva</mainReferent>
     <tokens>in its color consistency immobility resembles the chrysalis of a fly</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_76" begin="3731" end="3737">
     <text>passed</text>
     <mainVerb begin="3731" end="3737">passed</mainVerb>
     <mainReferent begin="3726" end="3730">time</mainReferent>
     <tokens>passed in this condition</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_77" begin="3756" end="3762">
     <text>varies</text>
     <mainVerb begin="3756" end="3762">varies</mainVerb>
     <mainReferent begin="3726" end="3730">time</mainReferent>
     <tokens>The time varies much</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_78" begin="3782" end="3789">
     <text>elapsed</text>
     <mainVerb begin="3782" end="3789">elapsed</mainVerb>
     <mainReferent begin="3774" end="3776">it</mainReferent>
     <tokens>When it has elapsed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_79" begin="3822" end="3829">
     <text>changes</text>
     <mainVerb begin="3822" end="3829">changes</mainVerb>
     <mainReferent begin="3802" end="3808">moults</mainReferent>
     <tokens>the animal moults again again changes its form</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_80" begin="3856" end="3863">
     <text>becomes</text>
     <mainVerb begin="3856" end="3863">becomes</mainVerb>
     <mainReferent begin="3853" end="3855">it</mainReferent>
     <tokens>after this it becomes a pupa without any remarkable peculiarities</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_102.txt_81" begin="4009" end="4014">
     <text>makes</text>
     <mainVerb begin="4009" end="4014">makes</mainVerb>
     <mainReferent begin="4002" end="4008">beetle</mainReferent>
     <tokens>Finally after these wonderful changes and adventures in the month of August the perfect beetle makes its appearance</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
 </document>

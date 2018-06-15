@@ -5,594 +5,695 @@
     <text>wild</text>
     <mainVerb begin="9" end="13">wild</mainVerb>
     <tokens>wild</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_2" begin="34" end="37">
     <text>are</text>
     <mainVerb begin="34" end="37">are</mainVerb>
     <mainReferent begin="26" end="33">animals</mainReferent>
     <tokens>In their wild state these animals are very</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_3" begin="75" end="80">
     <text>tells</text>
     <mainVerb begin="75" end="80">tells</mainVerb>
     <mainReferent begin="65" end="69">lady</mainReferent>
     <tokens>The same lady tells the story about the tame panther</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_4" begin="115" end="119">
     <text>says</text>
     <mainVerb begin="115" end="119">says</mainVerb>
     <mainReferent begin="65" end="69">lady</mainReferent>
     <tokens>The same lady says</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_5" begin="148" end="154">
     <text>leaped</text>
     <mainVerb begin="148" end="154">leaped</mainVerb>
     <mainReferent begin="140" end="147">panther</mainReferent>
     <tokens>that in one case a panther leaped through an open window near her residence</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_6" begin="202" end="208">
     <text>killed</text>
     <mainVerb begin="202" end="208">killed</mainVerb>
     <mainReferent begin="140" end="147">panther</mainReferent>
     <tokens>a panther killed a little girl</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_7" begin="228" end="236">
     <text>happened</text>
     <mainVerb begin="228" end="236">happened</mainVerb>
     <mainReferent begin="219" end="223">girl</mainReferent>
     <tokens>a little girl happened except a man who was asleep</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_8" begin="305" end="308">
     <text>was</text>
     <mainVerb begin="305" end="308">was</mainVerb>
     <mainReferent begin="297" end="300">man</mainReferent>
     <tokens>a man was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_9" begin="346" end="350">
     <text>used</text>
     <mainVerb begin="346" end="350">used</mainVerb>
     <mainReferent begin="329" end="336">leopard</mainReferent>
     <tokens>The tame leopard is often used in India for the purpose of hunting antelopes</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_10" begin="405" end="412">
     <text>carried</text>
     <mainVerb begin="405" end="412">carried</mainVerb>
     <mainReferent begin="399" end="401">He</mainReferent>
     <tokens>He is carried in a kind of small wagon to the place where the herd of antelopes are feeding</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_11" begin="439" end="450">
     <text>blindfolded</text>
     <mainVerb begin="439" end="450">blindfolded</mainVerb>
     <tokens>blindfolded</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_12" begin="498" end="505">
     <text>feeding</text>
     <mainVerb begin="498" end="505">feeding</mainVerb>
     <mainReferent begin="476" end="480">herd</mainReferent>
     <tokens>where the herd of antelopes are feeding</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_13" begin="523" end="532">
     <text>blindfold</text>
     <mainVerb begin="523" end="532">blindfold</mainVerb>
     <mainReferent begin="518" end="522">they</mainReferent>
     <tokens>they blindfold him</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_14" begin="538" end="540">
     <text>is</text>
     <mainVerb begin="538" end="540">is</mainVerb>
     <mainReferent begin="511" end="517">reason</mainReferent>
     <tokens>The reason is to prevent</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_15" begin="600" end="604">
     <text>make</text>
     <mainVerb begin="600" end="604">make</mainVerb>
     <mainReferent begin="591" end="593">he</mainReferent>
     <tokens>so that he might make choice of an animal which is not worth much</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_16" begin="632" end="634">
     <text>is</text>
     <mainVerb begin="632" end="634">is</mainVerb>
     <mainReferent begin="619" end="625">animal</mainReferent>
     <tokens>an animal is not much</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_17" begin="663" end="666">
     <text>fly</text>
     <mainVerb begin="663" end="666">fly</mainVerb>
     <mainReferent begin="651" end="653">He</mainReferent>
     <tokens>He does not fly at his prey at once when loose winding along carefully for his leap</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_18" begin="694" end="697">
     <text>let</text>
     <mainVerb begin="694" end="697">let</mainVerb>
     <mainReferent begin="698" end="703">loose</mainReferent>
     <tokens>let</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_19" begin="735" end="743">
     <text>conceals</text>
     <mainVerb begin="735" end="743">conceals</mainVerb>
     <mainReferent begin="724" end="733">carefully</mainReferent>
     <tokens>conceals himself</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_20" begin="775" end="781">
     <text>offers</text>
     <mainVerb begin="775" end="781">offers</mainVerb>
     <mainReferent begin="724" end="733">carefully</mainReferent>
     <tokens>until an opportunity offers</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_21" begin="832" end="836">
     <text>made</text>
     <mainVerb begin="832" end="836">made</mainVerb>
     <mainReferent begin="651" end="653">He</mainReferent>
     <tokens>He then with five or six bounds made with amazing force and rapidity</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_22" begin="870" end="879">
     <text>overtakes</text>
     <mainVerb begin="870" end="879">overtakes</mainVerb>
     <mainReferent begin="651" end="653">He</mainReferent>
     <tokens>overtakes the herd</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_23" begin="895" end="901">
     <text>brings</text>
     <mainVerb begin="895" end="901">brings</mainVerb>
     <mainReferent begin="651" end="653">He</mainReferent>
     <tokens>brings his prey to the ground</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_24" begin="936" end="940">
     <text>read</text>
     <mainVerb begin="936" end="940">read</mainVerb>
     <mainReferent begin="929" end="930">I</mainReferent>
     <tokens>I have read a very serious story of an American panther</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_25" begin="1001" end="1003">
     <text>is</text>
     <mainVerb begin="1001" end="1003">is</mainVerb>
     <mainReferent begin="1038" end="1045">husband</mainReferent>
     <tokens>The lady is the of the story her husband</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_26" begin="1047" end="1051">
     <text>were</text>
     <mainVerb begin="1047" end="1051">were</mainVerb>
     <mainReferent begin="990" end="994">lady</mainReferent>
     <tokens>The lady her husband were among the first settlers in the wilderness of one of our western states</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_27" begin="1141" end="1146">
     <text>lived</text>
     <mainVerb begin="1141" end="1146">lived</mainVerb>
     <mainReferent begin="1126" end="1130">They</mainReferent>
     <tokens>They at first lived in a log cabin</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_28" begin="1183" end="1186">
     <text>was</text>
     <mainVerb begin="1183" end="1186">was</mainVerb>
     <mainReferent begin="1167" end="1173">luxury</mainReferent>
     <tokens>The luxury of glass was in that wild place among the forests</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_29" begin="1270" end="1278">
     <text>admitted</text>
     <mainVerb begin="1270" end="1278">admitted</mainVerb>
     <mainReferent begin="1167" end="1173">luxury</mainReferent>
     <tokens>consequently light air were admitted through holes which were always open</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_30" begin="1300" end="1304">
     <text>were</text>
     <mainVerb begin="1300" end="1304">were</mainVerb>
     <mainReferent begin="1288" end="1293">holes</mainReferent>
     <tokens>holes were always</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_31" begin="1344" end="1348">
     <text>been</text>
     <mainVerb begin="1344" end="1348">been</mainVerb>
     <mainReferent begin="1335" end="1339">wife</mainReferent>
     <tokens>Both husband wife had been from home for a day or two</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_32" begin="1409" end="1414">
     <text>found</text>
     <mainVerb begin="1409" end="1414">found</mainVerb>
     <mainReferent begin="1323" end="1330">husband</mainReferent>
     <tokens>on their return they found</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_33" begin="1450" end="1457">
     <text>hanging</text>
     <mainVerb begin="1450" end="1457">hanging</mainVerb>
     <mainReferent begin="1428" end="1433">flesh</mainReferent>
     <tokens>some deer flesh had been hanging up inside</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_34" begin="1476" end="1481">
     <text>eaten</text>
     <mainVerb begin="1476" end="1481">eaten</mainVerb>
     <mainReferent begin="1428" end="1433">flesh</mainReferent>
     <tokens>some deer flesh partly eaten</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_35" begin="1533" end="1541">
     <text>supposed</text>
     <mainVerb begin="1533" end="1541">supposed</mainVerb>
     <mainReferent begin="1523" end="1532">gentleman</mainReferent>
     <tokens>an animal the gentleman supposed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_36" begin="1542" end="1546">
     <text>were</text>
     <mainVerb begin="1542" end="1546">were</mainVerb>
     <mainReferent begin="1491" end="1497">tracks</mainReferent>
     <tokens>the tracks of an animal , which the gentleman supposed were of a large dog</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_37" begin="1583" end="1590">
     <text>obliged</text>
     <mainVerb begin="1583" end="1590">obliged</mainVerb>
     <mainReferent begin="1569" end="1571">He</mainReferent>
     <tokens>He was again obliged to leave home for a night</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_38" begin="1642" end="1650">
     <text>remained</text>
     <mainVerb begin="1642" end="1650">remained</mainVerb>
     <mainReferent begin="1569" end="1571">He</mainReferent>
     <tokens>this time the lady remained in the house alone</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_39" begin="1675" end="1679">
     <text>went</text>
     <mainVerb begin="1675" end="1679">went</mainVerb>
     <mainReferent begin="1671" end="1674">She</mainReferent>
     <tokens>She went to bed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_40" begin="1708" end="1713">
     <text>heard</text>
     <mainVerb begin="1708" end="1713">heard</mainVerb>
     <mainReferent begin="1671" end="1674">She</mainReferent>
     <tokens>soon after she heard an animal</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_41" begin="1725" end="1733">
     <text>climbing</text>
     <mainVerb begin="1725" end="1733">climbing</mainVerb>
     <tokens>climbing up the outside of the hut</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_42" begin="1765" end="1769">
     <text>jump</text>
     <mainVerb begin="1765" end="1769">jump</mainVerb>
     <mainReferent begin="1704" end="1707">she</mainReferent>
     <tokens>she jump down through one of the openings into the adjoining room , with which her sleeping apartment was connected by a doorway without a door</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_43" begin="1868" end="1877">
     <text>connected</text>
     <mainVerb begin="1868" end="1877">connected</mainVerb>
     <mainReferent begin="1854" end="1863">apartment</mainReferent>
     <tokens>into the adjoining room , with which her sleeping apartment was connected by a doorway without a door</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_44" begin="1907" end="1914">
     <text>Peeping</text>
     <mainVerb begin="1907" end="1914">Peeping</mainVerb>
     <mainReferent begin="1920" end="1923">she</mainReferent>
     <tokens>Peeping out</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_45" begin="1925" end="1928">
     <text>saw</text>
     <mainVerb begin="1925" end="1928">saw</mainVerb>
     <mainReferent begin="1920" end="1923">she</mainReferent>
     <tokens>she saw a huge panther very hungry fierce</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_46" begin="1956" end="1963">
     <text>seeking</text>
     <mainVerb begin="1956" end="1963">seeking</mainVerb>
     <mainReferent begin="1936" end="1943">panther</mainReferent>
     <tokens>apparently seeking for prey of course</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_47" begin="2017" end="2021">
     <text>beat</text>
     <mainVerb begin="2017" end="2021">beat</mainVerb>
     <mainReferent begin="2013" end="2016">She</mainReferent>
     <tokens>She beat against the partition between the rooms</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_48" begin="2068" end="2076">
     <text>screamed</text>
     <mainVerb begin="2068" end="2076">screamed</mainVerb>
     <mainReferent begin="2013" end="2016">She</mainReferent>
     <tokens>She screamed as loudly</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_49" begin="2094" end="2099">
     <text>could</text>
     <mainVerb begin="2094" end="2099">could</mainVerb>
     <mainReferent begin="2090" end="2093">she</mainReferent>
     <tokens>as she could</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_50" begin="2110" end="2120">
     <text>frightened</text>
     <mainVerb begin="2110" end="2120">frightened</mainVerb>
     <mainReferent begin="2101" end="2106">which</mainReferent>
     <tokens>which so frightened the panther</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_51" begin="2142" end="2148">
     <text>jumped</text>
     <mainVerb begin="2142" end="2148">jumped</mainVerb>
     <mainReferent begin="2138" end="2140">he</mainReferent>
     <tokens>that he jumped out</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_52" begin="2157" end="2160">
     <text>was</text>
     <mainVerb begin="2157" end="2160">was</mainVerb>
     <mainReferent begin="2154" end="2156">He</mainReferent>
     <tokens>He was however soon in again</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_53" begin="2209" end="2219">
     <text>frightened</text>
     <mainVerb begin="2209" end="2219">frightened</mainVerb>
     <mainReferent begin="2154" end="2156">He</mainReferent>
     <tokens>a second time she frightened him away in the same manner , when she sprang out of bed , and went to the fire-place , in the hope of making a sufficient blaze to keep the panther from entering again</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_54" begin="2258" end="2264">
     <text>sprang</text>
     <mainVerb begin="2258" end="2264">sprang</mainVerb>
     <mainReferent begin="2254" end="2257">she</mainReferent>
     <tokens>the same manner when she sprang of bed in the hope of making a sufficient blaze to keep the panther from entering again</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_55" begin="2265" end="2268">
     <text>out</text>
     <mainVerb begin="2265" end="2268">out</mainVerb>
     <tokens>out</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_56" begin="2282" end="2286">
     <text>went</text>
     <mainVerb begin="2282" end="2286">went</mainVerb>
     <mainReferent begin="2254" end="2257">she</mainReferent>
     <tokens>she went to the fire-place</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_57" begin="2418" end="2424">
     <text>burned</text>
     <mainVerb begin="2418" end="2424">burned</mainVerb>
     <mainReferent begin="2397" end="2403">embers</mainReferent>
     <tokens>the embers were too much burned</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_58" begin="2437" end="2441">
     <text>send</text>
     <mainVerb begin="2437" end="2441">send</mainVerb>
     <mainReferent begin="2397" end="2403">embers</mainReferent>
     <tokens>the embers would send out but a slight flame</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_59" begin="2492" end="2494">
     <text>do</text>
     <mainVerb begin="2492" end="2494">do</mainVerb>
     <mainReferent begin="2486" end="2491">woman</mainReferent>
     <tokens>What could the poor woman do</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_60" begin="2501" end="2508">
     <text>thought</text>
     <mainVerb begin="2501" end="2508">thought</mainVerb>
     <mainReferent begin="2496" end="2499">She</mainReferent>
     <tokens>She thought getting under the bed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_61" begin="2548" end="2557">
     <text>reflected</text>
     <mainVerb begin="2548" end="2557">reflected</mainVerb>
     <mainReferent begin="2496" end="2499">She</mainReferent>
     <tokens>then she reflected</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_62" begin="2581" end="2585">
     <text>find</text>
     <mainVerb begin="2581" end="2585">find</mainVerb>
     <mainReferent begin="2567" end="2573">animal</mainReferent>
     <tokens>that the animal would find no difficulty getting at her in that situation , in which case he would tear her in pieces before she could make any resistance</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_63" begin="2661" end="2665">
     <text>tear</text>
     <mainVerb begin="2661" end="2665">tear</mainVerb>
     <mainReferent begin="2652" end="2654">he</mainReferent>
     <tokens>in that situation , in which case he would tear her in pieces before she could make any resistance</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_64" begin="2697" end="2701">
     <text>make</text>
     <mainVerb begin="2697" end="2701">make</mainVerb>
     <mainReferent begin="2687" end="2690">she</mainReferent>
     <tokens>before she could make any resistance</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_65" begin="2746" end="2754">
     <text>occurred</text>
     <mainVerb begin="2746" end="2754">occurred</mainVerb>
     <mainReferent begin="2730" end="2734">plan</mainReferent>
     <tokens>The only plan then occurred to her mind for perfect security</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_66" begin="2789" end="2792">
     <text>was</text>
     <mainVerb begin="2789" end="2792">was</mainVerb>
     <mainReferent begin="2730" end="2734">plan</mainReferent>
     <tokens>The only plan was to get into a large sea-chest of her husband 's , which was nearly empty</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_67" begin="2848" end="2851">
     <text>was</text>
     <mainVerb begin="2848" end="2851">was</mainVerb>
     <mainReferent begin="2831" end="2838">husband</mainReferent>
     <tokens>her husband 's was nearly</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_68" begin="2867" end="2871">
     <text>Into</text>
     <mainVerb begin="2867" end="2871">Into</mainVerb>
     <tokens>Into</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_69" begin="2893" end="2898">
     <text>crept</text>
     <mainVerb begin="2893" end="2898">crept</mainVerb>
     <mainReferent begin="2877" end="2880">she</mainReferent>
     <tokens>that she accordingly crept</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_70" begin="2910" end="2913">
     <text>was</text>
     <mainVerb begin="2910" end="2913">was</mainVerb>
     <mainReferent begin="2914" end="2920">danger</mainReferent>
     <tokens>But there was danger</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_71" begin="2935" end="2944">
     <text>smothered</text>
     <mainVerb begin="2935" end="2944">smothered</mainVerb>
     <mainReferent begin="2914" end="2920">danger</mainReferent>
     <tokens>her being smothered in this retreat</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_72" begin="2969" end="2972">
     <text>put</text>
     <mainVerb begin="2969" end="2972">put</mainVerb>
     <mainReferent begin="2965" end="2968">she</mainReferent>
     <tokens>so she put her hand between the edge of the chest and the lid in order to keep</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_73" begin="3053" end="3057">
     <text>open</text>
     <mainVerb begin="3053" end="3057">open</mainVerb>
     <mainReferent begin="3047" end="3052">chest</mainReferent>
     <tokens>the chest open a little</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_74" begin="3072" end="3077">
     <text>admit</text>
     <mainVerb begin="3072" end="3077">admit</mainVerb>
     <mainReferent begin="2965" end="2968">she</mainReferent>
     <tokens>she admit the air</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_75" begin="3109" end="3113">
     <text>hung</text>
     <mainVerb begin="3109" end="3113">hung</mainVerb>
     <mainReferent begin="3105" end="3108">lid</mainReferent>
     <tokens>Fortunately this lid hung over the side of the chest a little , which saved her fingers</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_76" begin="3158" end="3163">
     <text>saved</text>
     <mainVerb begin="3158" end="3163">saved</mainVerb>
     <mainReferent begin="3123" end="3127">side</mainReferent>
     <tokens>the side of the chest a little saved her fingers</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_77" begin="3194" end="3198">
     <text>came</text>
     <mainVerb begin="3194" end="3198">came</mainVerb>
     <mainReferent begin="3181" end="3188">panther</mainReferent>
     <tokens>The panther soon came back again</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_78" begin="3219" end="3230">
     <text>anticipated</text>
     <mainVerb begin="3219" end="3230">anticipated</mainVerb>
     <tokens>as was anticipated</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_79" begin="3283" end="3293">
     <text>discovered</text>
     <mainVerb begin="3283" end="3293">discovered</mainVerb>
     <tokens>after snuffing about for some time evidently discovered</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_80" begin="3309" end="3312">
     <text>was</text>
     <mainVerb begin="3309" end="3312">was</mainVerb>
     <mainReferent begin="3304" end="3308">lady</mainReferent>
     <tokens>where the lady was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_81" begin="3318" end="3325">
     <text>prowled</text>
     <mainVerb begin="3318" end="3325">prowled</mainVerb>
     <mainReferent begin="3304" end="3308">lady</mainReferent>
     <tokens>the lady prowled</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_82" begin="3326" end="3331">
     <text>round</text>
     <mainVerb begin="3326" end="3331">round</mainVerb>
     <tokens>round the chest</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_83" begin="3336" end="3341">
     <text>round</text>
     <mainVerb begin="3336" end="3341">round</mainVerb>
     <tokens>round</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_84" begin="3354" end="3361">
     <text>licking</text>
     <mainVerb begin="3354" end="3361">licking</mainVerb>
     <tokens>licking the wood close to her fingers</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_85" begin="3366" end="3376">
     <text>scratching</text>
     <mainVerb begin="3366" end="3376">scratching</mainVerb>
     <tokens>scratching</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_86" begin="3418" end="3421">
     <text>lay</text>
     <mainVerb begin="3418" end="3421">lay</mainVerb>
     <mainReferent begin="3414" end="3417">she</mainReferent>
     <tokens>she lay</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_87" begin="3424" end="3432">
     <text>scarcely</text>
     <mainVerb begin="3424" end="3432">scarcely</mainVerb>
     <tokens>There scarcely daring to move listening intently to every movement of her enemy</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_88" begin="3517" end="3523">
     <text>jumped</text>
     <mainVerb begin="3517" end="3523">jumped</mainVerb>
     <mainReferent begin="3514" end="3516">he</mainReferent>
     <tokens>At last he jumped on the top of the chest</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_89" begin="3560" end="3567">
     <text>crushed</text>
     <mainVerb begin="3560" end="3567">crushed</mainVerb>
     <mainReferent begin="3553" end="3559">weight</mainReferent>
     <tokens>His weight crushed her fingers terribly</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_90" begin="3599" end="3602">
     <text>was</text>
     <mainVerb begin="3599" end="3602">was</mainVerb>
     <mainReferent begin="3595" end="3598">she</mainReferent>
     <tokens>she was enough to keep them</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_91" begin="3641" end="3645">
     <text>were</text>
     <mainVerb begin="3641" end="3645">were</mainVerb>
     <mainReferent begin="3635" end="3639">they</mainReferent>
     <tokens>where they were</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_92" begin="3754" end="3763">
     <text>retreated</text>
     <mainVerb begin="3754" end="3763">retreated</mainVerb>
     <mainReferent begin="3657" end="3664">panther</mainReferent>
     <tokens>until the panther tired of his fruitless efforts to get at her finding nothing else to eat finally retreated</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_93" begin="3777" end="3781">
     <text>dare</text>
     <mainVerb begin="3777" end="3781">dare</mainVerb>
     <mainReferent begin="3765" end="3768">She</mainReferent>
     <tokens>She did not dare to come of the chest however until morning</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_94" begin="3841" end="3847">
     <text>feared</text>
     <mainVerb begin="3841" end="3847">feared</mainVerb>
     <mainReferent begin="3837" end="3840">she</mainReferent>
     <tokens>for she feared as long</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_95" begin="3864" end="3867">
     <text>was</text>
     <mainVerb begin="3864" end="3867">was</mainVerb>
     <mainReferent begin="3861" end="3863">it</mainReferent>
     <tokens>as it was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_96" begin="3895" end="3899">
     <text>come</text>
     <mainVerb begin="3895" end="3899">come</mainVerb>
     <mainReferent begin="3883" end="3888">beast</mainReferent>
     <tokens>that the beast might come back again</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_97" begin="3925" end="3928">
     <text>sat</text>
     <mainVerb begin="3925" end="3928">sat</mainVerb>
     <mainReferent begin="3921" end="3924">she</mainReferent>
     <tokens>So there she sat ready to crouch down into her hiding-place</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_98" begin="3982" end="3987">
     <text>heard</text>
     <mainVerb begin="3982" end="3987">heard</mainVerb>
     <mainReferent begin="3978" end="3981">she</mainReferent>
     <tokens>if she heard a noise from her enemy</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_99" begin="4023" end="4031">
     <text>remained</text>
     <mainVerb begin="4023" end="4031">remained</mainVerb>
     <mainReferent begin="4019" end="4022">she</mainReferent>
     <tokens>There she remained till after daylight</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_100" begin="4057" end="4060">
     <text>was</text>
     <mainVerb begin="4057" end="4060">was</mainVerb>
     <mainReferent begin="4053" end="4056">She</mainReferent>
     <tokens>She was a</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="stories_about_animals_with_pictures_to_match_17.txt_101" begin="4073" end="4076">
     <text>was</text>
     <mainVerb begin="4073" end="4076">was</mainVerb>
     <mainReferent begin="4077" end="4080">she</mainReferent>
     <tokens>was she not</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
 </document>

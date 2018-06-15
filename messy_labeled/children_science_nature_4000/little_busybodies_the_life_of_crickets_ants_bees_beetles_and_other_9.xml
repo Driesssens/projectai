@@ -6,736 +6,862 @@
     <mainVerb begin="10" end="15">catch</mainVerb>
     <mainReferent begin="1" end="2">I</mainReferent>
     <tokens>I did n't catch but one</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_2" begin="26" end="30">
     <text>said</text>
     <mainVerb begin="26" end="30">said</mainVerb>
     <mainReferent begin="35" end="38">lad</mainReferent>
     <tokens>" " said the lad</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_3" begin="51" end="54">
     <text>are</text>
     <mainVerb begin="51" end="54">are</mainVerb>
     <mainReferent begin="44" end="50">Briers</mainReferent>
     <tokens>Briers are n't for bare legs</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_4" begin="78" end="81">
     <text>are</text>
     <mainVerb begin="78" end="81">are</mainVerb>
     <mainReferent begin="82" end="86">they</mainReferent>
     <tokens>" are they</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_5" begin="121" end="124">
     <text>eat</text>
     <mainVerb begin="121" end="124">eat</mainVerb>
     <mainReferent begin="105" end="113">crickets</mainReferent>
     <tokens>Never mind your crickets wo n't eat one another "</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_6" begin="143" end="146">
     <text>Eat</text>
     <mainVerb begin="143" end="146">Eat</mainVerb>
     <tokens>" Eat one another "</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_7" begin="161" end="166">
     <text>cried</text>
     <mainVerb begin="161" end="166">cried</mainVerb>
     <tokens>cried the children</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_8" begin="199" end="202">
     <text>are</text>
     <mainVerb begin="199" end="202">are</mainVerb>
     <mainReferent begin="190" end="198">crickets</mainReferent>
     <tokens>" Yes crickets are like some other insects</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_9" begin="260" end="263">
     <text>eat</text>
     <mainVerb begin="260" end="263">eat</mainVerb>
     <mainReferent begin="203" end="212">cannibals</mainReferent>
     <tokens>they frequently eat a near relation a friend</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_10" begin="328" end="332">
     <text>used</text>
     <mainVerb begin="328" end="332">used</mainVerb>
     <mainReferent begin="300" end="306">people</mainReferent>
     <tokens>as the people in the Fiji Islands used to do</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_11" begin="345" end="347">
     <text>is</text>
     <mainVerb begin="345" end="347">is</mainVerb>
     <mainReferent begin="340" end="344">This</mainReferent>
     <tokens>This is a nice brown little Jack</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_12" begin="387" end="391">
     <text>know</text>
     <mainVerb begin="387" end="391">know</mainVerb>
     <mainReferent begin="383" end="386">you</mainReferent>
     <tokens>Do you know "</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_13" begin="400" end="405">
     <text>makes</text>
     <mainVerb begin="400" end="405">makes</mainVerb>
     <mainReferent begin="397" end="399">he</mainReferent>
     <tokens>how he makes his music</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_14" begin="517" end="524">
     <text>suppose</text>
     <mainVerb begin="517" end="524">suppose</mainVerb>
     <mainReferent begin="515" end="516">I</mainReferent>
     <tokens>Why I suppose</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_15" begin="527" end="531">
     <text>said</text>
     <mainVerb begin="527" end="531">said</mainVerb>
     <mainReferent begin="536" end="539">boy</mainReferent>
     <tokens>" " said the boy "</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_16" begin="545" end="550">
     <text>opens</text>
     <mainVerb begin="545" end="550">opens</mainVerb>
     <mainReferent begin="536" end="539">boy</mainReferent>
     <tokens>he opens his mouth the way</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_17" begin="581" end="585">
     <text>does</text>
     <mainVerb begin="581" end="585">does</mainVerb>
     <mainReferent begin="573" end="579">Tucker</mainReferent>
     <tokens>Mr. Tucker does</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_18" begin="607" end="610">
     <text>and</text>
     <mainVerb begin="607" end="610">and</mainVerb>
     <mainReferent begin="600" end="605">choir</mainReferent>
     <tokens>and</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_19" begin="623" end="626">
     <text>was</text>
     <mainVerb begin="623" end="626">was</mainVerb>
     <mainReferent begin="629" end="634">shout</mainReferent>
     <tokens>in the church choir , and -- " There was a shout of laughter from Jimmie , who was sure he knew a great deal</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_20" begin="664" end="667">
     <text>was</text>
     <mainVerb begin="664" end="667">was</mainVerb>
     <mainReferent begin="652" end="658">Jimmie</mainReferent>
     <tokens>Jimmie was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_21" begin="676" end="680">
     <text>knew</text>
     <mainVerb begin="676" end="680">knew</mainVerb>
     <mainReferent begin="673" end="675">he</mainReferent>
     <tokens>he knew a great deal</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_22" begin="707" end="711">
     <text>said</text>
     <mainVerb begin="707" end="711">said</mainVerb>
     <mainReferent begin="716" end="721">guide</mainReferent>
     <tokens>" Well " said the guide to Jim , " then how does it make its music , since you know "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_23" begin="748" end="752">
     <text>make</text>
     <mainVerb begin="748" end="752">make</mainVerb>
     <mainReferent begin="725" end="728">Jim</mainReferent>
     <tokens>then how does it make its music</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_24" begin="775" end="779">
     <text>know</text>
     <mainVerb begin="775" end="779">know</mainVerb>
     <mainReferent begin="771" end="774">you</mainReferent>
     <tokens>since you know</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_25" begin="786" end="789">
     <text>Not</text>
     <mainVerb begin="786" end="789">Not</mainVerb>
     <tokens>" Not with its mouth "</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_26" begin="811" end="815">
     <text>Then</text>
     <mainVerb begin="811" end="815">Then</mainVerb>
     <tokens>" Then how "</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_27" begin="834" end="838">
     <text>know</text>
     <mainVerb begin="834" end="838">know</mainVerb>
     <mainReferent begin="826" end="827">I</mainReferent>
     <tokens>I do n't know sir</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_28" begin="846" end="855">
     <text>stammered</text>
     <mainVerb begin="846" end="855">stammered</mainVerb>
     <mainReferent begin="856" end="862">Jimmie</mainReferent>
     <tokens>" " stammered Jimmie</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_29" begin="868" end="873">
     <text>found</text>
     <mainVerb begin="868" end="873">found</mainVerb>
     <mainReferent begin="856" end="862">Jimmie</mainReferent>
     <tokens>Jimmie found</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_30" begin="884" end="888">
     <text>know</text>
     <mainVerb begin="884" end="888">know</mainVerb>
     <mainReferent begin="874" end="876">he</mainReferent>
     <tokens>he did n't know</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_31" begin="904" end="911">
     <text>thought</text>
     <mainVerb begin="904" end="911">thought</mainVerb>
     <mainReferent begin="901" end="903">he</mainReferent>
     <tokens>as much as he thought</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_32" begin="915" end="918">
     <text>did</text>
     <mainVerb begin="915" end="918">did</mainVerb>
     <mainReferent begin="912" end="914">he</mainReferent>
     <tokens>he did</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_33" begin="941" end="946">
     <text>sings</text>
     <mainVerb begin="941" end="946">sings</mainVerb>
     <mainReferent begin="933" end="940">Cricket</mainReferent>
     <tokens>When Mr. Cricket sings</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_34" begin="949" end="953">
     <text>went</text>
     <mainVerb begin="949" end="953">went</mainVerb>
     <mainReferent begin="961" end="967">hermit</mainReferent>
     <tokens>" went on the hermit</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_35" begin="973" end="978">
     <text>lifts</text>
     <mainVerb begin="973" end="978">lifts</mainVerb>
     <mainReferent begin="970" end="972">it</mainReferent>
     <tokens>" " it lifts</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_36" begin="993" end="999">
     <text>covers</text>
     <mainVerb begin="993" end="999">covers</mainVerb>
     <mainReferent begin="987" end="991">wing</mainReferent>
     <tokens>its two wing covers</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_37" begin="1018" end="1022">
     <text>meet</text>
     <mainVerb begin="1018" end="1022">meet</mainVerb>
     <mainReferent begin="1012" end="1017">edges</mainReferent>
     <tokens>so that the edges meet like the pointed roof of a house</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_38" begin="1090" end="1094">
     <text>rubs</text>
     <mainVerb begin="1090" end="1094">rubs</mainVerb>
     <mainReferent begin="1075" end="1082">fiddler</mainReferent>
     <tokens>Then your little fiddler Jack rubs one edge against the other "</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_39" begin="1162" end="1168">
     <text>waving</text>
     <mainVerb begin="1162" end="1168">waving</mainVerb>
     <mainReferent begin="1136" end="1140">time</mainReferent>
     <tokens>All this time Peter Beech had been waving his hand about giving big sniffs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_40" begin="1203" end="1205">
     <text>do</text>
     <mainVerb begin="1203" end="1205">do</mainVerb>
     <mainReferent begin="1194" end="1202">children</mainReferent>
     <tokens>the way children do in school</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_41" begin="1273" end="1280">
     <text>burning</text>
     <mainVerb begin="1273" end="1280">burning</mainVerb>
     <mainReferent begin="1252" end="1255">sir</mainReferent>
     <tokens>" Please sir the cookies are burning "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_42" begin="1287" end="1292">
     <text>Bless</text>
     <mainVerb begin="1287" end="1292">Bless</mainVerb>
     <tokens>" Bless my soul "</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_43" begin="1313" end="1320">
     <text>whisked</text>
     <mainVerb begin="1313" end="1320">whisked</mainVerb>
     <mainReferent begin="1307" end="1312">guide</mainReferent>
     <tokens>The guide whisked the cookies away</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_44" begin="1357" end="1361">
     <text>said</text>
     <mainVerb begin="1357" end="1361">said</mainVerb>
     <mainReferent begin="1376" end="1381">going</mainReferent>
     <tokens>sir " said Jack</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_45" begin="1376" end="1381">
     <text>going</text>
     <mainVerb begin="1376" end="1381">going</mainVerb>
     <mainReferent begin="1373" end="1375">we</mainReferent>
     <tokens>" Please " are we going to have something soon "</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_46" begin="1421" end="1425">
     <text>look</text>
     <mainVerb begin="1421" end="1425">look</mainVerb>
     <mainReferent begin="1407" end="1411">Jack</mainReferent>
     <tokens>Jack did not look</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_47" begin="1435" end="1438">
     <text>had</text>
     <mainVerb begin="1435" end="1438">had</mainVerb>
     <mainReferent begin="1432" end="1434">he</mainReferent>
     <tokens>as if he had his share of food to eat</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_48" begin="1472" end="1475">
     <text>was</text>
     <mainVerb begin="1472" end="1475">was</mainVerb>
     <mainReferent begin="1469" end="1471">he</mainReferent>
     <tokens>for he was as as the fawn which had curled up near him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_49" begin="1507" end="1513">
     <text>curled</text>
     <mainVerb begin="1507" end="1513">curled</mainVerb>
     <mainReferent begin="1492" end="1496">fawn</mainReferent>
     <tokens>the fawn had curled up near him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_50" begin="1532" end="1535">
     <text>had</text>
     <mainVerb begin="1532" end="1535">had</mainVerb>
     <mainReferent begin="1527" end="1531">Jack</mainReferent>
     <tokens>Jack had twelve brothers sisters a father so</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_51" begin="1583" end="1586">
     <text>was</text>
     <mainVerb begin="1583" end="1586">was</mainVerb>
     <mainReferent begin="1572" end="1578">father</mainReferent>
     <tokens>a father was n't</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_52" begin="1598" end="1603">
     <text>ought</text>
     <mainVerb begin="1598" end="1603">ought</mainVerb>
     <mainReferent begin="1532" end="1535">had</mainReferent>
     <tokens>he ought to be</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_53" begin="1620" end="1624">
     <text>were</text>
     <mainVerb begin="1620" end="1624">were</mainVerb>
     <mainReferent begin="1626" end="1631">times</mainReferent>
     <tokens>there were times</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_54" begin="1643" end="1646">
     <text>was</text>
     <mainVerb begin="1643" end="1646">was</mainVerb>
     <mainReferent begin="1650" end="1654">food</mainReferent>
     <tokens>when there was no food for Jack</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_55" begin="1683" end="1687">
     <text>said</text>
     <mainVerb begin="1683" end="1687">said</mainVerb>
     <mainReferent begin="1692" end="1697">guide</mainReferent>
     <tokens>" Yes my son " said the guide kindly</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_56" begin="1729" end="1734">
     <text>guess</text>
     <mainVerb begin="1729" end="1734">guess</mainVerb>
     <mainReferent begin="1719" end="1722">man</mainReferent>
     <tokens>for the old man could guess</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_57" begin="1755" end="1758">
     <text>was</text>
     <mainVerb begin="1755" end="1758">was</mainVerb>
     <mainReferent begin="1751" end="1754">lad</mainReferent>
     <tokens>how hungry the lad was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_58" begin="1779" end="1781">
     <text>do</text>
     <mainVerb begin="1779" end="1781">do</mainVerb>
     <tokens>where do</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_59" begin="1786" end="1793">
     <text>suppose</text>
     <mainVerb begin="1786" end="1793">suppose</mainVerb>
     <mainReferent begin="1782" end="1785">you</mainReferent>
     <tokens>" But first you suppose "</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_60" begin="1821" end="1825">
     <text>have</text>
     <mainVerb begin="1821" end="1825">have</mainVerb>
     <mainReferent begin="1812" end="1820">katydids</mainReferent>
     <tokens>the crickets katydids have their ears</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_61" begin="1843" end="1847">
     <text>Near</text>
     <mainVerb begin="1843" end="1847">Near</mainVerb>
     <tokens>Near those big eyes</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_62" begin="1865" end="1871">
     <text>called</text>
     <mainVerb begin="1865" end="1871">called</mainVerb>
     <mainReferent begin="1872" end="1877">Peter</mainReferent>
     <tokens>" " called Peter</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_63" begin="1920" end="1922">
     <text>is</text>
     <mainVerb begin="1920" end="1922">is</mainVerb>
     <mainReferent begin="1916" end="1919">leg</mainReferent>
     <tokens>" No no on the joint of the fore leg is a little</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_64" begin="1948" end="1950">
     <text>is</text>
     <mainVerb begin="1948" end="1950">is</mainVerb>
     <mainReferent begin="1932" end="1940">membrane</mainReferent>
     <tokens>is just a thinner tighter in the skin of the leg</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_65" begin="2024" end="2027">
     <text>had</text>
     <mainVerb begin="2024" end="2027">had</mainVerb>
     <mainReferent begin="2018" end="2022">Gile</mainReferent>
     <tokens>Ben Gile had the fore leg of Jack 's cricket</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_66" begin="2059" end="2068">
     <text>stretched</text>
     <mainVerb begin="2059" end="2068">stretched</mainVerb>
     <mainReferent begin="2037" end="2040">leg</mainReferent>
     <tokens>stretched under the magnifying-glass</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_67" begin="2117" end="2120">
     <text>see</text>
     <mainVerb begin="2117" end="2120">see</mainVerb>
     <mainReferent begin="2102" end="2110">children</mainReferent>
     <tokens>The children could see plainly the film of tight skin</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_68" begin="2187" end="2189">
     <text>is</text>
     <mainVerb begin="2187" end="2189">is</mainVerb>
     <mainReferent begin="2182" end="2186">skin</mainReferent>
     <tokens>" Underneath the thin tight skin is a fine</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_69" begin="2223" end="2228">
     <text>makes</text>
     <mainVerb begin="2223" end="2228">makes</mainVerb>
     <mainReferent begin="2219" end="2222">air</mainReferent>
     <tokens>when the air makes the skin shake</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_70" begin="2246" end="2253">
     <text>changes</text>
     <mainVerb begin="2246" end="2253">changes</mainVerb>
     <tokens>changes the motion into sound</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_71" begin="2290" end="2297">
     <text>listens</text>
     <mainVerb begin="2290" end="2297">listens</mainVerb>
     <mainReferent begin="2282" end="2289">Cricket</mainReferent>
     <tokens>Mrs. Cricket listens with her fore leg "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_72" begin="2307" end="2311">
     <text>fore</text>
     <mainVerb begin="2307" end="2311">fore</mainVerb>
     <tokens>fore</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_73" begin="2335" end="2340">
     <text>sings</text>
     <mainVerb begin="2335" end="2340">sings</mainVerb>
     <mainReferent begin="2327" end="2334">Cricket</mainReferent>
     <tokens>while Mr. Cricket sings his love-song to her</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_74" begin="2388" end="2395">
     <text>laughed</text>
     <mainVerb begin="2388" end="2395">laughed</mainVerb>
     <mainReferent begin="2379" end="2387">children</mainReferent>
     <tokens>At this the children laughed comical little Peter listening</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_75" begin="2400" end="2407">
     <text>laughed</text>
     <mainVerb begin="2400" end="2407">laughed</mainVerb>
     <mainReferent begin="2379" end="2387">children</mainReferent>
     <tokens>the children laughed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_76" begin="2434" end="2437">
     <text>put</text>
     <mainVerb begin="2434" end="2437">put</mainVerb>
     <mainReferent begin="2379" end="2387">children</mainReferent>
     <tokens>comical little Peter put up his leg listening</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_77" begin="2483" end="2487">
     <text>give</text>
     <mainVerb begin="2483" end="2487">give</mainVerb>
     <mainReferent begin="2477" end="2481">Pete</mainReferent>
     <tokens>" Here Pete give me your box</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_78" begin="2501" end="2503">
     <text>Do</text>
     <mainVerb begin="2501" end="2503">Do</mainVerb>
     <tokens>Do "</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_79" begin="2508" end="2516">
     <text>remember</text>
     <mainVerb begin="2508" end="2516">remember</mainVerb>
     <mainReferent begin="2504" end="2507">you</mainReferent>
     <tokens>you remember</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_80" begin="2524" end="2528">
     <text>told</text>
     <mainVerb begin="2524" end="2528">told</mainVerb>
     <mainReferent begin="2522" end="2523">I</mainReferent>
     <tokens>what I told you about Mrs. Locust , Betty , and the way she lays her eggs</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_81" begin="2576" end="2580">
     <text>lays</text>
     <mainVerb begin="2576" end="2580">lays</mainVerb>
     <mainReferent begin="2572" end="2575">she</mainReferent>
     <tokens>she lays her eggs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_82" begin="2610" end="2613">
     <text>has</text>
     <mainVerb begin="2610" end="2613">has</mainVerb>
     <mainReferent begin="2606" end="2609">She</mainReferent>
     <tokens>She has four straight spines at the end of her body "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_83" begin="2678" end="2683">
     <text>bored</text>
     <mainVerb begin="2678" end="2683">bored</mainVerb>
     <mainReferent begin="2670" end="2673">she</mainReferent>
     <tokens>after she has bored a hole with her body</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_84" begin="2709" end="2715">
     <text>guides</text>
     <mainVerb begin="2709" end="2715">guides</mainVerb>
     <mainReferent begin="2606" end="2609">She</mainReferent>
     <tokens>she guides the eggs in with the four spines</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_85" begin="2781" end="2786">
     <text>wears</text>
     <mainVerb begin="2781" end="2786">wears</mainVerb>
     <mainReferent begin="2773" end="2780">Cricket</mainReferent>
     <tokens>Well Mrs. Cricket wears at the end of her body a long spear</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_86" begin="2824" end="2827">
     <text>See</text>
     <mainVerb begin="2824" end="2827">See</mainVerb>
     <tokens>See this cricket of Peter 's</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_87" begin="2862" end="2867">
     <text>bores</text>
     <mainVerb begin="2862" end="2867">bores</mainVerb>
     <mainReferent begin="2858" end="2861">she</mainReferent>
     <tokens>Now she bores her hole with this spear</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_88" begin="2903" end="2909">
     <text>guides</text>
     <mainVerb begin="2903" end="2909">guides</mainVerb>
     <mainReferent begin="2858" end="2861">she</mainReferent>
     <tokens>she then guides her eggs carefully into the hole</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_89" begin="2949" end="2952">
     <text>see</text>
     <mainVerb begin="2949" end="2952">see</mainVerb>
     <tokens>Why see here</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_90" begin="2971" end="2975">
     <text>have</text>
     <mainVerb begin="2971" end="2975">have</mainVerb>
     <mainReferent begin="2965" end="2969">what</mainReferent>
     <tokens>what have</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_91" begin="2980" end="2983">
     <text>got</text>
     <mainVerb begin="2980" end="2983">got</mainVerb>
     <mainReferent begin="2976" end="2979">you</mainReferent>
     <tokens>Pete you got here "</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_92" begin="3007" end="3012">
     <text>gazed</text>
     <mainVerb begin="3007" end="3012">gazed</mainVerb>
     <mainReferent begin="2998" end="3006">children</mainReferent>
     <tokens>The children gazed eagerly over the old man 's shoulder</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_93" begin="3058" end="3060">
     <text>is</text>
     <mainVerb begin="3058" end="3060">is</mainVerb>
     <mainReferent begin="3054" end="3056">My</mainReferent>
     <tokens>" My is n't like velvet "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_94" begin="3106" end="3108">
     <text>is</text>
     <mainVerb begin="3106" end="3108">is</mainVerb>
     <tokens>" And is n't brown "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_95" begin="3123" end="3128">
     <text>added</text>
     <mainVerb begin="3123" end="3128">added</mainVerb>
     <tokens>added Hope</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_96" begin="3143" end="3147">
     <text>look</text>
     <mainVerb begin="3143" end="3147">look</mainVerb>
     <tokens>" But look at its stumpy front legs "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_97" begin="3175" end="3181">
     <text>called</text>
     <mainVerb begin="3175" end="3181">called</mainVerb>
     <tokens>called Jack</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_98" begin="3196" end="3205">
     <text>forgotten</text>
     <mainVerb begin="3196" end="3205">forgotten</mainVerb>
     <mainReferent begin="3182" end="3186">Jack</mainReferent>
     <tokens>Jack had forgotten his empty stomach in the excitement about this little creature , which looked like a cricket and yet was so different</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_99" begin="3277" end="3283">
     <text>looked</text>
     <mainVerb begin="3277" end="3283">looked</mainVerb>
     <mainReferent begin="3261" end="3269">creature</mainReferent>
     <tokens>this little creature looked like a cricket</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_100" begin="3308" end="3311">
     <text>was</text>
     <mainVerb begin="3308" end="3311">was</mainVerb>
     <mainReferent begin="3261" end="3269">creature</mainReferent>
     <tokens>this little creature yet was so</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_101" begin="3361" end="3365">
     <text>said</text>
     <mainVerb begin="3361" end="3365">said</mainVerb>
     <tokens>said Betty</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_102" begin="3384" end="3388">
     <text>know</text>
     <mainVerb begin="3384" end="3388">know</mainVerb>
     <mainReferent begin="3380" end="3383">you</mainReferent>
     <tokens>" Do you know "</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_103" begin="3397" end="3399">
     <text>is</text>
     <mainVerb begin="3397" end="3399">is</mainVerb>
     <mainReferent begin="3394" end="3396">it</mainReferent>
     <tokens>what it is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_104" begin="3409" end="3413">
     <text>knew</text>
     <mainVerb begin="3409" end="3413">knew</mainVerb>
     <mainReferent begin="3405" end="3408">one</mainReferent>
     <tokens>No one knew</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_105" begin="3424" end="3426">
     <text>'s</text>
     <mainVerb begin="3424" end="3426">'s</mainVerb>
     <mainReferent begin="3422" end="3424">it</mainReferent>
     <tokens>" Well it 's a mole</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_106" begin="3460" end="3463">
     <text>see</text>
     <mainVerb begin="3460" end="3463">see</mainVerb>
     <mainReferent begin="3443" end="3446">You</mainReferent>
     <tokens>You rarely ever see one</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_107" begin="3481" end="3485">
     <text>live</text>
     <mainVerb begin="3481" end="3485">live</mainVerb>
     <mainReferent begin="3476" end="3480">they</mainReferent>
     <tokens>because they live underground</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_108" begin="3502" end="3506">
     <text>bore</text>
     <mainVerb begin="3502" end="3506">bore</mainVerb>
     <mainReferent begin="3476" end="3480">they</mainReferent>
     <tokens>they bore their way along just like moles</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_109" begin="3541" end="3548">
     <text>leaving</text>
     <mainVerb begin="3541" end="3548">leaving</mainVerb>
     <tokens>leaving tiny tracks</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_110" begin="3565" end="3573">
     <text>nibbling</text>
     <mainVerb begin="3565" end="3573">nibbling</mainVerb>
     <tokens>nibbling the roots of tender plants</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_111" begin="3607" end="3610">
     <text>see</text>
     <mainVerb begin="3607" end="3610">see</mainVerb>
     <mainReferent begin="3603" end="3606">You</mainReferent>
     <tokens>You see</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_112" begin="3623" end="3627">
     <text>need</text>
     <mainVerb begin="3623" end="3627">need</mainVerb>
     <mainReferent begin="3612" end="3614">it</mainReferent>
     <tokens>it does n't need eyes any more</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_113" begin="3657" end="3661">
     <text>does</text>
     <mainVerb begin="3657" end="3661">does</mainVerb>
     <mainReferent begin="3637" end="3641">more</mainReferent>
     <tokens>than the mole does</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_114" begin="3675" end="3679">
     <text>need</text>
     <mainVerb begin="3675" end="3679">need</mainVerb>
     <mainReferent begin="3667" end="3669">it</mainReferent>
     <tokens>But it does need those thickened fore legs to do its underground digging</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_115" begin="3753" end="3756">
     <text>run</text>
     <mainVerb begin="3753" end="3756">run</mainVerb>
     <mainReferent begin="3743" end="3751">children</mainReferent>
     <tokens>Now children run out into the fields</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_116" begin="3781" end="3784">
     <text>let</text>
     <mainVerb begin="3781" end="3784">let</mainVerb>
     <mainReferent begin="3743" end="3751">children</mainReferent>
     <tokens>children let</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_117" begin="3800" end="3802">
     <text>go</text>
     <mainVerb begin="3800" end="3802">go</mainVerb>
     <mainReferent begin="3790" end="3798">crickets</mainReferent>
     <tokens>your crickets go</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_118" begin="3804" end="3806">
     <text>Be</text>
     <mainVerb begin="3804" end="3806">Be</mainVerb>
     <mainReferent begin="3822" end="3826">hurt</mainReferent>
     <tokens>Be</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_119" begin="3822" end="3826">
     <text>hurt</text>
     <mainVerb begin="3822" end="3826">hurt</mainVerb>
     <mainReferent begin="3807" end="3814">careful</mainReferent>
     <tokens>not to hurt them</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_120" begin="3839" end="3843">
     <text>have</text>
     <mainVerb begin="3839" end="3843">have</mainVerb>
     <mainReferent begin="3833" end="3835">We</mainReferent>
     <tokens>We 'll have supper "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_121" begin="3876" end="3881">
     <text>catch</text>
     <mainVerb begin="3876" end="3881">catch</mainVerb>
     <mainReferent begin="3833" end="3835">We</mainReferent>
     <tokens>after supper we 'll catch a katydid</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_122" begin="3901" end="3904">
     <text>ran</text>
     <mainVerb begin="3901" end="3904">ran</mainVerb>
     <mainReferent begin="3897" end="3900">Out</mainReferent>
     <tokens>Out ran the children</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_123" begin="3934" end="3941">
     <text>setting</text>
     <mainVerb begin="3934" end="3941">setting</mainVerb>
     <mainReferent begin="3924" end="3928">they</mainReferent>
     <tokens>Soon they were setting the long wooden tables under the trees with delicious trout the boys had caught , with hot biscuits and jugs of maple syrup , with berries and cookies</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_124" begin="4016" end="4022">
     <text>caught</text>
     <mainVerb begin="4016" end="4022">caught</mainVerb>
     <mainReferent begin="4007" end="4011">boys</mainReferent>
     <tokens>the boys had caught with hot biscuits and jugs of maple syrup with berries and cookies</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_125" begin="4161" end="4168">
     <text>looking</text>
     <mainVerb begin="4161" end="4168">looking</mainVerb>
     <mainReferent begin="4099" end="4103">milk</mainReferent>
     <tokens>with milk from the old cow , who , contentedly chewing her cud , was looking at them through the low crotch of a tree with little cakes of maple sugar which the guide had moulded into the shape of hearts</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="little_busybodies_the_life_of_crickets_ants_bees_beetles_and_other_9.txt_126" begin="4270" end="4277">
     <text>moulded</text>
     <mainVerb begin="4270" end="4277">moulded</mainVerb>
     <mainReferent begin="4260" end="4265">guide</mainReferent>
     <tokens>maple sugar the guide had moulded into the shape of hearts</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
 </document>

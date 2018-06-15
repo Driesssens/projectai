@@ -6,616 +6,720 @@
     <mainVerb begin="8" end="11">see</mainVerb>
     <mainReferent begin="6" end="7">I</mainReferent>
     <tokens>Now I see one fellow after the manner of a chimney-sweeper certainly in a much more elegant form</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_2" begin="30" end="39">
     <text>appearing</text>
     <mainVerb begin="30" end="39">appearing</mainVerb>
     <mainReferent begin="16" end="22">fellow</mainReferent>
     <tokens>slowly appearing at the top</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_3" begin="150" end="158">
     <text>unfolded</text>
     <mainVerb begin="150" end="158">unfolded</mainVerb>
     <mainReferent begin="143" end="145">it</mainReferent>
     <tokens>it has unfolded four flower-like expansions the uppermost much the largest</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_4" begin="212" end="215">
     <text>are</text>
     <mainVerb begin="212" end="215">are</mainVerb>
     <tokens>are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_5" begin="245" end="250">
     <text>shows</text>
     <mainVerb begin="245" end="250">shows</mainVerb>
     <mainReferent begin="238" end="244">animal</mainReferent>
     <tokens>The animal shows only the upper part of its body</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_6" begin="295" end="298">
     <text>see</text>
     <mainVerb begin="295" end="298">see</mainVerb>
     <mainReferent begin="238" end="244">animal</mainReferent>
     <tokens>I can see with my pocket lens it whitish</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_7" begin="327" end="329">
     <text>is</text>
     <mainVerb begin="327" end="329">is</mainVerb>
     <mainReferent begin="324" end="326">it</mainReferent>
     <tokens>that it is somewhat whitish</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_8" begin="377" end="380">
     <text>has</text>
     <mainVerb begin="377" end="380">has</mainVerb>
     <mainReferent begin="372" end="376">lens</mainReferent>
     <tokens>But my lens has not sufficient magnifying power to reveal more so</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_9" begin="440" end="444">
     <text>tell</text>
     <mainVerb begin="440" end="444">tell</mainVerb>
     <mainReferent begin="433" end="434">I</mainReferent>
     <tokens>I must tell you</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_10" begin="461" end="465">
     <text>seen</text>
     <mainVerb begin="461" end="465">seen</mainVerb>
     <mainReferent begin="440" end="444">tell</mainReferent>
     <tokens>what I have seen of Melicerta under my compound microscope</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_11" begin="563" end="573">
     <text>surrounded</text>
     <mainVerb begin="563" end="573">surrounded</mainVerb>
     <mainReferent begin="510" end="514">Each</mainReferent>
     <tokens>Each of these four leaf-like lobes or expansions is surrounded with very minute hairs , which can move with great rapidity in all directions</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_12" begin="608" end="612">
     <text>move</text>
     <mainVerb begin="608" end="612">move</mainVerb>
     <mainReferent begin="591" end="596">hairs</mainReferent>
     <tokens>very minute hairs can move with great rapidity in all directions</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_13" begin="668" end="676">
     <text>remember</text>
     <mainVerb begin="668" end="676">remember</mainVerb>
     <mainReferent begin="659" end="662">you</mainReferent>
     <tokens>you will remember</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_14" begin="681" end="687">
     <text>called</text>
     <mainVerb begin="681" end="687">called</mainVerb>
     <mainReferent begin="653" end="658">these</mainReferent>
     <tokens>these are called " cilia " from the resemblance to _ eyelashes _ , for which cilia is the Latin word</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_15" begin="751" end="753">
     <text>is</text>
     <mainVerb begin="751" end="753">is</mainVerb>
     <mainReferent begin="745" end="750">cilia</mainReferent>
     <tokens>to _ eyelashes _ , for which cilia is the Latin word</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_16" begin="782" end="788">
     <text>caused</text>
     <mainVerb begin="782" end="788">caused</mainVerb>
     <mainReferent begin="775" end="781">motion</mainReferent>
     <tokens>caused these numerous cilia</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_17" begin="813" end="820">
     <text>lashing</text>
     <mainVerb begin="813" end="820">lashing</mainVerb>
     <mainReferent begin="807" end="812">cilia</mainReferent>
     <tokens>lashing the water</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_18" begin="832" end="838">
     <text>brings</text>
     <mainVerb begin="832" end="838">brings</mainVerb>
     <mainReferent begin="775" end="781">motion</mainReferent>
     <tokens>The motion brings currents for the Melicerta , and materials for his house</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_19" begin="848" end="858">
     <text>containing</text>
     <mainVerb begin="848" end="858">containing</mainVerb>
     <mainReferent begin="839" end="847">currents</mainReferent>
     <tokens>containing particles of food</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_20" begin="941" end="943">
     <text>is</text>
     <mainVerb begin="941" end="943">is</mainVerb>
     <mainReferent begin="930" end="939">Melicerta</mainReferent>
     <tokens>Mr. Melicerta " is at once mason architect "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_21" begin="992" end="1002">
     <text>fabricates</text>
     <mainVerb begin="992" end="1002">fabricates</mainVerb>
     <mainReferent begin="952" end="963">brick-maker</mainReferent>
     <tokens>Mr. Melicerta fabricates as pretty a tower</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_22" begin="1027" end="1029">
     <text>is</text>
     <mainVerb begin="1027" end="1029">is</mainVerb>
     <mainReferent begin="1024" end="1026">it</mainReferent>
     <tokens>as it is to conceive</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_23" begin="1063" end="1071">
     <text>situated</text>
     <mainVerb begin="1063" end="1071">situated</mainVerb>
     <mainReferent begin="1054" end="1059">mouth</mainReferent>
     <tokens>The mouth is situated between the two large leaflets</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_24" begin="1109" end="1114">
     <text>leads</text>
     <mainVerb begin="1109" end="1114">leads</mainVerb>
     <mainReferent begin="1054" end="1059">mouth</mainReferent>
     <tokens>The mouth leads to a narrow throat , in which are the curious jaws and teeth of the animal</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_25" begin="1144" end="1147">
     <text>are</text>
     <mainVerb begin="1144" end="1147">are</mainVerb>
     <mainReferent begin="1169" end="1174">teeth</mainReferent>
     <tokens>a narrow throat in are the curious jaws teeth of the animal</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_26" begin="1206" end="1209">
     <text>are</text>
     <mainVerb begin="1206" end="1209">are</mainVerb>
     <mainReferent begin="1201" end="1205">jaws</mainReferent>
     <tokens>Below the jaws are the intestine</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_27" begin="1245" end="1248">
     <text>see</text>
     <mainVerb begin="1245" end="1248">see</mainVerb>
     <mainReferent begin="1240" end="1243">you</mainReferent>
     <tokens>so you see the Melicerta</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_28" begin="1293" end="1296">
     <text>has</text>
     <mainVerb begin="1293" end="1296">has</mainVerb>
     <mainReferent begin="1283" end="1291">creature</mainReferent>
     <tokens>though so minute a creature has a complex structure</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_29" begin="1324" end="1328">
     <text>said</text>
     <mainVerb begin="1324" end="1328">said</mainVerb>
     <mainReferent begin="1320" end="1323">You</mainReferent>
     <tokens>" You said "</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_30" begin="1330" end="1334">
     <text>papa</text>
     <mainVerb begin="1330" end="1334">papa</mainVerb>
     <tokens>papa</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_31" begin="1337" end="1345">
     <text>remarked</text>
     <mainVerb begin="1337" end="1345">remarked</mainVerb>
     <mainReferent begin="1346" end="1349">May</mainReferent>
     <tokens>" remarked May "</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_32" begin="1378" end="1383">
     <text>makes</text>
     <mainVerb begin="1378" end="1383">makes</mainVerb>
     <mainReferent begin="1368" end="1376">creature</mainReferent>
     <tokens>that the little creature makes its own tube</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_33" begin="1410" end="1412">
     <text>do</text>
     <mainVerb begin="1410" end="1412">do</mainVerb>
     <mainReferent begin="1392" end="1396">tube</mainReferent>
     <tokens>how does it do that</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_34" begin="1459" end="1461">
     <text>is</text>
     <mainVerb begin="1459" end="1461">is</mainVerb>
     <mainReferent begin="1477" end="1480">cup</mainReferent>
     <tokens>Upon the upper part of the head there is a small hollow cup</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_35" begin="1491" end="1496">
     <text>lined</text>
     <mainVerb begin="1491" end="1496">lined</mainVerb>
     <mainReferent begin="1477" end="1480">cup</mainReferent>
     <tokens>a small hollow cup is lined with cilia</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_36" begin="1528" end="1536">
     <text>secretes</text>
     <mainVerb begin="1528" end="1536">secretes</mainVerb>
     <mainReferent begin="1477" end="1480">cup</mainReferent>
     <tokens>a small hollow cup probably also secretes some sticky fluid to make</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_37" begin="1584" end="1590">
     <text>adhere</text>
     <mainVerb begin="1584" end="1590">adhere</mainVerb>
     <mainReferent begin="1567" end="1574">pellets</mainReferent>
     <tokens>the pellets of clay adhere together</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_38" begin="1644" end="1651">
     <text>brought</text>
     <mainVerb begin="1644" end="1651">brought</mainVerb>
     <mainReferent begin="1605" end="1614">particles</mainReferent>
     <tokens>having been brought to the space between the leaflets the action of the cilia</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_39" begin="1715" end="1718">
     <text>are</text>
     <mainVerb begin="1715" end="1718">are</mainVerb>
     <mainReferent begin="1605" end="1614">particles</mainReferent>
     <tokens>the particles of clay and mud are to this little cup-shaped cavity</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_40" begin="1776" end="1782">
     <text>worked</text>
     <mainVerb begin="1776" end="1782">worked</mainVerb>
     <mainReferent begin="1605" end="1614">particles</mainReferent>
     <tokens>the particles of clay and mud are then worked about the cilia within</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_41" begin="1834" end="1840">
     <text>formed</text>
     <mainVerb begin="1834" end="1840">formed</mainVerb>
     <mainReferent begin="1824" end="1830">pellet</mainReferent>
     <tokens>till a round pellet is formed</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_42" begin="1859" end="1863">
     <text>fits</text>
     <mainVerb begin="1859" end="1863">fits</mainVerb>
     <mainReferent begin="1841" end="1846">which</mainReferent>
     <tokens>which completely fits the cavity</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_43" begin="1901" end="1906">
     <text>bends</text>
     <mainVerb begin="1901" end="1906">bends</mainVerb>
     <mainReferent begin="1887" end="1895">creature</mainReferent>
     <tokens>The little creature then bends itself down upon the tube its jaws working all the time</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_44" begin="1938" end="1946">
     <text>deposits</text>
     <mainVerb begin="1938" end="1946">deposits</mainVerb>
     <mainReferent begin="1887" end="1895">creature</mainReferent>
     <tokens>The little creature deposits the pellet upon it</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_45" begin="1975" end="1981">
     <text>raises</text>
     <mainVerb begin="1975" end="1981">raises</mainVerb>
     <mainReferent begin="1972" end="1974">it</mainReferent>
     <tokens>then it raises itself up again</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_46" begin="2003" end="2011">
     <text>proceeds</text>
     <mainVerb begin="2003" end="2011">proceeds</mainVerb>
     <mainReferent begin="1972" end="1974">it</mainReferent>
     <tokens>it proceeds to form another brick</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_47" begin="2070" end="2076">
     <text>wonder</text>
     <mainVerb begin="2070" end="2076">wonder</mainVerb>
     <mainReferent begin="2067" end="2068">I</mainReferent>
     <tokens>I wonder</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_48" begin="2079" end="2083">
     <text>said</text>
     <mainVerb begin="2079" end="2083">said</mainVerb>
     <mainReferent begin="2084" end="2088">Jack</mainReferent>
     <tokens>" " said Jack " "</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_49" begin="2115" end="2122">
     <text>manages</text>
     <mainVerb begin="2115" end="2122">manages</mainVerb>
     <mainReferent begin="2106" end="2114">creature</mainReferent>
     <tokens>how the little creature manages to set apart the particles</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_50" begin="2141" end="2144">
     <text>put</text>
     <mainVerb begin="2141" end="2144">put</mainVerb>
     <mainReferent begin="2106" end="2114">creature</mainReferent>
     <tokens>the little creature put in its proper place</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_51" begin="2179" end="2187">
     <text>required</text>
     <mainVerb begin="2179" end="2187">required</mainVerb>
     <mainReferent begin="2169" end="2178">particles</mainReferent>
     <tokens>required for food and those required for brick-making</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_52" begin="2208" end="2216">
     <text>required</text>
     <mainVerb begin="2208" end="2216">required</mainVerb>
     <mainReferent begin="2201" end="2206">those</mainReferent>
     <tokens>required for brick-making</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_53" begin="2244" end="2246">
     <text>be</text>
     <mainVerb begin="2244" end="2246">be</mainVerb>
     <mainReferent begin="2235" end="2237">it</mainReferent>
     <tokens>it would be</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_54" begin="2269" end="2273">
     <text>made</text>
     <mainVerb begin="2269" end="2273">made</mainVerb>
     <mainReferent begin="2256" end="2258">it</mainReferent>
     <tokens>if it sometimes made a mistake</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_55" begin="2289" end="2292">
     <text>put</text>
     <mainVerb begin="2289" end="2292">put</mainVerb>
     <mainReferent begin="2235" end="2237">it</mainReferent>
     <tokens>it put the clay in its stomach and the food in the brick machine</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_56" begin="2360" end="2367">
     <text>curious</text>
     <mainVerb begin="2360" end="2367">curious</mainVerb>
     <mainReferent begin="2354" end="2356">It</mainReferent>
     <tokens>It is curious indeed to know</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_57" begin="2407" end="2410">
     <text>put</text>
     <mainVerb begin="2407" end="2410">put</mainVerb>
     <mainReferent begin="2393" end="2402">materials</mainReferent>
     <tokens>how the materials are put in the proper place</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_58" begin="2435" end="2442">
     <text>suppose</text>
     <mainVerb begin="2435" end="2442">suppose</mainVerb>
     <mainReferent begin="2433" end="2434">I</mainReferent>
     <tokens>I suppose</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_59" begin="2457" end="2460">
     <text>has</text>
     <mainVerb begin="2457" end="2460">has</mainVerb>
     <mainReferent begin="2447" end="2456">Melicerta</mainReferent>
     <tokens>the Melicerta has the power to change the direction of the currents thus to place the particles in their proper place</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_60" begin="2728" end="2732">
     <text>seen</text>
     <mainVerb begin="2728" end="2732">seen</mainVerb>
     <mainReferent begin="2704" end="2712">currents</mainReferent>
     <tokens>rubbing a little paint such as carmine or indigo in some water placing a drop upon the glass slide with the Melicerta these currents may be readily seen</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_61" begin="2760" end="2764">
     <text>seen</text>
     <mainVerb begin="2760" end="2764">seen</mainVerb>
     <mainReferent begin="2704" end="2712">currents</mainReferent>
     <tokens>I have more than once seen rows of coloured bricks , red or blue , which the animal moulded and then deposited on the tube</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_62" begin="2774" end="2782">
     <text>coloured</text>
     <mainVerb begin="2774" end="2782">coloured</mainVerb>
     <tokens>coloured</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_63" begin="2821" end="2828">
     <text>moulded</text>
     <mainVerb begin="2821" end="2828">moulded</mainVerb>
     <mainReferent begin="2814" end="2820">animal</mainReferent>
     <tokens>bricks red blue the animal moulded</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_64" begin="2839" end="2848">
     <text>deposited</text>
     <mainVerb begin="2839" end="2848">deposited</mainVerb>
     <mainReferent begin="2814" end="2820">animal</mainReferent>
     <tokens>the animal then deposited on the tube</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_65" begin="2870" end="2874">
     <text>take</text>
     <mainVerb begin="2870" end="2874">take</mainVerb>
     <mainReferent begin="2862" end="2864">We</mainReferent>
     <tokens>We will take the bottle home</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_66" begin="2904" end="2908">
     <text>have</text>
     <mainVerb begin="2904" end="2908">have</mainVerb>
     <mainReferent begin="2899" end="2902">you</mainReferent>
     <tokens>if you have patience</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_67" begin="2920" end="2925">
     <text>doubt</text>
     <mainVerb begin="2920" end="2925">doubt</mainVerb>
     <mainReferent begin="2918" end="2919">I</mainReferent>
     <tokens>I doubt not</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_68" begin="2938" end="2940">
     <text>be</text>
     <mainVerb begin="2938" end="2940">be</mainVerb>
     <mainReferent begin="2930" end="2931">I</mainReferent>
     <tokens>I shall be to show you a good deal</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_69" begin="2991" end="3001">
     <text>describing</text>
     <mainVerb begin="2991" end="3001">describing</mainVerb>
     <mainReferent begin="2965" end="2969">deal</mainReferent>
     <tokens>what I have been describing</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_70" begin="3016" end="3020">
     <text>have</text>
     <mainVerb begin="3016" end="3020">have</mainVerb>
     <mainReferent begin="2862" end="2864">We</mainReferent>
     <tokens>you must have patience</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_71" begin="3068" end="3072">
     <text>said</text>
     <mainVerb begin="3068" end="3072">said</mainVerb>
     <mainReferent begin="3103" end="3109">object</mainReferent>
     <tokens>as an excellent naturalist has said</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_72" begin="3089" end="3091">
     <text>is</text>
     <mainVerb begin="3089" end="3091">is</mainVerb>
     <mainReferent begin="3068" end="3072">said</mainReferent>
     <tokens>for " The Melicerta is an awkward to undertake to show to our friends</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_73" begin="3161" end="3166">
     <text>knock</text>
     <mainVerb begin="3161" end="3166">knock</mainVerb>
     <mainReferent begin="3156" end="3160">they</mainReferent>
     <tokens>as they knock at the door</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_74" begin="3185" end="3187">
     <text>is</text>
     <mainVerb begin="3185" end="3187">is</mainVerb>
     <mainReferent begin="3180" end="3183">she</mainReferent>
     <tokens>for she is to turn sulky</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_75" begin="3237" end="3239">
     <text>is</text>
     <mainVerb begin="3237" end="3239">is</mainVerb>
     <mainReferent begin="3234" end="3236">it</mainReferent>
     <tokens>when once in this mood it is to say</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_76" begin="3283" end="3291">
     <text>reappear</text>
     <mainVerb begin="3283" end="3291">reappear</mainVerb>
     <mainReferent begin="3273" end="3277">form</mainReferent>
     <tokens>when her fair form will reappear</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_77" begin="3314" end="3320">
     <text>wagged</text>
     <mainVerb begin="3314" end="3320">wagged</mainVerb>
     <mainReferent begin="3306" end="3310">head</mainReferent>
     <tokens>At times the head is wagged about in all directions with considerable vehemence "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_78" begin="3375" end="3382">
     <text>playing</text>
     <mainVerb begin="3375" end="3382">playing</mainVerb>
     <tokens>playing singular antics</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_79" begin="3405" end="3415">
     <text>distorting</text>
     <mainVerb begin="3405" end="3415">distorting</mainVerb>
     <tokens>distorting her lobes so as to exhibit a Punch Judy profile</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_80" begin="3501" end="3508">
     <text>singing</text>
     <mainVerb begin="3501" end="3508">singing</mainVerb>
     <mainReferent begin="3496" end="3500">bird</mainReferent>
     <tokens>what is that bird singing so sweetly with such animation in the hedge</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_81" begin="3566" end="3570">
     <text>hear</text>
     <mainVerb begin="3566" end="3570">hear</mainVerb>
     <mainReferent begin="3562" end="3565">you</mainReferent>
     <tokens>Do you hear</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_82" begin="3575" end="3577">
     <text>is</text>
     <mainVerb begin="3575" end="3577">is</mainVerb>
     <mainReferent begin="3572" end="3574">It</mainReferent>
     <tokens>It is the dear little</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_83" begin="3625" end="3630">
     <text>heard</text>
     <mainVerb begin="3625" end="3630">heard</mainVerb>
     <tokens>often indeed heard</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_84" begin="3649" end="3653">
     <text>seen</text>
     <mainVerb begin="3649" end="3653">seen</mainVerb>
     <tokens>not so often seen</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_85" begin="3662" end="3664">
     <text>is</text>
     <mainVerb begin="3662" end="3664">is</mainVerb>
     <mainReferent begin="3659" end="3661">it</mainReferent>
     <tokens>for it is hiding itself in bushes or sedges</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_86" begin="3747" end="3755">
     <text>warblers</text>
     <mainVerb begin="3747" end="3755">warblers</mainVerb>
     <mainReferent begin="3713" end="3726">sedge-warbler</mainReferent>
     <tokens>The sedge-warbler like the migratory warblers generally</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_87" begin="3768" end="3773">
     <text>comes</text>
     <mainVerb begin="3768" end="3773">comes</mainVerb>
     <mainReferent begin="3713" end="3726">sedge-warbler</mainReferent>
     <tokens>The sedge-warbler like the migratory comes to us in April</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_88" begin="3793" end="3799">
     <text>leaves</text>
     <mainVerb begin="3793" end="3799">leaves</mainVerb>
     <mainReferent begin="3713" end="3726">sedge-warbler</mainReferent>
     <tokens>The sedge-warbler like the migratory leaves us in September</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_89" begin="3835" end="3843">
     <text>listened</text>
     <mainVerb begin="3835" end="3843">listened</mainVerb>
     <mainReferent begin="3833" end="3834">I</mainReferent>
     <tokens>How often have I listened with delight to its music when returning home quite late at night in summer months</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_90" begin="3941" end="3946">
     <text>stops</text>
     <mainVerb begin="3941" end="3946">stops</mainVerb>
     <mainReferent begin="3936" end="3940">bird</mainReferent>
     <tokens>If the bird stops its music for a few moments</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_91" begin="3981" end="3985">
     <text>have</text>
     <mainVerb begin="3981" end="3985">have</mainVerb>
     <mainReferent begin="3977" end="3980">you</mainReferent>
     <tokens>you have only to throw a stone among the bushes</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_92" begin="4042" end="4051">
     <text>commences</text>
     <mainVerb begin="4042" end="4051">commences</mainVerb>
     <mainReferent begin="3977" end="3980">you</mainReferent>
     <tokens>the singing commences again</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_93" begin="4061" end="4063">
     <text>am</text>
     <mainVerb begin="4061" end="4063">am</mainVerb>
     <mainReferent begin="4059" end="4060">I</mainReferent>
     <tokens>I am not describing musical sounds</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_94" begin="4119" end="4127">
     <text>describe</text>
     <mainVerb begin="4119" end="4127">describe</mainVerb>
     <mainReferent begin="4059" end="4060">I</mainReferent>
     <tokens>I can not describe that of the sedge-warbler</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_95" begin="4173" end="4184">
     <text>distinguish</text>
     <mainVerb begin="4173" end="4184">distinguish</mainVerb>
     <mainReferent begin="4059" end="4060">I</mainReferent>
     <tokens>can I always distinguish it from the song of its near relative the reed-warbler</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_96" begin="4247" end="4254">
     <text>imitate</text>
     <mainVerb begin="4247" end="4254">imitate</mainVerb>
     <mainReferent begin="4242" end="4246">Both</mainReferent>
     <tokens>Both imitate the songs of other birds</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_97" begin="4335" end="4340">
     <text>cause</text>
     <mainVerb begin="4335" end="4340">cause</mainVerb>
     <mainReferent begin="4242" end="4246">Both</mainReferent>
     <tokens>their incessant warblings babblings at night cause them to be often mistaken for nightingales</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_98" begin="4403" end="4408">
     <text>found</text>
     <mainVerb begin="4403" end="4408">found</mainVerb>
     <mainReferent begin="4386" end="4387">I</mainReferent>
     <tokens>I have generally found the nest of the sedge-warbler on the ground on a tuft of coarse grass or sedge</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_99" begin="4524" end="4533">
     <text>supported</text>
     <mainVerb begin="4524" end="4533">supported</mainVerb>
     <mainReferent begin="4495" end="4499">nest</mainReferent>
     <tokens>the nest of the reed-warbler is supported on four or five tall reeds</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_100" begin="4569" end="4573">
     <text>made</text>
     <mainVerb begin="4569" end="4573">made</mainVerb>
     <mainReferent begin="4495" end="4499">nest</mainReferent>
     <tokens>the nest of the reed-warbler is made of the seed-branches of the reeds</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_101" begin="4624" end="4629">
     <text>wound</text>
     <mainVerb begin="4624" end="4629">wound</mainVerb>
     <mainReferent begin="4495" end="4499">nest</mainReferent>
     <tokens>long grass wound round round</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_102" begin="4654" end="4658">
     <text>made</text>
     <mainVerb begin="4654" end="4658">made</mainVerb>
     <mainReferent begin="4648" end="4650">it</mainReferent>
     <tokens>it is made deep</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_103" begin="4697" end="4703">
     <text>tossed</text>
     <mainVerb begin="4697" end="4703">tossed</mainVerb>
     <mainReferent begin="4684" end="4688">eggs</mainReferent>
     <tokens>so that the little eggs are not tossed out</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="country_walks_of_a_naturalist_with_his_children_13.txt_104" begin="4728" end="4734">
     <text>shaken</text>
     <mainVerb begin="4728" end="4734">shaken</mainVerb>
     <mainReferent begin="4718" end="4723">reeds</mainReferent>
     <tokens>when the reeds are shaken the high winds</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
 </document>

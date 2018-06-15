@@ -6,512 +6,598 @@
     <mainVerb begin="3" end="7">come</mainVerb>
     <mainReferent begin="0" end="2">We</mainReferent>
     <tokens>We come now to a large and interesting class in genus Epeira</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_2" begin="64" end="69">
     <text>refer</text>
     <mainVerb begin="64" end="69">refer</mainVerb>
     <mainReferent begin="62" end="63">I</mainReferent>
     <tokens>I refer to those species , mostly nocturnal , which are protected during the day , not by hiding in crevices , nor in any way actually getting out of sight , but by the close resemblance which they bear to the bark of the trees to which they cling</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_3" begin="117" end="126">
     <text>protected</text>
     <mainVerb begin="117" end="126">protected</mainVerb>
     <mainReferent begin="80" end="87">species</mainReferent>
     <tokens>those species mostly nocturnal are protected during the day not hiding in crevices in any way actually getting of sight by the close resemblance</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_4" begin="258" end="262">
     <text>bear</text>
     <mainVerb begin="258" end="262">bear</mainVerb>
     <mainReferent begin="253" end="257">they</mainReferent>
     <tokens>the close resemblance they bear to the bark of the trees to which they cling</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_5" begin="303" end="308">
     <text>cling</text>
     <mainVerb begin="303" end="308">cling</mainVerb>
     <mainReferent begin="298" end="302">they</mainReferent>
     <tokens>of the trees to which they cling</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_6" begin="330" end="337">
     <text>brought</text>
     <mainVerb begin="330" end="337">brought</mainVerb>
     <mainReferent begin="315" end="326">resemblance</mainReferent>
     <tokens>This resemblance is brought about in two ways through their color , which is like that of wood or lichens , through their tuberculated and rugose forms , which resemble rough bark</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_7" begin="385" end="387">
     <text>is</text>
     <mainVerb begin="385" end="387">is</mainVerb>
     <mainReferent begin="372" end="377">color</mainReferent>
     <tokens>their color is like that of wood or lichens their tuberculated rugose forms</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_8" begin="474" end="482">
     <text>resemble</text>
     <mainVerb begin="474" end="482">resemble</mainVerb>
     <mainReferent begin="461" end="466">forms</mainReferent>
     <tokens>their tuberculated rugose forms resemble rough bark</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_9" begin="677" end="679">
     <text>is</text>
     <mainVerb begin="677" end="679">is</mainVerb>
     <mainReferent begin="635" end="638">One</mainReferent>
     <tokens>One of the most remarkable of these forms is C.</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_10" begin="723" end="729">
     <text>looked</text>
     <mainVerb begin="723" end="729">looked</mainVerb>
     <mainReferent begin="707" end="714">species</mainReferent>
     <tokens>a Madagascar species looked at in profile</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_11" begin="754" end="763">
     <text>resembles</text>
     <mainVerb begin="754" end="763">resembles</mainVerb>
     <mainReferent begin="707" end="714">species</mainReferent>
     <tokens>a Madagascar species probably resembles a woody knot</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_12" begin="794" end="801">
     <text>divided</text>
     <mainVerb begin="794" end="801">divided</mainVerb>
     <mainReferent begin="783" end="790">abdomen</mainReferent>
     <tokens>The abdomen is divided into two divergent cones ( Fig. 1 )</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_13" begin="878" end="885">
     <text>covered</text>
     <mainVerb begin="878" end="885">covered</mainVerb>
     <mainReferent begin="855" end="862">surface</mainReferent>
     <tokens>The entire upper surface of the body is covered with conical elevations , which render it rough and uneven</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_14" begin="918" end="924">
     <text>render</text>
     <mainVerb begin="918" end="924">render</mainVerb>
     <mainReferent begin="899" end="909">elevations</mainReferent>
     <tokens>conical elevations render it rough uneven</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_15" begin="975" end="979">
     <text>made</text>
     <mainVerb begin="975" end="979">made</mainVerb>
     <mainReferent begin="950" end="955">sides</mainReferent>
     <tokens>the sides of the abdomen are made up of several layers , which form stages , one above another , like the ridges of bark on a woody excrescence</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_16" begin="1009" end="1013">
     <text>form</text>
     <mainVerb begin="1009" end="1013">form</mainVerb>
     <mainReferent begin="995" end="1001">layers</mainReferent>
     <tokens>several layers form stages one above another like the ridges of bark on a woody excrescence</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_17" begin="1100" end="1106">
     <text>formed</text>
     <mainVerb begin="1100" end="1106">formed</mainVerb>
     <mainReferent begin="1094" end="1098">legs</mainReferent>
     <tokens>formed of wide , flattened plates</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_18" begin="1116" end="1125">
     <text>flattened</text>
     <mainVerb begin="1116" end="1125">flattened</mainVerb>
     <tokens>wide flattened</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_19" begin="1135" end="1139">
     <text>make</text>
     <mainVerb begin="1135" end="1139">make</mainVerb>
     <mainReferent begin="1094" end="1098">legs</mainReferent>
     <tokens>The legs make the base</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_20" begin="1174" end="1176">
     <text>is</text>
     <mainVerb begin="1174" end="1176">is</mainVerb>
     <mainReferent begin="1194" end="1200">varied</mainReferent>
     <tokens>The color of the spider is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_21" begin="1194" end="1200">
     <text>varied</text>
     <mainVerb begin="1194" end="1200">varied</mainVerb>
     <mainReferent begin="1177" end="1191">yellowish-gray</mainReferent>
     <tokens>varied with white and dark reddish-brown</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_22" begin="1239" end="1242">
     <text>has</text>
     <mainVerb begin="1239" end="1242">has</mainVerb>
     <mainReferent begin="1236" end="1238">It</mainReferent>
     <tokens>It has the habit perching on a branch clasping it like a bird</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_23" begin="1364" end="1366">
     <text>be</text>
     <mainVerb begin="1364" end="1366">be</mainVerb>
     <mainReferent begin="1330" end="1342">modification</mainReferent>
     <tokens>the elaborate modification of form would be</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_24" begin="1389" end="1393">
     <text>hung</text>
     <mainVerb begin="1389" end="1393">hung</mainVerb>
     <mainReferent begin="1382" end="1388">spider</mainReferent>
     <tokens>if the spider hung</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_25" begin="1395" end="1402">
     <text>exposed</text>
     <mainVerb begin="1395" end="1402">exposed</mainVerb>
     <mainReferent begin="1389" end="1393">hung</mainReferent>
     <tokens>exposed in the web</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_26" begin="1418" end="1422">
     <text>made</text>
     <mainVerb begin="1418" end="1422">made</mainVerb>
     <mainReferent begin="1330" end="1342">modification</mainReferent>
     <tokens>so that the elaborate modification of form is made as effective as possible</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_27" begin="1496" end="1498">
     <text>is</text>
     <mainVerb begin="1496" end="1498">is</mainVerb>
     <mainReferent begin="1487" end="1495">infumata</mainReferent>
     <tokens>To take an example nearer home E. infumata is a large round-bodied with two humps on the abdomen , which Emerton describes from New England as being brown</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_28" begin="1575" end="1584">
     <text>describes</text>
     <mainVerb begin="1575" end="1584">describes</mainVerb>
     <mainReferent begin="1567" end="1574">Emerton</mainReferent>
     <tokens>the abdomen Emerton describes from New England</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_29" begin="1619" end="1626">
     <text>mottled</text>
     <mainVerb begin="1619" end="1626">mottled</mainVerb>
     <mainReferent begin="1522" end="1528">spider</mainReferent>
     <tokens>mottled with white and black</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_30" begin="1652" end="1656">
     <text>adds</text>
     <mainVerb begin="1652" end="1656">adds</mainVerb>
     <mainReferent begin="1649" end="1651">he</mainReferent>
     <tokens>he adds</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_31" begin="1671" end="1676">
     <text>draws</text>
     <mainVerb begin="1671" end="1676">draws</mainVerb>
     <mainReferent begin="1668" end="1670">it</mainReferent>
     <tokens>when it draws in its feet</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_32" begin="1692" end="1697">
     <text>looks</text>
     <mainVerb begin="1692" end="1697">looks</mainVerb>
     <mainReferent begin="1689" end="1691">it</mainReferent>
     <tokens>that it looks like a lump of dirt</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_33" begin="1744" end="1747">
     <text>has</text>
     <mainVerb begin="1744" end="1747">has</mainVerb>
     <mainReferent begin="1719" end="1727">Infumata</mainReferent>
     <tokens>Infumata in Wisconsin has always a good deal of bluish-green on the upper surface of the abdomen</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_34" begin="1830" end="1832">
     <text>be</text>
     <mainVerb begin="1830" end="1832">be</mainVerb>
     <mainReferent begin="1821" end="1825">This</mainReferent>
     <tokens>This may be a</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_35" begin="1861" end="1870">
     <text>developed</text>
     <mainVerb begin="1861" end="1870">developed</mainVerb>
     <mainReferent begin="1835" end="1842">variety</mainReferent>
     <tokens>has been so developed as to resemble the lichens</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_36" begin="1905" end="1910">
     <text>cover</text>
     <mainVerb begin="1905" end="1910">cover</mainVerb>
     <mainReferent begin="1891" end="1898">lichens</mainReferent>
     <tokens>the lichens cover the tree</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_37" begin="1932" end="1938">
     <text>clings</text>
     <mainVerb begin="1932" end="1938">clings</mainVerb>
     <mainReferent begin="1929" end="1931">it</mainReferent>
     <tokens>the tree it clings</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_38" begin="1943" end="1945">
     <text>is</text>
     <mainVerb begin="1943" end="1945">is</mainVerb>
     <mainReferent begin="1940" end="1942">It</mainReferent>
     <tokens>It is of the spiders which bear a good deal of handling without uncurling its legs , or showing any sign of life</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_39" begin="1972" end="1976">
     <text>bear</text>
     <mainVerb begin="1972" end="1976">bear</mainVerb>
     <mainReferent begin="1958" end="1965">spiders</mainReferent>
     <tokens>the spiders bear a good deal of handling uncurling its legs showing any sign of life</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_40" begin="2069" end="2073">
     <text>form</text>
     <mainVerb begin="2069" end="2073">form</mainVerb>
     <mainReferent begin="2063" end="2068">humpy</mainReferent>
     <tokens>Its humpy form</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_41" begin="2089" end="2093">
     <text>give</text>
     <mainVerb begin="2089" end="2093">give</mainVerb>
     <mainReferent begin="2063" end="2068">humpy</mainReferent>
     <tokens>its color give it a very inanimate appearance</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_42" begin="2129" end="2131">
     <text>is</text>
     <mainVerb begin="2129" end="2131">is</mainVerb>
     <mainReferent begin="2126" end="2128">It</mainReferent>
     <tokens>It is rather in our neighborhood</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_43" begin="2178" end="2184">
     <text>caught</text>
     <mainVerb begin="2178" end="2184">caught</mainVerb>
     <mainReferent begin="2126" end="2128">It</mainReferent>
     <tokens>It may be caught in the late twilight while building its web</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_44" begin="2303" end="2312">
     <text>frequents</text>
     <mainVerb begin="2303" end="2312">frequents</mainVerb>
     <mainReferent begin="2295" end="2297">it</mainReferent>
     <tokens>the trees it most frequents</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_45" begin="2314" end="2316">
     <text>is</text>
     <mainVerb begin="2314" end="2316">is</mainVerb>
     <mainReferent begin="2238" end="2244">search</mainReferent>
     <tokens>to search for it in the daytime even among the trees is an almost hopeless</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_46" begin="2365" end="2367">
     <text>is</text>
     <mainVerb begin="2365" end="2367">is</mainVerb>
     <mainReferent begin="2360" end="2364">form</mainReferent>
     <tokens>A more grotesque form is E. twelve fifteen humps</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_47" begin="2402" end="2405">
     <text>has</text>
     <mainVerb begin="2402" end="2405">has</mainVerb>
     <mainReferent begin="2394" end="2401">abdomen</mainReferent>
     <tokens>the abdomen has not two twelve fifteen humps</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_48" begin="2451" end="2454">
     <text>are</text>
     <mainVerb begin="2451" end="2454">are</mainVerb>
     <mainReferent begin="2445" end="2450">These</mainReferent>
     <tokens>These are so</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_49" begin="2513" end="2522">
     <text>scalloped</text>
     <mainVerb begin="2513" end="2522">scalloped</mainVerb>
     <mainReferent begin="2476" end="2480">edge</mainReferent>
     <tokens>that the edge of the abdomen all around is scalloped</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_50" begin="2535" end="2538">
     <text>are</text>
     <mainVerb begin="2535" end="2538">are</mainVerb>
     <mainReferent begin="2528" end="2534">colors</mainReferent>
     <tokens>The colors are dark brown</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_51" begin="2561" end="2569">
     <text>modified</text>
     <mainVerb begin="2561" end="2569">modified</mainVerb>
     <mainReferent begin="2528" end="2534">colors</mainReferent>
     <tokens>modified gray white hairs</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_52" begin="2608" end="2615">
     <text>remains</text>
     <mainVerb begin="2608" end="2615">remains</mainVerb>
     <mainReferent begin="2601" end="2607">spider</mainReferent>
     <tokens>This spider remains motionless during the daytime</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_53" begin="2648" end="2655">
     <text>keeping</text>
     <mainVerb begin="2648" end="2655">keeping</mainVerb>
     <tokens>keeping</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_54" begin="2665" end="2670">
     <text>drawn</text>
     <mainVerb begin="2665" end="2670">drawn</mainVerb>
     <mainReferent begin="2648" end="2655">keeping</mainReferent>
     <tokens>its legs drawn up to its body</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_55" begin="2690" end="2692">
     <text>is</text>
     <mainVerb begin="2690" end="2692">is</mainVerb>
     <mainReferent begin="2687" end="2689">It</mainReferent>
     <tokens>It is on grass and low bushes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_56" begin="2736" end="2741">
     <text>found</text>
     <mainVerb begin="2736" end="2741">found</mainVerb>
     <mainReferent begin="2726" end="2728">It</mainReferent>
     <tokens>It is not found in Wisconsin</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_57" begin="2783" end="2791">
     <text>suggests</text>
     <mainVerb begin="2783" end="2791">suggests</mainVerb>
     <mainReferent begin="2726" end="2728">It</mainReferent>
     <tokens>the description of it suggests a resemblance to a piece of dead leaf</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_58" begin="2840" end="2843">
     <text>are</text>
     <mainVerb begin="2840" end="2843">are</mainVerb>
     <mainReferent begin="2855" end="2862">spiders</mainReferent>
     <tokens>There are many other spiders in this genus</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_59" begin="2882" end="2886">
     <text>have</text>
     <mainVerb begin="2882" end="2886">have</mainVerb>
     <mainReferent begin="2855" end="2862">spiders</mainReferent>
     <tokens>many other spiders in this genus have humps</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_60" begin="2902" end="2909">
     <text>colored</text>
     <mainVerb begin="2902" end="2909">colored</mainVerb>
     <mainReferent begin="2855" end="2862">spiders</mainReferent>
     <tokens>many other spiders in this genus are colored in brown , gray or dull yellow as nordmanii , angulata , solitaria , etc</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_61" begin="2985" end="2987">
     <text>is</text>
     <mainVerb begin="2985" end="2987">is</mainVerb>
     <mainReferent begin="2982" end="2984">It</mainReferent>
     <tokens>It is an almost universal among the Epeiridæ to drop to the ground</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_62" begin="3061" end="3071">
     <text>threatened</text>
     <mainVerb begin="3061" end="3071">threatened</mainVerb>
     <tokens>when threatened</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_63" begin="3113" end="3118">
     <text>drops</text>
     <mainVerb begin="3113" end="3118">drops</mainVerb>
     <mainReferent begin="3106" end="3112">spider</mainReferent>
     <tokens>when a humped gray brown spider drops to the ground</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_64" begin="3137" end="3142">
     <text>draws</text>
     <mainVerb begin="3137" end="3142">draws</mainVerb>
     <mainReferent begin="3091" end="3095">gray</mainReferent>
     <tokens>a humped gray brown spider draws in its legs</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_65" begin="3158" end="3160">
     <text>is</text>
     <mainVerb begin="3158" end="3160">is</mainVerb>
     <mainReferent begin="3155" end="3157">it</mainReferent>
     <tokens>it is nearly from the lumps of earth , sticks and stones that surround it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_66" begin="3236" end="3244">
     <text>surround</text>
     <mainVerb begin="3236" end="3244">surround</mainVerb>
     <mainReferent begin="3196" end="3201">lumps</mainReferent>
     <tokens>the lumps of earth , sticks and stones surround it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_67" begin="3279" end="3282">
     <text>has</text>
     <mainVerb begin="3279" end="3282">has</mainVerb>
     <mainReferent begin="3252" end="3255">One</mainReferent>
     <tokens>One of the Therididæ has the same protection</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_68" begin="3303" end="3305">
     <text>is</text>
     <mainVerb begin="3303" end="3305">is</mainVerb>
     <mainReferent begin="3252" end="3255">One</mainReferent>
     <tokens>One of the Therididæ is Ulesanis ( Fig. 3 )</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_69" begin="3355" end="3361">
     <text>covers</text>
     <mainVerb begin="3355" end="3361">covers</mainVerb>
     <mainReferent begin="3340" end="3347">abdomen</mainReferent>
     <tokens>The abdomen covers the cephalothorax nearly to the eyes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_70" begin="3401" end="3404">
     <text>has</text>
     <mainVerb begin="3401" end="3404">has</mainVerb>
     <mainReferent begin="3340" end="3347">abdomen</mainReferent>
     <tokens>The abdomen has a prominent hump in the middle of the back and four or five others behind</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_71" begin="3491" end="3493">
     <text>is</text>
     <mainVerb begin="3491" end="3493">is</mainVerb>
     <mainReferent begin="3485" end="3490">color</mainReferent>
     <tokens>Its color is in shades of brown and yellow</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_72" begin="3624" end="3626">
     <text>is</text>
     <mainVerb begin="3624" end="3626">is</mainVerb>
     <mainReferent begin="3591" end="3600">Analogous</mainReferent>
     <tokens>Analogous to the humped Epeiridæ is Thomisus of Madagascar , a spider which is regarded with great terror by the natives ,</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_73" begin="3676" end="3684">
     <text>regarded</text>
     <mainVerb begin="3676" end="3684">regarded</mainVerb>
     <mainReferent begin="3660" end="3666">spider</mainReferent>
     <tokens>a spider is regarded with great terror the natives</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_74" begin="3763" end="3765">
     <text>is</text>
     <mainVerb begin="3763" end="3765">is</mainVerb>
     <mainReferent begin="3756" end="3762">breath</mainReferent>
     <tokens>that even its breath is</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_75" begin="3779" end="3782">
     <text>say</text>
     <mainVerb begin="3779" end="3782">say</mainVerb>
     <mainReferent begin="3774" end="3778">They</mainReferent>
     <tokens>They say</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_76" begin="3821" end="3825">
     <text>look</text>
     <mainVerb begin="3821" end="3825">look</mainVerb>
     <mainReferent begin="3788" end="3794">cattle</mainReferent>
     <tokens>that cattle when about to lie down look carefully about to see if one of these spiders is in the neighborhood</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_77" begin="3874" end="3876">
     <text>is</text>
     <mainVerb begin="3874" end="3876">is</mainVerb>
     <mainReferent begin="3852" end="3855">one</mainReferent>
     <tokens>if one of these spiders is in the neighborhood</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_78" begin="3909" end="3911">
     <text>is</text>
     <mainVerb begin="3909" end="3911">is</mainVerb>
     <mainReferent begin="3903" end="3908">dread</mainReferent>
     <tokens>This dread is no</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_79" begin="3923" end="3931">
     <text>inspired</text>
     <mainVerb begin="3923" end="3931">inspired</mainVerb>
     <mainReferent begin="3916" end="3921">doubt</mainReferent>
     <tokens>inspired the strange uncanny aspect of a perfectly harmless creature</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_80" begin="4004" end="4007">
     <text>has</text>
     <mainVerb begin="4004" end="4007">has</mainVerb>
     <mainReferent begin="4001" end="4003">It</mainReferent>
     <tokens>It has a rugose tuberculated body of trapezoid form the colors reddish</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_81" begin="4116" end="4118">
     <text>is</text>
     <mainVerb begin="4116" end="4118">is</mainVerb>
     <mainReferent begin="4109" end="4115">aspect</mainReferent>
     <tokens>while the whole aspect is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_82" begin="4153" end="4156">
     <text>are</text>
     <mainVerb begin="4153" end="4156">are</mainVerb>
     <mainReferent begin="4148" end="4152">legs</mainReferent>
     <tokens>The thick short legs are covered with tubercules</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_83" begin="4226" end="4230">
     <text>made</text>
     <mainVerb begin="4226" end="4230">made</mainVerb>
     <mainReferent begin="4195" end="4201">secret</mainReferent>
     <tokens>The secret of its strange form is made clear</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_84" begin="4245" end="4250">
     <text>learn</text>
     <mainVerb begin="4245" end="4250">learn</mainVerb>
     <mainReferent begin="4242" end="4244">we</mainReferent>
     <tokens>when we learn</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_85" begin="4259" end="4268">
     <text>resembles</text>
     <mainVerb begin="4259" end="4268">resembles</mainVerb>
     <mainReferent begin="4256" end="4258">it</mainReferent>
     <tokens>that it resembles in color and general appearance the fruit of Hymenæa verrucosa , a tree common in the forests where this spider is found</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_111.txt_86" begin="4385" end="4390">
     <text>found</text>
     <mainVerb begin="4385" end="4390">found</mainVerb>
     <mainReferent begin="4375" end="4381">spider</mainReferent>
     <tokens>where this spider is found</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
 </document>

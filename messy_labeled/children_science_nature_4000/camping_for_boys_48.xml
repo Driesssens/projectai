@@ -5,519 +5,612 @@
     <text>Dislocation</text>
     <mainVerb begin="0" end="11">Dislocation</mainVerb>
     <tokens>Dislocation A dislocation of the finger or toe</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_2" begin="67" end="74">
     <text>reduced</text>
     <mainVerb begin="67" end="74">reduced</mainVerb>
     <mainReferent begin="0" end="11">Dislocation</mainReferent>
     <tokens>can generally be reduced pulling strongly at the same time pressing where the dislocation is</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_3" begin="117" end="125">
     <text>pressing</text>
     <mainVerb begin="117" end="125">pressing</mainVerb>
     <mainReferent begin="112" end="116">time</mainReferent>
     <tokens>pressing</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_4" begin="148" end="150">
     <text>is</text>
     <mainVerb begin="148" end="150">is</mainVerb>
     <mainReferent begin="136" end="147">dislocation</mainReferent>
     <tokens>where the dislocation is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_5" begin="187" end="197">
     <text>dislocated</text>
     <mainVerb begin="187" end="197">dislocated</mainVerb>
     <mainReferent begin="178" end="183">elbow</mainReferent>
     <tokens>If the hip shoulder elbow is dislocated</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_6" begin="206" end="212">
     <text>meddle</text>
     <mainVerb begin="206" end="212">meddle</mainVerb>
     <tokens>do not meddle with the joint</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_7" begin="234" end="238">
     <text>make</text>
     <mainVerb begin="234" end="238">make</mainVerb>
     <tokens>make</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_8" begin="320" end="325">
     <text>wrung</text>
     <mainVerb begin="320" end="325">wrung</mainVerb>
     <mainReferent begin="243" end="246">boy</mainReferent>
     <tokens>the boy as comfortable as possible surrounding the joint with flannel cloths wrung out in hot water ; support with soft pads</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_9" begin="372" end="376">
     <text>send</text>
     <mainVerb begin="372" end="376">send</mainVerb>
     <tokens>send for a doctor at once</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_10" begin="416" end="426">
     <text>dislocated</text>
     <mainVerb begin="416" end="426">dislocated</mainVerb>
     <mainReferent begin="407" end="412">spine</mainReferent>
     <tokens>If the spine is dislocated</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_11" begin="428" end="431">
     <text>lay</text>
     <mainVerb begin="428" end="431">lay</mainVerb>
     <tokens>lay the boy on his back</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_12" begin="460" end="463">
     <text>put</text>
     <mainVerb begin="460" end="463">put</mainVerb>
     <tokens>put him on his side</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_13" begin="483" end="487">
     <text>face</text>
     <mainVerb begin="483" end="487">face</mainVerb>
     <tokens>face</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_14" begin="496" end="498">
     <text>be</text>
     <mainVerb begin="496" end="498">be</mainVerb>
     <mainReferent begin="489" end="491">it</mainReferent>
     <tokens>Never it may be</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_15" begin="512" end="514">
     <text>is</text>
     <mainVerb begin="512" end="514">is</mainVerb>
     <mainReferent begin="509" end="511">he</mainReferent>
     <tokens>If he is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_16" begin="521" end="526">
     <text>apply</text>
     <mainVerb begin="521" end="526">apply</mainVerb>
     <tokens>apply hot blankets to his body , hot water bottle or hot salt bag to the seat of pain</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_17" begin="646" end="653">
     <text>secured</text>
     <mainVerb begin="646" end="653">secured</mainVerb>
     <mainReferent begin="616" end="619">Use</mainReferent>
     <tokens>Bandage should always be secured of a reef knot</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_18" begin="706" end="709">
     <text>try</text>
     <mainVerb begin="706" end="709">try</mainVerb>
     <mainReferent begin="690" end="695">Bones</mainReferent>
     <tokens>Broken Bones Do not try to reduce the fracture</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_19" begin="755" end="762">
     <text>secured</text>
     <mainVerb begin="755" end="762">secured</mainVerb>
     <mainReferent begin="738" end="747">physician</mainReferent>
     <tokens>if a physician can be secured</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_20" begin="793" end="795">
     <text>do</text>
     <mainVerb begin="793" end="795">do</mainVerb>
     <mainReferent begin="779" end="787">handling</mainReferent>
     <tokens>for unskilled handling will do more harm than good</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_21" begin="833" end="835">
     <text>is</text>
     <mainVerb begin="833" end="835">is</mainVerb>
     <mainReferent begin="821" end="826">thing</mainReferent>
     <tokens>The thing to do is to make the boy comfortable placing him in a comfortable position with the injured part resting on a pad</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_22" begin="947" end="954">
     <text>keeping</text>
     <mainVerb begin="947" end="954">keeping</mainVerb>
     <tokens>keeping him perfectly quiet</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_23" begin="985" end="987">
     <text>is</text>
     <mainVerb begin="985" end="987">is</mainVerb>
     <mainReferent begin="997" end="1002">wound</mainReferent>
     <tokens>If there is an open wound</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_24" begin="1004" end="1009">
     <text>cover</text>
     <mainVerb begin="1004" end="1009">cover</mainVerb>
     <tokens>cover it with cheesecloth or gauze which has been dipped in boiling water , to which baking soda has been added</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_25" begin="1054" end="1060">
     <text>dipped</text>
     <mainVerb begin="1054" end="1060">dipped</mainVerb>
     <mainReferent begin="1018" end="1029">cheesecloth</mainReferent>
     <tokens>cheesecloth gauze has been dipped in boiling water , to which baking soda has been added</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_26" begin="1110" end="1115">
     <text>added</text>
     <mainVerb begin="1110" end="1115">added</mainVerb>
     <mainReferent begin="1089" end="1095">baking</mainReferent>
     <tokens>in boiling water , to which baking soda has been added</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_27" begin="1122" end="1126">
     <text>wrap</text>
     <mainVerb begin="1122" end="1126">wrap</mainVerb>
     <tokens>Then wrap absorbent cotton around it</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_28" begin="1167" end="1170">
     <text>has</text>
     <mainVerb begin="1167" end="1170">has</mainVerb>
     <mainReferent begin="1163" end="1166">boy</mainReferent>
     <tokens>If the boy has a fever</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_29" begin="1180" end="1183">
     <text>put</text>
     <mainVerb begin="1180" end="1183">put</mainVerb>
     <tokens>put wet cloths on his head</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_30" begin="1209" end="1217">
     <text>swinging</text>
     <mainVerb begin="1209" end="1217">swinging</mainVerb>
     <tokens>swinging them in the air to cool for changing</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_31" begin="1388" end="1394">
     <text>broken</text>
     <mainVerb begin="1388" end="1394">broken</mainVerb>
     <mainReferent begin="1396" end="1400">plug</mainReferent>
     <tokens>If the nose is broken</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_32" begin="1396" end="1400">
     <text>plug</text>
     <mainVerb begin="1396" end="1400">plug</mainVerb>
     <mainReferent begin="1365" end="1369">Nose</mainReferent>
     <tokens>Nose plug with gauze to stop bleeding</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_33" begin="1454" end="1460">
     <text>broken</text>
     <mainVerb begin="1454" end="1460">broken</mainVerb>
     <mainReferent begin="1447" end="1450">jaw</mainReferent>
     <tokens>Jaw If the jaw is broken</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_34" begin="1462" end="1466">
     <text>push</text>
     <mainVerb begin="1462" end="1466">push</mainVerb>
     <tokens>push the bone gently into place</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_35" begin="1508" end="1510">
     <text>is</text>
     <mainVerb begin="1508" end="1510">is</mainVerb>
     <mainReferent begin="1520" end="1525">wound</mainReferent>
     <tokens>if there is an open wound</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_36" begin="1527" end="1532">
     <text>cover</text>
     <mainVerb begin="1527" end="1532">cover</mainVerb>
     <tokens>cover it with gauze or cotton</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_37" begin="1559" end="1563">
     <text>made</text>
     <mainVerb begin="1559" end="1563">made</mainVerb>
     <tokens>made antiseptically</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_38" begin="1590" end="1593">
     <text>put</text>
     <mainVerb begin="1590" end="1593">put</mainVerb>
     <tokens>then put a bandage around the jaw</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_39" begin="1660" end="1666">
     <text>broken</text>
     <mainVerb begin="1660" end="1666">broken</mainVerb>
     <mainReferent begin="1652" end="1656">bone</mainReferent>
     <tokens>Collar Bone If the collar bone is broken</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_40" begin="1679" end="1684">
     <text>known</text>
     <mainVerb begin="1679" end="1684">known</mainVerb>
     <mainReferent begin="1668" end="1670">it</mainReferent>
     <tokens>it will be known the pain in the shoulder the shoulder dropping</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_41" begin="1767" end="1774">
     <text>relieve</text>
     <mainVerb begin="1767" end="1774">relieve</mainVerb>
     <mainReferent begin="1741" end="1748">Holding</mainReferent>
     <tokens>Holding the elbow up will relieve the weight from the collar bone</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_42" begin="1809" end="1812">
     <text>Lay</text>
     <mainVerb begin="1809" end="1812">Lay</mainVerb>
     <tokens>Lay the boy on his back</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_43" begin="1834" end="1837">
     <text>Put</text>
     <mainVerb begin="1834" end="1837">Put</mainVerb>
     <tokens>Put a cotton wad in his armpit</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_44" begin="1870" end="1877">
     <text>bandage</text>
     <mainVerb begin="1870" end="1877">bandage</mainVerb>
     <tokens>bandage the arm to the side of the body</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_45" begin="1914" end="1917">
     <text>put</text>
     <mainVerb begin="1914" end="1917">put</mainVerb>
     <tokens>put the arm in a sling</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_46" begin="1985" end="1991">
     <text>broken</text>
     <mainVerb begin="1985" end="1991">broken</mainVerb>
     <mainReferent begin="1993" end="1996">put</mainReferent>
     <tokens>If the shoulder blade is broken</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_47" begin="1993" end="1996">
     <text>put</text>
     <mainVerb begin="1993" end="1996">put</mainVerb>
     <mainReferent begin="1951" end="1956">Blade</mainReferent>
     <tokens>Shoulder Blade put the forearm across the chest with the fingers on the shoulder</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_48" begin="2069" end="2076">
     <text>bandage</text>
     <mainVerb begin="2069" end="2076">bandage</mainVerb>
     <mainReferent begin="1951" end="1956">Blade</mainReferent>
     <tokens>Shoulder Blade then bandage the arm to the body</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_49" begin="2101" end="2104">
     <text>Rib</text>
     <mainVerb begin="2101" end="2104">Rib</mainVerb>
     <tokens>Rib</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_50" begin="2120" end="2126">
     <text>broken</text>
     <mainVerb begin="2120" end="2126">broken</mainVerb>
     <mainReferent begin="2113" end="2116">rib</mainReferent>
     <tokens>If a rib is broken</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_51" begin="2135" end="2139">
     <text>pain</text>
     <mainVerb begin="2135" end="2139">pain</mainVerb>
     <mainReferent begin="2127" end="2129">it</mainReferent>
     <tokens>it will pain the patient</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_52" begin="2160" end="2165">
     <text>takes</text>
     <mainVerb begin="2160" end="2165">takes</mainVerb>
     <mainReferent begin="2157" end="2159">he</mainReferent>
     <tokens>when he takes a long breath</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_53" begin="2182" end="2185">
     <text>Put</text>
     <mainVerb begin="2182" end="2185">Put</mainVerb>
     <tokens>Put him on his back resting a little on the uninjured side</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_54" begin="2260" end="2267">
     <text>breathe</text>
     <mainVerb begin="2260" end="2267">breathe</mainVerb>
     <mainReferent begin="2251" end="2253">he</mainReferent>
     <tokens>so that he will breathe easily</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_55" begin="2282" end="2284">
     <text>is</text>
     <mainVerb begin="2282" end="2284">is</mainVerb>
     <mainReferent begin="2279" end="2281">it</mainReferent>
     <tokens>If it is to move him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_56" begin="2308" end="2315">
     <text>bandage</text>
     <mainVerb begin="2308" end="2315">bandage</mainVerb>
     <tokens>bandage strips of adhesive plaster around the body beginning at the lowest rib working upward</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_57" begin="2410" end="2416">
     <text>having</text>
     <mainVerb begin="2410" end="2416">having</mainVerb>
     <tokens>having each strip lap over the one below it</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_58" begin="2462" end="2466">
     <text>have</text>
     <mainVerb begin="2462" end="2466">have</mainVerb>
     <mainReferent begin="2458" end="2461">you</mainReferent>
     <tokens>If you have no adhesive plaster</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_59" begin="2489" end="2492">
     <text>use</text>
     <mainVerb begin="2489" end="2492">use</mainVerb>
     <tokens>use a wide strip of cotton cloth</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_60" begin="2538" end="2541">
     <text>put</text>
     <mainVerb begin="2538" end="2541">put</mainVerb>
     <mainReferent begin="2529" end="2532">you</mainReferent>
     <tokens>After you have put his coat on</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_61" begin="2556" end="2559">
     <text>pin</text>
     <mainVerb begin="2556" end="2559">pin</mainVerb>
     <tokens>pin it as tightly as you in the back</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_62" begin="2581" end="2584">
     <text>can</text>
     <mainVerb begin="2581" end="2584">can</mainVerb>
     <tokens>can</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_63" begin="2633" end="2639">
     <text>broken</text>
     <mainVerb begin="2633" end="2639">broken</mainVerb>
     <mainReferent begin="2656" end="2659">lay</mainReferent>
     <tokens>If the leg is broken above the knee</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_64" begin="2656" end="2659">
     <text>lay</text>
     <mainVerb begin="2656" end="2659">lay</mainVerb>
     <mainReferent begin="2611" end="2615">Knee</mainReferent>
     <tokens>Leg Above Knee lay shoulders slightly back with the head and shoulders slightly raised</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_65" begin="2723" end="2729">
     <text>raised</text>
     <mainVerb begin="2723" end="2729">raised</mainVerb>
     <mainReferent begin="2695" end="2699">head</mainReferent>
     <tokens>slightly raised</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_66" begin="2731" end="2735">
     <text>Draw</text>
     <mainVerb begin="2731" end="2735">Draw</mainVerb>
     <tokens>Draw the leg out straight , and , after padding it with cotton or towels</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_67" begin="2804" end="2807">
     <text>cut</text>
     <mainVerb begin="2804" end="2807">cut</mainVerb>
     <tokens>cut a small sapling long enough to reach from the foot to the armpit</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_68" begin="2879" end="2885">
     <text>fasten</text>
     <mainVerb begin="2879" end="2885">fasten</mainVerb>
     <tokens>fasten it at the ankle , knee , and waist</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_69" begin="2927" end="2929">
     <text>is</text>
     <mainVerb begin="2927" end="2929">is</mainVerb>
     <mainReferent begin="2924" end="2926">it</mainReferent>
     <tokens>If it is to move the boy</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_70" begin="2957" end="2961">
     <text>bind</text>
     <mainVerb begin="2957" end="2961">bind</mainVerb>
     <tokens>bind both legs firmly together</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_71" begin="3024" end="3030">
     <text>broken</text>
     <mainVerb begin="3024" end="3030">broken</mainVerb>
     <mainReferent begin="3047" end="3050">lay</mainReferent>
     <tokens>If the leg is broken below the knee</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_72" begin="3047" end="3050">
     <text>lay</text>
     <mainVerb begin="3047" end="3050">lay</mainVerb>
     <mainReferent begin="3002" end="3006">Knee</mainReferent>
     <tokens>Leg Below Knee lay the boy on his back</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_73" begin="3075" end="3078">
     <text>put</text>
     <mainVerb begin="3075" end="3078">put</mainVerb>
     <mainReferent begin="3002" end="3006">Knee</mainReferent>
     <tokens>Leg Below Knee put a pillow a bag stuffed with grass lengthwise under it</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_74" begin="3143" end="3146">
     <text>put</text>
     <mainVerb begin="3143" end="3146">put</mainVerb>
     <tokens>Then put a board a hewed sapling on the under side of the pillow to stiffen it</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_75" begin="3227" end="3234">
     <text>bandage</text>
     <mainVerb begin="3227" end="3234">bandage</mainVerb>
     <tokens>bandage the pillow the board sapling firmly to the leg</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_76" begin="3302" end="3305">
     <text>has</text>
     <mainVerb begin="3302" end="3305">has</mainVerb>
     <mainReferent begin="3297" end="3300">boy</mainReferent>
     <tokens>If the boy has to be moved</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_77" begin="3319" end="3323">
     <text>bind</text>
     <mainVerb begin="3319" end="3323">bind</mainVerb>
     <tokens>bind both legs together</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_78" begin="3378" end="3384">
     <text>broken</text>
     <mainVerb begin="3378" end="3384">broken</mainVerb>
     <mainReferent begin="3371" end="3374">pan</mainReferent>
     <tokens>If the knee pan is broken</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_79" begin="3386" end="3389">
     <text>put</text>
     <mainVerb begin="3386" end="3389">put</mainVerb>
     <mainReferent begin="3352" end="3355">Pan</mainReferent>
     <tokens>put the boy on his back</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_80" begin="3414" end="3424">
     <text>straighten</text>
     <mainVerb begin="3414" end="3424">straighten</mainVerb>
     <mainReferent begin="3352" end="3355">Pan</mainReferent>
     <tokens>straighten out the leg on a padded splint which reaches from the heel to the hip</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_81" begin="3463" end="3470">
     <text>reaches</text>
     <mainVerb begin="3463" end="3470">reaches</mainVerb>
     <mainReferent begin="3450" end="3456">splint</mainReferent>
     <tokens>a padded splint reaches from the heel to the hip</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_82" begin="3497" end="3504">
     <text>putting</text>
     <mainVerb begin="3497" end="3504">putting</mainVerb>
     <mainReferent begin="3352" end="3355">Pan</mainReferent>
     <tokens>putting some cotton a folded towel under the knee and the heel</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_83" begin="3570" end="3577">
     <text>bandage</text>
     <mainVerb begin="3570" end="3577">bandage</mainVerb>
     <tokens>Then bandage the splint on at the ankle at the upper part of the leg above below the knee pan</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_84" begin="3698" end="3704">
     <text>broken</text>
     <mainVerb begin="3698" end="3704">broken</mainVerb>
     <mainReferent begin="3706" end="3710">make</mainReferent>
     <tokens>If the foot is broken</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_85" begin="3706" end="3710">
     <text>make</text>
     <mainVerb begin="3706" end="3710">make</mainVerb>
     <mainReferent begin="3675" end="3679">Foot</mainReferent>
     <tokens>Foot make a splint of two pieces of wood held together at right angles</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_86" begin="3742" end="3746">
     <text>held</text>
     <mainVerb begin="3742" end="3746">held</mainVerb>
     <mainReferent begin="3727" end="3733">pieces</mainReferent>
     <tokens>held together at right angles</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_87" begin="3815" end="3819">
     <text>bind</text>
     <mainVerb begin="3815" end="3819">bind</mainVerb>
     <mainReferent begin="3675" end="3679">Foot</mainReferent>
     <tokens>Foot padding the foot with cotton bind the splint to the side of the foot and the leg</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_88" begin="3911" end="3917">
     <text>broken</text>
     <mainVerb begin="3911" end="3917">broken</mainVerb>
     <mainReferent begin="3919" end="3923">make</mainReferent>
     <tokens>If the upper arm is broken</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_89" begin="3919" end="3923">
     <text>make</text>
     <mainVerb begin="3919" end="3923">make</mainVerb>
     <mainReferent begin="3884" end="3887">Arm</mainReferent>
     <tokens>Upper Arm make three splints one long enough to reach from the shoulder to the elbow to go on the outside of the arm , one to go on the inner side of the arm one on the back of the arm</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_90" begin="4102" end="4105">
     <text>Pad</text>
     <mainVerb begin="4102" end="4105">Pad</mainVerb>
     <tokens>Pad the arm from the armpit to the elbow with cotton , towels , or newspapers wrapped in cloth , after bandaging on the splints</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_91" begin="4179" end="4186">
     <text>wrapped</text>
     <mainVerb begin="4179" end="4186">wrapped</mainVerb>
     <mainReferent begin="4168" end="4178">newspapers</mainReferent>
     <tokens>wrapped in cloth</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_92" begin="4235" end="4238">
     <text>put</text>
     <mainVerb begin="4235" end="4238">put</mainVerb>
     <tokens>put the forearm in a sling</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_48.txt_93" begin="4267" end="4271">
     <text>bind</text>
     <mainVerb begin="4267" end="4271">bind</mainVerb>
     <tokens>bind the arm to the body</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
 </document>

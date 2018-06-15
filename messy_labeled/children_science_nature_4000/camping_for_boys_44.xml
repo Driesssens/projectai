@@ -6,219 +6,257 @@
     <mainVerb begin="120" end="122">is</mainVerb>
     <mainReferent begin="99" end="111">Appendicitis</mainReferent>
     <tokens>Appendicitis if pain is in right leg</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_2" begin="350" end="355">
     <text>Tumor</text>
     <mainVerb begin="350" end="355">Tumor</mainVerb>
     <tokens>Tumor brain</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_3" begin="359" end="364">
     <text>break</text>
     <mainVerb begin="359" end="364">break</mainVerb>
     <tokens>break in</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_4" begin="561" end="569">
     <text>indicate</text>
     <mainVerb begin="561" end="569">indicate</mainVerb>
     <mainReferent begin="555" end="560">pains</mainReferent>
     <tokens>Hand arm pains indicate Heart disease</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_5" begin="1056" end="1065">
     <text>indicates</text>
     <mainVerb begin="1056" end="1065">indicates</mainVerb>
     <mainReferent begin="1046" end="1055">sensation</mainReferent>
     <tokens>Girdle sensation indicates disease injury of spinal cord</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_6" begin="1129" end="1138">
     <text>Excessive</text>
     <mainVerb begin="1129" end="1138">Excessive</mainVerb>
     <tokens>Excessive sex abuse</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_7" begin="1332" end="1339">
     <text>Abscess</text>
     <mainVerb begin="1332" end="1339">Abscess</mainVerb>
     <tokens>Abscess in back</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_8" begin="1498" end="1507">
     <text>membranes</text>
     <mainVerb begin="1498" end="1507">membranes</mainVerb>
     <mainReferent begin="1454" end="1462">Footnote</mainReferent>
     <tokens>Inflammation of mucous membranes in nose and throat</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_9" begin="1611" end="1618">
     <text>Typhoid</text>
     <mainVerb begin="1611" end="1618">Typhoid</mainVerb>
     <tokens>Typhoid</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_10" begin="1619" end="1624">
     <text>Fever</text>
     <mainVerb begin="1619" end="1624">Fever</mainVerb>
     <tokens>Fever The epidemic chiefly to be feared in summer camps</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_11" begin="1678" end="1680">
     <text>is</text>
     <mainVerb begin="1678" end="1680">is</mainVerb>
     <mainReferent begin="1611" end="1618">Typhoid</mainReferent>
     <tokens>is typhoid</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_12" begin="1706" end="1712">
     <text>coming</text>
     <mainVerb begin="1706" end="1712">coming</mainVerb>
     <mainReferent begin="1701" end="1705">boys</mainReferent>
     <tokens>coming from cities where that disease is prevalent</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_13" begin="1744" end="1746">
     <text>is</text>
     <mainVerb begin="1744" end="1746">is</mainVerb>
     <mainReferent begin="1736" end="1743">disease</mainReferent>
     <tokens>cities where disease is</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_14" begin="1778" end="1785">
     <text>watched</text>
     <mainVerb begin="1778" end="1785">watched</mainVerb>
     <mainReferent begin="1689" end="1694">fever</mainReferent>
     <tokens>boys should be carefully watched</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_15" begin="1806" end="1815">
     <text>minimizes</text>
     <mainVerb begin="1806" end="1815">minimizes</mainVerb>
     <mainReferent begin="1787" end="1791">Care</mainReferent>
     <tokens>Care in sanitation minimizes the likelihood of such a disease springing up in the camp</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_16" begin="1850" end="1859">
     <text>springing</text>
     <mainVerb begin="1850" end="1859">springing</mainVerb>
     <mainReferent begin="1842" end="1849">disease</mainReferent>
     <tokens>springing up in the camp</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_17" begin="1939" end="1941">
     <text>be</text>
     <mainVerb begin="1939" end="1941">be</mainVerb>
     <mainReferent begin="1882" end="1892">infections</mainReferent>
     <tokens>Other infections such as mumps , conjunctivitis , etc. should be carefully</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_18" begin="1983" end="1988">
     <text>taken</text>
     <mainVerb begin="1983" end="1988">taken</mainVerb>
     <mainReferent begin="1882" end="1892">infections</mainReferent>
     <tokens>all precautions taken to prevent their spread</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_19" begin="2043" end="2045">
     <text>be</text>
     <mainVerb begin="2043" end="2045">be</mainVerb>
     <mainReferent begin="2033" end="2038">event</mainReferent>
     <tokens>A fairly common event may be toward evening to find a boy with a headache and a temperature perhaps of 102 degrees</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_20" begin="2153" end="2155">
     <text>be</text>
     <mainVerb begin="2153" end="2155">be</mainVerb>
     <mainReferent begin="2134" end="2138">This</mainReferent>
     <tokens>This will probably be all in the morning after a night 's rest and perhaps the administration also of a cathartic</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_21" begin="2348" end="2362">
     <text>over-estimated</text>
     <mainVerb begin="2348" end="2362">over-estimated</mainVerb>
     <mainReferent begin="2278" end="2288">importance</mainReferent>
     <tokens>The Dentist The importance of a visit to the dentist coming to camp can not be over-estimated</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_22" begin="2374" end="2379">
     <text>knows</text>
     <mainVerb begin="2374" end="2379">knows</mainVerb>
     <mainReferent begin="2370" end="2373">one</mainReferent>
     <tokens>Every one knows the torture of a toothache the dentist perhaps not available for two days</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_23" begin="2412" end="2420">
     <text>realizes</text>
     <mainVerb begin="2412" end="2420">realizes</mainVerb>
     <mainReferent begin="2370" end="2373">one</mainReferent>
     <tokens>Every one realizes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_24" begin="2426" end="2436">
     <text>unbearable</text>
     <mainVerb begin="2426" end="2436">unbearable</mainVerb>
     <tokens>how unbearable among other boys sympathetic of course busy having a good time with only a few patent gums to relieve the misery</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_25" begin="2445" end="2447">
     <text>be</text>
     <mainVerb begin="2445" end="2447">be</mainVerb>
     <mainReferent begin="2437" end="2439">it</mainReferent>
     <tokens>it must be for a boy from home among other boys sympathetic of course busy having a good time with only a few patent gums to relieve the misery</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_26" begin="2673" end="2677">
     <text>have</text>
     <mainVerb begin="2673" end="2677">have</mainVerb>
     <mainReferent begin="2658" end="2665">Parents</mainReferent>
     <tokens>Parents can not have this point too forcibly thrust upon them</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_27" begin="2818" end="2827">
     <text>prevented</text>
     <mainVerb begin="2818" end="2827">prevented</mainVerb>
     <mainReferent begin="2778" end="2788">sufferings</mainReferent>
     <tokens>as even a single visit to a competent dentist all the sufferings of toothache may usually be prevented</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_28" begin="2901" end="2906">
     <text>found</text>
     <mainVerb begin="2901" end="2906">found</mainVerb>
     <mainReferent begin="2841" end="2849">Supplies</mainReferent>
     <tokens>Surgical Supplies The following list of surgical supplies will be found necessary</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_29" begin="2940" end="2950">
     <text>determined</text>
     <mainVerb begin="2940" end="2950">determined</mainVerb>
     <mainReferent begin="2923" end="2931">quantity</mainReferent>
     <tokens>The quantity must be determined the size of the camp the price by the firm from whom purchased</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_30" begin="3013" end="3022">
     <text>purchased</text>
     <mainVerb begin="3013" end="3022">purchased</mainVerb>
     <mainReferent begin="2998" end="3002">firm</mainReferent>
     <tokens>whom purchased</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_31" begin="3036" end="3044">
     <text>Supplies</text>
     <mainVerb begin="3036" end="3044">Supplies</mainVerb>
     <mainReferent begin="3027" end="3035">Surgical</mainReferent>
     <tokens>Surgical Supplies One-half dozen assorted gauze bandages sizes one to three inches , 10 cents each</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_32" begin="3142" end="3152">
     <text>sterilized</text>
     <mainVerb begin="3142" end="3152">sterilized</mainVerb>
     <mainReferent begin="3136" end="3141">yards</mainReferent>
     <tokens>Two yards sterilized plain gauze in carton , 20 cents a yard</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_33" begin="3343" end="3353">
     <text>sterilized</text>
     <mainVerb begin="3343" end="3353">sterilized</mainVerb>
     <mainReferent begin="3336" end="3342">ounces</mainReferent>
     <tokens>Four ounces sterilized absorbent cotton in cartons 20 cents</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_34" begin="3504" end="3512">
     <text>ligature</text>
     <mainVerb begin="3504" end="3512">ligature</mainVerb>
     <mainReferent begin="3499" end="3503">silk</mainReferent>
     <tokens>One card braided silk ligature in one card ( white ) about 30 cents</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_35" begin="3514" end="3522">
     <text>assorted</text>
     <mainVerb begin="3514" end="3522">assorted</mainVerb>
     <mainReferent begin="3504" end="3512">ligature</mainReferent>
     <tokens>assorted</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_36" begin="3593" end="3602">
     <text>sublimate</text>
     <mainVerb begin="3593" end="3602">sublimate</mainVerb>
     <mainReferent begin="3583" end="3592">corrosive</mainReferent>
     <tokens>One hundred ordinary corrosive sublimate tablets 25 cents</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_37" begin="3931" end="3934">
     <text>Get</text>
     <mainVerb begin="3931" end="3934">Get</mainVerb>
     <tokens>Get best registered instrument</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_44.txt_38" begin="4278" end="4284">
     <text>making</text>
     <mainVerb begin="4278" end="4284">making</mainVerb>
     <mainReferent begin="4232" end="4239">tablets</mainReferent>
     <tokens>making in two drachms sterile water or one per cent solution</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
 </document>

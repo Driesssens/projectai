@@ -6,411 +6,483 @@
     <mainVerb begin="31" end="36">shown</mainVerb>
     <mainReferent begin="24" end="30">hanger</mainReferent>
     <tokens>shown in the illustration</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_2" begin="64" end="68">
     <text>hung</text>
     <mainVerb begin="64" end="68">hung</mainVerb>
     <mainReferent begin="24" end="30">hanger</mainReferent>
     <tokens>Camp Hanger The camp hanger can be hung from the ridgepole of the tent</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_3" begin="106" end="108">
     <text>is</text>
     <mainVerb begin="106" end="108">is</mainVerb>
     <mainReferent begin="5" end="11">Hanger</mainReferent>
     <tokens>Camp Hanger is particularly</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_4" begin="160" end="166">
     <text>occupy</text>
     <mainVerb begin="160" end="166">occupy</mainVerb>
     <mainReferent begin="151" end="158">persons</mainReferent>
     <tokens>when from two to four persons occupy the tent</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_5" begin="187" end="193">
     <text>raised</text>
     <mainVerb begin="187" end="193">raised</mainVerb>
     <mainReferent begin="177" end="179">It</mainReferent>
     <tokens>It can be raised at will attaching the hanger to a pulley arrangement</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_6" begin="198" end="205">
     <text>lowered</text>
     <mainVerb begin="198" end="205">lowered</mainVerb>
     <mainReferent begin="177" end="179">It</mainReferent>
     <tokens>It lowered</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_7" begin="282" end="286">
     <text>made</text>
     <mainVerb begin="282" end="286">made</mainVerb>
     <mainReferent begin="268" end="274">hanger</mainReferent>
     <tokens>The hanger may be made of wood in any length</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_8" begin="335" end="343">
     <text>fastened</text>
     <mainVerb begin="335" end="343">fastened</mainVerb>
     <mainReferent begin="325" end="330">hooks</mainReferent>
     <tokens>Ordinary coat hooks are fastened to the side with screws</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_9" begin="392" end="396">
     <text>used</text>
     <mainVerb begin="392" end="396">used</mainVerb>
     <mainReferent begin="379" end="388">screw-eye</mainReferent>
     <tokens>A common screw-eye is used for the line at the top</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_10" begin="434" end="442">
     <text>attached</text>
     <mainVerb begin="434" end="442">attached</mainVerb>
     <mainReferent begin="429" end="433">hook</mainReferent>
     <tokens>attached to the rope</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_11" begin="456" end="467">
     <text>facilitates</text>
     <mainVerb begin="456" end="467">facilitates</mainVerb>
     <mainReferent begin="429" end="433">hook</mainReferent>
     <tokens>A snap hook facilitates its removal at will</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_12" begin="515" end="519">
     <text>make</text>
     <mainVerb begin="515" end="519">make</mainVerb>
     <mainReferent begin="494" end="497">boy</mainReferent>
     <tokens>A boy of ingenuity can make a number of convenient things</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_13" begin="579" end="583">
     <text>made</text>
     <mainVerb begin="579" end="583">made</mainVerb>
     <mainReferent begin="568" end="571">cup</mainReferent>
     <tokens>A good drinking cup may be made from a piece of birch bark cut in parallelogram shape</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_14" begin="611" end="614">
     <text>cut</text>
     <mainVerb begin="611" end="614">cut</mainVerb>
     <mainReferent begin="591" end="596">piece</mainReferent>
     <tokens>cut in parallelogram shape</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_15" begin="644" end="651">
     <text>twisted</text>
     <mainVerb begin="644" end="651">twisted</mainVerb>
     <mainReferent begin="568" end="571">cup</mainReferent>
     <tokens>A good drinking cup twisted into pyramid form</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_16" begin="675" end="683">
     <text>fastened</text>
     <mainVerb begin="675" end="683">fastened</mainVerb>
     <mainReferent begin="568" end="571">cup</mainReferent>
     <tokens>A good drinking cup fastened with a split stick</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_17" begin="768" end="773">
     <text>serve</text>
     <mainVerb begin="768" end="773">serve</mainVerb>
     <mainReferent begin="750" end="755">piece</mainReferent>
     <tokens>A flat piece of bark may serve as a plate</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_18" begin="807" end="811">
     <text>made</text>
     <mainVerb begin="807" end="811">made</mainVerb>
     <mainReferent begin="793" end="799">lifter</mainReferent>
     <tokens>A pot lifter may be made from a green stick about 18 inches long</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_19" begin="854" end="862">
     <text>allowing</text>
     <mainVerb begin="854" end="862">allowing</mainVerb>
     <tokens>allowing a few inches of a stout branch to remain</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_20" begin="1017" end="1021">
     <text>used</text>
     <mainVerb begin="1017" end="1021">used</mainVerb>
     <mainReferent begin="1007" end="1009">it</mainReferent>
     <tokens>reversing the same kind of stick driving a small nail near the other end cutting a notch it may be used to suspend kettles over a fire</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_21" begin="1078" end="1082">
     <text>made</text>
     <mainVerb begin="1078" end="1082">made</mainVerb>
     <mainReferent begin="1062" end="1073">candlestick</mainReferent>
     <tokens>A novel candlestick is made opening the blade of a knife jabbing it into a tree upon the other upturned blade putting a candle</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_22" begin="1178" end="1185">
     <text>putting</text>
     <mainVerb begin="1178" end="1185">putting</mainVerb>
     <mainReferent begin="1172" end="1177">blade</mainReferent>
     <tokens>putting a candle</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_23" begin="1210" end="1216">
     <text>having</text>
     <mainVerb begin="1210" end="1216">having</mainVerb>
     <mainReferent begin="1204" end="1209">stick</mainReferent>
     <tokens>having a split end</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_24" begin="1241" end="1245">
     <text>hold</text>
     <mainVerb begin="1241" end="1245">hold</mainVerb>
     <mainReferent begin="1230" end="1235">which</mainReferent>
     <tokens>which will hold a piece of bread or meat</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_25" begin="1271" end="1276">
     <text>makes</text>
     <mainVerb begin="1271" end="1276">makes</mainVerb>
     <mainReferent begin="1204" end="1209">stick</mainReferent>
     <tokens>A green stick makes an excellent broiler</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_26" begin="1306" end="1312">
     <text>pierce</text>
     <mainVerb begin="1306" end="1312">pierce</mainVerb>
     <tokens>Do n't pierce the bread meat</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_27" begin="1445" end="1454">
     <text>suspended</text>
     <mainVerb begin="1445" end="1454">suspended</mainVerb>
     <tokens>a notch may be suspended a kettle over the fire</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_28" begin="1484" end="1491">
     <text>provide</text>
     <mainVerb begin="1484" end="1491">provide</mainVerb>
     <tokens>Driving a good-sized green stake into the ground at an angle of 45 degrees cutting a notch will provide a way of boiling water quickly</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_29" begin="1590" end="1593">
     <text>see</text>
     <mainVerb begin="1590" end="1593">see</mainVerb>
     <tokens>For suggestions in building a camp-fire and cooking on hikes see chapter on " Cooking on Hikes . "</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_30" begin="1695" end="1697">
     <text>is</text>
     <mainVerb begin="1695" end="1697">is</mainVerb>
     <mainReferent begin="1630" end="1642">bibliography</mainReferent>
     <tokens>The bibliography for the whole subject of Hikes , including cooking , is on page 153</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_31" begin="2051" end="2055">
     <text>Take</text>
     <mainVerb begin="2051" end="2055">Take</mainVerb>
     <mainReferent begin="2038" end="2047">Fireplace</mainReferent>
     <tokens>COOKING ON HIKES BUILDING A COOKING FIRE FIRE BY SUN GLASS GRIDDLE CAKES BROILED BACON CREAMED SALMON SALMON ON TOAST BAKED POTATOES BAKED FISH FROGS LEGS EGGS COFFEE COCOA SAMPLE MENU RATION LIST DISH WASHING The Fireplace Take two three stones to build a fireplace</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_32" begin="2112" end="2118">
     <text>shaved</text>
     <mainVerb begin="2112" end="2118">shaved</mainVerb>
     <mainReferent begin="2100" end="2105">stick</mainReferent>
     <tokens>a stick first shaved</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_33" begin="2129" end="2137">
     <text>whittled</text>
     <mainVerb begin="2129" end="2137">whittled</mainVerb>
     <mainReferent begin="2100" end="2105">stick</mainReferent>
     <tokens>a stick then whittled into shavings</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_34" begin="2155" end="2162">
     <text>lighted</text>
     <mainVerb begin="2155" end="2162">lighted</mainVerb>
     <tokens>lighted</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_35" begin="2231" end="2236">
     <text>added</text>
     <mainVerb begin="2231" end="2236">added</mainVerb>
     <mainReferent begin="2163" end="2168">match</mainReferent>
     <tokens>a match a little blaze some bark dry twigs a few small sticks added</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_36" begin="2260" end="2266">
     <text>placed</text>
     <mainVerb begin="2260" end="2266">placed</mainVerb>
     <mainReferent begin="2252" end="2259">griddle</mainReferent>
     <tokens>placed over the fire</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_37" begin="2287" end="2290">
     <text>are</text>
     <mainVerb begin="2287" end="2290">are</mainVerb>
     <mainReferent begin="2283" end="2286">you</mainReferent>
     <tokens>then with the griddle placed over the fire you are to cook the most appetizing griddle cakes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_38" begin="2361" end="2367">
     <text>cooked</text>
     <mainVerb begin="2361" end="2367">cooked</mainVerb>
     <mainReferent begin="2351" end="2356">cakes</mainReferent>
     <tokens>After the cakes are cooked</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_39" begin="2373" end="2379">
     <text>strips</text>
     <mainVerb begin="2373" end="2379">strips</mainVerb>
     <mainReferent begin="2369" end="2372">fry</mainReferent>
     <tokens>fry strips of bacon upon the griddle</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_40" begin="2485" end="2489">
     <text>done</text>
     <mainVerb begin="2485" end="2489">done</mainVerb>
     <mainReferent begin="2431" end="2437">slices</mainReferent>
     <tokens>in the surplus fat fry slices of bread , then some thinly sliced raw potatoes done to a delicious brown</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_41" begin="2520" end="2524">
     <text>have</text>
     <mainVerb begin="2520" end="2524">have</mainVerb>
     <mainReferent begin="2431" end="2437">slices</mainReferent>
     <tokens>you have a breakfast capable making the mouth of a camper water</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_42" begin="2620" end="2625">
     <text>Place</text>
     <mainVerb begin="2620" end="2625">Place</mainVerb>
     <mainReferent begin="2614" end="2618">fire</mainReferent>
     <tokens>Place two green logs side by side closer together at one end than the other</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_43" begin="2754" end="2758">
     <text>rest</text>
     <mainVerb begin="2754" end="2758">rest</mainVerb>
     <mainReferent begin="2746" end="2749">you</mainReferent>
     <tokens>On the logs over the fire you can rest frying pan kettle etc</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_44" begin="2798" end="2802">
     <text>have</text>
     <mainVerb begin="2798" end="2802">have</mainVerb>
     <mainReferent begin="2787" end="2792">start</mainReferent>
     <tokens>To start fire have some light dry wood split up fine</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_45" begin="2845" end="2851">
     <text>sticks</text>
     <mainVerb begin="2845" end="2851">sticks</mainVerb>
     <tokens>When sticks</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_46" begin="2852" end="2857">
     <text>begin</text>
     <mainVerb begin="2852" end="2857">begin</mainVerb>
     <mainReferent begin="2845" end="2851">sticks</mainReferent>
     <tokens>begin to blaze</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_47" begin="2867" end="2870">
     <text>add</text>
     <mainVerb begin="2867" end="2870">add</mainVerb>
     <tokens>add a few more of larger size</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_48" begin="2902" end="2910">
     <text>continue</text>
     <mainVerb begin="2902" end="2910">continue</mainVerb>
     <tokens>continue</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_49" begin="2921" end="2925">
     <text>have</text>
     <mainVerb begin="2921" end="2925">have</mainVerb>
     <mainReferent begin="2917" end="2920">you</mainReferent>
     <tokens>until you have a good fire</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_50" begin="2968" end="2974">
     <text>shines</text>
     <mainVerb begin="2968" end="2974">shines</mainVerb>
     <mainReferent begin="2964" end="2967">sun</mainReferent>
     <tokens>When the sun shines a fire</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_51" begin="2989" end="2996">
     <text>started</text>
     <mainVerb begin="2989" end="2996">started</mainVerb>
     <mainReferent begin="2946" end="2951">Glass</mainReferent>
     <tokens>Sun Glass may be started of a small pocket sun or magnifying glass</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_52" begin="3109" end="3115">
     <text>ignite</text>
     <mainVerb begin="3109" end="3115">ignite</mainVerb>
     <mainReferent begin="3055" end="3064">scrapings</mainReferent>
     <tokens>Fine scrapings from dry wood or " punk tinder " will easily ignite by the focusing of the sun dial upon it</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_53" begin="3240" end="3244">
     <text>have</text>
     <mainVerb begin="3240" end="3244">have</mainVerb>
     <mainReferent begin="3055" end="3064">scrapings</mainReferent>
     <tokens>fanning the fire adding additional fuel the fire-builder will soon have a great blaze</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_54" begin="3384" end="3391">
     <text>diluted</text>
     <mainVerb begin="3384" end="3391">diluted</mainVerb>
     <mainReferent begin="3301" end="3305">Beat</mainReferent>
     <tokens>COOKING RECEIPTS Griddle Cakes Beat together one egg tablespoonful of sugar cup of new milk condensed milk diluted one-half</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_55" begin="3402" end="3405">
     <text>Mix</text>
     <mainVerb begin="3402" end="3405">Mix</mainVerb>
     <tokens>Mix in enough self-raising flour to make a thick cream batter</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_56" begin="3466" end="3472">
     <text>Grease</text>
     <mainVerb begin="3466" end="3472">Grease</mainVerb>
     <tokens>Grease the griddle with rind or slices of bacon for each batch of cakes</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_57" begin="3560" end="3565">
     <text>Slice</text>
     <mainVerb begin="3560" end="3565">Slice</mainVerb>
     <mainReferent begin="3551" end="3556">Bacon</mainReferent>
     <tokens>Broiled Bacon Slice bacon thin</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_58" begin="3578" end="3584">
     <text>Remove</text>
     <mainVerb begin="3578" end="3584">Remove</mainVerb>
     <tokens>Remove the rind</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_59" begin="3600" end="3605">
     <text>makes</text>
     <mainVerb begin="3600" end="3605">makes</mainVerb>
     <mainReferent begin="3589" end="3593">rind</mainReferent>
     <tokens>the rind makes</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_60" begin="3617" end="3621">
     <text>curl</text>
     <mainVerb begin="3617" end="3621">curl</mainVerb>
     <mainReferent begin="3610" end="3616">slices</mainReferent>
     <tokens>the slices curl up</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_61" begin="3640" end="3644">
     <text>rind</text>
     <mainVerb begin="3640" end="3644">rind</mainVerb>
     <mainReferent begin="3636" end="3639">the</mainReferent>
     <tokens>Or gash the rind with a sharp knife if the boys like " cracklings "</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_62" begin="3676" end="3680">
     <text>like</text>
     <mainVerb begin="3676" end="3680">like</mainVerb>
     <mainReferent begin="3658" end="3663">knife</mainReferent>
     <tokens>if the boys like " cracklings</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_63" begin="3695" end="3698">
     <text>Fry</text>
     <mainVerb begin="3695" end="3698">Fry</mainVerb>
     <tokens>Fry on griddle better yet</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_64" begin="3714" end="3717">
     <text>put</text>
     <mainVerb begin="3714" end="3717">put</mainVerb>
     <tokens>put on the sharp end of a stick</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_65" begin="3750" end="3754">
     <text>hold</text>
     <mainVerb begin="3750" end="3754">hold</mainVerb>
     <tokens>hold over the hot coals</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_66" begin="3792" end="3798">
     <text>remove</text>
     <mainVerb begin="3792" end="3798">remove</mainVerb>
     <tokens>remove the griddle</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_67" begin="3815" end="3818">
     <text>put</text>
     <mainVerb begin="3815" end="3818">put</mainVerb>
     <tokens>put a clean flat rock in its place</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_68" begin="3866" end="3868">
     <text>is</text>
     <mainVerb begin="3866" end="3868">is</mainVerb>
     <mainReferent begin="3861" end="3865">rock</mainReferent>
     <tokens>When the rock is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_69" begin="3873" end="3876">
     <text>lay</text>
     <mainVerb begin="3873" end="3876">lay</mainVerb>
     <mainReferent begin="3869" end="3872">hot</mainReferent>
     <tokens>lay the slices of bacon on it and broil</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_70" begin="3914" end="3918">
     <text>Keep</text>
     <mainVerb begin="3914" end="3918">Keep</mainVerb>
     <tokens>Keep</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_71" begin="3919" end="3926">
     <text>turning</text>
     <mainVerb begin="3919" end="3926">turning</mainVerb>
     <tokens>turning the bacon so as to brown it on both sides</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_39.txt_72" begin="3971" end="3974">
     <text>Cut</text>
     <mainVerb begin="3971" end="3974">Cut</mainVerb>
     <tokens>Cut into dice</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
 </document>

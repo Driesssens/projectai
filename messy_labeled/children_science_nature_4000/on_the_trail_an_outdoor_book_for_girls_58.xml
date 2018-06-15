@@ -6,594 +6,694 @@
     <mainVerb begin="21" end="24">tip</mainVerb>
     <mainReferent begin="15" end="20">boats</mainReferent>
     <tokens>Round-bottomed boats tip easily therefore</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_2" begin="36" end="42">
     <text>should</text>
     <mainVerb begin="36" end="42">should</mainVerb>
     <mainReferent begin="15" end="20">boats</mainReferent>
     <tokens>should</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_3" begin="62" end="66">
     <text>used</text>
     <mainVerb begin="62" end="66">used</mainVerb>
     <mainReferent begin="21" end="24">tip</mainReferent>
     <tokens>not be used when learning to row</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_4" begin="102" end="105">
     <text>are</text>
     <mainVerb begin="102" end="105">are</mainVerb>
     <mainReferent begin="97" end="101">they</mainReferent>
     <tokens>though they are enough in the hands of those accustomed to their management</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_5" begin="141" end="151">
     <text>accustomed</text>
     <mainVerb begin="141" end="151">accustomed</mainVerb>
     <mainReferent begin="134" end="139">those</mainReferent>
     <tokens>accustomed to their management</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_6" begin="211" end="218">
     <text>prevent</text>
     <mainVerb begin="211" end="218">prevent</mainVerb>
     <mainReferent begin="177" end="181">best</mainReferent>
     <tokens>The best of oarsmen however can not prevent her boat from capsizing</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_7" begin="269" end="273">
     <text>know</text>
     <mainVerb begin="269" end="273">know</mainVerb>
     <mainReferent begin="250" end="259">passenger</mainReferent>
     <tokens>if her passenger does not know how to enter it to sit still when aboard</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_8" begin="291" end="296">
     <text>leave</text>
     <mainVerb begin="291" end="296">leave</mainVerb>
     <tokens>leave</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_9" begin="433" end="436">
     <text>tip</text>
     <mainVerb begin="433" end="436">tip</mainVerb>
     <mainReferent begin="338" end="346">Stepping</mainReferent>
     <tokens>= Stepping in out of a Boat = To step on the gunwale ( the edge of the boat ) will naturally tip it most likely</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_10" begin="457" end="461">
     <text>turn</text>
     <mainVerb begin="457" end="461">turn</mainVerb>
     <mainReferent begin="338" end="346">Stepping</mainReferent>
     <tokens>= Stepping in out of a Boat = To step on the gunwale ( the edge of the boat ) turn it over</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_11" begin="489" end="493">
     <text>step</text>
     <mainVerb begin="489" end="493">step</mainVerb>
     <mainReferent begin="471" end="474">One</mainReferent>
     <tokens>One should always step directly into the _ middle _ in order to keep getting out step _ _ the middle</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_12" begin="555" end="563">
     <text>balanced</text>
     <mainVerb begin="555" end="563">balanced</mainVerb>
     <mainReferent begin="543" end="547">boat</mainReferent>
     <tokens>the boat evenly balanced</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_13" begin="657" end="662">
     <text>shows</text>
     <mainVerb begin="657" end="662">shows</mainVerb>
     <mainReferent begin="638" end="645">gunwale</mainReferent>
     <tokens>Stepping on the side the gunwale of a boat shows the ignorance of a tenderfoot</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_14" begin="700" end="703">
     <text>are</text>
     <mainVerb begin="700" end="703">are</mainVerb>
     <mainReferent begin="704" end="712">rowboats</mainReferent>
     <tokens>There are rowboats flat</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_15" begin="718" end="721">
     <text>are</text>
     <mainVerb begin="718" end="721">are</mainVerb>
     <mainReferent begin="704" end="712">rowboats</mainReferent>
     <tokens>rowboats are neither flat</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_16" begin="763" end="769">
     <text>shaped</text>
     <mainVerb begin="763" end="769">shaped</mainVerb>
     <mainReferent begin="704" end="712">rowboats</mainReferent>
     <tokens>rowboats flat are shaped like the boat in photograph , page 206</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_17" begin="816" end="819">
     <text>are</text>
     <mainVerb begin="816" end="819">are</mainVerb>
     <mainReferent begin="810" end="815">These</mainReferent>
     <tokens>These are than the round-bottomed</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_18" begin="855" end="858">
     <text>are</text>
     <mainVerb begin="855" end="858">are</mainVerb>
     <mainReferent begin="810" end="815">These</mainReferent>
     <tokens>These are more easily than the flat-bottomed boats</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_19" begin="948" end="951">
     <text>are</text>
     <mainVerb begin="948" end="951">are</mainVerb>
     <mainReferent begin="1086" end="1090">help</mainReferent>
     <tokens>If you are to own</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_20" begin="967" end="973">
     <text>select</text>
     <mainVerb begin="967" end="973">select</mainVerb>
     <mainReferent begin="961" end="966">canoe</mainReferent>
     <tokens>a canoe select it carefully</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_21" begin="988" end="995">
     <text>consult</text>
     <mainVerb begin="988" end="995">consult</mainVerb>
     <mainReferent begin="955" end="958">own</mainReferent>
     <tokens>consult catalogues of reliable dealers</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_22" begin="1047" end="1051">
     <text>have</text>
     <mainVerb begin="1047" end="1051">have</mainVerb>
     <mainReferent begin="944" end="947">you</mainReferent>
     <tokens>you if possible have an experienced good canoeist</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_23" begin="1086" end="1090">
     <text>help</text>
     <mainVerb begin="1086" end="1090">help</mainVerb>
     <mainReferent begin="917" end="923">Canoes</mainReferent>
     <tokens>= Canoes Canoeing = help</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_24" begin="1095" end="1101">
     <text>choose</text>
     <mainVerb begin="1095" end="1101">choose</mainVerb>
     <mainReferent begin="1091" end="1094">you</mainReferent>
     <tokens>you choose it</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_25" begin="1123" end="1127">
     <text>made</text>
     <mainVerb begin="1123" end="1127">made</mainVerb>
     <mainReferent begin="1117" end="1122">canoe</mainReferent>
     <tokens>made of wood</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_26" begin="1141" end="1147">
     <text>answer</text>
     <mainVerb begin="1141" end="1147">answer</mainVerb>
     <mainReferent begin="1117" end="1122">canoe</mainReferent>
     <tokens>The pretty canoe will answer in calm waters</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_27" begin="1168" end="1172">
     <text>wear</text>
     <mainVerb begin="1168" end="1172">wear</mainVerb>
     <mainReferent begin="1117" end="1122">canoe</mainReferent>
     <tokens>The pretty canoe wear well with careful usage</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_28" begin="1212" end="1218">
     <text>prefer</text>
     <mainVerb begin="1212" end="1218">prefer</mainVerb>
     <mainReferent begin="1117" end="1122">canoe</mainReferent>
     <tokens>sportsmen prefer the canvas-covered canoe</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_29" begin="1246" end="1255">
     <text>declaring</text>
     <mainVerb begin="1246" end="1255">declaring</mainVerb>
     <tokens>declaring it the best boat for cruising</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_30" begin="1294" end="1296">
     <text>is</text>
     <mainVerb begin="1294" end="1296">is</mainVerb>
     <mainReferent begin="1290" end="1292">it</mainReferent>
     <tokens>as it is easy to manage</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_31" begin="1325" end="1330">
     <text>stand</text>
     <mainVerb begin="1325" end="1330">stand</mainVerb>
     <mainReferent begin="1202" end="1211">sportsmen</mainReferent>
     <tokens>sportsmen will stand rough usage</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_32" begin="1358" end="1363">
     <text>carry</text>
     <mainVerb begin="1358" end="1363">carry</mainVerb>
     <mainReferent begin="1202" end="1211">sportsmen</mainReferent>
     <tokens>sportsmen will also carry greater loads</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_33" begin="1394" end="1397">
     <text>has</text>
     <mainVerb begin="1394" end="1397">has</mainVerb>
     <mainReferent begin="1389" end="1393">make</mainReferent>
     <tokens>The best make has a frame of hardwood with cedar ribs and planking</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_34" begin="1475" end="1486">
     <text>bang-plates</text>
     <mainVerb begin="1475" end="1486">bang-plates</mainVerb>
     <mainReferent begin="1456" end="1464">gunwales</mainReferent>
     <tokens>spruce gunwales brass bang-plates to protect the ends</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_35" begin="1523" end="1530">
     <text>covered</text>
     <mainVerb begin="1523" end="1530">covered</mainVerb>
     <mainReferent begin="1514" end="1519">canoe</mainReferent>
     <tokens>This canoe is covered with strong canvas</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_36" begin="1551" end="1558">
     <text>treated</text>
     <mainVerb begin="1551" end="1558">treated</mainVerb>
     <mainReferent begin="1514" end="1519">canoe</mainReferent>
     <tokens>This canoe treated with some kind of filler</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_37" begin="1595" end="1602">
     <text>painted</text>
     <mainVerb begin="1595" end="1602">painted</mainVerb>
     <mainReferent begin="1514" end="1519">canoe</mainReferent>
     <tokens>This canoe then painted</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_38" begin="1607" end="1616">
     <text>varnished</text>
     <mainVerb begin="1607" end="1616">varnished</mainVerb>
     <mainReferent begin="1514" end="1519">canoe</mainReferent>
     <tokens>varnished</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_39" begin="1624" end="1627">
     <text>are</text>
     <mainVerb begin="1624" end="1627">are</mainVerb>
     <mainReferent begin="1646" end="1651">seats</mainReferent>
     <tokens>There are usually two cane seats one at the stern , the other near the bow</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_40" begin="1705" end="1710">
     <text>built</text>
     <mainVerb begin="1705" end="1710">built</mainVerb>
     <mainReferent begin="1695" end="1700">These</mainReferent>
     <tokens>These are built in</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_41" begin="1723" end="1727">
     <text>vary</text>
     <mainVerb begin="1723" end="1727">vary</mainVerb>
     <mainReferent begin="1716" end="1722">Canoes</mainReferent>
     <tokens>Canoes vary in the shape of the bow</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_42" begin="1798" end="1806">
     <text>prevents</text>
     <mainVerb begin="1798" end="1806">prevents</mainVerb>
     <mainReferent begin="1794" end="1797">bow</mainReferent>
     <tokens>The high bow prevents the shipping of too much water</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_43" begin="1853" end="1858">
     <text>offer</text>
     <mainVerb begin="1853" end="1858">offer</mainVerb>
     <mainReferent begin="1794" end="1797">bow</mainReferent>
     <tokens>The high bow will also offer resistance to the wind</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_44" begin="1890" end="1896">
     <text>impede</text>
     <mainVerb begin="1890" end="1896">impede</mainVerb>
     <mainReferent begin="1794" end="1797">bow</mainReferent>
     <tokens>so impede the progress of the boat</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_45" begin="1942" end="1944">
     <text>is</text>
     <mainVerb begin="1942" end="1944">is</mainVerb>
     <mainReferent begin="1938" end="1941">bow</mainReferent>
     <tokens>A medium high bow is the</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_46" begin="1986" end="1996">
     <text>advertises</text>
     <mainVerb begin="1986" end="1996">advertises</mainVerb>
     <mainReferent begin="1962" end="1966">firm</mainReferent>
     <tokens>One firm of camp-outfitters advertises a canoe</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_47" begin="2005" end="2011">
     <text>called</text>
     <mainVerb begin="2005" end="2011">called</mainVerb>
     <mainReferent begin="1999" end="2004">canoe</mainReferent>
     <tokens>called the Sponson the name</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_48" begin="2041" end="2046">
     <text>taken</text>
     <mainVerb begin="2041" end="2046">taken</mainVerb>
     <mainReferent begin="2030" end="2034">name</mainReferent>
     <tokens>being taken from the air-chambers built along the outside rail</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_49" begin="2069" end="2074">
     <text>built</text>
     <mainVerb begin="2069" end="2074">built</mainVerb>
     <mainReferent begin="2056" end="2068">air-chambers</mainReferent>
     <tokens>built along the outside rail</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_50" begin="2110" end="2116">
     <text>called</text>
     <mainVerb begin="2110" end="2116">called</mainVerb>
     <mainReferent begin="2016" end="2023">Sponson</mainReferent>
     <tokens>the Sponson the name are called sponsons</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_51" begin="2133" end="2140">
     <text>claimed</text>
     <mainVerb begin="2133" end="2140">claimed</mainVerb>
     <mainReferent begin="2127" end="2129">It</mainReferent>
     <tokens>It is claimed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_52" begin="2165" end="2169">
     <text>make</text>
     <mainVerb begin="2165" end="2169">make</mainVerb>
     <mainReferent begin="2152" end="2164">air-chambers</mainReferent>
     <tokens>that these air-chambers make it to impossible to upset the canoe</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_53" begin="2232" end="2238">
     <text>filled</text>
     <mainVerb begin="2232" end="2238">filled</mainVerb>
     <tokens>even when filled with water</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_54" begin="2259" end="2266">
     <text>support</text>
     <mainVerb begin="2259" end="2266">support</mainVerb>
     <mainReferent begin="2152" end="2164">air-chambers</mainReferent>
     <tokens>that it will support a heavy weight</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_55" begin="2304" end="2313">
     <text>purchased</text>
     <mainVerb begin="2304" end="2313">purchased</mainVerb>
     <mainReferent begin="2283" end="2291">Sponsons</mainReferent>
     <tokens>Sponsons can also be purchased separately</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_56" begin="2334" end="2336">
     <text>be</text>
     <mainVerb begin="2334" end="2336">be</mainVerb>
     <mainReferent begin="2283" end="2291">Sponsons</mainReferent>
     <tokens>Sponsons can be to any sized canoe</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_57" begin="2403" end="2407">
     <text>seem</text>
     <mainVerb begin="2403" end="2407">seem</mainVerb>
     <mainReferent begin="2388" end="2396">sponsons</mainReferent>
     <tokens>For a novice the sponsons would seem a good thing</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_58" begin="2440" end="2446">
     <text>insure</text>
     <mainVerb begin="2440" end="2446">insure</mainVerb>
     <mainReferent begin="2425" end="2429">they</mainReferent>
     <tokens>as they not only insure safety in doing away with the fear of an upset</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_59" begin="2500" end="2504">
     <text>make</text>
     <mainVerb begin="2500" end="2504">make</mainVerb>
     <mainReferent begin="2425" end="2429">they</mainReferent>
     <tokens>they make</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_60" begin="2506" end="2514">
     <text>learning</text>
     <mainVerb begin="2506" end="2514">learning</mainVerb>
     <tokens>learning to paddle easier</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_61" begin="2544" end="2547">
     <text>are</text>
     <mainVerb begin="2544" end="2547">are</mainVerb>
     <mainReferent begin="2558" end="2564">canoes</mainReferent>
     <tokens>Then there are the guide canoes</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_62" begin="2565" end="2569">
     <text>made</text>
     <mainVerb begin="2565" end="2569">made</mainVerb>
     <mainReferent begin="2558" end="2564">canoes</mainReferent>
     <tokens>made especially for hunting and fishing</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_63" begin="2612" end="2615">
     <text>are</text>
     <mainVerb begin="2612" end="2615">are</mainVerb>
     <mainReferent begin="2607" end="2611">They</mainReferent>
     <tokens>They are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_64" begin="2624" end="2637">
     <text>flat-bottomed</text>
     <mainVerb begin="2624" end="2637">flat-bottomed</mainVerb>
     <mainReferent begin="2607" end="2611">They</mainReferent>
     <tokens>They flat-bottomed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_65" begin="2645" end="2650">
     <text>carry</text>
     <mainVerb begin="2645" end="2650">carry</mainVerb>
     <mainReferent begin="2607" end="2611">They</mainReferent>
     <tokens>They will carry a heavy load</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_66" begin="2665" end="2668">
     <text>are</text>
     <mainVerb begin="2665" end="2668">are</mainVerb>
     <mainReferent begin="2607" end="2611">They</mainReferent>
     <tokens>They are to paddle or pole</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_67" begin="2702" end="2707">
     <text>stand</text>
     <mainVerb begin="2702" end="2707">stand</mainVerb>
     <mainReferent begin="2607" end="2611">They</mainReferent>
     <tokens>They will stand rough water</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_68" begin="2735" end="2738">
     <text>are</text>
     <mainVerb begin="2735" end="2738">are</mainVerb>
     <mainReferent begin="2728" end="2734">canoes</mainReferent>
     <tokens>These canoes are for general use on the trail</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_69" begin="2865" end="2867">
     <text>go</text>
     <mainVerb begin="2865" end="2867">go</mainVerb>
     <mainReferent begin="2857" end="2860">One</mainReferent>
     <tokens>One may go higher of course</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_70" begin="2925" end="2927">
     <text>be</text>
     <mainVerb begin="2925" end="2927">be</mainVerb>
     <mainReferent begin="2895" end="2905">essentials</mainReferent>
     <tokens>the essentials of the canoe will be no</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_71" begin="2953" end="2958">
     <text>means</text>
     <mainVerb begin="2953" end="2958">means</mainVerb>
     <mainReferent begin="2947" end="2952">price</mainReferent>
     <tokens>A lower price means as a rule not so good a boat</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_72" begin="3035" end="3042">
     <text>require</text>
     <mainVerb begin="3035" end="3042">require</mainVerb>
     <mainReferent begin="3019" end="3024">women</mainReferent>
     <tokens>= Paddles = Girls women generally require shorter paddles than men</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_73" begin="3085" end="3089">
     <text>have</text>
     <mainVerb begin="3085" end="3089">have</mainVerb>
     <mainReferent begin="3072" end="3076">they</mainReferent>
     <tokens>as they do not have the same reach of arm</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_74" begin="3125" end="3129">
     <text>take</text>
     <mainVerb begin="3125" end="3129">take</mainVerb>
     <mainReferent begin="3009" end="3014">Girls</mainReferent>
     <tokens>you can take your choice of lengths</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_75" begin="3187" end="3189">
     <text>be</text>
     <mainVerb begin="3187" end="3189">be</mainVerb>
     <mainReferent begin="3173" end="3179">paddle</mainReferent>
     <tokens>For the stern the paddle should be than for the bow</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_76" begin="3228" end="3232">
     <text>made</text>
     <mainVerb begin="3228" end="3232">made</mainVerb>
     <mainReferent begin="3215" end="3222">Paddles</mainReferent>
     <tokens>Paddles are made of red oak , maple , ash , spruce , and cherry</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_77" begin="3294" end="3300">
     <text>prefer</text>
     <mainVerb begin="3294" end="3300">prefer</mainVerb>
     <mainReferent begin="3282" end="3293">authorities</mainReferent>
     <tokens>Some authorities prefer spruce for ordinary usage</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_78" begin="3386" end="3388">
     <text>is</text>
     <mainVerb begin="3386" end="3388">is</mainVerb>
     <mainReferent begin="3381" end="3385">wood</mainReferent>
     <tokens>in rough water shooting rapids a harder wood is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_79" begin="3421" end="3423">
     <text>is</text>
     <mainVerb begin="3421" end="3423">is</mainVerb>
     <mainReferent begin="3404" end="3408">part</mainReferent>
     <tokens>The weak part of a paddle is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_80" begin="3440" end="3445">
     <text>joins</text>
     <mainVerb begin="3440" end="3445">joins</mainVerb>
     <mainReferent begin="3434" end="3439">blade</mainReferent>
     <tokens>where the blade joins the handle</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_81" begin="3484" end="3486">
     <text>be</text>
     <mainVerb begin="3484" end="3486">be</mainVerb>
     <mainReferent begin="3468" end="3472">part</mainReferent>
     <tokens>this part should not be too</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_82" begin="3507" end="3510">
     <text>use</text>
     <mainVerb begin="3507" end="3510">use</mainVerb>
     <mainReferent begin="3503" end="3506">you</mainReferent>
     <tokens>If you use</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_83" begin="3527" end="3531">
     <text>keep</text>
     <mainVerb begin="3527" end="3531">keep</mainVerb>
     <mainReferent begin="3519" end="3526">paddles</mainReferent>
     <tokens>spruce paddles keep</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_84" begin="3537" end="3543">
     <text>smooth</text>
     <mainVerb begin="3537" end="3543">smooth</mainVerb>
     <mainReferent begin="3532" end="3536">them</mainReferent>
     <tokens>them smooth trimming away all roughness</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_85" begin="3579" end="3583">
     <text>keep</text>
     <mainVerb begin="3579" end="3583">keep</mainVerb>
     <mainReferent begin="3532" end="3536">them</mainReferent>
     <tokens>them keep them well shellacked</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_86" begin="3621" end="3627">
     <text>become</text>
     <mainVerb begin="3621" end="3627">become</mainVerb>
     <mainReferent begin="3612" end="3616">they</mainReferent>
     <tokens>else they may become water-soaked</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_87" begin="3650" end="3655">
     <text>range</text>
     <mainVerb begin="3650" end="3655">range</mainVerb>
     <mainReferent begin="3642" end="3649">Paddles</mainReferent>
     <tokens>Paddles range in price from one dollar and fifty cents to three dollars</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_88" begin="3776" end="3780">
     <text>need</text>
     <mainVerb begin="3776" end="3780">need</mainVerb>
     <mainReferent begin="3724" end="3735">Accessories</mainReferent>
     <tokens>= Accessories = A strong healthy girl will no more need cushions canoe-chairs than a boy</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_89" begin="3836" end="3838">
     <text>is</text>
     <mainVerb begin="3836" end="3838">is</mainVerb>
     <mainReferent begin="3724" end="3735">Accessories</mainReferent>
     <tokens>a back rest is not always to be despised</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_90" begin="3869" end="3871">
     <text>is</text>
     <mainVerb begin="3869" end="3871">is</mainVerb>
     <mainReferent begin="3866" end="3868">It</mainReferent>
     <tokens>It is well to have a large sponge aboard for bailing for cleaning</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_91" begin="3979" end="3986">
     <text>carried</text>
     <mainVerb begin="3979" end="3986">carried</mainVerb>
     <mainReferent begin="3970" end="3975">canoe</mainReferent>
     <tokens>At a portage or " carry " the canoe is carried overland on the shoulders</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_92" begin="4038" end="4043">
     <text>scorn</text>
     <mainVerb begin="4038" end="4043">scorn</mainVerb>
     <mainReferent begin="4031" end="4037">guides</mainReferent>
     <tokens>though some guides scorn to use a carrier</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_93" begin="4069" end="4072">
     <text>are</text>
     <mainVerb begin="4069" end="4072">are</mainVerb>
     <mainReferent begin="4062" end="4068">others</mainReferent>
     <tokens>others are of them</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_94" begin="4094" end="4097">
     <text>are</text>
     <mainVerb begin="4094" end="4097">are</mainVerb>
     <mainReferent begin="4106" end="4112">styles</mainReferent>
     <tokens>There are several styles one</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_95" begin="4211" end="4219">
     <text>inflated</text>
     <mainVerb begin="4211" end="4219">inflated</mainVerb>
     <tokens>when not inflated with air</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_96" begin="4238" end="4244">
     <text>rolled</text>
     <mainVerb begin="4238" end="4244">rolled</mainVerb>
     <mainReferent begin="4196" end="4200">yoke</mainReferent>
     <tokens>The pneumatic yoke can be rolled into a bundle three by six inches a camp-seat even for a pillow</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_97" begin="4289" end="4297">
     <text>inflated</text>
     <mainVerb begin="4289" end="4297">inflated</mainVerb>
     <mainReferent begin="4272" end="4278">inches</mainReferent>
     <tokens>when inflated</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_98" begin="4314" end="4318">
     <text>used</text>
     <mainVerb begin="4314" end="4318">used</mainVerb>
     <mainReferent begin="4298" end="4300">it</mainReferent>
     <tokens>it can also be used for a canoe-seat</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_99" begin="4385" end="4387">
     <text>is</text>
     <mainVerb begin="4385" end="4387">is</mainVerb>
     <mainReferent begin="4378" end="4384">weight</mainReferent>
     <tokens>Its weight is two twenty-five cents</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_58.txt_100" begin="4423" end="4425">
     <text>is</text>
     <mainVerb begin="4423" end="4425">is</mainVerb>
     <mainReferent begin="4417" end="4422">price</mainReferent>
     <tokens>the catalogue price is three twenty-five cents</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
 </document>

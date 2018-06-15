@@ -6,598 +6,699 @@
     <mainVerb begin="67" end="70">say</mainVerb>
     <mainReferent begin="62" end="66">some</mainReferent>
     <tokens>= Persimmon = In the Southern , Western , and Middle States some say as far north</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_2" begin="98" end="103">
     <text>grows</text>
     <mainVerb begin="98" end="103">grows</mainVerb>
     <mainReferent begin="92" end="96">York</mainReferent>
     <tokens>as New York grows the _ persimmon _</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_3" begin="165" end="172">
     <text>ripened</text>
     <mainVerb begin="165" end="172">ripened</mainVerb>
     <mainReferent begin="154" end="159">frost</mainReferent>
     <tokens>Deliciously sweet spicy when frost has ripened it very astringent until ripe</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_4" begin="208" end="210">
     <text>is</text>
     <mainVerb begin="208" end="210">is</mainVerb>
     <mainReferent begin="205" end="207">It</mainReferent>
     <tokens>It is in Kentucky</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_5" begin="266" end="268">
     <text>is</text>
     <mainVerb begin="266" end="268">is</mainVerb>
     <mainReferent begin="205" end="207">It</mainReferent>
     <tokens>one of my earliest memories is going to market with my mother in the fall to buy persimmons</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_6" begin="343" end="350">
     <text>learned</text>
     <mainVerb begin="343" end="350">learned</mainVerb>
     <mainReferent begin="341" end="342">I</mainReferent>
     <tokens>There I learned to avoid the fair perfect fruit to choose that</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_7" begin="415" end="418">
     <text>was</text>
     <mainVerb begin="415" end="418">was</mainVerb>
     <mainReferent begin="412" end="414">it</mainReferent>
     <tokens>though to all appearances it was quite</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_8" begin="457" end="463">
     <text>looked</text>
     <mainVerb begin="457" end="463">looked</mainVerb>
     <mainReferent begin="445" end="449">that</mainReferent>
     <tokens>that looked bruised</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_9" begin="476" end="482">
     <text>broken</text>
     <mainVerb begin="476" end="482">broken</mainVerb>
     <mainReferent begin="445" end="449">that</mainReferent>
     <tokens>that broken</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_10" begin="501" end="503">
     <text>is</text>
     <mainVerb begin="501" end="503">is</mainVerb>
     <mainReferent begin="514" end="518">size</mainReferent>
     <tokens>The persimmon is the size of a plum</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_11" begin="537" end="546">
     <text>flattened</text>
     <mainVerb begin="537" end="546">flattened</mainVerb>
     <mainReferent begin="491" end="500">persimmon</mainReferent>
     <tokens>The persimmon is flattened at the poles</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_12" begin="565" end="570">
     <text>grows</text>
     <mainVerb begin="565" end="570">grows</mainVerb>
     <mainReferent begin="562" end="564">It</mainReferent>
     <tokens>It grows to the branch</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_13" begin="605" end="607">
     <text>is</text>
     <mainVerb begin="605" end="607">is</mainVerb>
     <mainReferent begin="599" end="604">calyx</mainReferent>
     <tokens>its calyx is</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_14" begin="625" end="627">
     <text>is</text>
     <mainVerb begin="625" end="627">is</mainVerb>
     <mainReferent begin="619" end="624">color</mainReferent>
     <tokens>The color is</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_15" begin="646" end="653">
     <text>flushed</text>
     <mainVerb begin="646" end="653">flushed</mainVerb>
     <mainReferent begin="629" end="635">yellow</mainReferent>
     <tokens>generally flushed with red</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_16" begin="677" end="685">
     <text>describe</text>
     <mainVerb begin="677" end="685">describe</mainVerb>
     <mainReferent begin="669" end="676">writers</mainReferent>
     <tokens>Some writers describe it as juicy</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_17" begin="716" end="720">
     <text>call</text>
     <mainVerb begin="716" end="720">call</mainVerb>
     <mainReferent begin="669" end="676">writers</mainReferent>
     <tokens>I would not call it that</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_18" begin="740" end="742">
     <text>is</text>
     <mainVerb begin="740" end="742">is</mainVerb>
     <mainReferent begin="734" end="739">flesh</mainReferent>
     <tokens>the flesh is like custard or soft jelly</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_19" begin="797" end="803">
     <text>varies</text>
     <mainVerb begin="797" end="803">varies</mainVerb>
     <mainReferent begin="784" end="788">tree</mainReferent>
     <tokens>The tree usually varies in height from thirty to fifty feet</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_20" begin="864" end="868">
     <text>said</text>
     <mainVerb begin="864" end="868">said</mainVerb>
     <mainReferent begin="784" end="788">tree</mainReferent>
     <tokens>in some places is said to reach one hundred more feet</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_21" begin="914" end="916">
     <text>is</text>
     <mainVerb begin="914" end="916">is</mainVerb>
     <mainReferent begin="908" end="913">trunk</mainReferent>
     <tokens>The trunk is</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_22" begin="941" end="950">
     <text>spreading</text>
     <mainVerb begin="941" end="950">spreading</mainVerb>
     <mainReferent begin="908" end="913">trunk</mainReferent>
     <tokens>the branches spreading</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_23" begin="974" end="979">
     <text>forms</text>
     <mainVerb begin="974" end="979">forms</mainVerb>
     <mainReferent begin="965" end="967">it</mainReferent>
     <tokens>In the south it often forms a thicket in uncultivated fields along roadsides</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_24" begin="1044" end="1046">
     <text>is</text>
     <mainVerb begin="1044" end="1046">is</mainVerb>
     <mainReferent begin="1039" end="1043">bark</mainReferent>
     <tokens>The bark is dark dark gray</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_25" begin="1085" end="1087">
     <text>is</text>
     <mainVerb begin="1085" end="1087">is</mainVerb>
     <mainReferent begin="1077" end="1084">surface</mainReferent>
     <tokens>the surface is</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_26" begin="1098" end="1105">
     <text>divided</text>
     <mainVerb begin="1098" end="1105">divided</mainVerb>
     <mainReferent begin="1077" end="1084">surface</mainReferent>
     <tokens>the surface divided into plates</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_27" begin="1130" end="1133">
     <text>are</text>
     <mainVerb begin="1130" end="1133">are</mainVerb>
     <mainReferent begin="1123" end="1129">leaves</mainReferent>
     <tokens>The leaves are usually a narrow with smooth edges they glossy on the upper side underneath pale often downy</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_28" begin="1181" end="1188">
     <text>matured</text>
     <mainVerb begin="1181" end="1188">matured</mainVerb>
     <tokens>when matured</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_29" begin="1194" end="1197">
     <text>are</text>
     <mainVerb begin="1194" end="1197">are</mainVerb>
     <mainReferent begin="1189" end="1193">they</mainReferent>
     <tokens>they are dark glossy on the upper side underneath pale often downy</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_30" begin="1285" end="1287">
     <text>is</text>
     <mainVerb begin="1285" end="1287">is</mainVerb>
     <mainReferent begin="1278" end="1284">flower</mainReferent>
     <tokens>The flower is a greenish-yellow</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_31" begin="1349" end="1351">
     <text>is</text>
     <mainVerb begin="1349" end="1351">is</mainVerb>
     <mainReferent begin="1328" end="1329">=</mainReferent>
     <tokens>= Papaw = The papaw is another</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_32" begin="1368" end="1372">
     <text>knew</text>
     <mainVerb begin="1368" end="1372">knew</mainVerb>
     <mainReferent begin="1366" end="1367">I</mainReferent>
     <tokens>I knew well as a child</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_33" begin="1407" end="1413">
     <text>called</text>
     <mainVerb begin="1407" end="1413">called</mainVerb>
     <mainReferent begin="1390" end="1392">It</mainReferent>
     <tokens>It is sometimes called custard-apple</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_34" begin="1446" end="1455">
     <text>resembles</text>
     <mainVerb begin="1446" end="1455">resembles</mainVerb>
     <mainReferent begin="1440" end="1445">flesh</mainReferent>
     <tokens>because the flesh resembles soft custard</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_35" begin="1476" end="1481">
     <text>write</text>
     <mainVerb begin="1476" end="1481">write</mainVerb>
     <mainReferent begin="1473" end="1474">I</mainReferent>
     <tokens>As I write I</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_36" begin="1495" end="1500">
     <text>taste</text>
     <mainVerb begin="1495" end="1500">taste</mainVerb>
     <mainReferent begin="1476" end="1481">write</mainReferent>
     <tokens>can almost taste the to me</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_37" begin="1513" end="1520">
     <text>sickish</text>
     <mainVerb begin="1513" end="1520">sickish</mainVerb>
     <mainReferent begin="1476" end="1481">write</mainReferent>
     <tokens>sickish sweetness of the fruit</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_38" begin="1549" end="1553">
     <text>feel</text>
     <mainVerb begin="1549" end="1553">feel</mainVerb>
     <mainReferent begin="1476" end="1481">write</mainReferent>
     <tokens>feel the large smooth flat seeds in my mouth</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_39" begin="1626" end="1635">
     <text>resembles</text>
     <mainVerb begin="1626" end="1635">resembles</mainVerb>
     <mainReferent begin="1610" end="1615">papaw</mainReferent>
     <tokens>In shape the papaw somewhat resembles the banana it thicker</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_40" begin="1672" end="1674">
     <text>is</text>
     <mainVerb begin="1672" end="1674">is</mainVerb>
     <mainReferent begin="1652" end="1659">texture</mainReferent>
     <tokens>the texture of the skin is the</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_41" begin="1727" end="1734">
     <text>rounded</text>
     <mainVerb begin="1727" end="1734">rounded</mainVerb>
     <mainReferent begin="1610" end="1615">papaw</mainReferent>
     <tokens>but the surface of the papaw is smoothly rounded</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_42" begin="1742" end="1744">
     <text>is</text>
     <mainVerb begin="1742" end="1744">is</mainVerb>
     <mainReferent begin="1739" end="1741">it</mainReferent>
     <tokens>it is thicker than the banana</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_43" begin="1783" end="1788">
     <text>being</text>
     <mainVerb begin="1783" end="1788">being</mainVerb>
     <mainReferent begin="1739" end="1741">it</mainReferent>
     <tokens>being usually from three to five inches long</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_44" begin="1833" end="1839">
     <text>ripens</text>
     <mainVerb begin="1833" end="1839">ripens</mainVerb>
     <mainReferent begin="1830" end="1832">It</mainReferent>
     <tokens>It ripens in September and October</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_45" begin="1875" end="1877">
     <text>is</text>
     <mainVerb begin="1875" end="1877">is</mainVerb>
     <mainReferent begin="1893" end="1898">shrub</mainReferent>
     <tokens>The tree is often a shrub</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_46" begin="1908" end="1913">
     <text>grows</text>
     <mainVerb begin="1908" end="1913">grows</mainVerb>
     <mainReferent begin="1870" end="1874">tree</mainReferent>
     <tokens>it grows wild no farther north than western New York</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_47" begin="1968" end="1971">
     <text>are</text>
     <mainVerb begin="1968" end="1971">are</mainVerb>
     <mainReferent begin="1988" end="1999">papaw-trees</mainReferent>
     <tokens>There are some papaw-trees on Long Island</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_48" begin="1977" end="1987">
     <text>cultivated</text>
     <mainVerb begin="1977" end="1987">cultivated</mainVerb>
     <tokens>cultivated</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_49" begin="2029" end="2034">
     <text>think</text>
     <mainVerb begin="2029" end="2034">think</mainVerb>
     <mainReferent begin="1988" end="1999">papaw-trees</mainReferent>
     <tokens>I do not think</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_50" begin="2041" end="2045">
     <text>bear</text>
     <mainVerb begin="2041" end="2045">bear</mainVerb>
     <mainReferent begin="2036" end="2040">they</mainReferent>
     <tokens>they bear fruit</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_51" begin="2080" end="2084">
     <text>seen</text>
     <mainVerb begin="2080" end="2084">seen</mainVerb>
     <mainReferent begin="2073" end="2074">I</mainReferent>
     <tokens>none I have seen</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_52" begin="2095" end="2102">
     <text>fruited</text>
     <mainVerb begin="2095" end="2102">fruited</mainVerb>
     <mainReferent begin="2063" end="2067">none</mainReferent>
     <tokens>Certainly none have ever fruited</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_53" begin="2114" end="2118">
     <text>find</text>
     <mainVerb begin="2114" end="2118">find</mainVerb>
     <mainReferent begin="2104" end="2107">You</mainReferent>
     <tokens>You will find the tree as far south as Florida and Texas through the Middle States west to Michigan and Kansas</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_54" begin="2226" end="2236">
     <text>flourishes</text>
     <mainVerb begin="2226" end="2236">flourishes</mainVerb>
     <mainReferent begin="2223" end="2225">It</mainReferent>
     <tokens>It flourishes in the bottom lands of the Mississippi Valley</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_55" begin="2288" end="2293">
     <text>seeks</text>
     <mainVerb begin="2288" end="2293">seeks</mainVerb>
     <mainReferent begin="2223" end="2225">It</mainReferent>
     <tokens>It seeks the shade of the forests</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_56" begin="2330" end="2332">
     <text>is</text>
     <mainVerb begin="2330" end="2332">is</mainVerb>
     <mainReferent begin="2325" end="2329">bark</mainReferent>
     <tokens>The bark is brown with gray blotches</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_57" begin="2375" end="2378">
     <text>are</text>
     <mainVerb begin="2375" end="2378">are</mainVerb>
     <mainReferent begin="2368" end="2374">leaves</mainReferent>
     <tokens>the leaves are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_58" begin="2386" end="2391">
     <text>being</text>
     <mainVerb begin="2386" end="2391">being</mainVerb>
     <tokens>being from two to twelve inches long and four inches wide</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_59" begin="2451" end="2454">
     <text>are</text>
     <mainVerb begin="2451" end="2454">are</mainVerb>
     <mainReferent begin="2446" end="2450">They</mainReferent>
     <tokens>They are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_60" begin="2461" end="2468">
     <text>pointed</text>
     <mainVerb begin="2461" end="2468">pointed</mainVerb>
     <mainReferent begin="2446" end="2450">They</mainReferent>
     <tokens>They pointed at the tip</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_61" begin="2485" end="2493">
     <text>narrowed</text>
     <mainVerb begin="2485" end="2493">narrowed</mainVerb>
     <mainReferent begin="2446" end="2450">They</mainReferent>
     <tokens>They narrowed at the base</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_62" begin="2512" end="2519">
     <text>matured</text>
     <mainVerb begin="2512" end="2519">matured</mainVerb>
     <tokens>When matured</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_63" begin="2525" end="2528">
     <text>are</text>
     <mainVerb begin="2525" end="2528">are</mainVerb>
     <mainReferent begin="2520" end="2524">they</mainReferent>
     <tokens>they are dark green on the upper side paler beneath</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_64" begin="2606" end="2608">
     <text>is</text>
     <mainVerb begin="2606" end="2608">is</mainVerb>
     <mainReferent begin="2599" end="2605">flower</mainReferent>
     <tokens>At first the flower is as as the leaves</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_65" begin="2646" end="2651">
     <text>turns</text>
     <mainVerb begin="2646" end="2651">turns</mainVerb>
     <mainReferent begin="2599" end="2605">flower</mainReferent>
     <tokens>the flower finally turns a deep red-purple</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_66" begin="2674" end="2679">
     <text>grows</text>
     <mainVerb begin="2674" end="2679">grows</mainVerb>
     <mainReferent begin="2671" end="2673">It</mainReferent>
     <tokens>It grows to the branch</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_67" begin="2705" end="2707">
     <text>is</text>
     <mainVerb begin="2705" end="2707">is</mainVerb>
     <mainReferent begin="2671" end="2673">It</mainReferent>
     <tokens>It is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_68" begin="2784" end="2786">
     <text>is</text>
     <mainVerb begin="2784" end="2786">is</mainVerb>
     <mainReferent begin="2776" end="2778">we</mainReferent>
     <tokens>we have is the _ May-apple _ mandrake _</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_69" begin="2822" end="2824">
     <text>is</text>
     <mainVerb begin="2822" end="2824">is</mainVerb>
     <mainReferent begin="2819" end="2821">It</mainReferent>
     <tokens>It is finely sweet juicy</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_70" begin="2890" end="2893">
     <text>eat</text>
     <mainVerb begin="2890" end="2893">eat</mainVerb>
     <mainReferent begin="2819" end="2821">It</mainReferent>
     <tokens>one must eat of it sparingly</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_71" begin="2914" end="2916">
     <text>is</text>
     <mainVerb begin="2914" end="2916">is</mainVerb>
     <mainReferent begin="2911" end="2913">It</mainReferent>
     <tokens>It is most in the Middle States</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_72" begin="2955" end="2962">
     <text>reaches</text>
     <mainVerb begin="2955" end="2962">reaches</mainVerb>
     <mainReferent begin="2911" end="2913">It</mainReferent>
     <tokens>It reaches perfection in Ohio</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_73" begin="2996" end="2998">
     <text>is</text>
     <mainVerb begin="2996" end="2998">is</mainVerb>
     <mainReferent begin="2990" end="2995">plant</mainReferent>
     <tokens>The plant is from twelve to eighteen inches</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_74" begin="3076" end="3082">
     <text>lifted</text>
     <mainVerb begin="3076" end="3082">lifted</mainVerb>
     <mainReferent begin="2990" end="2995">plant</mainReferent>
     <tokens>the large umbrella-like leaves are lifted on smooth , straight stems</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_75" begin="3129" end="3134">
     <text>grows</text>
     <mainVerb begin="3129" end="3134">grows</mainVerb>
     <mainReferent begin="3114" end="3119">fruit</mainReferent>
     <tokens>The fruit usually grows from the fork of two leaves</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_76" begin="3167" end="3169">
     <text>is</text>
     <mainVerb begin="3167" end="3169">is</mainVerb>
     <mainReferent begin="3164" end="3166">It</mainReferent>
     <tokens>It is lemon-shaped about the size of a plum</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_77" begin="3233" end="3235">
     <text>is</text>
     <mainVerb begin="3233" end="3235">is</mainVerb>
     <mainReferent begin="3227" end="3232">flesh</mainReferent>
     <tokens>The flesh is like that of the plum</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_78" begin="3269" end="3272">
     <text>are</text>
     <mainVerb begin="3269" end="3272">are</mainVerb>
     <mainReferent begin="3227" end="3232">flesh</mainReferent>
     <tokens>there are numerous seeds in fleshy seed coverings</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_79" begin="3317" end="3323">
     <text>ripens</text>
     <mainVerb begin="3317" end="3323">ripens</mainVerb>
     <mainReferent begin="3314" end="3316">It</mainReferent>
     <tokens>It ripens in July when fully ripe</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_80" begin="3337" end="3339">
     <text>is</text>
     <mainVerb begin="3337" end="3339">is</mainVerb>
     <mainReferent begin="3314" end="3316">It</mainReferent>
     <tokens>It is quite</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_81" begin="3385" end="3393">
     <text>gathered</text>
     <mainVerb begin="3385" end="3393">gathered</mainVerb>
     <mainReferent begin="3368" end="3369">I</mainReferent>
     <tokens>I have sometimes gathered</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_82" begin="3424" end="3427">
     <text>put</text>
     <mainVerb begin="3424" end="3427">put</mainVerb>
     <mainReferent begin="3398" end="3402">firm</mainReferent>
     <tokens>the firm yellow May-apples put them away in a cool , dark , dry place to ripen , and in taking them out</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_83" begin="3504" end="3509">
     <text>found</text>
     <mainVerb begin="3504" end="3509">found</mainVerb>
     <mainReferent begin="3424" end="3427">put</mainReferent>
     <tokens>have found them in prime condition</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_84" begin="3546" end="3551">
     <text>ripen</text>
     <mainVerb begin="3546" end="3551">ripen</mainVerb>
     <mainReferent begin="3535" end="3539">They</mainReferent>
     <tokens>They will ripen in this way spoiling</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_85" begin="3588" end="3595">
     <text>allowed</text>
     <mainVerb begin="3588" end="3595">allowed</mainVerb>
     <tokens>if not allowed to touch one another</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_86" begin="3643" end="3650">
     <text>measure</text>
     <mainVerb begin="3643" end="3650">measure</mainVerb>
     <mainReferent begin="3625" end="3631">leaves</mainReferent>
     <tokens>The leaves frequently measure a foot in diameter they from five to nine lobes</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_87" begin="3676" end="3680">
     <text>have</text>
     <mainVerb begin="3676" end="3680">have</mainVerb>
     <tokens>have</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_88" begin="3717" end="3724">
     <text>notched</text>
     <mainVerb begin="3717" end="3724">notched</mainVerb>
     <mainReferent begin="3700" end="3705">lobes</mainReferent>
     <tokens>five to nine lobes are notched at the tips</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_89" begin="3729" end="3736">
     <text>pointed</text>
     <mainVerb begin="3729" end="3736">pointed</mainVerb>
     <mainReferent begin="3700" end="3705">lobes</mainReferent>
     <tokens>five to nine lobes pointed</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_90" begin="3765" end="3767">
     <text>is</text>
     <mainVerb begin="3765" end="3767">is</mainVerb>
     <mainReferent begin="3760" end="3764">side</mainReferent>
     <tokens>the upper side is than the lower</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_91" begin="3825" end="3827">
     <text>is</text>
     <mainVerb begin="3825" end="3827">is</mainVerb>
     <mainReferent begin="3802" end="3807">fruit</mainReferent>
     <tokens>While the fruit of the May-apple is</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_92" begin="3857" end="3860">
     <text>are</text>
     <mainVerb begin="3857" end="3860">are</mainVerb>
     <mainReferent begin="3841" end="3847">leaves</mainReferent>
     <tokens>the leaves root are not to the touch but to the taste</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_93" begin="3919" end="3921">
     <text>is</text>
     <mainVerb begin="3919" end="3921">is</mainVerb>
     <mainReferent begin="3912" end="3918">flower</mainReferent>
     <tokens>The flower is a clear with from eight to twelve rounding petals</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_94" begin="3996" end="4004">
     <text>measures</text>
     <mainVerb begin="3996" end="4004">measures</mainVerb>
     <mainReferent begin="3912" end="3918">flower</mainReferent>
     <tokens>it generally measures about one a half inches across</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_95" begin="4052" end="4058">
     <text>expand</text>
     <mainVerb begin="4052" end="4058">expand</mainVerb>
     <mainReferent begin="4045" end="4051">petals</mainReferent>
     <tokens>The petals expand in the morning</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_96" begin="4076" end="4082">
     <text>become</text>
     <mainVerb begin="4076" end="4082">become</mainVerb>
     <mainReferent begin="4045" end="4051">petals</mainReferent>
     <tokens>The petals become</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_97" begin="4083" end="4088">
     <text>erect</text>
     <mainVerb begin="4083" end="4088">erect</mainVerb>
     <tokens>erect in the afternoon</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_98" begin="4111" end="4116">
     <text>close</text>
     <mainVerb begin="4111" end="4116">close</mainVerb>
     <mainReferent begin="4045" end="4051">petals</mainReferent>
     <tokens>The petals close at night</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_99" begin="4135" end="4139">
     <text>told</text>
     <mainVerb begin="4135" end="4139">told</mainVerb>
     <mainReferent begin="4127" end="4129">We</mainReferent>
     <tokens>We are told</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_100" begin="4159" end="4161">
     <text>is</text>
     <mainVerb begin="4159" end="4161">is</mainVerb>
     <mainReferent begin="4149" end="4158">May-apple</mainReferent>
     <tokens>that the May-apple is a roadside</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="on_the_trail_an_outdoor_book_for_girls_43.txt_101" begin="4191" end="4196">
     <text>found</text>
     <mainVerb begin="4191" end="4196">found</mainVerb>
     <mainReferent begin="4173" end="4178">plant</mainReferent>
     <tokens>I have found it only in the woods</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
 </document>

@@ -6,93 +6,109 @@
     <mainVerb begin="51" end="58">furnish</mainVerb>
     <mainReferent begin="36" end="40">nuts</mainReferent>
     <tokens>Vegetables fruits cereals bread nuts meats furnish the essentials</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_28.txt_2" begin="90" end="94">
     <text>have</text>
     <mainVerb begin="90" end="94">have</mainVerb>
     <mainReferent begin="86" end="89">fat</mainReferent>
     <tokens>Sugar fat have only part of them</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_28.txt_3" begin="129" end="133">
     <text>have</text>
     <mainVerb begin="129" end="133">have</mainVerb>
     <mainReferent begin="125" end="128">tea</mainReferent>
     <tokens>Coffee tea have no food values for the milk sugar</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_28.txt_4" begin="180" end="185">
     <text>added</text>
     <mainVerb begin="180" end="185">added</mainVerb>
     <mainReferent begin="165" end="169">milk</mainReferent>
     <tokens>added</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_28.txt_5" begin="192" end="196">
     <text>tend</text>
     <mainVerb begin="192" end="196">tend</mainVerb>
     <mainReferent begin="187" end="191">They</mainReferent>
     <tokens>They tend to check certain normal secretion in the body</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_28.txt_6" begin="262" end="266">
     <text>used</text>
     <mainVerb begin="262" end="266">used</mainVerb>
     <mainReferent begin="187" end="191">They</mainReferent>
     <tokens>They should not be used during growth</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_28.txt_7" begin="344" end="353">
     <text>publishes</text>
     <mainVerb begin="344" end="353">publishes</mainVerb>
     <mainReferent begin="290" end="296">Charts</mainReferent>
     <tokens>Food Charts The United States Department of Agriculture publishes a series of fifteen food charts of exceptional value</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_28.txt_8" begin="432" end="436">
     <text>find</text>
     <mainVerb begin="432" end="436">find</mainVerb>
     <mainReferent begin="421" end="426">cooks</mainReferent>
     <tokens>Leaders cooks will find them helpful providing planning the food for the boys</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_28.txt_9" begin="510" end="512">
     <text>be</text>
     <mainVerb begin="510" end="512">be</mainVerb>
     <mainReferent begin="500" end="504">Boys</mainReferent>
     <tokens>Boys will be in the information given and the attractive form of presentation</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_28.txt_10" begin="544" end="549">
     <text>given</text>
     <mainVerb begin="544" end="549">given</mainVerb>
     <mainReferent begin="532" end="543">information</mainReferent>
     <tokens>given</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_28.txt_11" begin="600" end="605">
     <text>costs</text>
     <mainVerb begin="600" end="605">costs</mainVerb>
     <mainReferent begin="595" end="598">set</mainReferent>
     <tokens>The set costs $ 1.00</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_28.txt_12" begin="613" end="617">
     <text>Send</text>
     <mainVerb begin="613" end="617">Send</mainVerb>
     <tokens>Send to Superintendent of Documents , Washington , D. C</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_28.txt_13" begin="689" end="691">
     <text>is</text>
     <mainVerb begin="689" end="691">is</mainVerb>
     <mainReferent begin="683" end="688">table</mainReferent>
     <tokens>The following table is a of the facts given on the charts</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_28.txt_14" begin="720" end="725">
     <text>given</text>
     <mainVerb begin="720" end="725">given</mainVerb>
     <mainReferent begin="714" end="719">facts</mainReferent>
     <tokens>given on the charts</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_28.txt_15" begin="751" end="755">
     <text>help</text>
     <mainVerb begin="751" end="755">help</mainVerb>
     <mainReferent begin="694" end="706">condensation</mainReferent>
     <tokens>The following table will help planning menus Prepared by C. F. LANGWORTHY</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_28.txt_16" begin="809" end="815">
     <text>Expert</text>
     <mainVerb begin="809" end="815">Expert</mainVerb>
     <tokens>Expert in charge of Nutrition Investigation</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
 </document>

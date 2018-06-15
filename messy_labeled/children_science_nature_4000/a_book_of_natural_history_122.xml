@@ -6,521 +6,609 @@
     <mainVerb begin="101" end="103">is</mainVerb>
     <mainReferent begin="98" end="100">It</mainReferent>
     <tokens>It is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_2" begin="134" end="138">
     <text>live</text>
     <mainVerb begin="134" end="138">live</mainVerb>
     <mainReferent begin="124" end="133">creatures</mainReferent>
     <tokens>how many creatures live wild free though secret in the woods</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_3" begin="194" end="201">
     <text>sustain</text>
     <mainVerb begin="194" end="201">sustain</mainVerb>
     <mainReferent begin="134" end="138">live</mainReferent>
     <tokens>still sustain themselves in the neighborhood of towns , suspected by hunters only</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_4" begin="244" end="253">
     <text>suspected</text>
     <mainVerb begin="244" end="253">suspected</mainVerb>
     <mainReferent begin="237" end="242">towns</mainReferent>
     <tokens>suspected hunters only</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_5" begin="293" end="300">
     <text>manages</text>
     <mainVerb begin="293" end="300">manages</mainVerb>
     <mainReferent begin="287" end="292">otter</mainReferent>
     <tokens>How retired the otter manages to live here</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_6" begin="319" end="324">
     <text>grows</text>
     <mainVerb begin="319" end="324">grows</mainVerb>
     <mainReferent begin="316" end="318">He</mainReferent>
     <tokens>He grows</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_7" begin="403" end="410">
     <text>getting</text>
     <mainVerb begin="403" end="410">getting</mainVerb>
     <tokens>perhaps without any human being getting a glimpse of him</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_8" begin="441" end="444">
     <text>saw</text>
     <mainVerb begin="441" end="444">saw</mainVerb>
     <mainReferent begin="429" end="430">I</mainReferent>
     <tokens>I formerly saw the raccoon in the woods</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_9" begin="495" end="500">
     <text>built</text>
     <mainVerb begin="495" end="500">built</mainVerb>
     <mainReferent begin="449" end="456">raccoon</mainReferent>
     <tokens>where my house is built</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_10" begin="522" end="527">
     <text>heard</text>
     <mainVerb begin="522" end="527">heard</mainVerb>
     <mainReferent begin="429" end="430">I</mainReferent>
     <tokens>I probably still heard their whinnering at night</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_11" begin="566" end="572">
     <text>rested</text>
     <mainVerb begin="566" end="572">rested</mainVerb>
     <mainReferent begin="564" end="565">I</mainReferent>
     <tokens>Commonly I rested an hour two in the shade at noon after planting</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_12" begin="631" end="634">
     <text>ate</text>
     <mainVerb begin="631" end="634">ate</mainVerb>
     <mainReferent begin="564" end="565">I</mainReferent>
     <tokens>I ate my lunch</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_13" begin="650" end="654">
     <text>read</text>
     <mainVerb begin="650" end="654">read</mainVerb>
     <mainReferent begin="564" end="565">I</mainReferent>
     <tokens>I read a little by a spring which was the source of a swamp of a brook , oozing from under Brister 's Hill , half a mile from my field</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_14" begin="682" end="685">
     <text>was</text>
     <mainVerb begin="682" end="685">was</mainVerb>
     <mainReferent begin="669" end="675">spring</mainReferent>
     <tokens>a spring was the of a swamp</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_15" begin="725" end="731">
     <text>oozing</text>
     <mainVerb begin="725" end="731">oozing</mainVerb>
     <mainReferent begin="718" end="723">brook</mainReferent>
     <tokens>oozing from under Brister Hill half a mile from my field</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_16" begin="808" end="811">
     <text>was</text>
     <mainVerb begin="808" end="811">was</mainVerb>
     <mainReferent begin="791" end="799">approach</mainReferent>
     <tokens>The approach to this was through a succession of descending grassy hollows , full of young pitch-pines , into a larger wood about the swamp</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_17" begin="1011" end="1014">
     <text>was</text>
     <mainVerb begin="1011" end="1014">was</mainVerb>
     <mainReferent begin="1033" end="1038">sward</mainReferent>
     <tokens>There in a very secluded and shaded spot under a spreading white-pine there was yet a clean firm sward to sit on</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_18" begin="1056" end="1059">
     <text>dug</text>
     <mainVerb begin="1056" end="1059">dug</mainVerb>
     <mainReferent begin="1050" end="1051">I</mainReferent>
     <tokens>I had dug out the spring</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_19" begin="1080" end="1084">
     <text>made</text>
     <mainVerb begin="1080" end="1084">made</mainVerb>
     <mainReferent begin="1050" end="1051">I</mainReferent>
     <tokens>I made a well of clear gray water , where I could dip up a pailful without roiling it</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_20" begin="1127" end="1130">
     <text>dip</text>
     <mainVerb begin="1127" end="1130">dip</mainVerb>
     <mainReferent begin="1119" end="1120">I</mainReferent>
     <tokens>where I could dip up a pailful roiling it</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_21" begin="1169" end="1176">
     <text>thither</text>
     <mainVerb begin="1169" end="1176">thither</mainVerb>
     <mainReferent begin="1050" end="1051">I</mainReferent>
     <tokens>I thither</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_22" begin="1179" end="1183">
     <text>went</text>
     <mainVerb begin="1179" end="1183">went</mainVerb>
     <mainReferent begin="1177" end="1178">I</mainReferent>
     <tokens>I went for this purpose almost every day in midsummer , when the pond was warmest</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_23" begin="1247" end="1250">
     <text>was</text>
     <mainVerb begin="1247" end="1250">was</mainVerb>
     <mainReferent begin="1242" end="1246">pond</mainReferent>
     <tokens>when the pond was</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_24" begin="1289" end="1292">
     <text>led</text>
     <mainVerb begin="1289" end="1292">led</mainVerb>
     <mainReferent begin="1279" end="1288">wood-cock</mainReferent>
     <tokens>Thither too the wood-cock led her brood to probe the mud for worms flying but a foot above them down the bank spying me nearer and nearer till within four five feet pretending broken wings legs to attract my attention</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_25" begin="1388" end="1391">
     <text>ran</text>
     <mainVerb begin="1388" end="1391">ran</mainVerb>
     <mainReferent begin="1383" end="1387">they</mainReferent>
     <tokens>while they ran in a troop beneath at last</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_26" begin="1447" end="1452">
     <text>leave</text>
     <mainVerb begin="1447" end="1452">leave</mainVerb>
     <mainReferent begin="1437" end="1440">she</mainReferent>
     <tokens>she would leave her young circle round</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_27" begin="1484" end="1489">
     <text>round</text>
     <mainVerb begin="1484" end="1489">round</mainVerb>
     <mainReferent begin="1437" end="1440">she</mainReferent>
     <tokens>she round me</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_28" begin="1608" end="1611">
     <text>get</text>
     <mainVerb begin="1608" end="1611">get</mainVerb>
     <mainReferent begin="1260" end="1267">Thither</mainReferent>
     <tokens>get off her young single file through the swamp</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_29" begin="1651" end="1656">
     <text>taken</text>
     <mainVerb begin="1651" end="1656">taken</mainVerb>
     <mainReferent begin="1620" end="1625">young</mainReferent>
     <tokens>who would already have taken up their march with faint wiry peep</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_30" begin="1734" end="1742">
     <text>directed</text>
     <mainVerb begin="1734" end="1742">directed</mainVerb>
     <mainReferent begin="1730" end="1733">she</mainReferent>
     <tokens>as she directed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_31" begin="1749" end="1754">
     <text>heard</text>
     <mainVerb begin="1749" end="1754">heard</mainVerb>
     <mainReferent begin="1747" end="1748">I</mainReferent>
     <tokens>Or I heard the peep of the young</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_32" begin="1795" end="1798">
     <text>see</text>
     <mainVerb begin="1795" end="1798">see</mainVerb>
     <mainReferent begin="1783" end="1784">I</mainReferent>
     <tokens>when I could not see the parent bird</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_33" begin="1848" end="1851">
     <text>sat</text>
     <mainVerb begin="1848" end="1851">sat</mainVerb>
     <mainReferent begin="1835" end="1847">turtle-doves</mainReferent>
     <tokens>There too the turtle-doves sat over the spring my head the red squirrel inquisitive</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_34" begin="1872" end="1881">
     <text>fluttered</text>
     <mainVerb begin="1872" end="1881">fluttered</mainVerb>
     <mainReferent begin="1835" end="1847">turtle-doves</mainReferent>
     <tokens>the turtle-doves fluttered from bough to bough of the soft white-pines over</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_35" begin="1964" end="1972">
     <text>coursing</text>
     <mainVerb begin="1964" end="1972">coursing</mainVerb>
     <mainReferent begin="1954" end="1962">squirrel</mainReferent>
     <tokens>coursing down the nearest bough</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_36" begin="1997" end="2000">
     <text>was</text>
     <mainVerb begin="1997" end="2000">was</mainVerb>
     <mainReferent begin="1954" end="1962">squirrel</mainReferent>
     <tokens>the red squirrel was particularly inquisitive</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_37" begin="2055" end="2058">
     <text>sit</text>
     <mainVerb begin="2055" end="2058">sit</mainVerb>
     <mainReferent begin="2041" end="2044">You</mainReferent>
     <tokens>You only need sit still long enough in some attractive spot in the woods</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_38" begin="2144" end="2151">
     <text>exhibit</text>
     <mainVerb begin="2144" end="2151">exhibit</mainVerb>
     <mainReferent begin="2128" end="2139">inhabitants</mainReferent>
     <tokens>that all its inhabitants may exhibit themselves to you turns ....</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_39" begin="2231" end="2235">
     <text>came</text>
     <mainVerb begin="2231" end="2235">came</mainVerb>
     <mainReferent begin="2203" end="2207">loon</mainReferent>
     <tokens>In the fall the loon ( _ Colymbus glacialis _ ) came as usual to moult in the pond</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_40" begin="2261" end="2266">
     <text>bathe</text>
     <mainVerb begin="2261" end="2266">bathe</mainVerb>
     <mainReferent begin="2203" end="2207">loon</mainReferent>
     <tokens>the loon ( _ Colymbus glacialis _ ) bathe</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_41" begin="2280" end="2286">
     <text>making</text>
     <mainVerb begin="2280" end="2286">making</mainVerb>
     <tokens>making the woods ring with his wild laughter</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_42" begin="2339" end="2344">
     <text>risen</text>
     <mainVerb begin="2339" end="2344">risen</mainVerb>
     <mainReferent begin="2333" end="2334">I</mainReferent>
     <tokens>before I had risen</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_43" begin="2398" end="2401">
     <text>are</text>
     <mainVerb begin="2398" end="2401">are</mainVerb>
     <mainReferent begin="2387" end="2396">sportsmen</mainReferent>
     <tokens>At rumor of his arrival all the Mill-dam sportsmen are on the alert in gigs on foot two by two and three by three with patent rifles and conical balls and spy-glasses</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_44" begin="2528" end="2532">
     <text>come</text>
     <mainVerb begin="2528" end="2532">come</mainVerb>
     <mainReferent begin="2523" end="2527">They</mainReferent>
     <tokens>They come rustling through the woods like autumn leaves , at least ten men to one loon</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_45" begin="2702" end="2704">
     <text>be</text>
     <mainVerb begin="2702" end="2704">be</mainVerb>
     <mainReferent begin="2617" end="2624">station</mainReferent>
     <tokens>Some station themselves on this side of the pond , some on that , for the poor bird can not be</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_46" begin="2724" end="2728">
     <text>dive</text>
     <mainVerb begin="2724" end="2728">dive</mainVerb>
     <mainReferent begin="2721" end="2723">he</mainReferent>
     <tokens>if he dive here</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_47" begin="2742" end="2746">
     <text>come</text>
     <mainVerb begin="2742" end="2746">come</mainVerb>
     <mainReferent begin="2734" end="2736">he</mainReferent>
     <tokens>he must come up there</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_48" begin="2791" end="2796">
     <text>rises</text>
     <mainVerb begin="2791" end="2796">rises</mainVerb>
     <mainReferent begin="2786" end="2790">wind</mainReferent>
     <tokens>But now the kind October wind rises</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_49" begin="2798" end="2806">
     <text>rustling</text>
     <mainVerb begin="2798" end="2806">rustling</mainVerb>
     <tokens>rustling the leaves</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_50" begin="2822" end="2830">
     <text>rippling</text>
     <mainVerb begin="2822" end="2830">rippling</mainVerb>
     <tokens>rippling the surface of the water</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_51" begin="2881" end="2886">
     <text>heard</text>
     <mainVerb begin="2881" end="2886">heard</mainVerb>
     <mainReferent begin="2869" end="2873">loon</mainReferent>
     <tokens>so that no loon can be heard</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_52" begin="2890" end="2894">
     <text>seen</text>
     <mainVerb begin="2890" end="2894">seen</mainVerb>
     <mainReferent begin="2869" end="2873">loon</mainReferent>
     <tokens>no loon seen</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_53" begin="2913" end="2918">
     <text>sweep</text>
     <mainVerb begin="2913" end="2918">sweep</mainVerb>
     <mainReferent begin="2908" end="2912">foes</mainReferent>
     <tokens>though his foes sweep the pond with spy-glasses</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_54" begin="2950" end="2954">
     <text>make</text>
     <mainVerb begin="2950" end="2954">make</mainVerb>
     <mainReferent begin="2908" end="2912">foes</mainReferent>
     <tokens>his foes make</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_55" begin="2965" end="2972">
     <text>resound</text>
     <mainVerb begin="2965" end="2972">resound</mainVerb>
     <mainReferent begin="2950" end="2954">make</mainReferent>
     <tokens>the woods resound with their discharges</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_56" begin="3018" end="3022">
     <text>rise</text>
     <mainVerb begin="3018" end="3022">rise</mainVerb>
     <mainReferent begin="3001" end="3006">waves</mainReferent>
     <tokens>The waves generously rise</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_57" begin="3027" end="3031">
     <text>dash</text>
     <mainVerb begin="3027" end="3031">dash</mainVerb>
     <mainReferent begin="3001" end="3006">waves</mainReferent>
     <tokens>The waves dash angrily</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_58" begin="3042" end="3048">
     <text>taking</text>
     <mainVerb begin="3042" end="3048">taking</mainVerb>
     <mainReferent begin="3001" end="3006">waves</mainReferent>
     <tokens>taking sides with all waterfowl</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_59" begin="3098" end="3102">
     <text>beat</text>
     <mainVerb begin="3098" end="3102">beat</mainVerb>
     <mainReferent begin="3001" end="3006">waves</mainReferent>
     <tokens>our sportsmen must beat a retreat to town and shop and unfinished jobs</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_60" begin="3161" end="3165">
     <text>were</text>
     <mainVerb begin="3161" end="3165">were</mainVerb>
     <mainReferent begin="3156" end="3160">they</mainReferent>
     <tokens>But they were too often</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_61" begin="3196" end="3200">
     <text>went</text>
     <mainVerb begin="3196" end="3200">went</mainVerb>
     <mainReferent begin="3194" end="3195">I</mainReferent>
     <tokens>When I went to get a pail of water early in the morning</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_62" begin="3259" end="3262">
     <text>saw</text>
     <mainVerb begin="3259" end="3262">saw</mainVerb>
     <mainReferent begin="3245" end="3246">I</mainReferent>
     <tokens>I frequently saw this stately bird</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_63" begin="3281" end="3288">
     <text>sailing</text>
     <mainVerb begin="3281" end="3288">sailing</mainVerb>
     <tokens>sailing of my cove within a few rods</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_64" begin="3289" end="3292">
     <text>out</text>
     <mainVerb begin="3289" end="3292">out</mainVerb>
     <tokens>out</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_65" begin="3329" end="3339">
     <text>endeavored</text>
     <mainVerb begin="3329" end="3339">endeavored</mainVerb>
     <mainReferent begin="3327" end="3328">I</mainReferent>
     <tokens>If I endeavored to overtake him in a boat in order to see</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_66" begin="3397" end="3405">
     <text>manœuvre</text>
     <mainVerb begin="3397" end="3405">manœuvre</mainVerb>
     <mainReferent begin="3388" end="3390">he</mainReferent>
     <tokens>how he would manœuvre</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_67" begin="3416" end="3420">
     <text>dive</text>
     <mainVerb begin="3416" end="3420">dive</mainVerb>
     <mainReferent begin="3407" end="3409">he</mainReferent>
     <tokens>he would dive</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_68" begin="3439" end="3443">
     <text>lost</text>
     <mainVerb begin="3439" end="3443">lost</mainVerb>
     <mainReferent begin="3407" end="3409">he</mainReferent>
     <tokens>he be completely lost</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_69" begin="3464" end="3472">
     <text>discover</text>
     <mainVerb begin="3464" end="3472">discover</mainVerb>
     <mainReferent begin="3453" end="3454">I</mainReferent>
     <tokens>so that I did not discover him again sometimes till the latter part of the day</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_70" begin="3535" end="3538">
     <text>was</text>
     <mainVerb begin="3535" end="3538">was</mainVerb>
     <mainReferent begin="3533" end="3534">I</mainReferent>
     <tokens>But I was than a match for him on the surface</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_71" begin="3593" end="3597">
     <text>went</text>
     <mainVerb begin="3593" end="3597">went</mainVerb>
     <mainReferent begin="3581" end="3583">He</mainReferent>
     <tokens>He commonly went off in a rain</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_72" begin="3626" end="3634">
     <text>paddling</text>
     <mainVerb begin="3626" end="3634">paddling</mainVerb>
     <mainReferent begin="3620" end="3621">I</mainReferent>
     <tokens>As I was paddling along the north shore one very calm October afternoon for such days</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_73" begin="3721" end="3727">
     <text>settle</text>
     <mainVerb begin="3721" end="3727">settle</mainVerb>
     <mainReferent begin="3716" end="3720">they</mainReferent>
     <tokens>especially they settle on to the lakes like the milkweed down</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_74" begin="3777" end="3783">
     <text>looked</text>
     <mainVerb begin="3777" end="3783">looked</mainVerb>
     <mainReferent begin="3716" end="3720">they</mainReferent>
     <tokens>they having looked in vain over the pond for a loon</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_75" begin="3833" end="3840">
     <text>sailing</text>
     <mainVerb begin="3833" end="3840">sailing</mainVerb>
     <mainReferent begin="3828" end="3831">one</mainReferent>
     <tokens>sailing out from the shore toward the middle a few rods of me</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_76" begin="3906" end="3909">
     <text>set</text>
     <mainVerb begin="3906" end="3909">set</mainVerb>
     <mainReferent begin="3828" end="3831">one</mainReferent>
     <tokens>suddenly one set up his wild laugh</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_77" begin="3932" end="3940">
     <text>betrayed</text>
     <mainVerb begin="3932" end="3940">betrayed</mainVerb>
     <mainReferent begin="3828" end="3831">one</mainReferent>
     <tokens>one betrayed himself</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_78" begin="3952" end="3959">
     <text>pursued</text>
     <mainVerb begin="3952" end="3959">pursued</mainVerb>
     <mainReferent begin="3950" end="3951">I</mainReferent>
     <tokens>I pursued with a paddle</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_79" begin="3982" end="3987">
     <text>dived</text>
     <mainVerb begin="3982" end="3987">dived</mainVerb>
     <mainReferent begin="3950" end="3951">I</mainReferent>
     <tokens>he dived</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_80" begin="4001" end="4005">
     <text>came</text>
     <mainVerb begin="4001" end="4005">came</mainVerb>
     <mainReferent begin="3998" end="4000">he</mainReferent>
     <tokens>when he came up</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_81" begin="4011" end="4014">
     <text>was</text>
     <mainVerb begin="4011" end="4014">was</mainVerb>
     <mainReferent begin="4009" end="4010">I</mainReferent>
     <tokens>I was than before</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_82" begin="4039" end="4044">
     <text>dived</text>
     <mainVerb begin="4039" end="4044">dived</mainVerb>
     <mainReferent begin="4036" end="4038">He</mainReferent>
     <tokens>He dived again with more reason than before</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_83" begin="4057" end="4070">
     <text>miscalculated</text>
     <mainVerb begin="4057" end="4070">miscalculated</mainVerb>
     <mainReferent begin="4036" end="4038">He</mainReferent>
     <tokens>I miscalculated the direction</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_84" begin="4095" end="4099">
     <text>take</text>
     <mainVerb begin="4095" end="4099">take</mainVerb>
     <mainReferent begin="4085" end="4087">he</mainReferent>
     <tokens>he would take</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_85" begin="4108" end="4112">
     <text>were</text>
     <mainVerb begin="4108" end="4112">were</mainVerb>
     <mainReferent begin="4105" end="4107">we</mainReferent>
     <tokens>we were fifty</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_86" begin="4138" end="4142">
     <text>came</text>
     <mainVerb begin="4138" end="4142">came</mainVerb>
     <mainReferent begin="4135" end="4137">he</mainReferent>
     <tokens>apart when he came to the surface this time</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_87" begin="4180" end="4186">
     <text>helped</text>
     <mainVerb begin="4180" end="4186">helped</mainVerb>
     <mainReferent begin="4174" end="4175">I</mainReferent>
     <tokens>for I had helped to widen the interval</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="a_book_of_natural_history_122.txt_88" begin="4223" end="4230">
     <text>laughed</text>
     <mainVerb begin="4223" end="4230">laughed</mainVerb>
     <mainReferent begin="4036" end="4038">He</mainReferent>
     <tokens>again he laughed long loud with more reason than before</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
 </document>

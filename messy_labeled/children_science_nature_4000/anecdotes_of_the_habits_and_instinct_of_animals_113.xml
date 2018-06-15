@@ -6,125 +6,146 @@
     <mainVerb begin="34" end="38">find</mainVerb>
     <mainReferent begin="32" end="33">I</mainReferent>
     <tokens>In Mr. Byam 's " Central America " I find this interesting history "</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_2" begin="79" end="87">
     <text>conclude</text>
     <mainVerb begin="79" end="87">conclude</mainVerb>
     <mainReferent begin="77" end="78">I</mainReferent>
     <tokens>this interesting history I conclude the present series of anecdotes</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_3" begin="134" end="139">
     <text>gored</text>
     <mainVerb begin="134" end="139">gored</mainVerb>
     <mainReferent begin="32" end="33">I</mainReferent>
     <tokens>A bull had gored so many cattle</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_4" begin="168" end="175">
     <text>lassoed</text>
     <mainVerb begin="168" end="175">lassoed</mainVerb>
     <mainReferent begin="161" end="163">he</mainReferent>
     <tokens>so many cattle he was lassoed</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_5" begin="191" end="198">
     <text>blunted</text>
     <mainVerb begin="191" end="198">blunted</mainVerb>
     <mainReferent begin="32" end="33">I</mainReferent>
     <tokens>his horns blunted at the tips to prevent further mischief</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_6" begin="280" end="286">
     <text>killed</text>
     <mainVerb begin="280" end="286">killed</mainVerb>
     <mainReferent begin="263" end="270">panther</mainReferent>
     <tokens>A few weeks after a panther ( jaguar ) killed a cow</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_7" begin="408" end="412">
     <text>done</text>
     <mainVerb begin="408" end="412">done</mainVerb>
     <mainReferent begin="263" end="270">panther</mainReferent>
     <tokens>from the torn condition of the bull 's head and neck the trampled state of the ground he had evidently done battle for the cow</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_8" begin="441" end="448">
     <text>secured</text>
     <mainVerb begin="441" end="448">secured</mainVerb>
     <mainReferent begin="434" end="436">He</mainReferent>
     <tokens>He was secured</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_9" begin="461" end="470">
     <text>plastered</text>
     <mainVerb begin="461" end="470">plastered</mainVerb>
     <mainReferent begin="454" end="460">wounds</mainReferent>
     <tokens>his wounds plastered up</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_10" begin="485" end="489">
     <text>made</text>
     <mainVerb begin="485" end="489">made</mainVerb>
     <mainReferent begin="479" end="484">horns</mainReferent>
     <tokens>his horns made sharp again</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_11" begin="508" end="514">
     <text>turned</text>
     <mainVerb begin="508" end="514">turned</mainVerb>
     <mainReferent begin="479" end="484">horns</mainReferent>
     <tokens>his horns turned out into the Savannah</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_12" begin="578" end="582">
     <text>kept</text>
     <mainVerb begin="578" end="582">kept</mainVerb>
     <mainReferent begin="547" end="551">dogs</mainReferent>
     <tokens>The wild dogs vultures having been kept from the body of the cow during the day</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_13" begin="636" end="644">
     <text>returned</text>
     <mainVerb begin="636" end="644">returned</mainVerb>
     <mainReferent begin="547" end="551">dogs</mainReferent>
     <tokens>the panther returned to his feast at night</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_14" begin="694" end="698">
     <text>took</text>
     <mainVerb begin="694" end="698">took</mainVerb>
     <mainReferent begin="547" end="551">dogs</mainReferent>
     <tokens>a furious engagement took place between him and the bull</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_15" begin="751" end="756">
     <text>found</text>
     <mainVerb begin="751" end="756">found</mainVerb>
     <mainReferent begin="740" end="746">former</mainReferent>
     <tokens>for the former was found dead</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_16" begin="800" end="807">
     <text>pierced</text>
     <mainVerb begin="800" end="807">pierced</mainVerb>
     <mainReferent begin="547" end="551">dogs</mainReferent>
     <tokens>The wild dogs vultures by the cow , the next morning pierced through through</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_17" begin="838" end="846">
     <text>returned</text>
     <mainVerb begin="838" end="846">returned</mainVerb>
     <mainReferent begin="833" end="837">bull</mainReferent>
     <tokens>The bull returned again again to him with fury "</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_18" begin="904" end="911">
     <text>wounded</text>
     <mainVerb begin="904" end="911">wounded</mainVerb>
     <mainReferent begin="833" end="837">bull</mainReferent>
     <tokens>was himself again wounded</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_19" begin="934" end="938">
     <text>sown</text>
     <mainVerb begin="934" end="938">sown</mainVerb>
     <mainReferent begin="833" end="837">bull</mainReferent>
     <tokens>but his gashes were sown up</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_20" begin="950" end="958">
     <text>remained</text>
     <mainVerb begin="950" end="958">remained</mainVerb>
     <mainReferent begin="833" end="837">bull</mainReferent>
     <tokens>he remained so fierce</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="anecdotes_of_the_habits_and_instinct_of_animals_113.txt_21" begin="990" end="997">
     <text>obliged</text>
     <mainVerb begin="990" end="997">obliged</mainVerb>
     <mainReferent begin="979" end="984">horns</mainReferent>
     <tokens>that his horns were obliged to be re-blunted</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
 </document>

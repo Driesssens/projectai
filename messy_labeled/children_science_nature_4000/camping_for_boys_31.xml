@@ -6,171 +6,200 @@
     <mainVerb begin="514" end="524">preferable</mainVerb>
     <mainReferent begin="504" end="509">soups</mainReferent>
     <tokens>Thick soups are preferable for camps</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_2" begin="673" end="676">
     <text>pot</text>
     <mainVerb begin="673" end="676">pot</mainVerb>
     <mainReferent begin="677" end="682">roast</mainReferent>
     <tokens>pot</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_3" begin="955" end="962">
     <text>creamed</text>
     <mainVerb begin="955" end="962">creamed</mainVerb>
     <mainReferent begin="943" end="947">Peas</mainReferent>
     <tokens>creamed with carrots</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_4" begin="1198" end="1207">
     <text>preserved</text>
     <mainVerb begin="1198" end="1207">preserved</mainVerb>
     <mainReferent begin="1186" end="1196">strawberry</mainReferent>
     <tokens>( preserved )</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_5" begin="1389" end="1393">
     <text>rice</text>
     <mainVerb begin="1389" end="1393">rice</mainVerb>
     <mainReferent begin="1356" end="1363">pudding</mainReferent>
     <tokens>Rice pudding plain with fruit sauce rice with raisins</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_6" begin="1416" end="1423">
     <text>pudding</text>
     <mainVerb begin="1416" end="1423">pudding</mainVerb>
     <mainReferent begin="1408" end="1415">Tapioca</mainReferent>
     <tokens>Tapioca pudding with apples or fruit</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_7" begin="1532" end="1538">
     <text>Sliced</text>
     <mainVerb begin="1532" end="1538">Sliced</mainVerb>
     <tokens>Sliced peaches with cream</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_8" begin="1771" end="1778">
     <text>pressed</text>
     <mainVerb begin="1771" end="1778">pressed</mainVerb>
     <mainReferent begin="1699" end="1705">Dishes</mainReferent>
     <tokens>Sliced beef ham corned beef potato salad Cabbage slaw pressed meats</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_9" begin="2335" end="2342">
     <text>suggest</text>
     <mainVerb begin="2335" end="2342">suggest</mainVerb>
     <mainReferent begin="2319" end="2329">conditions</mainReferent>
     <tokens>Local geographical conditions will suggest a variety of dishes</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_10" begin="2378" end="2380">
     <text>be</text>
     <mainVerb begin="2378" end="2380">be</mainVerb>
     <tokens>There should be of milk to drink good bread butter</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_11" begin="2456" end="2459">
     <text>are</text>
     <mainVerb begin="2456" end="2459">are</mainVerb>
     <mainReferent begin="2449" end="2455">dishes</mainReferent>
     <tokens>Cake fancy dishes are not</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_12" begin="2499" end="2501">
     <text>be</text>
     <mainVerb begin="2499" end="2501">be</mainVerb>
     <mainReferent begin="2479" end="2483">bill</mainReferent>
     <tokens>The bill of fare should be an one</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_13" begin="2532" end="2534">
     <text>is</text>
     <mainVerb begin="2532" end="2534">is</mainVerb>
     <mainReferent begin="2528" end="2531">day</mainReferent>
     <tokens>When the day is dreary</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_14" begin="2597" end="2603">
     <text>served</text>
     <mainVerb begin="2597" end="2603">served</mainVerb>
     <mainReferent begin="2556" end="2564">chowders</mainReferent>
     <tokens>the day dreary hot chowders soups cocoa etc. should be served</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_15" begin="2648" end="2651">
     <text>are</text>
     <mainVerb begin="2648" end="2651">are</mainVerb>
     <mainReferent begin="2641" end="2647">dishes</mainReferent>
     <tokens>On a warm day lemonade cold dishes are</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_16" begin="2696" end="2700">
     <text>have</text>
     <mainVerb begin="2696" end="2700">have</mainVerb>
     <mainReferent begin="2669" end="2673">camp</mainReferent>
     <tokens>Every camp should if possible have its own ice-cream freezer ice-creams sherbets water ices inexpensive</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_17" begin="2769" end="2772">
     <text>are</text>
     <mainVerb begin="2769" end="2772">are</mainVerb>
     <mainReferent begin="2764" end="2768">ices</mainReferent>
     <tokens>as ice-creams sherbets water ices are not only inexpensive</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_18" begin="2830" end="2832">
     <text>is</text>
     <mainVerb begin="2830" end="2832">is</mainVerb>
     <mainReferent begin="2821" end="2829">delicacy</mainReferent>
     <tokens>An occasional delicacy is</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_19" begin="2904" end="2908">
     <text>make</text>
     <mainVerb begin="2904" end="2908">make</mainVerb>
     <mainReferent begin="2896" end="2903">peaches</mainReferent>
     <tokens>Canned shredded pineapple strawberries sliced peaches make excellent sherbets ice cream</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_20" begin="2983" end="2989">
     <text>served</text>
     <mainVerb begin="2983" end="2989">served</mainVerb>
     <mainReferent begin="2972" end="2977">cream</mainReferent>
     <tokens>In one camp chicken ice cream are served every Sunday dinner</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_21" begin="3150" end="3158">
     <text>potatoes</text>
     <mainVerb begin="3150" end="3158">potatoes</mainVerb>
     <mainReferent begin="3143" end="3149">Boiled</mainReferent>
     <tokens>DINNER Irish stew Boiled potatoes Green corn on cob Apple tapioca Bread and butter</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_22" begin="3398" end="3402">
     <text>Peas</text>
     <mainVerb begin="3398" end="3402">Peas</mainVerb>
     <mainReferent begin="3388" end="3396">potatoes</mainReferent>
     <tokens>DINNER Beef steak Mashed potatoes Peas Corn starch pudding Bread butter</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_23" begin="3478" end="3482">
     <text>figs</text>
     <mainVerb begin="3478" end="3482">figs</mainVerb>
     <mainReferent begin="3471" end="3477">Stewed</mainReferent>
     <tokens>SUPPER Vegetable soup Stewed figs Gingerbread Bread butter</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_24" begin="3565" end="3569">
     <text>hash</text>
     <mainVerb begin="3565" end="3569">hash</mainVerb>
     <mainReferent begin="3544" end="3549">Cream</mainReferent>
     <tokens>WEDNESDAY BREAKFAST Cream of Wheat Meat hash Cocoa Bread butter</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_25" begin="3626" end="3631">
     <text>sauce</text>
     <mainVerb begin="3626" end="3631">sauce</mainVerb>
     <mainReferent begin="3619" end="3625">Tomato</mainReferent>
     <tokens>DINNER Roast lamb Tomato sauce Boiled potatoes Lemon sherbet Bread butter</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_26" begin="3801" end="3809">
     <text>potatoes</text>
     <mainVerb begin="3801" end="3809">potatoes</mainVerb>
     <mainReferent begin="3795" end="3800">Baked</mainReferent>
     <tokens>THURSDAY BREAKFAST Shredded Wheat Baked potatoes Creamed codfish Bread butter Cocoa</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_27" begin="3899" end="3905">
     <text>starch</text>
     <mainVerb begin="3899" end="3905">starch</mainVerb>
     <mainReferent begin="3894" end="3898">Corn</mainReferent>
     <tokens>DINNER Boiled beef Mashed potatoes Corn starch Pudding with Strawberry sauce</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_28" begin="3958" end="3963">
     <text>dried</text>
     <mainVerb begin="3958" end="3963">dried</mainVerb>
     <mainReferent begin="3950" end="3957">Creamed</mainReferent>
     <tokens>SUPPER Creamed dried beef Apple sauce Gingerbread Bread Butter</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_31.txt_29" begin="4057" end="4062">
     <text>cakes</text>
     <mainVerb begin="4057" end="4062">cakes</mainVerb>
     <mainReferent begin="4049" end="4056">Codfish</mainReferent>
     <tokens>FRIDAY BREAKFAST Oatmeal Codfish cakes Bread butter Cocoa</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
 </document>

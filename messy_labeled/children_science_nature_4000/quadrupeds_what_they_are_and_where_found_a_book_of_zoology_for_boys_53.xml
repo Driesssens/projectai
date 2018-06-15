@@ -6,523 +6,611 @@
     <mainVerb begin="10" end="12">is</mainVerb>
     <mainReferent begin="4" end="9">moose</mainReferent>
     <tokens>The moose is a sly</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_2" begin="79" end="87">
     <text>required</text>
     <mainVerb begin="79" end="87">required</mainVerb>
     <mainReferent begin="19" end="25">animal</mainReferent>
     <tokens>in early winter all the craft of the hunter is required to capture it</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_3" begin="117" end="119">
     <text>is</text>
     <mainVerb begin="117" end="119">is</mainVerb>
     <mainReferent begin="114" end="116">it</mainReferent>
     <tokens>In summer it is to do so</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_4" begin="152" end="155">
     <text>are</text>
     <mainVerb begin="152" end="155">are</mainVerb>
     <mainReferent begin="144" end="151">animals</mainReferent>
     <tokens>these animals are then so with mosquitoes and gnats</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_5" begin="212" end="218">
     <text>become</text>
     <mainVerb begin="212" end="218">become</mainVerb>
     <mainReferent begin="206" end="210">they</mainReferent>
     <tokens>that they become almost heedless of the approach of their more dangerous enemy , man</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_6" begin="310" end="317">
     <text>follows</text>
     <mainVerb begin="310" end="317">follows</mainVerb>
     <mainReferent begin="303" end="309">hunter</mainReferent>
     <tokens>In winter the hunter follows the moose by his track</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_7" begin="350" end="360">
     <text>discovered</text>
     <mainVerb begin="350" end="360">discovered</mainVerb>
     <mainReferent begin="322" end="327">moose</mainReferent>
     <tokens>easily discovered in the snow</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_8" begin="381" end="383">
     <text>is</text>
     <mainVerb begin="381" end="383">is</mainVerb>
     <mainReferent begin="378" end="380">it</mainReferent>
     <tokens>it is to approach from the leeward</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_9" begin="448" end="453">
     <text>borne</text>
     <mainVerb begin="448" end="453">borne</mainVerb>
     <mainReferent begin="442" end="447">sound</mainReferent>
     <tokens>borne to his ear upon the breeze</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_10" begin="481" end="483">
     <text>is</text>
     <mainVerb begin="481" end="483">is</mainVerb>
     <mainReferent begin="442" end="447">sound</mainReferent>
     <tokens>as the slightest sound is to start him off</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_11" begin="550" end="554">
     <text>adds</text>
     <mainVerb begin="550" end="554">adds</mainVerb>
     <mainReferent begin="531" end="536">habit</mainReferent>
     <tokens>A very singular habit of the moose adds to the difficulty of approaching him</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_12" begin="603" end="606">
     <text>has</text>
     <mainVerb begin="603" end="606">has</mainVerb>
     <mainReferent begin="600" end="602">he</mainReferent>
     <tokens>When he has the intention to repose</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_13" begin="636" end="641">
     <text>turns</text>
     <mainVerb begin="636" end="641">turns</mainVerb>
     <mainReferent begin="633" end="635">he</mainReferent>
     <tokens>he turns sharply of the general track</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_14" begin="687" end="696">
     <text>following</text>
     <mainVerb begin="687" end="696">following</mainVerb>
     <mainReferent begin="675" end="677">he</mainReferent>
     <tokens>he has been following</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_15" begin="727" end="731">
     <text>lies</text>
     <mainVerb begin="727" end="731">lies</mainVerb>
     <mainReferent begin="633" end="635">he</mainReferent>
     <tokens>he then making a circuit lies down</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_16" begin="753" end="759">
     <text>hidden</text>
     <mainVerb begin="753" end="759">hidden</mainVerb>
     <mainReferent begin="727" end="731">lies</mainReferent>
     <tokens>his body being hidden the surrounding snow</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_17" begin="807" end="811">
     <text>hear</text>
     <mainVerb begin="807" end="811">hear</mainVerb>
     <mainReferent begin="800" end="802">he</mainReferent>
     <tokens>In this lair he can hear any one</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_18" begin="820" end="827">
     <text>passing</text>
     <mainVerb begin="820" end="827">passing</mainVerb>
     <mainReferent begin="816" end="819">one</mainReferent>
     <tokens>passing along the track he has made</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_19" begin="852" end="856">
     <text>made</text>
     <mainVerb begin="852" end="856">made</mainVerb>
     <mainReferent begin="845" end="847">he</mainReferent>
     <tokens>he has made</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_20" begin="868" end="874">
     <text>warned</text>
     <mainVerb begin="868" end="874">warned</mainVerb>
     <mainReferent begin="880" end="886">escape</mainReferent>
     <tokens>thus warned</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_21" begin="887" end="889">
     <text>is</text>
     <mainVerb begin="887" end="889">is</mainVerb>
     <mainReferent begin="880" end="886">escape</mainReferent>
     <tokens>his escape is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_22" begin="913" end="924">
     <text>understands</text>
     <mainVerb begin="913" end="924">understands</mainVerb>
     <mainReferent begin="901" end="907">hunter</mainReferent>
     <tokens>The hunter understands his business</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_23" begin="950" end="954">
     <text>give</text>
     <mainVerb begin="950" end="954">give</mainVerb>
     <mainReferent begin="901" end="907">hunter</mainReferent>
     <tokens>The hunter can usually give a guess ( from a survey of the ground )</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_24" begin="1017" end="1020">
     <text>are</text>
     <mainVerb begin="1017" end="1020">are</mainVerb>
     <mainReferent begin="1009" end="1016">detours</mainReferent>
     <tokens>where these detours are to be taken</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_25" begin="1045" end="1050">
     <text>takes</text>
     <mainVerb begin="1045" end="1050">takes</mainVerb>
     <mainReferent begin="957" end="962">guess</mainReferent>
     <tokens>these detours takes his measures accordingly</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_26" begin="1117" end="1122">
     <text>makes</text>
     <mainVerb begin="1117" end="1122">makes</mainVerb>
     <mainReferent begin="1102" end="1108">hunter</mainReferent>
     <tokens>When within range the hunter usually makes some noise as snapping a twig</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_27" begin="1169" end="1175">
     <text>starts</text>
     <mainVerb begin="1169" end="1175">starts</mainVerb>
     <mainReferent begin="1163" end="1168">moose</mainReferent>
     <tokens>the moose starts to his feet</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_28" begin="1193" end="1198">
     <text>shows</text>
     <mainVerb begin="1193" end="1198">shows</mainVerb>
     <mainReferent begin="1163" end="1168">moose</mainReferent>
     <tokens>the moose shows himself above the snow</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_29" begin="1241" end="1247">
     <text>squats</text>
     <mainVerb begin="1241" end="1247">squats</mainVerb>
     <mainReferent begin="1238" end="1240">he</mainReferent>
     <tokens>For a moment he squats on his hams starting off</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_30" begin="1289" end="1291">
     <text>is</text>
     <mainVerb begin="1289" end="1291">is</mainVerb>
     <mainReferent begin="1310" end="1313">for</mainReferent>
     <tokens>This is the fatal for</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_31" begin="1317" end="1319">
     <text>is</text>
     <mainVerb begin="1317" end="1319">is</mainVerb>
     <mainReferent begin="1314" end="1316">it</mainReferent>
     <tokens>it is the for the hunter to take sure aim and send the fatal bullet</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_32" begin="1366" end="1370">
     <text>send</text>
     <mainVerb begin="1366" end="1370">send</mainVerb>
     <mainReferent begin="1338" end="1344">hunter</mainReferent>
     <tokens>send the fatal bullet</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_33" begin="1402" end="1407">
     <text>prove</text>
     <mainVerb begin="1402" end="1407">prove</mainVerb>
     <mainReferent begin="1397" end="1401">shot</mainReferent>
     <tokens>If the shot prove only a slight wound</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_34" begin="1438" end="1444">
     <text>mortal</text>
     <mainVerb begin="1438" end="1444">mortal</mainVerb>
     <mainReferent begin="1397" end="1401">shot</mainReferent>
     <tokens>the shot not mortal</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_35" begin="1466" end="1471">
     <text>turns</text>
     <mainVerb begin="1466" end="1471">turns</mainVerb>
     <mainReferent begin="1450" end="1455">moose</mainReferent>
     <tokens>the moose sometimes turns upon his enemy</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_36" begin="1512" end="1514">
     <text>be</text>
     <mainVerb begin="1512" end="1514">be</mainVerb>
     <mainReferent begin="1507" end="1511">tree</mainReferent>
     <tokens>if a friendly tree be not</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_37" begin="1542" end="1548">
     <text>stands</text>
     <mainVerb begin="1542" end="1548">stands</mainVerb>
     <mainReferent begin="1450" end="1455">moose</mainReferent>
     <tokens>the hunter stands a good chance</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_38" begin="1573" end="1581">
     <text>trampled</text>
     <mainVerb begin="1573" end="1581">trampled</mainVerb>
     <mainReferent begin="1557" end="1563">chance</mainReferent>
     <tokens>being trampled to death</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_39" begin="1631" end="1637">
     <text>assail</text>
     <mainVerb begin="1631" end="1637">assail</mainVerb>
     <mainReferent begin="1619" end="1624">moose</mainReferent>
     <tokens>In the rutting season the moose will assail even man himself without provocation</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_40" begin="1743" end="1747">
     <text>have</text>
     <mainVerb begin="1743" end="1747">have</mainVerb>
     <mainReferent begin="1619" end="1624">moose</mainReferent>
     <tokens>at such times the old " bulls " ( as the hunters term the males ) have terrible conflicts with one another</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_41" begin="1830" end="1836">
     <text>appear</text>
     <mainVerb begin="1830" end="1836">appear</mainVerb>
     <mainReferent begin="1793" end="1799">habits</mainReferent>
     <tokens>The habits of the elk of Northern Europe appear</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_42" begin="1914" end="1916">
     <text>is</text>
     <mainVerb begin="1914" end="1916">is</mainVerb>
     <mainReferent begin="1907" end="1913">Norway</mainReferent>
     <tokens>Norway is a favourite</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_43" begin="1954" end="1959">
     <text>eaten</text>
     <mainVerb begin="1954" end="1959">eaten</mainVerb>
     <mainReferent begin="1945" end="1950">flesh</mainReferent>
     <tokens>its flesh is eaten</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_44" begin="1987" end="1995">
     <text>esteemed</text>
     <mainVerb begin="1987" end="1995">esteemed</mainVerb>
     <mainReferent begin="1954" end="1959">eaten</mainReferent>
     <tokens>the nose tongue being esteemed great delicacies</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_45" begin="2023" end="2026">
     <text>are</text>
     <mainVerb begin="2023" end="2026">are</mainVerb>
     <mainReferent begin="2018" end="2022">they</mainReferent>
     <tokens>as they are in America</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_46" begin="2046" end="2053">
     <text>related</text>
     <mainVerb begin="2046" end="2053">related</mainVerb>
     <mainReferent begin="2040" end="2042">It</mainReferent>
     <tokens>It is related</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_47" begin="2079" end="2083">
     <text>used</text>
     <mainVerb begin="2079" end="2083">used</mainVerb>
     <mainReferent begin="2059" end="2063">elks</mainReferent>
     <tokens>that elks were formerly used in Sweden to draw the sledge</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_48" begin="2150" end="2160">
     <text>prohibited</text>
     <mainVerb begin="2150" end="2160">prohibited</mainVerb>
     <mainReferent begin="2040" end="2042">It</mainReferent>
     <tokens>for certain reasons this was prohibited law</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_49" begin="2203" end="2209">
     <text>stands</text>
     <mainVerb begin="2203" end="2209">stands</mainVerb>
     <mainReferent begin="2201" end="2202">_</mainReferent>
     <tokens>In point of size the _ Wapiti _ stands to the elk</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_50" begin="2241" end="2250">
     <text>resembles</text>
     <mainVerb begin="2241" end="2250">resembles</mainVerb>
     <mainReferent begin="2237" end="2239">he</mainReferent>
     <tokens>In shape he resembles the well-known Stag Red Deer of our parks</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_51" begin="2301" end="2303">
     <text>is</text>
     <mainVerb begin="2301" end="2303">is</mainVerb>
     <mainReferent begin="2237" end="2239">he</mainReferent>
     <tokens>he is much</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_52" begin="2330" end="2332">
     <text>is</text>
     <mainVerb begin="2330" end="2332">is</mainVerb>
     <mainReferent begin="2323" end="2329">wapiti</mainReferent>
     <tokens>The wapiti is exclusively a of North America</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_53" begin="2387" end="2395">
     <text>remarked</text>
     <mainVerb begin="2387" end="2395">remarked</mainVerb>
     <mainReferent begin="2347" end="2353">native</mainReferent>
     <tokens>it may be remarked his range not so northerly as that of the moose</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_54" begin="2411" end="2413">
     <text>is</text>
     <mainVerb begin="2411" end="2413">is</mainVerb>
     <mainReferent begin="2405" end="2410">range</mainReferent>
     <tokens>that his range is more not so northerly as that of the moose</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_55" begin="2485" end="2490">
     <text>found</text>
     <mainVerb begin="2485" end="2490">found</mainVerb>
     <mainReferent begin="2475" end="2477">He</mainReferent>
     <tokens>He is not found so far south as the Southern States farther north than the Canadas but around the great lakes westward to the Rocky Mountains</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_56" begin="2671" end="2674">
     <text>met</text>
     <mainVerb begin="2671" end="2674">met</mainVerb>
     <mainReferent begin="2475" end="2477">He</mainReferent>
     <tokens>even to the Pacific the wapiti is met with</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_57" begin="2685" end="2687">
     <text>is</text>
     <mainVerb begin="2685" end="2687">is</mainVerb>
     <mainReferent begin="2718" end="2725">noblest</mainReferent>
     <tokens>He is a noble perhaps the noblest of the deer tribe</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_58" begin="2753" end="2755">
     <text>is</text>
     <mainVerb begin="2753" end="2755">is</mainVerb>
     <mainReferent begin="2750" end="2752">it</mainReferent>
     <tokens>it is a of the backwoods ' hunter to have killed an elk</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_59" begin="2834" end="2843">
     <text>mentioned</text>
     <mainVerb begin="2834" end="2843">mentioned</mainVerb>
     <tokens>as already mentioned</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_60" begin="2845" end="2847">
     <text>is</text>
     <mainVerb begin="2845" end="2847">is</mainVerb>
     <tokens>for such is the</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_61" begin="2869" end="2874">
     <text>given</text>
     <mainVerb begin="2869" end="2874">given</mainVerb>
     <mainReferent begin="2852" end="2856">name</mainReferent>
     <tokens>erroneously given to this animal</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_62" begin="2918" end="2920">
     <text>is</text>
     <mainVerb begin="2918" end="2920">is</mainVerb>
     <mainReferent begin="2916" end="2917">_</mainReferent>
     <tokens>Perhaps the _ Reindeer _ is the most of all the deer</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_63" begin="2992" end="2995">
     <text>say</text>
     <mainVerb begin="2992" end="2995">say</mainVerb>
     <mainReferent begin="2916" end="2917">_</mainReferent>
     <tokens>just on that account I shall say but little of this species</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_64" begin="3042" end="3045">
     <text>are</text>
     <mainVerb begin="3042" end="3045">are</mainVerb>
     <mainReferent begin="3034" end="3040">habits</mainReferent>
     <tokens>since its habits are to every one</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_65" begin="3084" end="3088">
     <text>read</text>
     <mainVerb begin="3084" end="3088">read</mainVerb>
     <mainReferent begin="3076" end="3079">one</mainReferent>
     <tokens>Every one has read of the Laplander and his reindeer</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_66" begin="3147" end="3152">
     <text>tamed</text>
     <mainVerb begin="3147" end="3152">tamed</mainVerb>
     <mainReferent begin="3135" end="3141">people</mainReferent>
     <tokens>how these people have tamed</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_67" begin="3157" end="3164">
     <text>trained</text>
     <mainVerb begin="3157" end="3164">trained</mainVerb>
     <mainReferent begin="3135" end="3141">people</mainReferent>
     <tokens>these people trained</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_68" begin="3181" end="3190">
     <text>submitted</text>
     <mainVerb begin="3181" end="3190">submitted</mainVerb>
     <mainReferent begin="3076" end="3079">one</mainReferent>
     <tokens>Every one otherwise submitted it to a variety of useful purposes</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_69" begin="3246" end="3249">
     <text>are</text>
     <mainVerb begin="3246" end="3249">are</mainVerb>
     <mainReferent begin="3235" end="3245">Laplanders</mainReferent>
     <tokens>the Laplanders are not the only</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_70" begin="3275" end="3279">
     <text>have</text>
     <mainVerb begin="3275" end="3279">have</mainVerb>
     <mainReferent begin="3264" end="3270">people</mainReferent>
     <tokens>have to do with the reindeer</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_71" begin="3354" end="3361">
     <text>inhabit</text>
     <mainVerb begin="3354" end="3361">inhabit</mainVerb>
     <mainReferent begin="3310" end="3316">tribes</mainReferent>
     <tokens>The tribes of the Tungusians and Tchutski inhabit the northern parts of Asia</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_72" begin="3401" end="3408">
     <text>trained</text>
     <mainVerb begin="3401" end="3408">trained</mainVerb>
     <mainReferent begin="3310" end="3316">tribes</mainReferent>
     <tokens>The tribes of the Tungusians and Tchutski have also trained it to various uses -- as a beast of burden , and also to ride upon</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_73" begin="3500" end="3502">
     <text>is</text>
     <mainVerb begin="3500" end="3502">is</mainVerb>
     <mainReferent begin="3497" end="3499">it</mainReferent>
     <tokens>The variety perhaps it is a distinct</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_74" begin="3545" end="3551">
     <text>employ</text>
     <mainVerb begin="3545" end="3551">employ</mainVerb>
     <mainReferent begin="3534" end="3544">Tungusians</mainReferent>
     <tokens>which the Tungusians employ for the saddle</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_75" begin="3568" end="3570">
     <text>is</text>
     <mainVerb begin="3568" end="3570">is</mainVerb>
     <tokens>is much than that of the Laplanders</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_76" begin="3627" end="3635">
     <text>remarked</text>
     <mainVerb begin="3627" end="3635">remarked</mainVerb>
     <mainReferent begin="3617" end="3619">it</mainReferent>
     <tokens>it may be remarked</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_77" begin="3647" end="3650">
     <text>are</text>
     <mainVerb begin="3647" end="3650">are</mainVerb>
     <mainReferent begin="3656" end="3665">varieties</mainReferent>
     <tokens>that there are also varieties in Lapland itself</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_78" begin="3703" end="3710">
     <text>applies</text>
     <mainVerb begin="3703" end="3710">applies</mainVerb>
     <mainReferent begin="3696" end="3702">remark</mainReferent>
     <tokens>The same remark applies to the reindeer of America , which is found in the northern parts of the Hudson 's Bay territory , and all along the shores of the Arctic Ocean , making its way over frozen seas , even to the islands that lie around the pole</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_79" begin="3749" end="3754">
     <text>found</text>
     <mainVerb begin="3749" end="3754">found</mainVerb>
     <mainReferent begin="3718" end="3726">reindeer</mainReferent>
     <tokens>the reindeer of America is found in the northern parts of the Hudson 's Bay territory all along the shores of the Arctic Ocean , making its way over frozen seas even to the islands</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_80" begin="3855" end="3861">
     <text>making</text>
     <mainVerb begin="3855" end="3861">making</mainVerb>
     <mainReferent begin="3827" end="3833">shores</mainReferent>
     <tokens>making its way over frozen seas</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_81" begin="3914" end="3917">
     <text>lie</text>
     <mainVerb begin="3914" end="3917">lie</mainVerb>
     <mainReferent begin="3901" end="3908">islands</mainReferent>
     <tokens>the islands lie around the pole</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_82" begin="3995" end="3997">
     <text>is</text>
     <mainVerb begin="3995" end="3997">is</mainVerb>
     <tokens>( for by such name is the )</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_83" begin="4011" end="4016">
     <text>known</text>
     <mainVerb begin="4011" end="4016">known</mainVerb>
     <mainReferent begin="4002" end="4010">reindeer</mainReferent>
     <tokens>known in America</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_84" begin="4033" end="4039">
     <text>hunted</text>
     <mainVerb begin="4033" end="4039">hunted</mainVerb>
     <mainReferent begin="3969" end="3976">Caribou</mainReferent>
     <tokens>In these desolate countries the Caribou is hunted both Indians Esquimaux</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_85" begin="4094" end="4101">
     <text>trained</text>
     <mainVerb begin="4094" end="4101">trained</mainVerb>
     <mainReferent begin="3969" end="3976">Caribou</mainReferent>
     <tokens>it has never been trained either race to any useful purpose</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_86" begin="4152" end="4158">
     <text>sought</text>
     <mainVerb begin="4152" end="4158">sought</mainVerb>
     <mainReferent begin="4075" end="4077">it</mainReferent>
     <tokens>it is only sought as furnishing an important article of food and clothing</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_87" begin="4253" end="4258">
     <text>exist</text>
     <mainVerb begin="4253" end="4258">exist</mainVerb>
     <mainReferent begin="4236" end="4241">kinds</mainReferent>
     <tokens>At least two kinds of Caribou exist in the vast tracts of almost unknown country known as Prince Rupert 's Land , or the Hudson 's Bay territory</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="quadrupeds_what_they_are_and_where_found_a_book_of_zoology_for_boys_53.txt_88" begin="4305" end="4310">
     <text>known</text>
     <mainVerb begin="4305" end="4310">known</mainVerb>
     <mainReferent begin="4271" end="4277">tracts</mainReferent>
     <tokens>known as Prince Rupert 's Land , or the Hudson 's Bay territory</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
 </document>

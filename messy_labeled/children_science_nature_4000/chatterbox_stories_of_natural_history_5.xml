@@ -6,553 +6,646 @@
     <mainVerb begin="57" end="64">spotted</mainVerb>
     <mainReferent begin="27" end="31">body</mainReferent>
     <tokens>beautifully spotted with black and brown rings</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_2" begin="93" end="95">
     <text>is</text>
     <mainVerb begin="93" end="95">is</mainVerb>
     <mainReferent begin="27" end="31">body</mainReferent>
     <tokens>The body of the lynx is more hardy than that of the wild cat</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_3" begin="154" end="157">
     <text>are</text>
     <mainVerb begin="154" end="157">are</mainVerb>
     <mainReferent begin="149" end="153">ears</mainReferent>
     <tokens>His ears are</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_4" begin="176" end="178">
     <text>is</text>
     <mainVerb begin="176" end="178">is</mainVerb>
     <mainReferent begin="171" end="175">tail</mainReferent>
     <tokens>his tail is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_5" begin="203" end="208">
     <text>light</text>
     <mainVerb begin="203" end="208">light</mainVerb>
     <mainReferent begin="149" end="153">ears</mainReferent>
     <tokens>his great eyes light up like bright flames</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_6" begin="246" end="252">
     <text>prowls</text>
     <mainVerb begin="246" end="252">prowls</mainVerb>
     <mainReferent begin="243" end="245">he</mainReferent>
     <tokens>since he prowls chiefly at night</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_7" begin="283" end="290">
     <text>thought</text>
     <mainVerb begin="283" end="290">thought</mainVerb>
     <mainReferent begin="149" end="153">ears</mainReferent>
     <tokens>he is thought to have very keen sight</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_8" begin="342" end="346">
     <text>wish</text>
     <mainVerb begin="342" end="346">wish</mainVerb>
     <mainReferent begin="339" end="341">we</mainReferent>
     <tokens>when we wish to say</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_9" begin="372" end="375">
     <text>see</text>
     <mainVerb begin="372" end="375">see</mainVerb>
     <mainReferent begin="361" end="367">person</mainReferent>
     <tokens>that a person can see very clearly</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_10" begin="397" end="401">
     <text>look</text>
     <mainVerb begin="397" end="401">look</mainVerb>
     <mainReferent begin="361" end="367">person</mainReferent>
     <tokens>a person can look beyond the outward appearance of things</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_11" begin="446" end="450">
     <text>call</text>
     <mainVerb begin="446" end="450">call</mainVerb>
     <mainReferent begin="443" end="445">we</mainReferent>
     <tokens>For this reason we call him _ lynx-eyed _</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_12" begin="493" end="502">
     <text>possesses</text>
     <mainVerb begin="493" end="502">possesses</mainVerb>
     <mainReferent begin="488" end="492">lynx</mainReferent>
     <tokens>Like all cats the lynx possesses in his mustache a very correct power feeling</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_13" begin="597" end="603">
     <text>guides</text>
     <mainVerb begin="597" end="603">guides</mainVerb>
     <mainReferent begin="553" end="557">This</mainReferent>
     <tokens>This with the sense of hearing and sight guides him in all his expeditions</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_14" begin="659" end="661">
     <text>is</text>
     <mainVerb begin="659" end="661">is</mainVerb>
     <mainReferent begin="639" end="643">lynx</mainReferent>
     <tokens>The lynx in the picture is in the act of springing upon a timid hare</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_15" begin="722" end="729">
     <text>measure</text>
     <mainVerb begin="722" end="729">measure</mainVerb>
     <mainReferent begin="715" end="717">he</mainReferent>
     <tokens>Although he can measure twenty paces in a jump</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_16" begin="756" end="761">
     <text>think</text>
     <mainVerb begin="756" end="761">think</mainVerb>
     <mainReferent begin="754" end="755">I</mainReferent>
     <tokens>I think</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_17" begin="779" end="783">
     <text>made</text>
     <mainVerb begin="779" end="783">made</mainVerb>
     <mainReferent begin="771" end="773">he</mainReferent>
     <tokens>for once he has made a misstep</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_18" begin="838" end="843">
     <text>bound</text>
     <mainVerb begin="838" end="843">bound</mainVerb>
     <tokens>bound</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_19" begin="849" end="851">
     <text>be</text>
     <mainVerb begin="849" end="851">be</mainVerb>
     <mainReferent begin="815" end="823">creature</mainReferent>
     <tokens>the dear little creature with one more bound will be</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_20" begin="904" end="906">
     <text>is</text>
     <mainVerb begin="904" end="906">is</mainVerb>
     <mainReferent begin="879" end="883">fact</mainReferent>
     <tokens>One very remarkable fact about these animals is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_21" begin="922" end="925">
     <text>are</text>
     <mainVerb begin="922" end="925">are</mainVerb>
     <mainReferent begin="953" end="959">starts</mainReferent>
     <tokens>if there are several together one starts over the snow in pursuit of booty</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_22" begin="1016" end="1022">
     <text>follow</text>
     <mainVerb begin="1016" end="1022">follow</mainVerb>
     <mainReferent begin="1004" end="1010">others</mainReferent>
     <tokens>all the others will follow in exactly the same tracks</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_23" begin="1067" end="1071">
     <text>look</text>
     <mainVerb begin="1067" end="1071">look</mainVerb>
     <mainReferent begin="1059" end="1061">it</mainReferent>
     <tokens>so that it will look</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_24" begin="1096" end="1102">
     <text>passed</text>
     <mainVerb begin="1096" end="1102">passed</mainVerb>
     <mainReferent begin="1087" end="1091">lynx</mainReferent>
     <tokens>as if but one lynx had passed over the snow-covered earth</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_25" begin="1154" end="1157">
     <text>AND</text>
     <mainVerb begin="1154" end="1157">AND</mainVerb>
     <mainReferent begin="1149" end="1153">SWAN</mainReferent>
     <tokens>THE SWAN AND THE DRAKE</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_26" begin="1206" end="1212">
     <text>Sailed</text>
     <mainVerb begin="1206" end="1212">Sailed</mainVerb>
     <tokens>Slowly in majestic silence Sailed a Swan upon a lake</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_27" begin="1267" end="1271">
     <text>Swam</text>
     <mainVerb begin="1267" end="1271">Swam</mainVerb>
     <mainReferent begin="1234" end="1239">Round</mainReferent>
     <tokens>Round about him never quiet Swam a noisy</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_28" begin="1280" end="1288">
     <text>quacking</text>
     <mainVerb begin="1280" end="1288">quacking</mainVerb>
     <mainReferent begin="1274" end="1279">noisy</mainReferent>
     <tokens>quacking Drake</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_29" begin="1307" end="1316">
     <text>exclaimed</text>
     <mainVerb begin="1307" end="1316">exclaimed</mainVerb>
     <mainReferent begin="1321" end="1327">latter</mainReferent>
     <tokens>" exclaimed the latter halting</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_30" begin="1357" end="1367">
     <text>comprehend</text>
     <mainVerb begin="1357" end="1367">comprehend</mainVerb>
     <mainReferent begin="1342" end="1343">I</mainReferent>
     <tokens>" Swan " I can scarcely comprehend my friend "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_31" begin="1381" end="1385">
     <text>hear</text>
     <mainVerb begin="1381" end="1385">hear</mainVerb>
     <mainReferent begin="1373" end="1374">I</mainReferent>
     <tokens>Why I never hear</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_32" begin="1390" end="1397">
     <text>talking</text>
     <mainVerb begin="1390" end="1397">talking</mainVerb>
     <mainReferent begin="1386" end="1389">you</mainReferent>
     <tokens>you talking</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_33" begin="1402" end="1405">
     <text>Are</text>
     <mainVerb begin="1402" end="1405">Are</mainVerb>
     <mainReferent begin="1406" end="1409">you</mainReferent>
     <tokens>Are you really</tokens>
+    <annotation annotator="predicted" seType="QUESTION"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_34" begin="1438" end="1442">
     <text>Said</text>
     <mainVerb begin="1438" end="1442">Said</mainVerb>
     <mainReferent begin="1447" end="1451">Swan</mainReferent>
     <tokens>Said the Swan by way of answer " "</tokens>
+    <annotation annotator="predicted" seType="REPORT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_35" begin="1482" end="1490">
     <text>wondered</text>
     <mainVerb begin="1482" end="1490">wondered</mainVerb>
     <mainReferent begin="1475" end="1476">I</mainReferent>
     <tokens>I have wondered</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_36" begin="1501" end="1505">
     <text>make</text>
     <mainVerb begin="1501" end="1505">make</mainVerb>
     <mainReferent begin="1497" end="1500">you</mainReferent>
     <tokens>when you make Such a shocking senseless clatter</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_37" begin="1558" end="1561">
     <text>are</text>
     <mainVerb begin="1558" end="1561">are</mainVerb>
     <mainReferent begin="1572" end="1577">Drake</mainReferent>
     <tokens>Whether you are Sir Drake</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_38" begin="1606" end="1612">
     <text>remain</text>
     <mainVerb begin="1606" end="1612">remain</mainVerb>
     <mainReferent begin="1583" end="1589">Better</mainReferent>
     <tokens>Better like the Swan remain in Silence grave and dignified</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_39" begin="1654" end="1658">
     <text>keep</text>
     <mainVerb begin="1654" end="1658">keep</mainVerb>
     <mainReferent begin="1649" end="1653">Than</mainReferent>
     <tokens>Than keep drake-like</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_40" begin="1677" end="1684">
     <text>prating</text>
     <mainVerb begin="1677" end="1684">prating</mainVerb>
     <tokens>ever prating</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_41" begin="1710" end="1716">
     <text>deride</text>
     <mainVerb begin="1710" end="1716">deride</mainVerb>
     <mainReferent begin="1606" end="1612">remain</mainReferent>
     <tokens>While your listeners deride</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_42" begin="1795" end="1800">
     <text>found</text>
     <mainVerb begin="1795" end="1800">found</mainVerb>
     <mainReferent begin="1775" end="1781">animal</mainReferent>
     <tokens>This industrious animal is generally found in Canada and the northern portions of the United States , where it makes its home on the banks of the rivers and lakes</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_43" begin="1869" end="1874">
     <text>makes</text>
     <mainVerb begin="1869" end="1874">makes</mainVerb>
     <mainReferent begin="1866" end="1868">it</mainReferent>
     <tokens>where it makes its home on the banks of the rivers and lakes</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_44" begin="1933" end="1941">
     <text>assemble</text>
     <mainVerb begin="1933" end="1941">assemble</mainVerb>
     <mainReferent begin="1928" end="1932">they</mainReferent>
     <tokens>Here they assemble in hundreds to assist each other in the construction of their dams in the building of their houses , which are put together with a considerable amount of engineering skill</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_45" begin="2059" end="2062">
     <text>put</text>
     <mainVerb begin="2059" end="2062">put</mainVerb>
     <mainReferent begin="2022" end="2030">building</mainReferent>
     <tokens>the building of their houses are put with a considerable amount of engineering skill</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_46" begin="2136" end="2140">
     <text>used</text>
     <mainVerb begin="2136" end="2140">used</mainVerb>
     <mainReferent begin="2126" end="2135">materials</mainReferent>
     <tokens>used building the dams</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_47" begin="2162" end="2165">
     <text>are</text>
     <mainVerb begin="2162" end="2165">are</mainVerb>
     <mainReferent begin="2126" end="2135">materials</mainReferent>
     <tokens>The materials are wood mud</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_48" begin="2201" end="2208">
     <text>collect</text>
     <mainVerb begin="2201" end="2208">collect</mainVerb>
     <mainReferent begin="2196" end="2200">they</mainReferent>
     <tokens>mud they collect themselves for that purpose</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_49" begin="2295" end="2302">
     <text>collect</text>
     <mainVerb begin="2295" end="2302">collect</mainVerb>
     <mainReferent begin="2172" end="2178">stones</mainReferent>
     <tokens>finishing the dam winter storehouse they collect their stores for the winter 's use</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_50" begin="2348" end="2352">
     <text>make</text>
     <mainVerb begin="2348" end="2352">make</mainVerb>
     <mainReferent begin="2172" end="2178">stones</mainReferent>
     <tokens>they then make a connection with their houses in the banks</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_51" begin="2411" end="2414">
     <text>are</text>
     <mainVerb begin="2411" end="2414">are</mainVerb>
     <mainReferent begin="2405" end="2410">skins</mainReferent>
     <tokens>Their skins are making fine hats</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_52" begin="2461" end="2463">
     <text>is</text>
     <mainVerb begin="2461" end="2463">is</mainVerb>
     <mainReferent begin="2455" end="2460">flesh</mainReferent>
     <tokens>their flesh is much by the hunters</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_53" begin="2506" end="2508">
     <text>is</text>
     <mainVerb begin="2506" end="2508">is</mainVerb>
     <mainReferent begin="2499" end="2505">beaver</mainReferent>
     <tokens>The beaver is an interesting in many respects</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_54" begin="2591" end="2596">
     <text>borne</text>
     <mainVerb begin="2591" end="2596">borne</mainVerb>
     <mainReferent begin="2524" end="2530">animal</mainReferent>
     <tokens>the expression " busy as a beaver " is borne out its habits</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_55" begin="2679" end="2681">
     <text>is</text>
     <mainVerb begin="2679" end="2681">is</mainVerb>
     <mainReferent begin="2671" end="2678">lioness</mainReferent>
     <tokens>The lioness is much than the lion her form graceful</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_56" begin="2723" end="2725">
     <text>is</text>
     <mainVerb begin="2723" end="2725">is</mainVerb>
     <mainReferent begin="2718" end="2722">form</mainReferent>
     <tokens>her form is more graceful</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_57" begin="2758" end="2760">
     <text>is</text>
     <mainVerb begin="2758" end="2760">is</mainVerb>
     <mainReferent begin="2754" end="2757">She</mainReferent>
     <tokens>She is of the mane of her lord and master</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_58" begin="2808" end="2811">
     <text>has</text>
     <mainVerb begin="2808" end="2811">has</mainVerb>
     <mainReferent begin="2754" end="2757">She</mainReferent>
     <tokens>She has four five cubs at a birth</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_59" begin="2857" end="2861">
     <text>born</text>
     <mainVerb begin="2857" end="2861">born</mainVerb>
     <mainReferent begin="2826" end="2830">cubs</mainReferent>
     <tokens>four five cubs at a birth are all born blind</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_60" begin="2909" end="2916">
     <text>striped</text>
     <mainVerb begin="2909" end="2916">striped</mainVerb>
     <mainReferent begin="2879" end="2884">lions</mainReferent>
     <tokens>The young lions are at first obscurely striped</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_61" begin="2921" end="2928">
     <text>spotted</text>
     <mainVerb begin="2921" end="2928">spotted</mainVerb>
     <mainReferent begin="2879" end="2884">lions</mainReferent>
     <tokens>The young lions spotted</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_62" begin="2935" end="2938">
     <text>mew</text>
     <mainVerb begin="2935" end="2938">mew</mainVerb>
     <mainReferent begin="2930" end="2934">They</mainReferent>
     <tokens>They mew like cats</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_63" begin="2954" end="2957">
     <text>are</text>
     <mainVerb begin="2954" end="2957">are</mainVerb>
     <mainReferent begin="2930" end="2934">They</mainReferent>
     <tokens>They are as as kittens</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_64" begin="2990" end="2993">
     <text>get</text>
     <mainVerb begin="2990" end="2993">get</mainVerb>
     <mainReferent begin="2985" end="2989">they</mainReferent>
     <tokens>As they get older</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_65" begin="3033" end="3040">
     <text>assumed</text>
     <mainVerb begin="3033" end="3040">assumed</mainVerb>
     <mainReferent begin="3013" end="3018">color</mainReferent>
     <tokens>the uniform color is gradually assumed</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_66" begin="3051" end="3058">
     <text>appears</text>
     <mainVerb begin="3051" end="3058">appears</mainVerb>
     <mainReferent begin="3046" end="3050">mane</mainReferent>
     <tokens>The mane appears in the males at the end of ten or twelve months</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_67" begin="3168" end="3177">
     <text>developed</text>
     <mainVerb begin="3168" end="3177">developed</mainVerb>
     <mainReferent begin="3046" end="3050">mane</mainReferent>
     <tokens>at the age of eighteen months it is very considerably developed</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_68" begin="3188" end="3193">
     <text>begin</text>
     <mainVerb begin="3188" end="3193">begin</mainVerb>
     <mainReferent begin="3046" end="3050">mane</mainReferent>
     <tokens>they begin to roar</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_69" begin="3259" end="3261">
     <text>is</text>
     <mainVerb begin="3259" end="3261">is</mainVerb>
     <mainReferent begin="3203" end="3207">Both</mainReferent>
     <tokens>Both in nature in a state of captivity the lioness is very</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_70" begin="3289" end="3296">
     <text>becomes</text>
     <mainVerb begin="3289" end="3296">becomes</mainVerb>
     <mainReferent begin="3285" end="3288">she</mainReferent>
     <tokens>soon as she becomes a mother the lion</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_71" begin="3329" end="3331">
     <text>is</text>
     <mainVerb begin="3329" end="3331">is</mainVerb>
     <mainReferent begin="3321" end="3328">himself</mainReferent>
     <tokens>as himself is then to be dreaded</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_72" begin="3373" end="3378">
     <text>brave</text>
     <mainVerb begin="3373" end="3378">brave</mainVerb>
     <mainReferent begin="3360" end="3362">he</mainReferent>
     <tokens>as he will then brave almost any risk for the sake of his lioness and family</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_73" begin="3486" end="3489">
     <text>saw</text>
     <mainVerb begin="3486" end="3489">saw</mainVerb>
     <mainReferent begin="3479" end="3480">I</mainReferent>
     <tokens>I ever saw in an aquarium</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_74" begin="3524" end="3527">
     <text>was</text>
     <mainVerb begin="3524" end="3527">was</mainVerb>
     <mainReferent begin="3588" end="3593">grows</mainReferent>
     <tokens>The first fish twenty years ago was a " " a " Pike "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_75" begin="3548" end="3554">
     <text>called</text>
     <mainVerb begin="3548" end="3554">called</mainVerb>
     <mainReferent begin="3532" end="3536">Jack</mainReferent>
     <tokens>as he is called when young</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_76" begin="3588" end="3593">
     <text>grows</text>
     <mainVerb begin="3588" end="3593">grows</mainVerb>
     <mainReferent begin="3532" end="3536">Jack</mainReferent>
     <tokens>when he grows older</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_77" begin="3629" end="3638">
     <text>contrived</text>
     <mainVerb begin="3629" end="3638">contrived</mainVerb>
     <mainReferent begin="3622" end="3623">I</mainReferent>
     <tokens>ever since then I have contrived to have a pet one</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_78" begin="3668" end="3673">
     <text>drawn</text>
     <mainVerb begin="3668" end="3673">drawn</mainVerb>
     <mainReferent begin="3662" end="3666">this</mainReferent>
     <tokens>drawn from life Mr. Harrison Weir</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_79" begin="3707" end="3709">
     <text>is</text>
     <mainVerb begin="3707" end="3709">is</mainVerb>
     <mainReferent begin="3662" end="3666">this</mainReferent>
     <tokens>this is an accurate of the one</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_80" begin="3749" end="3756">
     <text>possess</text>
     <mainVerb begin="3749" end="3756">possess</mainVerb>
     <mainReferent begin="3532" end="3536">Jack</mainReferent>
     <tokens>I now possess in the Crystal Palace Aquarium</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_81" begin="3798" end="3800">
     <text>is</text>
     <mainVerb begin="3798" end="3800">is</mainVerb>
     <mainReferent begin="3795" end="3797">he</mainReferent>
     <tokens>There he is</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_82" begin="3813" end="3819">
     <text>steals</text>
     <mainVerb begin="3813" end="3819">steals</mainVerb>
     <mainReferent begin="3810" end="3812">he</mainReferent>
     <tokens>just as he steals</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_83" begin="3821" end="3826">
     <text>round</text>
     <mainVerb begin="3821" end="3826">round</mainVerb>
     <tokens>round the corner of a bit of rock</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_84" begin="3862" end="3869">
     <text>glaring</text>
     <mainVerb begin="3862" end="3869">glaring</mainVerb>
     <mainReferent begin="3856" end="3858">He</mainReferent>
     <tokens>He is glaring at a minnow , at which he is taking most accurate aim</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_85" begin="3899" end="3905">
     <text>taking</text>
     <mainVerb begin="3899" end="3905">taking</mainVerb>
     <mainReferent begin="3893" end="3895">he</mainReferent>
     <tokens>at a minnow , at which he is taking most accurate aim</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_86" begin="3935" end="3940">
     <text>seems</text>
     <mainVerb begin="3935" end="3940">seems</mainVerb>
     <mainReferent begin="3856" end="3858">He</mainReferent>
     <tokens>he hardly seems to move</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_87" begin="3961" end="3965">
     <text>does</text>
     <mainVerb begin="3961" end="3965">does</mainVerb>
     <mainReferent begin="3925" end="3927">he</mainReferent>
     <tokens>yet he does by a very trifling motion of the edge of his back fin sometimes resting a little on the tips of his two foremost fins carefully calculating his distance</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_88" begin="4096" end="4101">
     <text>touch</text>
     <mainVerb begin="4096" end="4101">touch</mainVerb>
     <mainReferent begin="4091" end="4095">they</mainReferent>
     <tokens>as they touch the ground</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_89" begin="4201" end="4204">
     <text>got</text>
     <mainVerb begin="4201" end="4204">got</mainVerb>
     <mainReferent begin="4173" end="4179">moment</mainReferent>
     <tokens>when the minnow has got into a position which leaves a space of clear water in front</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_90" begin="4227" end="4233">
     <text>leaves</text>
     <mainVerb begin="4227" end="4233">leaves</mainVerb>
     <mainReferent begin="4212" end="4220">position</mainReferent>
     <tokens>a position leaves a space of clear water in front</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_91" begin="4295" end="4299">
     <text>hurt</text>
     <mainVerb begin="4295" end="4299">hurt</mainVerb>
     <mainReferent begin="4173" end="4179">moment</mainReferent>
     <tokens>that Mr. Jack shall not hurt his nose against any hard substance</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_92" begin="4350" end="4357">
     <text>carried</text>
     <mainVerb begin="4350" end="4357">carried</mainVerb>
     <mainReferent begin="4342" end="4344">he</mainReferent>
     <tokens>when he gets carried on the violence of his rush</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="chatterbox_stories_of_natural_history_5.txt_93" begin="4393" end="4398">
     <text>darts</text>
     <mainVerb begin="4393" end="4398">darts</mainVerb>
     <mainReferent begin="3856" end="3858">He</mainReferent>
     <tokens>then at the very moment when the minnow has got into a position which leaves a space of clear water in front , so that Mr. Jack shall not hurt his nose against any hard substance when he gets carried on by the violence of his rush he darts at the minnow with the speed of Shakspeare 's Puck</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
 </document>

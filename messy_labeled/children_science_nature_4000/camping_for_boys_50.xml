@@ -6,310 +6,363 @@
     <mainVerb begin="53" end="60">proceed</mainVerb>
     <mainReferent begin="38" end="47">officials</mainReferent>
     <tokens>Organization To organize at camps officials will proceed conducting the above-mentioned examinations</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_2" begin="123" end="125">
     <text>be</text>
     <mainVerb begin="123" end="125">be</mainVerb>
     <mainReferent begin="117" end="122">there</mainReferent>
     <tokens>Should there be five more successful</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_3" begin="177" end="186">
     <text>organized</text>
     <mainVerb begin="177" end="186">organized</mainVerb>
     <mainReferent begin="164" end="169">crews</mainReferent>
     <tokens>crews can be organized</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_4" begin="190" end="197">
     <text>follows</text>
     <mainVerb begin="190" end="197">follows</mainVerb>
     <tokens>as follows</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_5" begin="237" end="245">
     <text>employed</text>
     <mainVerb begin="237" end="245">employed</mainVerb>
     <mainReferent begin="164" end="169">crews</mainReferent>
     <tokens>the regular form of enrollment being employed</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_6" begin="265" end="273">
     <text>required</text>
     <mainVerb begin="265" end="273">required</mainVerb>
     <mainReferent begin="164" end="169">crews</mainReferent>
     <tokens>no enlistments required</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_7" begin="287" end="297">
     <text>constitute</text>
     <mainVerb begin="287" end="297">constitute</mainVerb>
     <mainReferent begin="283" end="286">men</mainReferent>
     <tokens>Five men constitute a crew</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_8" begin="305" end="314">
     <text>entitling</text>
     <mainVerb begin="305" end="314">entitling</mainVerb>
     <mainReferent begin="300" end="304">crew</mainReferent>
     <tokens>entitling one of the five to the rank of acting third lieutenant</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_9" begin="383" end="393">
     <text>constitute</text>
     <mainVerb begin="383" end="393">constitute</mainVerb>
     <mainReferent begin="379" end="382">men</mainReferent>
     <tokens>Ten men constitute two crews with acting second and third lieutenants</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_10" begin="461" end="471">
     <text>constitute</text>
     <mainVerb begin="461" end="471">constitute</mainVerb>
     <mainReferent begin="457" end="460">men</mainReferent>
     <tokens>Fifteen men constitute three crews acting first second third lieutenants</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_11" begin="549" end="559">
     <text>constitute</text>
     <mainVerb begin="549" end="559">constitute</mainVerb>
     <mainReferent begin="545" end="548">men</mainReferent>
     <tokens>Twenty men constitute four crews ( or a division ) acting captain first second third lieutenants lieutenant surgeon quartermaster boatswain one coxswain for each crew or three coxswains</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_12" begin="797" end="803">
     <text>become</text>
     <mainVerb begin="797" end="803">become</mainVerb>
     <mainReferent begin="758" end="765">members</mainReferent>
     <tokens>Auxiliary members over eighteen years of age may become active members leaving camps</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_13" begin="844" end="851">
     <text>receive</text>
     <mainVerb begin="844" end="851">receive</mainVerb>
     <mainReferent begin="758" end="765">members</mainReferent>
     <tokens>Auxiliary members over eighteen years of age receive active membership commissions</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_14" begin="883" end="891">
     <text>provided</text>
     <mainVerb begin="883" end="891">provided</mainVerb>
     <mainReferent begin="870" end="881">commissions</mainReferent>
     <tokens>provided they affiliate with some active permanent crew in their home district</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_15" begin="985" end="992">
     <text>holding</text>
     <mainVerb begin="985" end="992">holding</mainVerb>
     <mainReferent begin="977" end="984">members</mainReferent>
     <tokens>holding our certificates</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_16" begin="1019" end="1027">
     <text>entitled</text>
     <mainVerb begin="1019" end="1027">entitled</mainVerb>
     <mainReferent begin="977" end="984">members</mainReferent>
     <tokens>Auxiliary members shall be entitled to auxiliary membership buttons</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_17" begin="1090" end="1098">
     <text>entitled</text>
     <mainVerb begin="1090" end="1098">entitled</mainVerb>
     <mainReferent begin="977" end="984">members</mainReferent>
     <tokens>active members only are entitled to wear the official badge of membership of the corps</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_18" begin="1179" end="1187">
     <text>equipped</text>
     <mainVerb begin="1179" end="1187">equipped</mainVerb>
     <mainReferent begin="1165" end="1170">camps</mainReferent>
     <tokens>Summer camps will be equipped at the discretion of headquarters on the following conditions</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_19" begin="1273" end="1276">
     <text>pay</text>
     <mainVerb begin="1273" end="1276">pay</mainVerb>
     <mainReferent begin="1262" end="1266">they</mainReferent>
     <tokens>That they shall pay all express on supplies to and from camps</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_20" begin="1339" end="1345">
     <text>report</text>
     <mainVerb begin="1339" end="1345">report</mainVerb>
     <mainReferent begin="1328" end="1332">they</mainReferent>
     <tokens>That they shall report at the end of each season the exact condition of the supplies</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_21" begin="1413" end="1417">
     <text>make</text>
     <mainVerb begin="1413" end="1417">make</mainVerb>
     <mainReferent begin="1328" end="1332">they</mainReferent>
     <tokens>That they make provision for the safekeeping of same for future seasons</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_22" begin="1480" end="1486">
     <text>return</text>
     <mainVerb begin="1480" end="1486">return</mainVerb>
     <mainReferent begin="1328" end="1332">they</mainReferent>
     <tokens>return same</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_23" begin="1520" end="1528">
     <text>returned</text>
     <mainVerb begin="1520" end="1528">returned</mainVerb>
     <mainReferent begin="1505" end="1511">chests</mainReferent>
     <tokens>Medicine chests must be returned</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_24" begin="1553" end="1557">
     <text>sent</text>
     <mainVerb begin="1553" end="1557">sent</mainVerb>
     <mainReferent begin="1533" end="1544">Instructors</mainReferent>
     <tokens>Instructors will be sent to the various camps at the discretion of headquarters whenever possible</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_25" begin="1700" end="1707">
     <text>covered</text>
     <mainVerb begin="1700" end="1707">covered</mainVerb>
     <mainReferent begin="1639" end="1647">expenses</mainReferent>
     <tokens>All expenses traveling board etc. not services must be covered the camps</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_26" begin="1755" end="1760">
     <text>found</text>
     <mainVerb begin="1755" end="1760">found</mainVerb>
     <mainReferent begin="1737" end="1746">questions</mainReferent>
     <tokens>Examination questions will be found in our book " Instruction on Subjects for Examination for Membership "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_27" begin="1836" end="1843">
     <text>desired</text>
     <mainVerb begin="1836" end="1843">desired</mainVerb>
     <tokens>If desired</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_28" begin="1864" end="1868">
     <text>make</text>
     <mainVerb begin="1864" end="1868">make</mainVerb>
     <mainReferent begin="1850" end="1859">officials</mainReferent>
     <tokens>camp officials can make examinations more rigid outlined by us</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_29" begin="1918" end="1929">
     <text>Examination</text>
     <mainVerb begin="1918" end="1929">Examination</mainVerb>
     <tokens>Examination</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_30" begin="1937" end="1946">
     <text>furnished</text>
     <mainVerb begin="1937" end="1946">furnished</mainVerb>
     <mainReferent begin="1930" end="1936">papers</mainReferent>
     <tokens>furnished on request</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_31" begin="1988" end="1997">
     <text>furnished</text>
     <mainVerb begin="1988" end="1997">furnished</mainVerb>
     <mainReferent begin="1972" end="1983">information</mainReferent>
     <tokens>The above information was furnished K. F. Mehrtens Assistant Secretary United States Volunteer Life Saving Corps 63-65 Park Row New York City</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_32" begin="2158" end="2163">
     <text>comes</text>
     <mainVerb begin="2158" end="2163">comes</mainVerb>
     <mainReferent begin="2151" end="2157">saving</mainReferent>
     <tokens>Training Course Efficient life saving comes from thorough experience and training not from a theory</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_33" begin="2261" end="2267">
     <text>taught</text>
     <mainVerb begin="2261" end="2267">taught</mainVerb>
     <mainReferent begin="2229" end="2237">subjects</mainReferent>
     <tokens>These subjects for instruction may be taught to the summer camp as well as during the camping season</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_34" begin="2422" end="2430">
     <text>fetching</text>
     <mainVerb begin="2422" end="2430">fetching</mainVerb>
     <mainReferent begin="2414" end="2420">diving</mainReferent>
     <tokens>fetching</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_35" begin="2519" end="2526">
     <text>Methods</text>
     <mainVerb begin="2519" end="2526">Methods</mainVerb>
     <mainReferent begin="2512" end="2518">Rescue</mainReferent>
     <tokens>Rescue Methods to include rescuing a supposedly drowning person</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_36" begin="2641" end="2649">
     <text>grasping</text>
     <mainVerb begin="2641" end="2649">grasping</mainVerb>
     <tokens>grasping by the wrist</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_37" begin="2664" end="2670">
     <text>clutch</text>
     <mainVerb begin="2664" end="2670">clutch</mainVerb>
     <mainReferent begin="2611" end="2618">Methods</mainReferent>
     <tokens>Methods of Release to include clutch around the neck and grasp around the body</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_38" begin="2750" end="2757">
     <text>drowned</text>
     <mainVerb begin="2750" end="2757">drowned</mainVerb>
     <mainReferent begin="2718" end="2731">Resuscitation</mainReferent>
     <tokens>Resuscitation of the apparently drowned including the Sylvester method described on page 194 , and the simple " first aid " rules</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_39" begin="2791" end="2800">
     <text>described</text>
     <mainVerb begin="2791" end="2800">described</mainVerb>
     <mainReferent begin="2783" end="2789">method</mainReferent>
     <tokens>described on page 194</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_40" begin="2876" end="2882">
     <text>rowing</text>
     <mainVerb begin="2876" end="2882">rowing</mainVerb>
     <tokens>rowing a boat taking a person into a boat from the water clinging to a boat capsizing it</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_41" begin="2985" end="2989">
     <text>Knot</text>
     <mainVerb begin="2985" end="2989">Knot</mainVerb>
     <tokens>Knot Tying to include all kinds of knots and their value in connection with life-saving work , and the use of them on life-saving appliances</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_42" begin="3130" end="3141">
     <text>Wig-wagging</text>
     <mainVerb begin="3130" end="3141">Wig-wagging</mainVerb>
     <tokens>Wig-wagging to include the committing to memory of the U. S. Naval Wig-Wag Signal Code</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_43" begin="3236" end="3240">
     <text>used</text>
     <mainVerb begin="3236" end="3240">used</mainVerb>
     <mainReferent begin="3223" end="3232">following</mainReferent>
     <tokens>The following is used at Camp Wawayanda , New Jersey Boys</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_44" begin="3321" end="3328">
     <text>carried</text>
     <mainVerb begin="3321" end="3328">carried</mainVerb>
     <mainReferent begin="3296" end="3306">Signalling</mainReferent>
     <tokens>WIG-WAG CODE Signalling by wig-wag is carried on by waving a flag in certain ways , represented by the figures 1 , 2 and 3 , thus</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_45" begin="3367" end="3378">
     <text>represented</text>
     <mainVerb begin="3367" end="3378">represented</mainVerb>
     <mainReferent begin="3360" end="3364">ways</mainReferent>
     <tokens>represented the figures 1 2 3</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_46" begin="3427" end="3431">
     <text>made</text>
     <mainVerb begin="3427" end="3431">made</mainVerb>
     <mainReferent begin="3332" end="3334">by</mainReferent>
     <tokens>letters are made</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_47" begin="3443" end="3450">
     <text>spelled</text>
     <mainVerb begin="3443" end="3450">spelled</mainVerb>
     <mainReferent begin="3415" end="3422">letters</mainReferent>
     <tokens>words spelled</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_48" begin="3477" end="3481">
     <text>used</text>
     <mainVerb begin="3477" end="3481">used</mainVerb>
     <mainReferent begin="3467" end="3472">flags</mainReferent>
     <tokens>Two wig-wag flags are used one a square white flag with a red square in the center the other a square red flag with white square in the center</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_49" begin="3627" end="3631">
     <text>used</text>
     <mainVerb begin="3627" end="3631">used</mainVerb>
     <mainReferent begin="3619" end="3623">flag</mainReferent>
     <tokens>Only one flag is used signalling</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_50" begin="3663" end="3671">
     <text>selected</text>
     <mainVerb begin="3663" end="3671">selected</mainVerb>
     <mainReferent begin="3619" end="3623">flag</mainReferent>
     <tokens>that one is selected</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_51" begin="3691" end="3695">
     <text>seen</text>
     <mainVerb begin="3691" end="3695">seen</mainVerb>
     <mainReferent begin="3672" end="3677">which</mainReferent>
     <tokens>which can best be seen against the boy 's background</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_52" begin="3979" end="3989">
     <text>CLASSIFIED</text>
     <mainVerb begin="3979" end="3989">CLASSIFIED</mainVerb>
     <mainReferent begin="3970" end="3978">ALPHABET</mainReferent>
     <tokens>A 22 B 2112 C 121 D 222 F 2221 G 2211 H 122 I 1 J 1122 K 2121 L 221 M 1221 N 11 O 21 P 121 Q 1211 R 211 S 212 T 2 U 112 V 1222 W 1121 X 2122 Y 111 Z 2222 Tion 1112 ALPHABET CLASSIFIED</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_50.txt_53" begin="4149" end="4153">
     <text>2221</text>
     <mainVerb begin="4149" end="4153">2221</mainVerb>
     <mainReferent begin="4147" end="4148">F</mainReferent>
     <tokens>1 N 11 Y 111 E 12 H 122 V 1222 U 112 J 1122 C 121 Q 1211 M 1221 P 1212 W 1121 T 2 A 22 D 222 Z 2222 O 21 R 211 L 221 G 2211 F 2221</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
 </document>

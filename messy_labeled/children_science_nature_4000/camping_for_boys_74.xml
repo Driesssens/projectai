@@ -6,337 +6,394 @@
     <mainVerb begin="963" end="967">FLAG</mainVerb>
     <mainReferent begin="933" end="938">ORDER</mainReferent>
     <tokens>FLAG OF HONOR " GREEN RAG</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_2" begin="1067" end="1076">
     <text>purchased</text>
     <mainVerb begin="1067" end="1076">purchased</mainVerb>
     <mainReferent begin="819" end="823">XXII</mainReferent>
     <tokens>CHAPTER XXII HONOR EMBLEMS AWARDS NON-COMPETITIVE AWARDS DUDLEY PLAN " THE ORDER OF THE ADIRONDACK CAMP EAGLE " " ORDER OF THE PHANTOM SQUARE " " SOCIETY DURRELL BECKET PLAN PROFICIENCY CUP HALL OF FAME Honour is purchased the deeds</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_3" begin="1093" end="1095">
     <text>do</text>
     <mainVerb begin="1093" end="1095">do</mainVerb>
     <mainReferent begin="1090" end="1092">we</mainReferent>
     <tokens>we do</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_4" begin="1118" end="1121">
     <text>won</text>
     <mainVerb begin="1118" end="1121">won</mainVerb>
     <mainReferent begin="1104" end="1110">honour</mainReferent>
     <tokens>* * * honour is not won</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_5" begin="1154" end="1158">
     <text>done</text>
     <mainVerb begin="1154" end="1158">done</mainVerb>
     <mainReferent begin="1067" end="1076">purchased</mainReferent>
     <tokens>Until some honourable deed be done</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_6" begin="1231" end="1236">
     <text>based</text>
     <mainVerb begin="1231" end="1236">based</mainVerb>
     <mainReferent begin="1219" end="1230">cooperation</mainReferent>
     <tokens>based upon altruism</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_7" begin="1259" end="1261">
     <text>be</text>
     <mainVerb begin="1259" end="1261">be</mainVerb>
     <mainReferent begin="1219" end="1230">cooperation</mainReferent>
     <tokens>Non-Competitive Awards Achievement cooperation should be the underlying determining the giving of emblems and awards</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_8" begin="1423" end="1425">
     <text>is</text>
     <mainVerb begin="1423" end="1425">is</mainVerb>
     <mainReferent begin="1341" end="1345">give</mainReferent>
     <tokens>To give every boy an opportunity to do his best to measure up to the camp standard is the</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_9" begin="1437" end="1444">
     <text>desired</text>
     <mainVerb begin="1437" end="1444">desired</mainVerb>
     <mainReferent begin="1431" end="1436">thing</mainReferent>
     <tokens>desired in the awarding of emblems</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_10" begin="1506" end="1516">
     <text>recognized</text>
     <mainVerb begin="1506" end="1516">recognized</mainVerb>
     <mainReferent begin="1489" end="1494">tests</mainReferent>
     <tokens>Non-competitive tests are being recognized as the best lever of uplift and the most effective spur in arousing the latent ability of boys</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_11" begin="1651" end="1653">
     <text>is</text>
     <mainVerb begin="1651" end="1653">is</mainVerb>
     <mainReferent begin="1618" end="1624">desire</mainReferent>
     <tokens>The desire to down the other fellow is the for much of the prevailing demoralization of athletics and competitive games</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_12" begin="1765" end="1773">
     <text>confused</text>
     <mainVerb begin="1765" end="1773">confused</mainVerb>
     <mainReferent begin="1744" end="1750">Prizes</mainReferent>
     <tokens>Prizes should not be confused with " honors "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_13" begin="1813" end="1815">
     <text>be</text>
     <mainVerb begin="1813" end="1815">be</mainVerb>
     <mainReferent begin="1799" end="1805">emblem</mainReferent>
     <tokens>An honor emblem should be of the best gift the camp can bestow</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_14" begin="1862" end="1868">
     <text>bestow</text>
     <mainVerb begin="1862" end="1868">bestow</mainVerb>
     <mainReferent begin="1853" end="1857">camp</mainReferent>
     <tokens>the camp can bestow</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_15" begin="1897" end="1901">
     <text>made</text>
     <mainVerb begin="1897" end="1901">made</mainVerb>
     <mainReferent begin="1799" end="1805">emblem</mainReferent>
     <tokens>the recipient should be made to feel its worth</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_16" begin="1943" end="1949">
     <text>bought</text>
     <mainVerb begin="1943" end="1949">bought</mainVerb>
     <mainReferent begin="1926" end="1932">emblem</mainReferent>
     <tokens>The emblem can not be bought</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_17" begin="1962" end="1965">
     <text>won</text>
     <mainVerb begin="1962" end="1965">won</mainVerb>
     <mainReferent begin="1951" end="1953">it</mainReferent>
     <tokens>it must be won</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_18" begin="1997" end="2000">
     <text>has</text>
     <mainVerb begin="1997" end="2000">has</mainVerb>
     <mainReferent begin="1990" end="1996">Dudley</mainReferent>
     <tokens>Dudley Plan Camp Dudley has the distinction introducing the honor system in boys ' camps</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_19" begin="2071" end="2075">
     <text>pass</text>
     <mainVerb begin="2071" end="2075">pass</mainVerb>
     <mainReferent begin="2066" end="2070">Boys</mainReferent>
     <tokens>Boys pass tests</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_20" begin="2088" end="2095">
     <text>include</text>
     <mainVerb begin="2088" end="2095">include</mainVerb>
     <mainReferent begin="2076" end="2081">tests</mainReferent>
     <tokens>tests include</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_21" begin="2261" end="2266">
     <text>given</text>
     <mainVerb begin="2261" end="2266">given</mainVerb>
     <mainReferent begin="2255" end="2259">camp</mainReferent>
     <tokens>given secretly to the boy</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_22" begin="2293" end="2301">
     <text>securing</text>
     <mainVerb begin="2293" end="2301">securing</mainVerb>
     <mainReferent begin="2096" end="2102">rowing</mainReferent>
     <tokens>securing the approval of the leaders in order to win the " C D. " After winning this emblem</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_23" begin="2395" end="2398">
     <text>try</text>
     <mainVerb begin="2395" end="2398">try</mainVerb>
     <mainReferent begin="2390" end="2394">boys</mainReferent>
     <tokens>rowing swimming athletics mountain climbing nature study carpenter work manual labor participation in entertainments " unknown " point ( unknown to the camp , given secretly to the boy ) the boys try to win the camp pennant the tests</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_24" begin="2449" end="2455">
     <text>graded</text>
     <mainVerb begin="2449" end="2455">graded</mainVerb>
     <mainReferent begin="2096" end="2102">rowing</mainReferent>
     <tokens>which are graded higher</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_25" begin="2525" end="2536">
     <text>established</text>
     <mainVerb begin="2525" end="2536">established</mainVerb>
     <mainReferent begin="2472" end="2477">Eagle</mainReferent>
     <tokens>Camp Eagle " The Order of the Adirondack Camp Eagle " is established at Camp Adirondack for boys who qualify in the following tests "</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_26" begin="2570" end="2577">
     <text>qualify</text>
     <mainVerb begin="2570" end="2577">qualify</mainVerb>
     <mainReferent begin="2561" end="2565">boys</mainReferent>
     <tokens>boys qualify in the following tests</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_27" begin="2616" end="2624">
     <text>required</text>
     <mainVerb begin="2616" end="2624">required</mainVerb>
     <mainReferent begin="2472" end="2477">Eagle</mainReferent>
     <tokens>Obedience is required to the few camp rules</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_28" begin="2663" end="2671">
     <text>required</text>
     <mainVerb begin="2663" end="2671">required</mainVerb>
     <mainReferent begin="2472" end="2477">Eagle</mainReferent>
     <tokens>promptness is required at the regular bugle calls -- reveille , assembly for exercise , mess call , and tattoo and taps --</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_29" begin="2788" end="2796">
     <text>required</text>
     <mainVerb begin="2788" end="2796">required</mainVerb>
     <mainReferent begin="2472" end="2477">Eagle</mainReferent>
     <tokens>erect posture is required at meals</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_30" begin="2833" end="2835">
     <text>is</text>
     <mainVerb begin="2833" end="2835">is</mainVerb>
     <mainReferent begin="2858" end="2866">standard</mainReferent>
     <tokens>to this there is a general personal standard ( embracing neatness at meals and courtesy etc. )</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_31" begin="2924" end="2930">
     <text>coming</text>
     <mainVerb begin="2924" end="2930">coming</mainVerb>
     <mainReferent begin="2919" end="2923">Boys</mainReferent>
     <tokens>coming</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_32" begin="2931" end="2933">
     <text>up</text>
     <mainVerb begin="2931" end="2933">up</mainVerb>
     <tokens>up to the standard</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_33" begin="2954" end="2963">
     <text>initiated</text>
     <mainVerb begin="2954" end="2963">initiated</mainVerb>
     <mainReferent begin="2919" end="2923">Boys</mainReferent>
     <tokens>Boys are initiated into the order</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_34" begin="2984" end="2991">
     <text>receive</text>
     <mainVerb begin="2984" end="2991">receive</mainVerb>
     <mainReferent begin="2919" end="2923">Boys</mainReferent>
     <tokens>Boys receive the emblem the bronze eagle button</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_35" begin="3038" end="3043">
     <text>reach</text>
     <mainVerb begin="3038" end="3043">reach</mainVerb>
     <mainReferent begin="3029" end="3033">Boys</mainReferent>
     <tokens>Boys reach an especially high standard</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_36" begin="3073" end="3080">
     <text>receive</text>
     <mainVerb begin="3073" end="3080">receive</mainVerb>
     <mainReferent begin="3029" end="3033">Boys</mainReferent>
     <tokens>Boys receive the silver eagle</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_37" begin="3104" end="3112">
     <text>reaching</text>
     <mainVerb begin="3104" end="3112">reaching</mainVerb>
     <mainReferent begin="3099" end="3103">Boys</mainReferent>
     <tokens>reaching this higher degree</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_38" begin="3137" end="3144">
     <text>compete</text>
     <mainVerb begin="3137" end="3144">compete</mainVerb>
     <mainReferent begin="3099" end="3103">Boys</mainReferent>
     <tokens>Boys may compete for the golden eagle the highest camp honor</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_39" begin="3210" end="3212">
     <text>is</text>
     <mainVerb begin="3210" end="3212">is</mainVerb>
     <mainReferent begin="3207" end="3209">it</mainReferent>
     <tokens>To obtain this it is for a boy to swim a hundred yards "</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_40" begin="3258" end="3260">
     <text>do</text>
     <mainVerb begin="3258" end="3260">do</mainVerb>
     <mainReferent begin="3207" end="3209">it</mainReferent>
     <tokens>it do the high dive ( about 12 feet )</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_41" begin="3293" end="3295">
     <text>be</text>
     <mainVerb begin="3293" end="3295">be</mainVerb>
     <mainReferent begin="3207" end="3209">it</mainReferent>
     <tokens>it be to row well</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_42" begin="3317" end="3323">
     <text>paddle</text>
     <mainVerb begin="3317" end="3323">paddle</mainVerb>
     <mainReferent begin="3207" end="3209">it</mainReferent>
     <tokens>paddle a canoe skillfully</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_43" begin="3344" end="3353">
     <text>recognize</text>
     <mainVerb begin="3344" end="3353">recognize</mainVerb>
     <mainReferent begin="3304" end="3307">row</mainReferent>
     <tokens>recognize twenty-five trees</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_44" begin="3359" end="3363">
     <text>name</text>
     <mainVerb begin="3359" end="3363">name</mainVerb>
     <mainReferent begin="3304" end="3307">row</mainReferent>
     <tokens>name</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_45" begin="3387" end="3391">
     <text>pass</text>
     <mainVerb begin="3387" end="3391">pass</mainVerb>
     <mainReferent begin="3207" end="3209">it</mainReferent>
     <tokens>pass a practical examination in other nature work in practical camping and woodcraft</tokens>
+    <annotation annotator="predicted" seType="IMPERATIVE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_46" begin="3482" end="3488">
     <text>answer</text>
     <mainVerb begin="3482" end="3488">answer</mainVerb>
     <mainReferent begin="3207" end="3209">it</mainReferent>
     <tokens>it answer questions in physical training and care of the body along lines covered in camp-fire talks</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_47" begin="3554" end="3561">
     <text>covered</text>
     <mainVerb begin="3554" end="3561">covered</mainVerb>
     <mainReferent begin="3548" end="3553">lines</mainReferent>
     <tokens>covered in camp-fire talks</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_48" begin="3658" end="3667">
     <text>organized</text>
     <mainVerb begin="3658" end="3667">organized</mainVerb>
     <mainReferent begin="3594" end="3601">EMBLEMS</mainReferent>
     <tokens>HONOR EMBLEMS AWARDS 281 " The Order of the Phantom Square " was organized at the Wisconsin State Boys ' Camp for boys who succeed in qualifying in the tests named below : Bronze , Silver and Gold Pins are awarded as follows : Bronze -- 60 points , 15 in each division</tokens>
+    <annotation annotator="predicted" seType="EVENT"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_49" begin="3716" end="3723">
     <text>succeed</text>
     <mainVerb begin="3716" end="3723">succeed</mainVerb>
     <mainReferent begin="3707" end="3711">boys</mainReferent>
     <tokens>boys succeed qualifying in the tests named below</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_50" begin="3751" end="3756">
     <text>named</text>
     <mainVerb begin="3751" end="3756">named</mainVerb>
     <mainReferent begin="3745" end="3750">tests</mainReferent>
     <tokens>named below</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_51" begin="3802" end="3809">
     <text>awarded</text>
     <mainVerb begin="3802" end="3809">awarded</mainVerb>
     <tokens>are awarded</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_52" begin="3813" end="3820">
     <text>follows</text>
     <mainVerb begin="3813" end="3820">follows</mainVerb>
     <tokens>as follows</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_53" begin="3969" end="3977">
     <text>POSSIBLE</text>
     <mainVerb begin="3969" end="3977">POSSIBLE</mainVerb>
     <mainReferent begin="3962" end="3968">POINTS</mainReferent>
     <tokens>30 POINTS POSSIBLE Event A ( 16-17 ) B ( 14-15 )</tokens>
+    <annotation annotator="predicted" seType="GENERIC_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_54" begin="4048" end="4054">
     <text>Points</text>
     <mainVerb begin="4048" end="4054">Points</mainVerb>
     <mainReferent begin="4031" end="4032">C</mainReferent>
     <tokens>C ( 12-13 ) Points * 1</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_55" begin="4353" end="4356">
     <text>put</text>
     <mainVerb begin="4353" end="4356">put</mainVerb>
     <mainReferent begin="4348" end="4352">Shot</mainReferent>
     <tokens>Shot put 8 lb</tokens>
+    <annotation annotator="predicted" seType="GENERALIZING_SENTENCE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_56" begin="4709" end="4712">
     <text>Row</text>
     <mainVerb begin="4709" end="4712">Row</mainVerb>
     <tokens>Row</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
   <segment instanceid="camping_for_boys_74.txt_57" begin="4964" end="4967">
     <text>1-3</text>
     <mainVerb begin="4964" end="4967">1-3</mainVerb>
     <mainReferent begin="4911" end="4916">times</mainReferent>
     <tokens>1-3 +13</tokens>
+    <annotation annotator="predicted" seType="STATE"/>
   </segment>
 </document>
